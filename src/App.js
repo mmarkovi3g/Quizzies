@@ -7,6 +7,7 @@ function App() {
     <div>
       <div>Wellcome to Quizzies</div>
       <Question />
+      <div>FOOTER</div>
     </div>
   );
 }
