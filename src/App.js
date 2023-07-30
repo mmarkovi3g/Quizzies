@@ -1,8 +1,14 @@
-import logo from "./logo.svg";
+import "./App.css";
+import Question from "./components/Question";
 import "./App.css";
 
 function App() {
-  return <div className="App">APP</div>;
+  return (
+    <div>
+      <div>Wellcome to Quizzies</div>
+      <Question />
+    </div>
+  );
 }
 
 export default App;
