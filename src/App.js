@@ -79,25 +79,46 @@ const questions = [
 ];
 
 function App() {
+  const [currentQ, setCurrentQ] = useState(0);
+  const question = questions[currentQ];
+
+  const numOfQuestions = questions.length;
+  console.log(numOfQuestions);
+
+  const previousHandler = () => {
+    if (currentQ > 0) {
+      setCurrentQ((prev) => prev - 1);
+    } else {
+      setCurrentQ(0);
+    }
+  };
+
+  const nextHandler = () => {
+    if (currentQ < numOfQuestions - 1) setCurrentQ((prev) => prev + 1);
+  };
+
   return (
     <div>
       <div>Wellcome to Quizzies</div>
-      <div>
-        {questions.map((question) => (
-          <Question
-            qNumber={questions.indexOf(question) + 1}
-            numOfQuestions={questions.length + 1}
-            question={questions}
-            key={question.q}
-            q={question.q}
-            a1={question.a1}
-            a2={question.a2}
-            a3={question.a3}
-            qa={question.qa}
-            category={question.category}
-          />
-        ))}
+
+      <Question
+        qNumber={questions.indexOf(question) + 1}
+        numOfQuestions={questions.length}
+        question={question}
+        key={question.q}
+        q={question.q}
+        a1={question.a1}
+        a2={question.a2}
+        a3={question.a3}
+        qa={question.qa}
+        category={question.category}
+      />
+
+      <div className="navigation">
+        <button onClick={previousHandler}>Previous</button>
+        <button onClick={nextHandler}>Next</button>
       </div>
+
       <div>FOOTER</div>
     </div>
   );

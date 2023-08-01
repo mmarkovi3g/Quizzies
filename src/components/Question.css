@@ -1,8 +1,7 @@
 .question {
   background-color: rgb(255, 255, 255);
-  margin: 2rem auto;
-  border: 2px solid white;
-  border-radius: 1rem;
+  margin: 2rem auto 0rem auto;
+  border-radius: 1rem 1rem 0 0;
   width: 80vw;
   height: 80vh;
   display: flex;
@@ -73,22 +72,4 @@
   width: 25%;
   text-align: center;
   cursor: pointer;
-}
-
-.navigation {
-  height: 20%;
-  overflow: hidden;
-  display: flex;
-  justify-content: space-between;
-  font-size: 1rem;
-  padding: 0.25rem;
-  align-items: center;
-  background-color: white;
-  gap: 10rem;
-}
-
-.navigation button {
-  background-color: black;
-  color: white;
-  width: 6rem;
 }
