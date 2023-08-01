@@ -1,6 +1,7 @@
 import "./App.css";
 import Question from "./components/Question";
 import "./App.css";
+import { useState } from "react";
 
 const questions = [
   {
@@ -84,6 +85,8 @@ function App() {
       <div>
         {questions.map((question) => (
           <Question
+            qNumber={questions.indexOf(question) + 1}
+            numOfQuestions={questions.length + 1}
             question={questions}
             key={question.q}
             q={question.q}
