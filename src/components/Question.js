@@ -7,9 +7,6 @@ export default function Question(question) {
         <span>{question.qNumber}</span>/{question.numOfQuestions}
       </p>
       <div className="header">
-        <div className="image">
-          <img src="/media/img/question_img/zagreb.jpg" alt="answer" />
-        </div>
         <div className="text">{question.q}</div>
       </div>
       <div className="answers">
@@ -17,8 +14,12 @@ export default function Question(question) {
           <li>{question.a1}</li>
           <li>{question.a2}</li>
           <li>{question.a3}</li>
-          <li>{question.qa}</li>
+          <li>{question.a4}</li>
         </ul>
+      </div>
+      <div className="navigation">
+        <button onClick={question.onPreviousHandler}>Previous</button>
+        <button onClick={question.onNextHandler}>Next</button>
       </div>
     </div>
   );

@@ -7,74 +7,82 @@ const questions = [
   {
     category: "geography",
     q: "What is the capital of Croatia?",
-    a1: "Belgrade",
-    a2: "Ljubljana",
-    a3: "Sarajevo",
-    qa: "Zagreb",
+    a1: ["Split", false],
+    a2: ["Osijek", false],
+    a3: ["Varaždin", false],
+    a4: ["Zagreb", true],
   },
   {
     category: "geography",
     q: "Which sea lies to the west of Croatia?",
-    a1: "Mediterranean Sea",
-    a2: "Black Sea",
-    a3: "Caspian Sea",
-    qa: "Adriatic Sea",
+    a1: ["Mediterranean Sea", false],
+    a2: ["Black Sea", false],
+    a3: ["Adriatic Sea", true],
+    a4: ["Aegean Sea", false],
   },
   {
-    category: "history",
-    q: "Who was the first King of Croatia?",
-    a1: "Gjuro",
-    a2: "Ivan",
-    a3: "Nikola",
-    qa: "Tomislav",
+    category: "geography",
+    q: "What is the longest river in Croatia?",
+    a1: ["Sava River", true],
+    a2: ["Drava River", false],
+    a3: ["Una River", false],
+    a4: ["Kupa River", false],
   },
   {
-    category: "culture",
-    q: "Which traditional Croatian instrument is often associated with the Dalmatian region?",
-    a1: "Accordion",
-    a2: "Bagpipes",
-    a3: "Guitar",
-    qa: "Tamburica",
+    category: "geography",
+    q: "Which national park is located in Croatia?",
+    a1: ["Plitvice Lakes National Park", true],
+    a2: ["Mount Dinara National Park", false],
+    a3: ["Brijuni National Park", false],
+    a4: ["Durmitor National Park", false],
   },
   {
-    category: "food",
-    q: "What is the traditional Croatian dish often made with lamb, potatoes, and vegetables?",
-    a1: "Pizza",
-    a2: "Sarma",
-    a3: "Rozata",
-    qa: "Peka",
+    category: "geography",
+    q: "Which Croatian island is known for its unique heart shape?",
+    a1: ["Krk", false],
+    a2: ["Hvar", false],
+    a3: ["Vis", false],
+    a4: ["Galesnjak", true],
   },
   {
-    category: "landmarks",
-    q: "Which UNESCO World Heritage Site in Croatia is known for its well-preserved medieval architecture?",
-    a1: "Osijek",
-    a2: "Dubrovnik",
-    a3: "Šibenik",
-    qa: "Trogir",
+    category: "geography",
+    q: "Which mountain range runs along the border between Croatia and Bosnia and Herzegovina?",
+    a1: ["Alps", false],
+    a2: ["Dinaric Alps", true],
+    a3: ["Carpathians", false],
+    a4: ["Pindus", false],
   },
   {
-    category: "sports",
-    q: "Which sport is very popular in Croatia and often played on the beach?",
-    a1: "Volleyball",
-    a2: "Handball",
-    a3: "Football",
-    qa: "Water Polo",
+    category: "geography",
+    q: "Which Croatian city is famous for its Roman amphitheater?",
+    a1: ["Dubrovnik", false],
+    a2: ["Split", true],
+    a3: ["Zadar", false],
+    a4: ["Pula", false],
   },
   {
-    category: "language",
-    q: "Which language family does the Croatian language belong to?",
-    a1: "Romance",
-    a2: "American",
-    a3: "Germanic",
-    qa: "Slavic",
+    category: "geography",
+    q: "What is the southernmost city in Croatia?",
+    a1: ["Dubrovnik", true],
+    a2: ["Zadar", false],
+    a3: ["Split", false],
+    a4: ["Rijeka", false],
   },
   {
-    category: "festivals",
-    q: "Which Croatian city hosts the annual music festival called 'INmusic'?",
-    a1: "Zadar",
-    a2: "Split",
-    a3: "Osijek",
-    qa: "Zagreb",
+    category: "geography",
+    q: "Which Croatian region is known for its distinctive red soil and wine production?",
+    a1: ["Slavonia", false],
+    a2: ["Istria", true],
+    a3: ["Dalmatia", false],
+    a4: ["Lika", false],
+  },
+  {
+    category: "geography",
+    q: "What is the largest lake in Croatia?",
+    a1: ["Lake Vransko", true],
+    a2: ["Lake Jarun", false],
+    a3: ["Lake Peruća", false],
+    a4: ["Lake Prokljan", false],
   },
 ];
 
@@ -99,27 +107,24 @@ function App() {
 
   return (
     <div>
-      <div>Wellcome to Quizzies</div>
+      <div className="title">Wellcome to Quizzies</div>
 
       <Question
+        question={question}
+        onPreviousHandler={previousHandler}
+        onNextHandler={nextHandler}
         qNumber={questions.indexOf(question) + 1}
         numOfQuestions={questions.length}
-        question={question}
         key={question.q}
         q={question.q}
-        a1={question.a1}
-        a2={question.a2}
-        a3={question.a3}
-        qa={question.qa}
+        a1={question.a1[0]}
+        a2={question.a2[0]}
+        a3={question.a3[0]}
+        a4={question.a4[0]}
         category={question.category}
       />
 
-      <div className="navigation">
-        <button onClick={previousHandler}>Previous</button>
-        <button onClick={nextHandler}>Next</button>
-      </div>
-
-      <div>FOOTER</div>
+      <div></div>
     </div>
   );
 }

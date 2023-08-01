@@ -1,53 +1,41 @@
 .question {
-  background-color: rgb(255, 255, 255);
-  margin: 2rem auto 0rem auto;
-  border-radius: 1rem 1rem 0 0;
-  width: 80vw;
-  height: 80vh;
+  background-color: white;
+  margin: 1rem auto 1rem auto;
+  width: 60vw;
+  height: 70vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   overflow: hidden;
+  outline: 5px solid #766df4;
 }
 
+.question_number {
+  font-size: 1rem;
+}
 .question_number span {
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: green;
 }
 
 .header {
-  background-color: black;
-  color: white;
   width: 100%;
   display: flex;
   justify-content: space-evenly;
-  height: 60%;
-}
-
-.image {
-  background-color: black;
-  width: 50%;
-}
-
-.image img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
 }
 
 .text {
-  background-color: black;
-  width: 50%;
+  width: 90%;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 1rem;
+  font-size: 1rem;
 }
 .answers {
   background-color: white;
   width: 100%;
-  height: 20%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -56,20 +44,60 @@
 
 .answers ul {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 2rem;
+  gap: 0.5rem;
   width: 90%;
   padding: 0;
 }
 
 .answers li {
   list-style: none;
-  color: white;
-  font-size: 1.25rem;
-  background-color: black;
+  color: black;
+  font-size: 1rem;
+  background-color: #f2f2f2;
   padding: 0.5rem;
-  width: 25%;
+  width: 80%;
   text-align: center;
   cursor: pointer;
+}
+
+.answers li:hover {
+  background-color: #ccc9ef;
+}
+
+.navigation {
+  margin: 0 auto 0 auto;
+  width: 80%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  font-size: 1rem;
+  align-items: center;
+  background-color: white;
+  gap: 10rem;
+  border-radius: 0 0 1rem 1rem;
+  padding: 0.5rem 0 0.5rem 0;
+}
+
+.navigation button {
+  box-shadow: 0px 1px 0px 0px #f0f7fa;
+  background-color: #766df4;
+  border: 1px solid #057fd0;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 6px 24px;
+  text-decoration: none;
+  text-shadow: 0px -1px 0px #5b6178;
+  width: 6rem;
+}
+.navigation button:hover {
+  background-color: #019ad2;
+}
+.navigation button:active {
+  position: relative;
+  top: 1px;
 }
