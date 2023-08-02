@@ -1,5 +1,6 @@
 import "./App.css";
 import Question from "./components/Question";
+import Form from "./components/Form";
 import "./App.css";
 import { useState } from "react";
 
@@ -33,7 +34,7 @@ const questions = [
     q: "Which national park is located in Croatia?",
     a1: ["Plitvice Lakes National Park", true],
     a2: ["Mount Dinara National Park", false],
-    a3: ["Brijuni National Park", false],
+    a3: ["Mt Sideway National Park", false],
     a4: ["Durmitor National Park", false],
   },
   {
@@ -42,7 +43,7 @@ const questions = [
     a1: ["Krk", false],
     a2: ["Hvar", false],
     a3: ["Vis", false],
-    a4: ["Galesnjak", true],
+    a4: ["Galešnjak", true],
   },
   {
     category: "geography",
@@ -56,9 +57,9 @@ const questions = [
     category: "geography",
     q: "Which Croatian city is famous for its Roman amphitheater?",
     a1: ["Dubrovnik", false],
-    a2: ["Split", true],
+    a2: ["Pula", true],
     a3: ["Zadar", false],
-    a4: ["Pula", false],
+    a4: ["Split", false],
   },
   {
     category: "geography",
@@ -108,6 +109,8 @@ function App() {
   return (
     <div>
       <div className="title">Wellcome to Quizzies</div>
+
+      <Form />
 
       <Question
         question={question}

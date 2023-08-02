@@ -11,10 +11,10 @@ export default function Question(question) {
       </div>
       <div className="answers">
         <ul>
-          <li>{question.a1}</li>
-          <li>{question.a2}</li>
-          <li>{question.a3}</li>
-          <li>{question.a4}</li>
+          <li onClick={question.onNextHandler}>{question.a1}</li>
+          <li onClick={question.onNextHandler}>{question.a2}</li>
+          <li onClick={question.onNextHandler}>{question.a3}</li>
+          <li onClick={question.onNextHandler}>{question.a4}</li>
         </ul>
       </div>
       <div className="navigation">
