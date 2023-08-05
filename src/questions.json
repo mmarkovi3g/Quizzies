@@ -1,0 +1,2162 @@
+[
+  {
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "optionA": "Brazil",
+    "optionB": "Germany",
+    "optionC": "France",
+    "optionD": "Argentina",
+    "answer": "France",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport can you score a 'try'?",
+    "optionA": "Soccer",
+    "optionB": "Rugby",
+    "optionC": "Tennis",
+    "optionD": "Basketball",
+    "answer": "Rugby",
+    "category": "sports"
+  },
+  {
+    "question": "Which athlete is often referred to as 'The Greatest' and has won 23 Grand Slam singles titles?",
+    "optionA": "Serena Williams",
+    "optionB": "Maria Sharapova",
+    "optionC": "Venus Williams",
+    "optionD": "Steffi Graf",
+    "answer": "Serena Williams",
+    "category": "sports"
+  },
+  {
+    "question": "Which city hosted the 2016 Summer Olympics?",
+    "optionA": "Rio de Janeiro",
+    "optionB": "London",
+    "optionC": "Beijing",
+    "optionD": "Sydney",
+    "answer": "Rio de Janeiro",
+    "category": "sports"
+  },
+  {
+    "question": "What is the highest possible break in a standard game of snooker?",
+    "optionA": "100",
+    "optionB": "147",
+    "optionC": "155",
+    "optionD": "180",
+    "answer": "147",
+    "category": "sports"
+  },
+  {
+    "question": "Which country won the most gold medals in the 2020 Tokyo Olympics?",
+    "optionA": "United States",
+    "optionB": "China",
+    "optionC": "Russia",
+    "optionD": "Japan",
+    "answer": "United States",
+    "category": "sports"
+  },
+  {
+    "question": "Which Formula 1 driver holds the record for the most World Drivers' Championship titles?",
+    "optionA": "Michael Schumacher",
+    "optionB": "Ayrton Senna",
+    "optionC": "Lewis Hamilton",
+    "optionD": "Niki Lauda",
+    "answer": "Lewis Hamilton",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport would you perform a 'slam dunk'?",
+    "optionA": "Volleyball",
+    "optionB": "Soccer",
+    "optionC": "Basketball",
+    "optionD": "Tennis",
+    "answer": "Basketball",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 2014 Winter Olympics?",
+    "optionA": "Canada",
+    "optionB": "Russia",
+    "optionC": "Norway",
+    "optionD": "South Korea",
+    "answer": "Russia",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career goals scored in international men's football?",
+    "optionA": "Cristiano Ronaldo",
+    "optionB": "Lionel Messi",
+    "optionC": "Pele",
+    "optionD": "Miroslav Klose",
+    "answer": "Cristiano Ronaldo",
+    "category": "sports"
+  },
+  {
+    "question": "Which river is the longest in the world?",
+    "optionA": "Nile",
+    "optionB": "Amazon",
+    "optionC": "Yangtze",
+    "optionD": "Mississippi",
+    "answer": "Nile",
+    "category": "geography"
+  },
+  {
+    "question": "What is the highest mountain in Africa?",
+    "optionA": "Mount Kilimanjaro",
+    "optionB": "Mount Everest",
+    "optionC": "Mount McKinley",
+    "optionD": "Mount Elbrus",
+    "answer": "Mount Kilimanjaro",
+    "category": "geography"
+  },
+  {
+    "question": "Which continent is the largest by land area?",
+    "optionA": "Africa",
+    "optionB": "Asia",
+    "optionC": "North America",
+    "optionD": "South America",
+    "answer": "Asia",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "optionA": "Melbourne",
+    "optionB": "Sydney",
+    "optionC": "Canberra",
+    "optionD": "Brisbane",
+    "answer": "Canberra",
+    "category": "geography"
+  },
+  {
+    "question": "Which ocean is the largest in the world?",
+    "optionA": "Atlantic Ocean",
+    "optionB": "Indian Ocean",
+    "optionC": "Arctic Ocean",
+    "optionD": "Pacific Ocean",
+    "answer": "Pacific Ocean",
+    "category": "geography"
+  },
+  {
+    "question": "In which country can you find the famous ancient city of Machu Picchu?",
+    "optionA": "Peru",
+    "optionB": "Mexico",
+    "optionC": "Colombia",
+    "optionD": "Brazil",
+    "answer": "Peru",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "optionA": "China",
+    "optionB": "South Korea",
+    "optionC": "Japan",
+    "optionD": "Thailand",
+    "answer": "Japan",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "optionA": "Gobi Desert",
+    "optionB": "Kalahari Desert",
+    "optionC": "Sahara Desert",
+    "optionD": "Atacama Desert",
+    "answer": "Sahara Desert",
+    "category": "geography"
+  },
+  {
+    "question": "Which European city is known as the 'City of Love'?",
+    "optionA": "Paris",
+    "optionB": "Rome",
+    "optionC": "Barcelona",
+    "optionD": "Vienna",
+    "answer": "Paris",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is famous for its stunning fjords and Viking history?",
+    "optionA": "Iceland",
+    "optionB": "Norway",
+    "optionC": "Finland",
+    "optionD": "Denmark",
+    "answer": "Norway",
+    "category": "geography"
+  },
+  {
+    "question": "Which Egyptian pharaoh is famous for his tomb in the Valley of the Kings?",
+    "optionA": "Tutankhamun",
+    "optionB": "Cleopatra",
+    "optionC": "Ramses II",
+    "optionD": "Akhenaten",
+    "answer": "Tutankhamun",
+    "category": "history"
+  },
+  {
+    "question": "In which year did the American Revolutionary War begin?",
+    "optionA": "1776",
+    "optionB": "1789",
+    "optionC": "1775",
+    "optionD": "1791",
+    "answer": "1775",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first Roman Emperor?",
+    "optionA": "Julius Caesar",
+    "optionB": "Augustus",
+    "optionC": "Nero",
+    "optionD": "Caligula",
+    "answer": "Augustus",
+    "category": "history"
+  },
+  {
+    "question": "Which famous speech by Martin Luther King Jr. began with 'I have a dream'?",
+    "optionA": "I Have a Dream",
+    "optionB": "I am Prepared to Die",
+    "optionC": "Ask Not What Your Country Can Do for You",
+    "optionD": "Tear Down this Wall",
+    "answer": "I Have a Dream",
+    "category": "history"
+  },
+  {
+    "question": "The Magna Carta, signed in 1215, was a significant document that limited the power of which monarch?",
+    "optionA": "Henry VIII",
+    "optionB": "King John",
+    "optionC": "Richard the Lionheart",
+    "optionD": "Queen Elizabeth I",
+    "answer": "King John",
+    "category": "history"
+  },
+  {
+    "question": "Which ancient civilization built the famous city of Troy, known for the Trojan War?",
+    "optionA": "Greek",
+    "optionB": "Egyptian",
+    "optionC": "Roman",
+    "optionD": "Hittite",
+    "answer": "Greek",
+    "category": "history"
+  },
+  {
+    "question": "In which year did the Berlin Wall fall, leading to the reunification of Germany?",
+    "optionA": "1989",
+    "optionB": "1991",
+    "optionC": "1990",
+    "optionD": "1987",
+    "answer": "1989",
+    "category": "history"
+  },
+  {
+    "question": "The Great Wall of China was primarily built to protect against invasions from which group?",
+    "optionA": "Mongols",
+    "optionB": "Persians",
+    "optionC": "Huns",
+    "optionD": "Vikings",
+    "answer": "Mongols",
+    "category": "history"
+  },
+  {
+    "question": "Which famous ship sank on its maiden voyage in 1912?",
+    "optionA": "HMS Titanic",
+    "optionB": "USS Constitution",
+    "optionC": "HMS Victory",
+    "optionD": "USS Monitor",
+    "answer": "HMS Titanic",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "optionA": "Bessie Coleman",
+    "optionB": "Amelia Earhart",
+    "optionC": "Valentina Tereshkova",
+    "optionD": "Sally Ride",
+    "answer": "Amelia Earhart",
+    "category": "history"
+  },
+  {
+    "question": "Which country won the UEFA European Championship (Euro) in 2020?",
+    "optionA": "Portugal",
+    "optionB": "France",
+    "optionC": "Italy",
+    "optionD": "Spain",
+    "answer": "Italy",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport would you perform a 'slalom'?",
+    "optionA": "Skiing",
+    "optionB": "Figure Skating",
+    "optionC": "Snowboarding",
+    "optionD": "Speed Skating",
+    "answer": "Skiing",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 2018 Commonwealth Games?",
+    "optionA": "India",
+    "optionB": "Australia",
+    "optionC": "Canada",
+    "optionD": "South Africa",
+    "answer": "Australia",
+    "category": "sports"
+  },
+  {
+    "question": "Which legendary boxer was known as 'The Greatest' and had a famous rivalry with Joe Frazier?",
+    "optionA": "Muhammad Ali",
+    "optionB": "Mike Tyson",
+    "optionC": "Sugar Ray Leonard",
+    "optionD": "George Foreman",
+    "answer": "Muhammad Ali",
+    "category": "sports"
+  },
+  {
+    "question": "Which city hosted the 2016 UEFA Champions League final?",
+    "optionA": "Milan",
+    "optionB": "London",
+    "optionC": "Madrid",
+    "optionD": "Berlin",
+    "answer": "Milan",
+    "category": "sports"
+  },
+  {
+    "question": "Which athlete holds the record for the most gold medals won at a single Olympic Games?",
+    "optionA": "Michael Phelps",
+    "optionB": "Usain Bolt",
+    "optionC": "Carl Lewis",
+    "optionD": "Larisa Latynina",
+    "answer": "Michael Phelps",
+    "category": "sports"
+  },
+  {
+    "question": "Which team has won the most NBA championships in the history of the league?",
+    "optionA": "Los Angeles Lakers",
+    "optionB": "Boston Celtics",
+    "optionC": "Chicago Bulls",
+    "optionD": "Golden State Warriors",
+    "answer": "Boston Celtics",
+    "category": "sports"
+  },
+  {
+    "question": "In which country were the 2014 Winter Olympics held?",
+    "optionA": "Canada",
+    "optionB": "Russia",
+    "optionC": "Norway",
+    "optionD": "South Korea",
+    "answer": "Russia",
+    "category": "sports"
+  },
+  {
+    "question": "Which women's tennis player holds the record for the most Grand Slam singles titles?",
+    "optionA": "Martina Navratilova",
+    "optionB": "Serena Williams",
+    "optionC": "Steffi Graf",
+    "optionD": "Chris Evert",
+    "answer": "Serena Williams",
+    "category": "sports"
+  },
+  {
+    "question": "In the game of golf, what is the term for a hole completed three strokes under par?",
+    "optionA": "Par",
+    "optionB": "Birdie",
+    "optionC": "Eagle",
+    "optionD": "Bogey",
+    "answer": "Eagle",
+    "category": "sports"
+  },
+  {
+    "question": "Which river is the longest in South America?",
+    "optionA": "Amazon River",
+    "optionB": "Nile River",
+    "optionC": "Yangtze River",
+    "optionD": "Mississippi River",
+    "answer": "Amazon River",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain range is located between France and Spain?",
+    "optionA": "The Alps",
+    "optionB": "The Pyrenees",
+    "optionC": "The Rocky Mountains",
+    "optionD": "The Andes",
+    "answer": "The Pyrenees",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is the capital of Canada?",
+    "optionA": "Toronto",
+    "optionB": "Vancouver",
+    "optionC": "Ottawa",
+    "optionD": "Montreal",
+    "answer": "Ottawa",
+    "category": "geography"
+  },
+  {
+    "question": "Which ocean is the second-largest by area?",
+    "optionA": "Indian Ocean",
+    "optionB": "Atlantic Ocean",
+    "optionC": "Arctic Ocean",
+    "optionD": "Southern Ocean",
+    "answer": "Atlantic Ocean",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+    "optionA": "Sweden",
+    "optionB": "Canada",
+    "optionC": "Finland",
+    "optionD": "Norway",
+    "answer": "Finland",
+    "category": "geography"
+  },
+  {
+    "question": "Which continent is the driest and has the world's largest hot desert?",
+    "optionA": "Africa",
+    "optionB": "Australia",
+    "optionC": "South America",
+    "optionD": "Asia",
+    "answer": "Australia",
+    "category": "geography"
+  },
+  {
+    "question": "Which strait separates Asia and North America?",
+    "optionA": "Strait of Gibraltar",
+    "optionB": "Bering Strait",
+    "optionC": "Strait of Hormuz",
+    "optionD": "Strait of Malacca",
+    "answer": "Bering Strait",
+    "category": "geography"
+  },
+  {
+    "question": "Which famous canal connects the Mediterranean Sea and the Red Sea?",
+    "optionA": "Panama Canal",
+    "optionB": "Kiel Canal",
+    "optionC": "Suez Canal",
+    "optionD": "Grand Canal",
+    "answer": "Suez Canal",
+    "category": "geography"
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "optionA": "Monaco",
+    "optionB": "Maldives",
+    "optionC": "Vatican City",
+    "optionD": "Nauru",
+    "answer": "Vatican City",
+    "category": "geography"
+  },
+  {
+    "question": "In which year did World War I end?",
+    "optionA": "1914",
+    "optionB": "1918",
+    "optionC": "1916",
+    "optionD": "1920",
+    "answer": "1918",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "optionA": "Marie Curie",
+    "optionB": "Rosa Parks",
+    "optionC": "Amelia Earhart",
+    "optionD": "Florence Nightingale",
+    "answer": "Marie Curie",
+    "category": "history"
+  },
+  {
+    "question": "Which famous explorer led the first expedition to circumnavigate the world?",
+    "optionA": "Christopher Columbus",
+    "optionB": "Ferdinand Magellan",
+    "optionC": "Vasco da Gama",
+    "optionD": "James Cook",
+    "answer": "Ferdinand Magellan",
+    "category": "history"
+  },
+  {
+    "question": "Which ancient civilization built the city of Petra, famous for its rock-cut architecture?",
+    "optionA": "Egyptian",
+    "optionB": "Greek",
+    "optionC": "Roman",
+    "optionD": "Nabatean",
+    "answer": "Nabatean",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "optionA": "George Washington",
+    "optionB": "Thomas Jefferson",
+    "optionC": "John Adams",
+    "optionD": "James Madison",
+    "answer": "George Washington",
+    "category": "history"
+  },
+  {
+    "question": "Which Chinese dynasty is known for building the Great Wall of China?",
+    "optionA": "Han Dynasty",
+    "optionB": "Ming Dynasty",
+    "optionC": "Qin Dynasty",
+    "optionD": "Tang Dynasty",
+    "answer": "Qin Dynasty",
+    "category": "history"
+  },
+  {
+    "question": "In which year did the American Civil War end?",
+    "optionA": "1863",
+    "optionB": "1865",
+    "optionC": "1861",
+    "optionD": "1867",
+    "answer": "1865",
+    "category": "history"
+  },
+  {
+    "question": "Who was the last pharaoh of ancient Egypt?",
+    "optionA": "Cleopatra",
+    "optionB": "Tutankhamun",
+    "optionC": "Ramses II",
+    "optionD": "Hatshepsut",
+    "answer": "Cleopatra",
+    "category": "history"
+  },
+  {
+    "question": "Which famous document, signed in 1776, declared the thirteen American colonies independent from British rule?",
+    "optionA": "The Magna Carta",
+    "optionB": "The Declaration of Independence",
+    "optionC": "The Emancipation Proclamation",
+    "optionD": "The Bill of Rights",
+    "answer": "The Declaration of Independence",
+    "category": "history"
+  },
+  {
+    "question": "Which ancient wonder was a massive statue of the Greek god Zeus, located in Olympia?",
+    "optionA": "Colossus of Rhodes",
+    "optionB": "Hanging Gardens of Babylon",
+    "optionC": "Lighthouse of Alexandria",
+    "optionD": "Statue of Zeus at Olympia",
+    "answer": "Statue of Zeus at Olympia",
+    "category": "history"
+  },
+  {
+    "question": "Which country hosted the 2012 Summer Olympics?",
+    "optionA": "United States",
+    "optionB": "China",
+    "optionC": "Australia",
+    "optionD": "United Kingdom",
+    "answer": "United Kingdom",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport would you perform a 'hole-in-one'?",
+    "optionA": "Golf",
+    "optionB": "Tennis",
+    "optionC": "Cricket",
+    "optionD": "Swimming",
+    "answer": "Golf",
+    "category": "sports"
+  },
+  {
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "optionA": "Germany",
+    "optionB": "Italy",
+    "optionC": "Brazil",
+    "optionD": "Argentina",
+    "answer": "Brazil",
+    "category": "sports"
+  },
+  {
+    "question": "Which city hosted the 2008 Summer Olympics?",
+    "optionA": "Sydney",
+    "optionB": "Beijing",
+    "optionC": "Athens",
+    "optionD": "Rio de Janeiro",
+    "answer": "Beijing",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the all-time leading scorer in NBA history?",
+    "optionA": "Kareem Abdul-Jabbar",
+    "optionB": "LeBron James",
+    "optionC": "Michael Jordan",
+    "optionD": "Kobe Bryant",
+    "answer": "Kareem Abdul-Jabbar",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the inaugural Cricket World Cup in 1975?",
+    "optionA": "India",
+    "optionB": "England",
+    "optionC": "Australia",
+    "optionD": "West Indies",
+    "answer": "England",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport would you perform a 'slap shot'?",
+    "optionA": "Soccer",
+    "optionB": "Ice Hockey",
+    "optionC": "Table Tennis",
+    "optionD": "Badminton",
+    "answer": "Ice Hockey",
+    "category": "sports"
+  },
+  {
+    "question": "Which athlete holds the world record for the men's 100-meter sprint?",
+    "optionA": "Usain Bolt",
+    "optionB": "Carl Lewis",
+    "optionC": "Asafa Powell",
+    "optionD": "Tyson Gay",
+    "answer": "Usain Bolt",
+    "category": "sports"
+  },
+  {
+    "question": "Which country won the UEFA European Championship (Euro) in 2016?",
+    "optionA": "Portugal",
+    "optionB": "Spain",
+    "optionC": "Germany",
+    "optionD": "Italy",
+    "answer": "Portugal",
+    "category": "sports"
+  },
+  {
+    "question": "What is the highest possible break in a standard game of pool (8-ball)?",
+    "optionA": "100",
+    "optionB": "147",
+    "optionC": "10",
+    "optionD": "20",
+    "answer": "147",
+    "category": "sports"
+  },
+  {
+    "question": "Which river is the longest in Europe?",
+    "optionA": "Danube",
+    "optionB": "Volga",
+    "optionC": "Rhine",
+    "optionD": "Loire",
+    "answer": "Volga",
+    "category": "geography"
+  },
+  {
+    "question": "Which desert is located in North Africa and is one of the hottest in the world?",
+    "optionA": "Sahara Desert",
+    "optionB": "Gobi Desert",
+    "optionC": "Kalahari Desert",
+    "optionD": "Atacama Desert",
+    "answer": "Sahara Desert",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "optionA": "Sweden",
+    "optionB": "Norway",
+    "optionC": "Canada",
+    "optionD": "Russia",
+    "answer": "Norway",
+    "category": "geography"
+  },
+  {
+    "question": "Which continent is the largest by population?",
+    "optionA": "Africa",
+    "optionB": "Asia",
+    "optionC": "Europe",
+    "optionD": "North America",
+    "answer": "Asia",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain range runs along the western coast of South America?",
+    "optionA": "The Rockies",
+    "optionB": "The Andes",
+    "optionC": "The Alps",
+    "optionD": "The Himalayas",
+    "answer": "The Andes",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of South Korea?",
+    "optionA": "Seoul",
+    "optionB": "Tokyo",
+    "optionC": "Beijing",
+    "optionD": "Bangkok",
+    "answer": "Seoul",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is known as the 'Land of Fire and Ice'?",
+    "optionA": "Greenland",
+    "optionB": "Iceland",
+    "optionC": "New Zealand",
+    "optionD": "Madagascar",
+    "answer": "Iceland",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest country by land area in South America?",
+    "optionA": "Argentina",
+    "optionB": "Brazil",
+    "optionC": "Peru",
+    "optionD": "Colombia",
+    "answer": "Brazil",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is known for its tulip fields, windmills, and wooden shoes?",
+    "optionA": "Belgium",
+    "optionB": "Netherlands",
+    "optionC": "Denmark",
+    "optionD": "Switzerland",
+    "answer": "Netherlands",
+    "category": "geography"
+  },
+  {
+    "question": "Which country's invasion triggered the start of World War II?",
+    "optionA": "Germany",
+    "optionB": "Japan",
+    "optionC": "Italy",
+    "optionD": "Soviet Union",
+    "answer": "Germany",
+    "category": "history"
+  },
+  {
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "optionA": "France",
+    "optionB": "Germany",
+    "optionC": "Brazil",
+    "optionD": "Spain",
+    "answer": "France",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport would you perform a 'knuckleball'?",
+    "optionA": "Baseball",
+    "optionB": "Football",
+    "optionC": "Soccer",
+    "optionD": "Basketball",
+    "answer": "Baseball",
+    "category": "sports"
+  },
+  {
+    "question": "Which country is famous for producing the martial art 'Judo'?",
+    "optionA": "China",
+    "optionB": "South Korea",
+    "optionC": "Japan",
+    "optionD": "Thailand",
+    "answer": "Japan",
+    "category": "sports"
+  },
+  {
+    "question": "In which city did the 2016 Summer Olympics take place?",
+    "optionA": "Rio de Janeiro",
+    "optionB": "Tokyo",
+    "optionC": "London",
+    "optionD": "Beijing",
+    "answer": "Rio de Janeiro",
+    "category": "sports"
+  },
+  {
+    "question": "Which athlete won the most gold medals at the 2012 Summer Olympics?",
+    "optionA": "Usain Bolt",
+    "optionB": "Michael Phelps",
+    "optionC": "Simone Biles",
+    "optionD": "Mo Farah",
+    "answer": "Michael Phelps",
+    "category": "sports"
+  },
+  {
+    "question": "Which team won the NBA Championship in the 2020-2021 season?",
+    "optionA": "Golden State Warriors",
+    "optionB": "Los Angeles Lakers",
+    "optionC": "Milwaukee Bucks",
+    "optionD": "Brooklyn Nets",
+    "answer": "Milwaukee Bucks",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport would you perform a 'hat-trick'?",
+    "optionA": "Hockey",
+    "optionB": "Soccer",
+    "optionC": "Basketball",
+    "optionD": "Tennis",
+    "answer": "Hockey",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 2004 Summer Olympics?",
+    "optionA": "Australia",
+    "optionB": "United States",
+    "optionC": "Greece",
+    "optionD": "China",
+    "answer": "Greece",
+    "category": "sports"
+  },
+  {
+    "question": "Which female tennis player has won the most Grand Slam singles titles?",
+    "optionA": "Martina Navratilova",
+    "optionB": "Steffi Graf",
+    "optionC": "Serena Williams",
+    "optionD": "Chris Evert",
+    "answer": "Serena Williams",
+    "category": "sports"
+  },
+  {
+    "question": "In which game would you perform a 'checkmate'?",
+    "optionA": "Poker",
+    "optionB": "Chess",
+    "optionC": "Monopoly",
+    "optionD": "Scrabble",
+    "answer": "Chess",
+    "category": "sports"
+  },
+  {
+    "question": "Which river is the longest in the world?",
+    "optionA": "Nile River",
+    "optionB": "Amazon River",
+    "optionC": "Yangtze River",
+    "optionD": "Mississippi River",
+    "answer": "Nile River",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "optionA": "Paris",
+    "optionB": "Rome",
+    "optionC": "Athens",
+    "optionD": "Venice",
+    "answer": "Rome",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "optionA": "Toronto",
+    "optionB": "Vancouver",
+    "optionC": "Ottawa",
+    "optionD": "Montreal",
+    "answer": "Ottawa",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest country by land area in the world?",
+    "optionA": "Canada",
+    "optionB": "Russia",
+    "optionC": "China",
+    "optionD": "United States",
+    "answer": "Russia",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain is the highest in Africa?",
+    "optionA": "Mount Everest",
+    "optionB": "Mount Kilimanjaro",
+    "optionC": "Mount McKinley",
+    "optionD": "Mount Fuji",
+    "answer": "Mount Kilimanjaro",
+    "category": "geography"
+  },
+  {
+    "question": "In which continent is the country of New Zealand located?",
+    "optionA": "Australia",
+    "optionB": "North America",
+    "optionC": "Europe",
+    "optionD": "Oceania",
+    "answer": "Oceania",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Argentina?",
+    "optionA": "Buenos Aires",
+    "optionB": "Santiago",
+    "optionC": "Rio de Janeiro",
+    "optionD": "Lima",
+    "answer": "Buenos Aires",
+    "category": "geography"
+  },
+  {
+    "question": "In which year did the United States declare its independence from Britain?",
+    "optionA": "1776",
+    "optionB": "1789",
+    "optionC": "1812",
+    "optionD": "1865",
+    "answer": "1776",
+    "category": "history"
+  },
+  {
+    "question": "Which ancient civilization built the Great Pyramid of Giza?",
+    "optionA": "Greek",
+    "optionB": "Roman",
+    "optionC": "Egyptian",
+    "optionD": "Mesopotamian",
+    "answer": "Egyptian",
+    "category": "history"
+  },
+  {
+    "question": "Which European explorer discovered the sea route to India?",
+    "optionA": "Christopher Columbus",
+    "optionB": "Ferdinand Magellan",
+    "optionC": "Vasco da Gama",
+    "optionD": "Amerigo Vespucci",
+    "answer": "Vasco da Gama",
+    "category": "history"
+  },
+  {
+    "question": "Which civilization built the ancient city of Machu Picchu?",
+    "optionA": "Mayan",
+    "optionB": "Incan",
+    "optionC": "Aztec",
+    "optionD": "Egyptian",
+    "answer": "Incan",
+    "category": "history"
+  },
+  {
+    "question": "Who was the famous playwright who wrote 'Romeo and Juliet'?",
+    "optionA": "William Shakespeare",
+    "optionB": "Leo Tolstoy",
+    "optionC": "Charles Dickens",
+    "optionD": "Jane Austen",
+    "answer": "William Shakespeare",
+    "category": "history"
+  },
+  {
+    "question": "In which year did the Berlin Wall fall, leading to the reunification of Germany?",
+    "optionA": "1989",
+    "optionB": "1991",
+    "optionC": "1987",
+    "optionD": "1993",
+    "answer": "1989",
+    "category": "history"
+  },
+  {
+    "question": "Which ancient civilization is known for building the pyramids at Teotihuacan?",
+    "optionA": "Mayan",
+    "optionB": "Incan",
+    "optionC": "Aztec",
+    "optionD": "Olmec",
+    "answer": "Aztec",
+    "category": "history"
+  },
+  {
+    "question": "Which country won the UEFA Euro 2020?",
+    "optionA": "Italy",
+    "optionB": "Spain",
+    "optionC": "France",
+    "optionD": "Portugal",
+    "answer": "Italy",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport would you perform a 'bump' and 'set'?",
+    "optionA": "Volleyball",
+    "optionB": "Rugby",
+    "optionC": "Handball",
+    "optionD": "Hockey",
+    "answer": "Volleyball",
+    "category": "sports"
+  },
+  {
+    "question": "Which country is famous for producing the martial art 'Taekwondo'?",
+    "optionA": "Japan",
+    "optionB": "China",
+    "optionC": "South Korea",
+    "optionD": "Thailand",
+    "answer": "South Korea",
+    "category": "sports"
+  },
+  {
+    "question": "In which city did the 2012 Summer Olympics take place?",
+    "optionA": "Beijing",
+    "optionB": "London",
+    "optionC": "Athens",
+    "optionD": "Rio de Janeiro",
+    "answer": "London",
+    "category": "sports"
+  },
+  {
+    "question": "Which female gymnast won the most gold medals at the 2016 Summer Olympics?",
+    "optionA": "Simone Biles",
+    "optionB": "Gabby Douglas",
+    "optionC": "Aly Raisman",
+    "optionD": "Laurie Hernandez",
+    "answer": "Simone Biles",
+    "category": "sports"
+  },
+  {
+    "question": "Which team won the NBA Championship in the 2021-2022 season?",
+    "optionA": "Golden State Warriors",
+    "optionB": "Los Angeles Lakers",
+    "optionC": "Milwaukee Bucks",
+    "optionD": "Phoenix Suns",
+    "answer": "Milwaukee Bucks",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport would you perform a 'birdie' and 'forehand'?",
+    "optionA": "Badminton",
+    "optionB": "Golf",
+    "optionC": "Tennis",
+    "optionD": "Table Tennis",
+    "answer": "Tennis",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 1996 Summer Olympics?",
+    "optionA": "Australia",
+    "optionB": "United States",
+    "optionC": "Greece",
+    "optionD": "China",
+    "answer": "United States",
+    "category": "sports"
+  },
+  {
+    "question": "In which game would you perform a 'royal flush'?",
+    "optionA": "Poker",
+    "optionB": "Chess",
+    "optionC": "Bridge",
+    "optionD": "Checkers",
+    "answer": "Poker",
+    "category": "sports"
+  },
+  {
+    "question": "Which city is known as the 'City of Love'?",
+    "optionA": "Paris",
+    "optionB": "Venice",
+    "optionC": "Rome",
+    "optionD": "Prague",
+    "answer": "Paris",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "optionA": "Sahara Desert",
+    "optionB": "Arabian Desert",
+    "optionC": "Gobi Desert",
+    "optionD": "Atacama Desert",
+    "answer": "Sahara Desert",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is home to the famous 'Machu Picchu'?",
+    "optionA": "Peru",
+    "optionB": "Mexico",
+    "optionC": "Brazil",
+    "optionD": "Chile",
+    "answer": "Peru",
+    "category": "geography"
+  },
+  {
+    "question": "Which island country is known as the 'Land of the Long White Cloud'?",
+    "optionA": "Fiji",
+    "optionB": "Hawaii",
+    "optionC": "New Zealand",
+    "optionD": "Sri Lanka",
+    "answer": "New Zealand",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in South America?",
+    "optionA": "Buenos Aires",
+    "optionB": "Rio de Janeiro",
+    "optionC": "Lima",
+    "optionD": "Sao Paulo",
+    "answer": "Sao Paulo",
+    "category": "geography"
+  },
+  {
+    "question": "Which ocean is known for having the highest tides?",
+    "optionA": "Indian Ocean",
+    "optionB": "Atlantic Ocean",
+    "optionC": "Arctic Ocean",
+    "optionD": "Pacific Ocean",
+    "answer": "Atlantic Ocean",
+    "category": "geography"
+  },
+  {
+    "question": "Which European city is famous for its canals and gondolas?",
+    "optionA": "Venice",
+    "optionB": "Amsterdam",
+    "optionC": "Barcelona",
+    "optionD": "Paris",
+    "answer": "Venice",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest freshwater lake in the world by volume?",
+    "optionA": "Caspian Sea",
+    "optionB": "Lake Baikal",
+    "optionC": "Lake Superior",
+    "optionD": "Lake Victoria",
+    "answer": "Lake Baikal",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is located on the easternmost point of the African continent?",
+    "optionA": "South Africa",
+    "optionB": "Egypt",
+    "optionC": "Kenya",
+    "optionD": "Tanzania",
+    "answer": "Somalia",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is known for its fjords, northern lights, and Viking history?",
+    "optionA": "Sweden",
+    "optionB": "Norway",
+    "optionC": "Finland",
+    "optionD": "Iceland",
+    "answer": "Norway",
+    "category": "geography"
+  },
+  {
+    "question": "Which continent is the largest in terms of land area?",
+    "optionA": "Africa",
+    "optionB": "Asia",
+    "optionC": "North America",
+    "optionD": "Antarctica",
+    "answer": "Asia",
+    "category": "geography"
+  },
+  {
+    "question": "Which river is the longest in South America?",
+    "optionA": "Amazon River",
+    "optionB": "Nile River",
+    "optionC": "Mississippi River",
+    "optionD": "Yangtze River",
+    "answer": "Amazon River",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in the United States?",
+    "optionA": "Los Angeles",
+    "optionB": "Chicago",
+    "optionC": "Houston",
+    "optionD": "New York City",
+    "answer": "New York City",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain range is located in South America?",
+    "optionA": "Rocky Mountains",
+    "optionB": "Andes Mountains",
+    "optionC": "Himalayas",
+    "optionD": "Alps",
+    "answer": "Andes Mountains",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is known for its beautiful fjords, northern lights, and high standard of living?",
+    "optionA": "Sweden",
+    "optionB": "Norway",
+    "optionC": "Denmark",
+    "optionD": "Finland",
+    "answer": "Norway",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of China?",
+    "optionA": "Beijing",
+    "optionB": "Shanghai",
+    "optionC": "Guangzhou",
+    "optionD": "Hong Kong",
+    "answer": "Beijing",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is famous for its ancient pyramids and the Nile River?",
+    "optionA": "Egypt",
+    "optionB": "Sudan",
+    "optionC": "Morocco",
+    "optionD": "Algeria",
+    "answer": "Egypt",
+    "category": "geography"
+  },
+  {
+    "question": "Which male tennis player has won the most Grand Slam singles titles?",
+    "optionA": "Rafael Nadal",
+    "optionB": "Roger Federer",
+    "optionC": "Novak Djokovic",
+    "optionD": "Pete Sampras",
+    "answer": "Novak Djokovic",
+    "category": "sports"
+  },
+  {
+    "question": "What is the capital of France?",
+    "optionA": "Madrid",
+    "optionB": "Berlin",
+    "optionC": "London",
+    "optionD": "Paris",
+    "answer": "Paris",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "optionA": "Tokyo",
+    "optionB": "Beijing",
+    "optionC": "Seoul",
+    "optionD": "Singapore",
+    "answer": "Tokyo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "optionA": "Rio de Janeiro",
+    "optionB": "Sao Paulo",
+    "optionC": "Brasilia",
+    "optionD": "Buenos Aires",
+    "answer": "Brasilia",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "optionA": "St. Petersburg",
+    "optionB": "Moscow",
+    "optionC": "Kiev",
+    "optionD": "Berlin",
+    "answer": "Moscow",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "optionA": "Sydney",
+    "optionB": "Melbourne",
+    "optionC": "Canberra",
+    "optionD": "Perth",
+    "answer": "Canberra",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "optionA": "Toronto",
+    "optionB": "Vancouver",
+    "optionC": "Ottawa",
+    "optionD": "Montreal",
+    "answer": "Ottawa",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "optionA": "Cape Town",
+    "optionB": "Pretoria",
+    "optionC": "Durban",
+    "optionD": "Johannesburg",
+    "answer": "Pretoria",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of India?",
+    "optionA": "Mumbai",
+    "optionB": "Delhi",
+    "optionC": "Kolkata",
+    "optionD": "Bangalore",
+    "answer": "Delhi",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "optionA": "Cairo",
+    "optionB": "Alexandria",
+    "optionC": "Giza",
+    "optionD": "Luxor",
+    "answer": "Cairo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "optionA": "Berlin",
+    "optionB": "Munich",
+    "optionC": "Frankfurt",
+    "optionD": "Hamburg",
+    "answer": "Berlin",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of China?",
+    "optionA": "Shanghai",
+    "optionB": "Beijing",
+    "optionC": "Guangzhou",
+    "optionD": "Hong Kong",
+    "answer": "Beijing",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "optionA": "Buenos Aires",
+    "optionB": "Santiago",
+    "optionC": "Lima",
+    "optionD": "Montevideo",
+    "answer": "Buenos Aires",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "optionA": "Rome",
+    "optionB": "Milan",
+    "optionC": "Venice",
+    "optionD": "Naples",
+    "answer": "Rome",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "optionA": "Istanbul",
+    "optionB": "Ankara",
+    "optionC": "Izmir",
+    "optionD": "Antalya",
+    "answer": "Ankara",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "optionA": "Cancun",
+    "optionB": "Mexico City",
+    "optionC": "Guadalajara",
+    "optionD": "Monterrey",
+    "answer": "Mexico City",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "optionA": "Barcelona",
+    "optionB": "Madrid",
+    "optionC": "Valencia",
+    "optionD": "Seville",
+    "answer": "Madrid",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "optionA": "Lagos",
+    "optionB": "Abuja",
+    "optionC": "Kano",
+    "optionD": "Ibadan",
+    "answer": "Abuja",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "optionA": "Stockholm",
+    "optionB": "Gothenburg",
+    "optionC": "Malmö",
+    "optionD": "Uppsala",
+    "answer": "Stockholm",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "optionA": "Riyadh",
+    "optionB": "Mecca",
+    "optionC": "Jeddah",
+    "optionD": "Medina",
+    "answer": "Riyadh",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "optionA": "Busan",
+    "optionB": "Seoul",
+    "optionC": "Incheon",
+    "optionD": "Daegu",
+    "answer": "Seoul",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "optionA": "Bangkok",
+    "optionB": "Phuket",
+    "optionC": "Chiang Mai",
+    "optionD": "Pattaya",
+    "answer": "Bangkok",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Kenya?",
+    "optionA": "Nairobi",
+    "optionB": "Mombasa",
+    "optionC": "Kisumu",
+    "optionD": "Nakuru",
+    "answer": "Nairobi",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Indonesia?",
+    "optionA": "Jakarta",
+    "optionB": "Bali",
+    "optionC": "Surabaya",
+    "optionD": "Bandung",
+    "answer": "Jakarta",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "optionA": "Athens",
+    "optionB": "Thessaloniki",
+    "optionC": "Patras",
+    "optionD": "Heraklion",
+    "answer": "Athens",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "optionA": "Seoul",
+    "optionB": "Busan",
+    "optionC": "Incheon",
+    "optionD": "Daegu",
+    "answer": "Seoul",
+    "category": "geography"
+  },
+  {
+    "question": "In which year did the first FIFA World Cup take place?",
+    "optionA": "1926",
+    "optionB": "1930",
+    "optionC": "1934",
+    "optionD": "1938",
+    "answer": "1930",
+    "category": "sports"
+  },
+  {
+    "question": "Which country won the first FIFA World Cup in 1930?",
+    "optionA": "Brazil",
+    "optionB": "Germany",
+    "optionC": "Argentina",
+    "optionD": "Uruguay",
+    "answer": "Uruguay",
+    "category": "sports"
+  },
+  {
+    "question": "Which nation has won the most FIFA World Cup titles?",
+    "optionA": "Brazil",
+    "optionB": "Germany",
+    "optionC": "Italy",
+    "optionD": "Argentina",
+    "answer": "Brazil",
+    "category": "sports"
+  },
+  {
+    "question": "Which World Cup was the first to introduce the red card (expulsion) for players?",
+    "optionA": "1938",
+    "optionB": "1954",
+    "optionC": "1962",
+    "optionD": "1970",
+    "answer": "1970",
+    "category": "sports"
+  },
+  {
+    "question": "In which year did England win their only FIFA World Cup title?",
+    "optionA": "1962",
+    "optionB": "1966",
+    "optionC": "1974",
+    "optionD": "1982",
+    "answer": "1966",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 1978 FIFA World Cup?",
+    "optionA": "West Germany",
+    "optionB": "Argentina",
+    "optionC": "Italy",
+    "optionD": "Spain",
+    "answer": "Argentina",
+    "category": "sports"
+  },
+  {
+    "question": "Who won the FIFA World Cup in 1986?",
+    "optionA": "Brazil",
+    "optionB": "Germany",
+    "optionC": "Italy",
+    "optionD": "Argentina",
+    "answer": "Argentina",
+    "category": "sports"
+  },
+  {
+    "question": "In which World Cup did Diego Maradona famously score the 'Hand of God' goal?",
+    "optionA": "1978",
+    "optionB": "1982",
+    "optionC": "1986",
+    "optionD": "1990",
+    "answer": "1986",
+    "category": "sports"
+  },
+  {
+    "question": "Who was the top scorer in the 1994 FIFA World Cup?",
+    "optionA": "Ronaldo",
+    "optionB": "Romário",
+    "optionC": "Hristo Stoichkov",
+    "optionD": "Roberto Baggio",
+    "answer": "Hristo Stoichkov",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 1998 FIFA World Cup?",
+    "optionA": "Brazil",
+    "optionB": "Germany",
+    "optionC": "France",
+    "optionD": "Italy",
+    "answer": "France",
+    "category": "sports"
+  },
+  {
+    "question": "Who won the FIFA World Cup in 1998?",
+    "optionA": "Brazil",
+    "optionB": "Germany",
+    "optionC": "France",
+    "optionD": "Italy",
+    "answer": "France",
+    "category": "sports"
+  },
+  {
+    "question": "In which World Cup did Zinedine Zidane famously headbutt Marco Materazzi in the final?",
+    "optionA": "1998",
+    "optionB": "2002",
+    "optionC": "2006",
+    "optionD": "2010",
+    "answer": "2006",
+    "category": "sports"
+  },
+  {
+    "question": "Who won the Golden Boot award for being the top scorer in the 2002 FIFA World Cup?",
+    "optionA": "Ronaldo",
+    "optionB": "Ronaldinho",
+    "optionC": "Miroslav Klose",
+    "optionD": "Oliver Kahn",
+    "answer": "Ronaldo",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 2006 FIFA World Cup?",
+    "optionA": "Brazil",
+    "optionB": "Germany",
+    "optionC": "Italy",
+    "optionD": "South Africa",
+    "answer": "Germany",
+    "category": "sports"
+  },
+  {
+    "question": "Who won the FIFA World Cup in 2006?",
+    "optionA": "Brazil",
+    "optionB": "Germany",
+    "optionC": "Italy",
+    "optionD": "Argentina",
+    "answer": "Italy",
+    "category": "sports"
+  },
+  {
+    "question": "In which World Cup did Germany defeat Argentina in the final to win the tournament?",
+    "optionA": "2006",
+    "optionB": "2010",
+    "optionC": "2014",
+    "optionD": "2018",
+    "answer": "2014",
+    "category": "sports"
+  },
+  {
+    "question": "Who won the Golden Boot award for being the top scorer in the 2010 FIFA World Cup?",
+    "optionA": "David Villa",
+    "optionB": "Thomas Müller",
+    "optionC": "Wesley Sneijder",
+    "optionD": "Diego Forlán",
+    "answer": "Thomas Müller",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "optionA": "Brazil",
+    "optionB": "Germany",
+    "optionC": "Russia",
+    "optionD": "France",
+    "answer": "Brazil",
+    "category": "sports"
+  },
+  {
+    "question": "Who won the FIFA World Cup in 2014?",
+    "optionA": "Brazil",
+    "optionB": "Germany",
+    "optionC": "Argentina",
+    "optionD": "Spain",
+    "answer": "Germany",
+    "category": "sports"
+  },
+  {
+    "question": "In which World Cup did Spain win their first-ever FIFA World Cup title?",
+    "optionA": "2002",
+    "optionB": "2006",
+    "optionC": "2010",
+    "optionD": "2014",
+    "answer": "2010",
+    "category": "sports"
+  },
+  {
+    "question": "Who won the Golden Boot award for being the top scorer in the 2018 FIFA World Cup?",
+    "optionA": "Lionel Messi",
+    "optionB": "Neymar Jr.",
+    "optionC": "Harry Kane",
+    "optionD": "Antoine Griezmann",
+    "answer": "Harry Kane",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 2018 FIFA World Cup?",
+    "optionA": "Brazil",
+    "optionB": "Germany",
+    "optionC": "Russia",
+    "optionD": "France",
+    "answer": "Russia",
+    "category": "sports"
+  },
+  {
+    "question": "Who won the FIFA World Cup in 2018?",
+    "optionA": "Brazil",
+    "optionB": "Germany",
+    "optionC": "Argentina",
+    "optionD": "France",
+    "answer": "France",
+    "category": "sports"
+  },
+  {
+    "question": "Which player has won the most FIFA World Cup Golden Ball awards for the best player of the tournament?",
+    "optionA": "Diego Maradona",
+    "optionB": "Zinedine Zidane",
+    "optionC": "Cristiano Ronaldo",
+    "optionD": "Lionel Messi",
+    "answer": "Diego Maradona",
+    "category": "sports"
+  },
+  {
+    "question": "In which World Cup did Brazil win their fifth FIFA World Cup title?",
+    "optionA": "1994",
+    "optionB": "2002",
+    "optionC": "2006",
+    "optionD": "2010",
+    "answer": "2002",
+    "category": "sports"
+  },
+  {
+    "question": "Who scored the famous 'Hand of God' goal for Argentina in the 1986 FIFA World Cup?",
+    "optionA": "Diego Maradona",
+    "optionB": "Lionel Messi",
+    "optionC": "Jorge Burruchaga",
+    "optionD": "Gabriel Batistuta",
+    "answer": "Diego Maradona",
+    "category": "sports"
+  },
+  {
+    "question": "Which country has never won the FIFA World Cup, despite being runners-up twice?",
+    "optionA": "Netherlands",
+    "optionB": "England",
+    "optionC": "Sweden",
+    "optionD": "Belgium",
+    "answer": "Netherlands",
+    "category": "sports"
+  },
+  {
+    "question": "In which World Cup did Germany win their fourth FIFA World Cup title?",
+    "optionA": "1990",
+    "optionB": "1994",
+    "optionC": "1998",
+    "optionD": "2002",
+    "answer": "2014",
+    "category": "sports"
+  },
+  {
+    "question": "Who was the top scorer in the 1982 FIFA World Cup?",
+    "optionA": "Paolo Rossi",
+    "optionB": "Gary Lineker",
+    "optionC": "Zico",
+    "optionD": "Sócrates",
+    "answer": "Paolo Rossi",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 2002 FIFA World Cup?",
+    "optionA": "Brazil",
+    "optionB": "Germany",
+    "optionC": "South Korea and Japan",
+    "optionD": "France",
+    "answer": "South Korea and Japan",
+    "category": "sports"
+  },
+  {
+    "question": "Who was the first Roman Emperor?",
+    "optionA": "Augustus",
+    "optionB": "Julius Caesar",
+    "optionC": "Caligula",
+    "optionD": "Nero",
+    "answer": "Augustus",
+    "category": "history"
+  },
+  {
+    "question": "Which ancient Greek philosopher is known as the 'Father of Western Philosophy'?",
+    "optionA": "Socrates",
+    "optionB": "Plato",
+    "optionC": "Aristotle",
+    "optionD": "Homer",
+    "answer": "Socrates",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first female pharaoh of ancient Egypt?",
+    "optionA": "Nefertiti",
+    "optionB": "Cleopatra",
+    "optionC": "Hatshepsut",
+    "optionD": "Isis",
+    "answer": "Hatshepsut",
+    "category": "history"
+  },
+  {
+    "question": "Which famous military leader led the Carthaginian army during the Second Punic War?",
+    "optionA": "Hannibal",
+    "optionB": "Alexander the Great",
+    "optionC": "Julius Caesar",
+    "optionD": "Napoleon Bonaparte",
+    "answer": "Hannibal",
+    "category": "history"
+  },
+  {
+    "question": "Who wrote the famous epic poem 'The Iliad'?",
+    "optionA": "Homer",
+    "optionB": "Virgil",
+    "optionC": "Ovid",
+    "optionD": "Sappho",
+    "answer": "Homer",
+    "category": "history"
+  },
+  {
+    "question": "Which ancient Chinese philosopher founded Confucianism?",
+    "optionA": "Laozi",
+    "optionB": "Sun Tzu",
+    "optionC": "Confucius",
+    "optionD": "Mencius",
+    "answer": "Confucius",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first Roman general to cross the Rubicon, triggering a civil war?",
+    "optionA": "Augustus",
+    "optionB": "Julius Caesar",
+    "optionC": "Marcus Aurelius",
+    "optionD": "Trajan",
+    "answer": "Julius Caesar",
+    "category": "history"
+  },
+  {
+    "question": "Which ancient Indian emperor is known for his role in spreading Buddhism?",
+    "optionA": "Chandragupta Maurya",
+    "optionB": "Ashoka the Great",
+    "optionC": "Harsha",
+    "optionD": "Akbar",
+    "answer": "Ashoka the Great",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first female monarch of England?",
+    "optionA": "Queen Victoria",
+    "optionB": "Queen Elizabeth I",
+    "optionC": "Mary I",
+    "optionD": "Mary II",
+    "answer": "Queen Elizabeth I",
+    "category": "history"
+  },
+  {
+    "question": "Which famous Norse explorer is believed to have reached North America before Columbus?",
+    "optionA": "Leif Erikson",
+    "optionB": "Erik the Red",
+    "optionC": "Harald Hardrada",
+    "optionD": "Olaf Tryggvason",
+    "answer": "Leif Erikson",
+    "category": "history"
+  },
+  {
+    "question": "Who was the founder of the Mongol Empire and the largest contiguous empire in history?",
+    "optionA": "Genghis Khan",
+    "optionB": "Kublai Khan",
+    "optionC": "Tamerlane",
+    "optionD": "Attila the Hun",
+    "answer": "Genghis Khan",
+    "category": "history"
+  },
+  {
+    "question": "Which Egyptian queen was a lover of Julius Caesar and Mark Antony?",
+    "optionA": "Cleopatra",
+    "optionB": "Nefertiti",
+    "optionC": "Hatshepsut",
+    "optionD": "Isis",
+    "answer": "Cleopatra",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first Holy Roman Emperor?",
+    "optionA": "Charlemagne",
+    "optionB": "Frederick I",
+    "optionC": "Otto I",
+    "optionD": "Henry IV",
+    "answer": "Otto I",
+    "category": "history"
+  },
+  {
+    "question": "Which English playwright and poet is often referred to as the 'Bard of Avon'?",
+    "optionA": "Christopher Marlowe",
+    "optionB": "Ben Jonson",
+    "optionC": "William Shakespeare",
+    "optionD": "John Milton",
+    "answer": "William Shakespeare",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "optionA": "Thomas Jefferson",
+    "optionB": "George Washington",
+    "optionC": "John Adams",
+    "optionD": "James Madison",
+    "answer": "George Washington",
+    "category": "history"
+  },
+  {
+    "question": "Which German philosopher and economist wrote 'The Communist Manifesto'?",
+    "optionA": "Karl Marx",
+    "optionB": "Friedrich Engels",
+    "optionC": "Adam Smith",
+    "optionD": "John Locke",
+    "answer": "Karl Marx",
+    "category": "history"
+  },
+  {
+    "question": "Who was the Queen of France during the French Revolution?",
+    "optionA": "Marie Antoinette",
+    "optionB": "Catherine de' Medici",
+    "optionC": "Eleanor of Aquitaine",
+    "optionD": "Anne Boleyn",
+    "answer": "Marie Antoinette",
+    "category": "history"
+  },
+  {
+    "question": "Which Russian ruler is known as the 'Great' for her expansion of the Russian Empire?",
+    "optionA": "Peter the Great",
+    "optionB": "Ivan the Terrible",
+    "optionC": "Catherine the Great",
+    "optionD": "Nicholas II",
+    "answer": "Catherine the Great",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first Emperor of the Maurya Dynasty in ancient India?",
+    "optionA": "Chandragupta Maurya",
+    "optionB": "Ashoka the Great",
+    "optionC": "Harsha",
+    "optionD": "Akbar",
+    "answer": "Chandragupta Maurya",
+    "category": "history"
+  },
+  {
+    "question": "Which American Founding Father and inventor is famous for flying a kite in a thunderstorm to study electricity?",
+    "optionA": "Benjamin Franklin",
+    "optionB": "Thomas Jefferson",
+    "optionC": "George Washington",
+    "optionD": "John Adams",
+    "answer": "Benjamin Franklin",
+    "category": "history"
+  },
+  {
+    "question": "Who was the leader of the Haitian Revolution and the first ruler of an independent Haiti?",
+    "optionA": "Simón Bolívar",
+    "optionB": "Toussaint Louverture",
+    "optionC": "Miguel Hidalgo",
+    "optionD": "José de San Martín",
+    "answer": "Toussaint Louverture",
+    "category": "history"
+  },
+  {
+    "question": "Which French military leader became Emperor of the French and established the Napoleonic Code?",
+    "optionA": "Napoleon Bonaparte",
+    "optionB": "Louis XIV",
+    "optionC": "Napoleon III",
+    "optionD": "Joan of Arc",
+    "answer": "Napoleon Bonaparte",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "optionA": "Margaret Thatcher",
+    "optionB": "Theresa May",
+    "optionC": "Angela Merkel",
+    "optionD": "Indira Gandhi",
+    "answer": "Margaret Thatcher",
+    "category": "history"
+  },
+  {
+    "question": "Which Russian mystic and advisor to the Romanov family was assassinated in 1916?",
+    "optionA": "Rasputin",
+    "optionB": "Trotsky",
+    "optionC": "Lenin",
+    "optionD": "Stalin",
+    "answer": "Rasputin",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize and is famous for her work in radioactivity?",
+    "optionA": "Marie Curie",
+    "optionB": "Rosalind Franklin",
+    "optionC": "Rita Levi-Montalcini",
+    "optionD": "Dorothy Hodgkin",
+    "answer": "Marie Curie",
+    "category": "history"
+  },
+  {
+    "question": "Which influential British stateswoman served as Prime Minister from 1979 to 1990?",
+    "optionA": "Margaret Thatcher",
+    "optionB": "Angela Merkel",
+    "optionC": "Indira Gandhi",
+    "optionD": "Golda Meir",
+    "answer": "Margaret Thatcher",
+    "category": "history"
+  },
+  {
+    "question": "Who was the leader of the Indian independence movement against British rule?",
+    "optionA": "Jawaharlal Nehru",
+    "optionB": "Subhas Chandra Bose",
+    "optionC": "Mohandas Gandhi",
+    "optionD": "Indira Gandhi",
+    "answer": "Mohandas Gandhi",
+    "category": "history"
+  },
+  {
+    "question": "Which Egyptian president served as the second president of Egypt and the first Arab leader to recognize Israel?",
+    "optionA": "Gamal Abdel Nasser",
+    "optionB": "Anwar Sadat",
+    "optionC": "Hosni Mubarak",
+    "optionD": "Abdel Fattah el-Sisi",
+    "answer": "Anwar Sadat",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "optionA": "Amelia Earhart",
+    "optionB": "Bessie Coleman",
+    "optionC": "Harriet Quimby",
+    "optionD": "Jacqueline Cochran",
+    "answer": "Amelia Earhart",
+    "category": "history"
+  },
+  {
+    "question": "Which American civil rights leader delivered the famous 'I Have a Dream' speech?",
+    "optionA": "Martin Luther King Jr.",
+    "optionB": "Malcolm X",
+    "optionC": "Rosa Parks",
+    "optionD": "Harriet Tubman",
+    "answer": "Martin Luther King Jr.",
+    "category": "history"
+  },
+  {
+    "question": "Who was the first female Prime Minister of India?",
+    "optionA": "Margaret Thatcher",
+    "optionB": "Angela Merkel",
+    "optionC": "Indira Gandhi",
+    "optionD": "Golda Meir",
+    "answer": "Indira Gandhi",
+    "category": "history"
+  },
+  {
+    "question": "Which South African anti-apartheid revolutionary became the first black President of South Africa?",
+    "optionA": "Winnie Mandela",
+    "optionB": "Desmond Tutu",
+    "optionC": "Nelson Mandela",
+    "optionD": "Steve Biko",
+    "answer": "Nelson Mandela",
+    "category": "history"
+  },
+  {
+    "question": "Who was the founder and first leader of the Soviet Union?",
+    "optionA": "Vladimir Lenin",
+    "optionB": "Joseph Stalin",
+    "optionC": "Mikhail Gorbachev",
+    "optionD": "Leon Trotsky",
+    "answer": "Vladimir Lenin",
+    "category": "history"
+  },
+  {
+    "question": "Which American suffragist and women's rights activist played a key role in securing the right to vote for women?",
+    "optionA": "Susan B. Anthony",
+    "optionB": "Elizabeth Cady Stanton",
+    "optionC": "Alice Paul",
+    "optionD": "Sojourner Truth",
+    "answer": "Susan B. Anthony",
+    "category": "history"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "optionA": "Sydney",
+    "optionB": "Melbourne",
+    "optionC": "Canberra",
+    "optionD": "Brisbane",
+    "answer": "Canberra",
+    "category": "geography"
+  },
+  {
+    "question": "Mount Everest, the highest peak in the world, is located in which mountain range?",
+    "optionA": "Rocky Mountains",
+    "optionB": "Andes",
+    "optionC": "Himalayas",
+    "optionD": "Alps",
+    "answer": "Himalayas",
+    "category": "geography"
+  },
+  {
+    "question": "Which desert is the largest in the world?",
+    "optionA": "Sahara Desert",
+    "optionB": "Gobi Desert",
+    "optionC": "Arabian Desert",
+    "optionD": "Kalahari Desert",
+    "answer": "Sahara Desert",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Brazil?",
+    "optionA": "Rio de Janeiro",
+    "optionB": "São Paulo",
+    "optionC": "Brasília",
+    "optionD": "Buenos Aires",
+    "answer": "Brasília",
+    "category": "geography"
+  },
+  {
+    "question": "Which river runs through Cairo, the capital of Egypt?",
+    "optionA": "Nile River",
+    "optionB": "Amazon River",
+    "optionC": "Yangtze River",
+    "optionD": "Mississippi River",
+    "answer": "Nile River",
+    "category": "geography"
+  },
+  {
+    "question": "What is the highest mountain peak in North America?",
+    "optionA": "Mount Kilimanjaro",
+    "optionB": "Mount McKinley (Denali)",
+    "optionC": "Mount Everest",
+    "optionD": "Mount Elbrus",
+    "answer": "Mount McKinley (Denali)",
+    "category": "geography"
+  },
+  {
+    "question": "Which desert is located in the southwestern United States and northern Mexico?",
+    "optionA": "Sahara Desert",
+    "optionB": "Gobi Desert",
+    "optionC": "Mojave Desert",
+    "optionD": "Atacama Desert",
+    "answer": "Mojave Desert",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of China?",
+    "optionA": "Shanghai",
+    "optionB": "Beijing",
+    "optionC": "Guangzhou",
+    "optionD": "Hong Kong",
+    "answer": "Beijing",
+    "category": "geography"
+  },
+  {
+    "question": "Which river is the longest in South America?",
+    "optionA": "Nile River",
+    "optionB": "Amazon River",
+    "optionC": "Yangtze River",
+    "optionD": "Mississippi River",
+    "answer": "Amazon River",
+    "category": "geography"
+  },
+  {
+    "question": "Mount Kilimanjaro, the highest peak in Africa, is located in which country?",
+    "optionA": "Tanzania",
+    "optionB": "Kenya",
+    "optionC": "Uganda",
+    "optionD": "Ethiopia",
+    "answer": "Tanzania",
+    "category": "geography"
+  },
+  {
+    "question": "Which desert is located in northern China and southern Mongolia?",
+    "optionA": "Sahara Desert",
+    "optionB": "Gobi Desert",
+    "optionC": "Sonoran Desert",
+    "optionD": "Kalahari Desert",
+    "answer": "Gobi Desert",
+    "category": "geography"
+  },
+  {
+    "question": "Which river is the longest in Asia?",
+    "optionA": "Nile River",
+    "optionB": "Amazon River",
+    "optionC": "Yangtze River",
+    "optionD": "Mississippi River",
+    "answer": "Yangtze River",
+    "category": "geography"
+  },
+  {
+    "question": "Mount Elbrus, the highest peak in Europe, is located in which country?",
+    "optionA": "France",
+    "optionB": "Russia",
+    "optionC": "Switzerland",
+    "optionD": "Georgia",
+    "answer": "Russia",
+    "category": "geography"
+  },
+  {
+    "question": "Which desert is located in the Middle East, spanning several countries including Saudi Arabia, Iraq, and Jordan?",
+    "optionA": "Sahara Desert",
+    "optionB": "Gobi Desert",
+    "optionC": "Arabian Desert",
+    "optionD": "Sonoran Desert",
+    "answer": "Arabian Desert",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "optionA": "Tokyo",
+    "optionB": "Osaka",
+    "optionC": "Kyoto",
+    "optionD": "Seoul",
+    "answer": "Tokyo",
+    "category": "geography"
+  },
+  {
+    "question": "Which river is the longest in the United States?",
+    "optionA": "Nile River",
+    "optionB": "Amazon River",
+    "optionC": "Yangtze River",
+    "optionD": "Mississippi River",
+    "answer": "Mississippi River",
+    "category": "geography"
+  },
+  {
+    "question": "Mount Aconcagua, the highest peak in South America, is located in which country?",
+    "optionA": "Argentina",
+    "optionB": "Chile",
+    "optionC": "Peru",
+    "optionD": "Colombia",
+    "answer": "Argentina",
+    "category": "geography"
+  },
+  {
+    "question": "Which desert is located in southern Africa, covering parts of Namibia, Botswana, and South Africa?",
+    "optionA": "Sahara Desert",
+    "optionB": "Gobi Desert",
+    "optionC": "Kalahari Desert",
+    "optionD": "Atacama Desert",
+    "answer": "Kalahari Desert",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Russia?",
+    "optionA": "St. Petersburg",
+    "optionB": "Moscow",
+    "optionC": "Kiev",
+    "optionD": "Warsaw",
+    "answer": "Moscow",
+    "category": "geography"
+  },
+  {
+    "question": "Which river is the longest in Europe?",
+    "optionA": "Nile River",
+    "optionB": "Amazon River",
+    "optionC": "Danube River",
+    "optionD": "Mississippi River",
+    "answer": "Volga River",
+    "category": "geography"
+  },
+  {
+    "question": "Mount McKinley (Denali), the highest peak in North America, is located in which U.S. state?",
+    "optionA": "Alaska",
+    "optionB": "California",
+    "optionC": "Colorado",
+    "optionD": "Washington",
+    "answer": "Alaska",
+    "category": "geography"
+  }
+]
