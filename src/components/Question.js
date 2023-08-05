@@ -2,17 +2,14 @@ import { useState } from "react";
 import "./Question.css";
 
 export default function Question({ questions, randomPitanja }) {
-  //generating random array of indexes
-
-  //counting questions for later use
+  //counting questions for later use (implementing like this for next steps (more questions, category))
   const numOfQuestions = randomPitanja.length;
 
   //for looping around random array
   const [index, setIndex] = useState(0);
-  const [currentQ, setCurrentQ] = useState(randomPitanja[index]);
 
-  //getting the displayed question
-  const question = questions[currentQ];
+  //looping through questions using random index
+  const [currentQ, setCurrentQ] = useState(randomPitanja[index]);
 
   //next question handler
   function nextHandler(event) {
@@ -27,11 +24,25 @@ export default function Question({ questions, randomPitanja }) {
     }
   }
 
+  //getting the displayed question
+  const question = questions[currentQ];
+
+  //getting the category name for icon and text to show up
+  const category = question.category;
+
   return (
     <div className="question">
-      <p className="question_number">
-        <span>{index + 1}</span>/{randomPitanja.length}
-      </p>
+      <div className="header">
+        <img
+          className="category-img"
+          src={`./media/img/${category}.png`}
+          alt="category"
+        />
+        <p className="question_number">
+          <span>{index + 1}</span>/{randomPitanja.length}
+        </p>
+      </div>
+
       <div className="header">
         <div className="text">{question.question}</div>
       </div>
