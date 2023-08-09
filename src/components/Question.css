@@ -1,7 +1,8 @@
 /* QUESTIONS CSS */
 
 /* GENERAL QUESTION CONTAINER */
-.question {
+.question,
+.question-completed {
   background-color: white;
   margin: 1rem auto 1rem auto;
   width: 60vw;
@@ -13,6 +14,13 @@
   overflow: hidden;
   border: 3px solid #766df4;
 }
+
+.question-completed h2 {
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+/* COMPLETED QUESTION */
 
 /* IMAGE BASED ON CATEGORY */
 .category-img {
@@ -66,7 +74,7 @@
   padding: 0;
 }
 
-.answers li {
+.answers button {
   list-style: none;
   color: black;
   font-size: 1rem;
@@ -75,9 +83,10 @@
   width: 80%;
   text-align: center;
   cursor: pointer;
+  border: none;
 }
 
-.answers li:hover {
+.answers button:hover {
   background-color: #ccc9ef;
 }
 
