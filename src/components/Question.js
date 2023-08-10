@@ -11,6 +11,9 @@ export default function Question({ questions, randomPitanja }) {
   //looping through questions using random index
   const [currentQ, setCurrentQ] = useState(randomPitanja[index]);
 
+  //getting the displayed question
+  const question = questions[currentQ];
+
   //setting up state to show results window
   const [finished, setFinished] = useState(false);
 
@@ -33,15 +36,7 @@ export default function Question({ questions, randomPitanja }) {
     if (answer === question.answer) {
       setScore((prevScore) => prevScore + 1);
     }
-    console.log(event.target.value);
-    console.log(question.answer);
   }
-
-  //getting the displayed question
-  const question = questions[currentQ];
-
-  //getting the category name for icon and text to show up
-  const category = question.category;
 
   return (
     <div>
@@ -51,13 +46,14 @@ export default function Question({ questions, randomPitanja }) {
           <p>
             You answered correctly {score} of {numOfQuestions} questions
           </p>
+          <button>Start new Quizzie</button>
         </div>
       ) : (
         <div className="question">
           <div className="header">
             <img
               className="category-img"
-              src={`./media/img/${category}.png`}
+              src={`./media/img/${question.category}.png`}
               alt="category"
             />
             <p className="question_number">

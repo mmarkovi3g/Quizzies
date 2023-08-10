@@ -1,8 +1,15 @@
 import "./Form.css";
 import { useState } from "react";
 
-export default function Form() {
-  const [isOpen, setIsOpen] = useState(false);
+export default function Form({
+  onFormSubmit,
+  setNumberOfQuestions,
+  NumberOfQuestions,
+  isOpen,
+  setIsOpen,
+  categoryOfQuestions,
+  setCategoryOfQuestions,
+}) {
   function toggleHandler() {
     isOpen === false ? setIsOpen(true) : setIsOpen(false);
   }
@@ -16,27 +23,36 @@ export default function Form() {
         </p>
       </div>
       {isOpen === true ? (
-        <form>
+        <form onSubmit={onFormSubmit}>
           <div className="form_wrap">
             <div>
               <p>Select category: </p>
-              <select>
-                <option>Geography</option>
-                <option>Sports</option>
-                <option>History</option>
+              <select
+                value={categoryOfQuestions}
+                onChange={(event) => setCategoryOfQuestions(event.target.value)}
+              >
+                <option value="allcategories">All Categories</option>
+                <option value="geography">Geography</option>
+                <option value="sports">Sports</option>
+                <option value="history"> History</option>
               </select>
             </div>
 
             <div>
               <p>Select number of questions: </p>
-              <select>
-                <option>10</option>
-                <option>20</option>
-                <option>30</option>
+              <select
+                value={NumberOfQuestions}
+                onChange={(event) =>
+                  setNumberOfQuestions(Number(event.target.value))
+                }
+              >
+                <option value={10}>10</option>
+                <option value={20}>20</option>
+                <option value={30}>30</option>
               </select>
             </div>
           </div>
-          <button>Generate Quizzie</button>
+          <button type="submit">Generate Quizzie</button>
         </form>
       ) : (
         ""
