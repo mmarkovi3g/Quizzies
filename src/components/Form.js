@@ -1,5 +1,5 @@
 import "./Form.css";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import questions from "../questions.json";
 
 export default function Form({
@@ -7,6 +7,8 @@ export default function Form({
   categoryFilters,
   setFilteredQuestions,
   filteredQuestions,
+  setStarted,
+  started,
 }) {
   //
 

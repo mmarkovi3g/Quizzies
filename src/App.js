@@ -6,6 +6,9 @@ import questions from "./questions.json";
 import { useState } from "react";
 
 function App() {
+  // quizz started or not state
+  const [started, setStarted] = useState(false);
+
   // creating filtered questions based on category
   const categoryFilters = {
     allcategories: questions,
@@ -21,7 +24,6 @@ function App() {
   //
 
   //state for quizz settings
-
   const [category, setCategory] = useState(categoryFilters.allcategories);
   const [numOfQuestions, setNumOfQuestions] = useState(10);
 
@@ -55,6 +57,7 @@ function App() {
       );
       setRandomArray(randomList ? randomList : initialList);
     }
+    setStarted(true);
   }
 
   return (
@@ -65,12 +68,20 @@ function App() {
         categoryFilters={categoryFilters}
         filteredQuestions={filteredQuestions}
         setFilteredQuestions={setFilteredQuestions}
+        started={started}
+        setStarted={setStarted}
       />
-      <Question
-        randomArray={randomArray}
-        selectedQuestions={selectedQuestions}
-        numOfQuestions={numOfQuestions}
-      />
+      <div>
+        {started ? (
+          <Question
+            randomArray={randomArray}
+            selectedQuestions={selectedQuestions}
+            numOfQuestions={numOfQuestions}
+          />
+        ) : (
+          <div className="question">Select settings to start</div>
+        )}
+      </div>
     </div>
   );
 }
