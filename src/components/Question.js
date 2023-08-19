@@ -1,18 +1,22 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import "./Question.css";
 
-export default function Question({ questions, randomPitanja }) {
-  //counting questions for later use (implementing like this for next steps (more questions, category))
-  const numOfQuestions = randomPitanja.length;
+export default function Question({
+  selectedQuestions,
+  randomArray,
+  numOfQuestions,
+}) {
+  console.log(selectedQuestions);
+  console.log(randomArray);
+  console.log(numOfQuestions);
 
-  //for looping around random array
-  const [index, setIndex] = useState(0);
+  const [index, setIndex] = useState(0); // defaultni index za početak
+  const currentQ = randomArray[index]; // trenutno pitanje - index iz random arraya
+  // što ako nema random arraya?
+  console.log(currentQ);
 
-  //looping through questions using random index
-  const [currentQ, setCurrentQ] = useState(randomPitanja[index]);
-
-  //getting the displayed question
-  const question = questions[currentQ];
+  const question = selectedQuestions[currentQ];
+  console.log(question);
 
   //setting up state to show results window
   const [finished, setFinished] = useState(false);
@@ -25,11 +29,9 @@ export default function Question({ questions, randomPitanja }) {
     event.preventDefault();
     if (index < numOfQuestions - 1) {
       setIndex((prev) => prev + 1);
-      setCurrentQ(randomPitanja[index + 1]);
     } else {
       // Reset the index to 0 to loop back to the first question
       setIndex(9);
-      setCurrentQ(randomPitanja[index]);
       setFinished(true);
     }
     const answer = event.target.value;
@@ -53,11 +55,11 @@ export default function Question({ questions, randomPitanja }) {
           <div className="header">
             <img
               className="category-img"
-              src={`./media/img/${question.category}.png`}
+              src={`../media/img/${question.category}.png`}
               alt="category"
             />
             <p className="question_number">
-              <span>{index + 1}</span>/{randomPitanja.length}
+              <span>{index + 1}</span>/{randomArray.length}
             </p>
           </div>
 
@@ -80,12 +82,6 @@ export default function Question({ questions, randomPitanja }) {
               </button>
             </ul>
           </div>
-          {/*
-  <div className="navigation">
-    <button>Previous</button>
-    <button>Next</button>
-  </div>{" "}
-  */}
         </div>
       )}
     </div>
