@@ -611,15 +611,7 @@
     "answer": "Portugal",
     "category": "sports"
   },
-  {
-    "question": "What is the highest possible break in a standard game of pool (8-ball)?",
-    "optionA": "100",
-    "optionB": "147",
-    "optionC": "10",
-    "optionD": "20",
-    "answer": "147",
-    "category": "sports"
-  },
+
   {
     "question": "Which river is the longest in Europe?",
     "optionA": "Danube",
@@ -710,15 +702,7 @@
     "answer": "Germany",
     "category": "history"
   },
-  {
-    "question": "Which country won the FIFA World Cup in 2018?",
-    "optionA": "France",
-    "optionB": "Germany",
-    "optionC": "Brazil",
-    "optionD": "Spain",
-    "answer": "France",
-    "category": "sports"
-  },
+
   {
     "question": "In which sport would you perform a 'knuckleball'?",
     "optionA": "Baseball",
@@ -737,15 +721,7 @@
     "answer": "Japan",
     "category": "sports"
   },
-  {
-    "question": "In which city did the 2016 Summer Olympics take place?",
-    "optionA": "Rio de Janeiro",
-    "optionB": "Tokyo",
-    "optionC": "London",
-    "optionD": "Beijing",
-    "answer": "Rio de Janeiro",
-    "category": "sports"
-  },
+
   {
     "question": "Which athlete won the most gold medals at the 2012 Summer Olympics?",
     "optionA": "Usain Bolt",
@@ -1593,15 +1569,6 @@
     "category": "sports"
   },
   {
-    "question": "Who won the FIFA World Cup in 2018?",
-    "optionA": "Brazil",
-    "optionB": "Germany",
-    "optionC": "Argentina",
-    "optionD": "France",
-    "answer": "France",
-    "category": "sports"
-  },
-  {
     "question": "Which player has won the most FIFA World Cup Golden Ball awards for the best player of the tournament?",
     "optionA": "Diego Maradona",
     "optionB": "Zinedine Zidane",
@@ -2158,5 +2125,186 @@
     "optionD": "Washington",
     "answer": "Alaska",
     "category": "geography"
+  },
+  {
+    "question": "Which ancient civilization built the Great Pyramid of Giza?",
+    "optionA": "Mesopotamia",
+    "optionB": "Greece",
+    "optionC": "Egypt",
+    "optionD": "Rome",
+    "answer": "Egypt",
+    "category": "history"
+  },
+  {
+    "question": "Who was the famous philosopher known for his dialogues and contributions to Western philosophy?",
+    "optionA": "Aristotle",
+    "optionB": "Socrates",
+    "optionC": "Plato",
+    "optionD": "Homer",
+    "answer": "Plato",
+    "category": "history"
+  },
+  {
+    "question": "Which ancient civilization is credited with creating the first known system of writing, known as cuneiform?",
+    "optionA": "Egypt",
+    "optionB": "Greece",
+    "optionC": "Rome",
+    "optionD": "Mesopotamia",
+    "answer": "Mesopotamia",
+    "category": "history"
+  },
+  {
+    "question": "The city of Rome is said to have been founded by which mythical figure?",
+    "optionA": "Aeneas",
+    "optionB": "Hercules",
+    "optionC": "Perseus",
+    "optionD": "Jason",
+    "answer": "Aeneas",
+    "category": "history"
+  },
+  {
+    "question": "The ancient Olympic Games were originally held to honor which Greek god?",
+    "optionA": "Zeus",
+    "optionB": "Apollo",
+    "optionC": "Athena",
+    "optionD": "Hermes",
+    "answer": "Zeus",
+    "category": "history"
+  },
+  {
+    "question": "Who was the famous military general and statesman of ancient Rome who played a crucial role in the downfall of the Roman Republic?",
+    "optionA": "Julius Caesar",
+    "optionB": "Nero",
+    "optionC": "Augustus",
+    "optionD": "Cicero",
+    "answer": "Julius Caesar",
+    "category": "history"
+  },
+  {
+    "question": "The Code of Hammurabi is associated with which ancient civilization?",
+    "optionA": "Egypt",
+    "optionB": "Greece",
+    "optionC": "Mesopotamia",
+    "optionD": "Rome",
+    "answer": "Mesopotamia",
+    "category": "history"
+  },
+  {
+    "question": "Which famous ancient Greek mathematician is known for his theorem about right-angled triangles?",
+    "optionA": "Euclid",
+    "optionB": "Pythagoras",
+    "optionC": "Archimedes",
+    "optionD": "Aristotle",
+    "answer": "Pythagoras",
+    "category": "history"
+  },
+  {
+    "question": "The Rosetta Stone, a crucial artifact for deciphering hieroglyphs, was found in which country?",
+    "optionA": "Greece",
+    "optionB": "Italy",
+    "optionC": "Egypt",
+    "optionD": "Turkey",
+    "answer": "Egypt",
+    "category": "history"
+  },
+  {
+    "question": "Which river is often referred to as the 'cradle of civilization' due to its historical significance to ancient Mesopotamia?",
+    "optionA": "Nile",
+    "optionB": "Tigris",
+    "optionC": "Euphrates",
+    "optionD": "Indus",
+    "answer": "Euphrates",
+    "category": "history"
+  },
+
+  {
+    "question": "Which famous ancient Egyptian queen was known for her relationships with Julius Caesar and Mark Antony?",
+    "optionA": "Nefertiti",
+    "optionB": "Cleopatra",
+    "optionC": "Hatshepsut",
+    "optionD": "Isis",
+    "answer": "Cleopatra",
+    "category": "history"
+  },
+  {
+    "question": "The Parthenon, a famous ancient Greek temple, is dedicated to which goddess?",
+    "optionA": "Athena",
+    "optionB": "Hera",
+    "optionC": "Aphrodite",
+    "optionD": "Artemis",
+    "answer": "Athena",
+    "category": "history"
+  },
+  {
+    "question": "The Hanging Gardens, one of the Seven Wonders of the Ancient World, were located in which city?",
+    "optionA": "Babylon",
+    "optionB": "Athens",
+    "optionC": "Rome",
+    "optionD": "Jerusalem",
+    "answer": "Babylon",
+    "category": "history"
+  },
+  {
+    "question": "Which ancient civilization developed the first known system of government by democracy?",
+    "optionA": "Egypt",
+    "optionB": "Greece",
+    "optionC": "Mesopotamia",
+    "optionD": "Rome",
+    "answer": "Greece",
+    "category": "history"
+  },
+  {
+    "question": "The famous Greek philosopher Aristotle was a student of which other famous philosopher?",
+    "optionA": "Plato",
+    "optionB": "Socrates",
+    "optionC": "Homer",
+    "optionD": "Herodotus",
+    "answer": "Plato",
+    "category": "history"
+  },
+  {
+    "question": "The ancient city of Troy, famous for the Trojan War, is located in modern-day which country?",
+    "optionA": "Turkey",
+    "optionB": "Greece",
+    "optionC": "Italy",
+    "optionD": "Egypt",
+    "answer": "Turkey",
+    "category": "history"
+  },
+  {
+    "question": "The Sphinx of Giza has the body of a lion and the head of which other creature?",
+    "optionA": "Hawk",
+    "optionB": "Ram",
+    "optionC": "Crocodile",
+    "optionD": "Pharaoh",
+    "answer": "Pharaoh",
+    "category": "history"
+  },
+  {
+    "question": "The ancient city-state of Sparta was known for emphasizing which aspect of society and culture?",
+    "optionA": "Art and creativity",
+    "optionB": "Military and discipline",
+    "optionC": "Trade and commerce",
+    "optionD": "Philosophy and education",
+    "answer": "Military and discipline",
+    "category": "history"
+  },
+  {
+    "question": "Which ancient civilization is credited with the creation of the first known written epic poem, 'The Epic of Gilgamesh'?",
+    "optionA": "Egypt",
+    "optionB": "Greece",
+    "optionC": "Rome",
+    "optionD": "Mesopotamia",
+    "answer": "Mesopotamia",
+    "category": "history"
+  },
+  {
+    "question": "The Colosseum, an iconic Roman amphitheater, was primarily used for what type of events?",
+    "optionA": "Political debates",
+    "optionB": "Religious ceremonies",
+    "optionC": "Gladiatorial contests",
+    "optionD": "Art exhibitions",
+    "answer": "Gladiatorial contests",
+    "category": "history"
   }
 ]

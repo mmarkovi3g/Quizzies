@@ -7,8 +7,6 @@ export default function Form({
   categoryFilters,
   setFilteredQuestions,
   filteredQuestions,
-  setStarted,
-  started,
 }) {
   //
 

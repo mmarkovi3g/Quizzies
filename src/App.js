@@ -6,7 +6,7 @@ import questions from "./questions.json";
 import { useState } from "react";
 
 function App() {
-  // quizz started or not state
+  // quizz started or not state - default is false to show message to choose settings
   const [started, setStarted] = useState(false);
 
   // creating filtered questions based on category
@@ -19,12 +19,12 @@ function App() {
     history: questions.filter((question) => question.category === "history"),
   };
 
-  // state for filtered questions passed to form component so i can handle changes directly
+  // state for filtered questions passed to form component so i can handle changes directly - set to full JSON file on default
   const [filteredQuestions, setFilteredQuestions] = useState(questions);
   //
 
   //state for quizz settings
-  const [category, setCategory] = useState(categoryFilters.allcategories);
+  /* const [category, setCategory] = useState(categoryFilters.allcategories); */
   const [numOfQuestions, setNumOfQuestions] = useState(10);
 
   // initali list of random numbers
@@ -40,7 +40,7 @@ function App() {
   // handler function that takes object generated in form for quizz settings
   function handleQuizzSettings(item) {
     setNumOfQuestions(Number(item.chosenNumOfQuestions));
-    setCategory(item.chosenCategory);
+    /*  setCategory(item.chosenCategory); */
 
     const selectedQuestionsList = categoryFilters[item.chosenCategory];
     setSelectedQuestions(selectedQuestionsList);
@@ -62,8 +62,6 @@ function App() {
         categoryFilters={categoryFilters}
         filteredQuestions={filteredQuestions}
         setFilteredQuestions={setFilteredQuestions}
-        started={started}
-        setStarted={setStarted}
       />
       <div>
         {started ? (

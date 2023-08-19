@@ -22,7 +22,10 @@ Extra features:
 (need to learn more to implement them correctly)
 
 - Publish Quizzies
-- User can create questions in app and send them to the server where it will be reviewed and added to the main list of questions
+- User can create questions in app and send them to the server where it will be reviewed and added to the main list of question
+- Improve on algorythm for generating random questions - reduce repeated question on user expirience
 - User can login and the score can be saved with login data (need server and backend knowledge for this)
-- Optional - achievements - user gets achievements based on activity
+- Achievements - user gets achievements based on activity
+- Create multiple types of questions (images)
+- Add wikipedia reference on certain topics after the quizz have been completed (maybe based on incorect questions)
 - Mobile version with React native - Android
