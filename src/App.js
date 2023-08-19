@@ -39,24 +39,18 @@ function App() {
 
   // handler function that takes object generated in form for quizz settings
   function handleQuizzSettings(item) {
-    setCategory((prev) => item.chosenCategory);
-    setNumOfQuestions((prev) => Number(item.chosenNumOfQuestions));
+    setNumOfQuestions(Number(item.chosenNumOfQuestions));
+    setCategory(item.chosenCategory);
 
     const selectedQuestionsList = categoryFilters[item.chosenCategory];
-    setSelectedQuestions((prev) => selectedQuestionsList);
+    setSelectedQuestions(selectedQuestionsList);
 
     // generating random array
-
-    if (selectedQuestionsList) {
-      setSelectedQuestions(selectedQuestionsList);
-
-      // generating random array
-
-      const randomList = Array.from({ length: numOfQuestions }, () =>
-        Math.floor(Math.random() * (selectedQuestionsList.length - 1))
-      );
-      setRandomArray(randomList ? randomList : initialList);
-    }
+    const randomList = Array.from(
+      { length: Number(item.chosenNumOfQuestions) },
+      () => Math.floor(Math.random() * selectedQuestionsList.length)
+    );
+    setRandomArray(randomList);
     setStarted(true);
   }
 
@@ -79,7 +73,11 @@ function App() {
             numOfQuestions={numOfQuestions}
           />
         ) : (
-          <div className="question">Select settings to start</div>
+          <div className="question">
+            <h2 className="title">
+              Select your Quizzie settings and start new game!
+            </h2>
+          </div>
         )}
       </div>
     </div>
