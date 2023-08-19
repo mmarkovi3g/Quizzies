@@ -19,6 +19,8 @@ function App() {
     history: questions.filter((question) => question.category === "history"),
   };
 
+  /* console.log(questions.length); */
+
   // state for filtered questions passed to form component so i can handle changes directly - set to full JSON file on default
   const [filteredQuestions, setFilteredQuestions] = useState(questions);
   //
@@ -69,6 +71,8 @@ function App() {
             randomArray={randomArray}
             selectedQuestions={selectedQuestions}
             numOfQuestions={numOfQuestions}
+            started={started}
+            setStarted={setStarted}
           />
         ) : (
           <div className="question">

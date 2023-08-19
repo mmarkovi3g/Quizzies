@@ -2306,5 +2306,3813 @@
     "optionD": "Art exhibitions",
     "answer": "Gladiatorial contests",
     "category": "history"
+  },
+  {
+    "question": "Which famous medieval battle in 1066 marked the beginning of Norman conquest in England?",
+    "optionA": "Battle of Agincourt",
+    "optionB": "Battle of Hastings",
+    "optionC": "Battle of Bannockburn",
+    "optionD": "Battle of Tours",
+    "answer": "Battle of Hastings",
+    "category": "history"
+  },
+  {
+    "question": "The Magna Carta, signed in 1215, was a significant document that limited the power of which monarch?",
+    "optionA": "Henry VIII",
+    "optionB": "Richard the Lionheart",
+    "optionC": "Edward I",
+    "optionD": "John",
+    "answer": "John",
+    "category": "history"
+  },
+  {
+    "question": "Joan of Arc, a young woman who played a key role in the Hundred Years' War, was from which country?",
+    "optionA": "England",
+    "optionB": "France",
+    "optionC": "Spain",
+    "optionD": "Scotland",
+    "answer": "France",
+    "category": "history"
+  },
+  {
+    "question": "The period of cultural and economic revival that occurred in Europe during the late Middle Ages is known as the...",
+    "optionA": "Renaissance",
+    "optionB": "Enlightenment",
+    "optionC": "Industrial Revolution",
+    "optionD": "Age of Exploration",
+    "answer": "Renaissance",
+    "category": "history"
+  },
+  {
+    "question": "The medieval architectural style characterized by pointed arches, ribbed vaults, and flying buttresses is known as...",
+    "optionA": "Baroque",
+    "optionB": "Gothic",
+    "optionC": "Romanesque",
+    "optionD": "Neoclassical",
+    "answer": "Gothic",
+    "category": "history"
+  },
+  {
+    "question": "Which medieval European event led to the widespread death of a significant portion of the population due to a bacterial infection?",
+    "optionA": "Hundred Years' War",
+    "optionB": "Black Death",
+    "optionC": "War of the Roses",
+    "optionD": "Crusades",
+    "answer": "Black Death",
+    "category": "history"
+  },
+  {
+    "question": "Which medieval order of knights played a central role during the Crusades?",
+    "optionA": "Teutonic Knights",
+    "optionB": "Knights Templar",
+    "optionC": "Order of the Garter",
+    "optionD": "Order of the Golden Fleece",
+    "answer": "Knights Templar",
+    "category": "history"
+  },
+  {
+    "question": "William the Conqueror, who became King of England in 1066, was originally from which country?",
+    "optionA": "France",
+    "optionB": "Germany",
+    "optionC": "Scotland",
+    "optionD": "Spain",
+    "answer": "France",
+    "category": "history"
+  },
+  {
+    "question": "Which medieval English document, signed in 1297, further limited the power of the monarchy and established the principle of no taxation without representation?",
+    "optionA": "Magna Carta",
+    "optionB": "Habeas Corpus Act",
+    "optionC": "Bill of Rights",
+    "optionD": "Petition of Right",
+    "answer": "Petition of Right",
+    "category": "history"
+  },
+  {
+    "question": "The medieval period is often divided into three major segments: the Early Middle Ages, the High Middle Ages, and the...",
+    "optionA": "Late Middle Ages",
+    "optionB": "Dark Ages",
+    "optionC": "Renaissance Period",
+    "optionD": "Enlightenment Era",
+    "answer": "Late Middle Ages",
+    "category": "history"
+  },
+
+  {
+    "question": "The medieval Byzantine Empire was known for preserving and transmitting knowledge from which ancient civilization?",
+    "optionA": "Egypt",
+    "optionB": "Greece",
+    "optionC": "Rome",
+    "optionD": "Persia",
+    "answer": "Greece",
+    "category": "history"
+  },
+  {
+    "question": "Which famous medieval castle, located in Scotland, is associated with the legend of King Arthur?",
+    "optionA": "Edinburgh Castle",
+    "optionB": "Caernarfon Castle",
+    "optionC": "Stirling Castle",
+    "optionD": "Tintagel Castle",
+    "answer": "Tintagel Castle",
+    "category": "history"
+  },
+  {
+    "question": "The medieval trade route that connected Europe with Asia, allowing for the exchange of goods and ideas, is called the...",
+    "optionA": "Silk Road",
+    "optionB": "Trans-Saharan Route",
+    "optionC": "Amber Route",
+    "optionD": "Gold Road",
+    "answer": "Silk Road",
+    "category": "history"
+  },
+  {
+    "question": "Which medieval English king is famous for his role in the Third Crusade and his efforts to expand the Angevin Empire?",
+    "optionA": "Henry II",
+    "optionB": "Richard the Lionheart",
+    "optionC": "Edward III",
+    "optionD": "William the Conqueror",
+    "answer": "Richard the Lionheart",
+    "category": "history"
+  },
+  {
+    "question": "The medieval Spanish landmark known as Alhambra is a palace and fortress complex located in which city?",
+    "optionA": "Seville",
+    "optionB": "Toledo",
+    "optionC": "Granada",
+    "optionD": "Barcelona",
+    "answer": "Granada",
+    "category": "history"
+  },
+  {
+    "question": "Which medieval queen was known for her influential role during the Hundred Years' War and her support of the French army?",
+    "optionA": "Isabella of Castile",
+    "optionB": "Eleanor of Aquitaine",
+    "optionC": "Mary Queen of Scots",
+    "optionD": "Joan of Arc",
+    "answer": "Joan of Arc",
+    "category": "history"
+  },
+  {
+    "question": "During the medieval period, the Carolingian Empire was established by which Frankish king?",
+    "optionA": "Charlemagne",
+    "optionB": "Clovis I",
+    "optionC": "Louis XIV",
+    "optionD": "Pepin the Short",
+    "answer": "Charlemagne",
+    "category": "history"
+  },
+  {
+    "question": "The medieval 'Domesday Book' was a survey ordered by which English monarch to assess landholdings and taxation?",
+    "optionA": "Edward the Confessor",
+    "optionB": "William the Conqueror",
+    "optionC": "Henry II",
+    "optionD": "John",
+    "answer": "William the Conqueror",
+    "category": "history"
+  },
+  {
+    "question": "Medieval guilds played a significant role in the development of trade and craftsmanship. Which famous city is often associated with the Hanseatic League?",
+    "optionA": "Venice",
+    "optionB": "Hamburg",
+    "optionC": "Bruges",
+    "optionD": "Cologne",
+    "answer": "Hamburg",
+    "category": "history"
+  },
+  {
+    "question": "The medieval concept of chivalry was closely associated with which social institution?",
+    "optionA": "Monasteries",
+    "optionB": "Noble Courts",
+    "optionC": "Universities",
+    "optionD": "Merchant Guilds",
+    "answer": "Noble Courts",
+    "category": "history"
+  },
+  {
+    "question": "The medieval Byzantine Empire was known for preserving and transmitting knowledge from which ancient civilization?",
+    "optionA": "Egypt",
+    "optionB": "Greece",
+    "optionC": "Rome",
+    "optionD": "Persia",
+    "answer": "Greece",
+    "category": "history"
+  },
+  {
+    "question": "Which famous medieval castle, located in Scotland, is associated with the legend of King Arthur?",
+    "optionA": "Edinburgh Castle",
+    "optionB": "Caernarfon Castle",
+    "optionC": "Stirling Castle",
+    "optionD": "Tintagel Castle",
+    "answer": "Tintagel Castle",
+    "category": "history"
+  },
+  {
+    "question": "The medieval trade route that connected Europe with Asia, allowing for the exchange of goods and ideas, is called the...",
+    "optionA": "Silk Road",
+    "optionB": "Trans-Saharan Route",
+    "optionC": "Amber Route",
+    "optionD": "Gold Road",
+    "answer": "Silk Road",
+    "category": "history"
+  },
+  {
+    "question": "Which medieval English king is famous for his role in the Third Crusade and his efforts to expand the Angevin Empire?",
+    "optionA": "Henry II",
+    "optionB": "Richard the Lionheart",
+    "optionC": "Edward III",
+    "optionD": "William the Conqueror",
+    "answer": "Richard the Lionheart",
+    "category": "history"
+  },
+  {
+    "question": "The medieval Spanish landmark known as Alhambra is a palace and fortress complex located in which city?",
+    "optionA": "Seville",
+    "optionB": "Toledo",
+    "optionC": "Granada",
+    "optionD": "Barcelona",
+    "answer": "Granada",
+    "category": "history"
+  },
+  {
+    "question": "Which medieval queen was known for her influential role during the Hundred Years' War and her support of the French army?",
+    "optionA": "Isabella of Castile",
+    "optionB": "Eleanor of Aquitaine",
+    "optionC": "Mary Queen of Scots",
+    "optionD": "Joan of Arc",
+    "answer": "Joan of Arc",
+    "category": "history"
+  },
+  {
+    "question": "During the medieval period, the Carolingian Empire was established by which Frankish king?",
+    "optionA": "Charlemagne",
+    "optionB": "Clovis I",
+    "optionC": "Louis XIV",
+    "optionD": "Pepin the Short",
+    "answer": "Charlemagne",
+    "category": "history"
+  },
+  {
+    "question": "The medieval 'Domesday Book' was a survey ordered by which English monarch to assess landholdings and taxation?",
+    "optionA": "Edward the Confessor",
+    "optionB": "William the Conqueror",
+    "optionC": "Henry II",
+    "optionD": "John",
+    "answer": "William the Conqueror",
+    "category": "history"
+  },
+  {
+    "question": "Medieval guilds played a significant role in the development of trade and craftsmanship. Which famous city is often associated with the Hanseatic League?",
+    "optionA": "Venice",
+    "optionB": "Hamburg",
+    "optionC": "Bruges",
+    "optionD": "Cologne",
+    "answer": "Hamburg",
+    "category": "history"
+  },
+  {
+    "question": "The medieval concept of chivalry was closely associated with which social institution?",
+    "optionA": "Monasteries",
+    "optionB": "Noble Courts",
+    "optionC": "Universities",
+    "optionD": "Merchant Guilds",
+    "answer": "Noble Courts",
+    "category": "history"
+  },
+  {
+    "question": "The Bayeux Tapestry, an embroidered cloth that depicts the events leading up to the Norman conquest of England, is from which medieval period?",
+    "optionA": "Viking Age",
+    "optionB": "Carolingian Renaissance",
+    "optionC": "Crusades Era",
+    "optionD": "Norman Conquest",
+    "answer": "Norman Conquest",
+    "category": "history"
+  },
+  {
+    "question": "Which medieval military order was established for the protection of pilgrims traveling to the Holy Land during the Crusades?",
+    "optionA": "Teutonic Knights",
+    "optionB": "Knights Templar",
+    "optionC": "Order of the Garter",
+    "optionD": "Order of Saint Lazarus",
+    "answer": "Knights Templar",
+    "category": "history"
+  },
+  {
+    "question": "The medieval University of Bologna, established in the 11th century, is known for its focus on which field of study?",
+    "optionA": "Law",
+    "optionB": "Theology",
+    "optionC": "Medicine",
+    "optionD": "Philosophy",
+    "answer": "Law",
+    "category": "history"
+  },
+  {
+    "question": "The medieval pilgrimage route that leads to the Cathedral of Santiago de Compostela in Spain is known as the...",
+    "optionA": "Silk Road",
+    "optionB": "Via Sacra",
+    "optionC": "Way of St. James",
+    "optionD": "Pilgrim's Path",
+    "answer": "Way of St. James",
+    "category": "history"
+  },
+  {
+    "question": "The medieval Hanseatic League primarily focused on trade in which geographical region?",
+    "optionA": "Mediterranean Sea",
+    "optionB": "Baltic Sea",
+    "optionC": "Atlantic Ocean",
+    "optionD": "Indian Ocean",
+    "answer": "Baltic Sea",
+    "category": "history"
+  },
+  {
+    "question": "The medieval epic poem 'Song of Roland' is a significant literary work from which cultural context?",
+    "optionA": "Viking Sagas",
+    "optionB": "Arabian Nights",
+    "optionC": "Celtic Legends",
+    "optionD": "Chanson de Geste",
+    "answer": "Chanson de Geste",
+    "category": "history"
+  },
+  {
+    "question": "During the medieval period, the 'War of the Roses' was a series of conflicts between which two English houses?",
+    "optionA": "House of York and House of Tudor",
+    "optionB": "House of Lancaster and House of Plantagenet",
+    "optionC": "House of Stuart and House of Hanover",
+    "optionD": "House of Wessex and House of Mercia",
+    "answer": "House of York and House of Tudor",
+    "category": "history"
+  },
+  {
+    "question": "The medieval code of conduct that knights were expected to uphold, emphasizing virtues like courage, loyalty, and courtesy, is known as...",
+    "optionA": "Royal Edict",
+    "optionB": "Feudal Oath",
+    "optionC": "Noble Covenant",
+    "optionD": "Chivalry",
+    "answer": "Chivalry",
+    "category": "history"
+  },
+  {
+    "question": "Which medieval English document, issued in 1689, established constitutional monarchy and limited the powers of the monarchy?",
+    "optionA": "Magna Carta",
+    "optionB": "Habeas Corpus Act",
+    "optionC": "Bill of Rights",
+    "optionD": "Petition of Right",
+    "answer": "Bill of Rights",
+    "category": "history"
+  },
+  {
+    "question": "The medieval plague that swept through Europe in the 14th century and caused widespread death is also known as the...",
+    "optionA": "Spanish Flu",
+    "optionB": "Yellow Fever",
+    "optionC": "Black Death",
+    "optionD": "Cholera Outbreak",
+    "answer": "Black Death",
+    "category": "history"
+  },
+  {
+    "question": "The medieval 'Magna Carta' was signed in 1215, primarily to address issues between King John of England and...",
+    "optionA": "The Pope",
+    "optionB": "The Barons",
+    "optionC": "The Knights Templar",
+    "optionD": "The Peasants",
+    "answer": "The Barons",
+    "category": "history"
+  },
+  {
+    "question": "The medieval 'Inquisition' was a series of institutions aimed at combating heresy in which religious institution?",
+    "optionA": "Eastern Orthodox Church",
+    "optionB": "Buddhism",
+    "optionC": "Judaism",
+    "optionD": "Catholic Church",
+    "answer": "Catholic Church",
+    "category": "history"
+  },
+  {
+    "question": "The medieval 'Battle of Agincourt,' a significant English victory during the Hundred Years' War, occurred in which year?",
+    "optionA": "1415",
+    "optionB": "1347",
+    "optionC": "1453",
+    "optionD": "1389",
+    "answer": "1415",
+    "category": "history"
+  },
+  {
+    "question": "The medieval 'Domed Hagia Sophia' in Constantinople, now Istanbul, was originally built as a...",
+    "optionA": "Cathedral",
+    "optionB": "Mosque",
+    "optionC": "Palace",
+    "optionD": "Library",
+    "answer": "Cathedral",
+    "category": "history"
+  },
+  {
+    "question": "Medieval 'Viking' explorers and traders originated from which region?",
+    "optionA": "Iceland",
+    "optionB": "Greenland",
+    "optionC": "Scandinavia",
+    "optionD": "Russia",
+    "answer": "Scandinavia",
+    "category": "history"
+  },
+  {
+    "question": "The medieval 'Charlemagne' was crowned as the Holy Roman Emperor in the year...",
+    "optionA": "800",
+    "optionB": "843",
+    "optionC": "911",
+    "optionD": "1066",
+    "answer": "800",
+    "category": "history"
+  },
+  {
+    "question": "Medieval 'Castles' were primarily built for which purpose?",
+    "optionA": "Religious ceremonies",
+    "optionB": "Trade negotiations",
+    "optionC": "Military defense",
+    "optionD": "Agricultural development",
+    "answer": "Military defense",
+    "category": "history"
+  },
+  {
+    "question": "The medieval 'Feudal System' was characterized by the exchange of land for...",
+    "optionA": "Gold and silver",
+    "optionB": "Education",
+    "optionC": "Military service and loyalty",
+    "optionD": "Craftsmanship",
+    "answer": "Military service and loyalty",
+    "category": "history"
+  },
+  {
+    "question": "The medieval 'Battle of Tours,' fought in 732, is notable for halting the expansion of which empire?",
+    "optionA": "Byzantine Empire",
+    "optionB": "Mongol Empire",
+    "optionC": "Ottoman Empire",
+    "optionD": "Umayyad Caliphate",
+    "answer": "Umayyad Caliphate",
+    "category": "history"
+  },
+  {
+    "question": "Medieval 'Guilds' played a significant role in regulating which aspect of society?",
+    "optionA": "Religious practices",
+    "optionB": "Trade and craftsmanship",
+    "optionC": "Military operations",
+    "optionD": "Monarchy",
+    "answer": "Trade and craftsmanship",
+    "category": "history"
+  },
+  {
+    "question": "Which athlete is often referred to as 'The Greatest' in the history of boxing?",
+    "optionA": "Mike Tyson",
+    "optionB": "Muhammad Ali",
+    "optionC": "Floyd Mayweather",
+    "optionD": "Sugar Ray Leonard",
+    "answer": "Muhammad Ali",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport is a 'birdie' a common term?",
+    "optionA": "Basketball",
+    "optionB": "Tennis",
+    "optionC": "Golf",
+    "optionD": "Soccer",
+    "answer": "Golf",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "optionA": "Brazil",
+    "optionB": "China",
+    "optionC": "Russia",
+    "optionD": "United States",
+    "answer": "Brazil",
+    "category": "sports"
+  },
+  {
+    "question": "Which professional basketball player is known by the nickname 'The King'?",
+    "optionA": "Kobe Bryant",
+    "optionB": "Kevin Durant",
+    "optionC": "LeBron James",
+    "optionD": "Stephen Curry",
+    "answer": "LeBron James",
+    "category": "sports"
+  },
+  {
+    "question": "In American football, how many points is a touchdown worth?",
+    "optionA": "4",
+    "optionB": "5",
+    "optionC": "6",
+    "optionD": "7",
+    "answer": "6",
+    "category": "sports"
+  },
+  {
+    "question": "Which track and field event involves throwing a heavy metal ball?",
+    "optionA": "Discus",
+    "optionB": "Shot Put",
+    "optionC": "Javelin",
+    "optionD": "Hammer Throw",
+    "answer": "Shot Put",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport has the term 'ace' commonly used to describe a powerful serve?",
+    "optionA": "Tennis",
+    "optionB": "Golf",
+    "optionC": "Baseball",
+    "optionD": "Cricket",
+    "answer": "Tennis",
+    "category": "sports"
+  },
+  {
+    "question": "Which country won the FIFA Women's World Cup in 2019?",
+    "optionA": "Germany",
+    "optionB": "United States",
+    "optionC": "Japan",
+    "optionD": "France",
+    "answer": "United States",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport is known as 'the gentleman's game'?",
+    "optionA": "Cricket",
+    "optionB": "Rugby",
+    "optionC": "Soccer",
+    "optionD": "Basketball",
+    "answer": "Cricket",
+    "category": "sports"
+  },
+  {
+    "question": "The 'Grand Slam' tournaments are the most prestigious events in which sport?",
+    "optionA": "Tennis",
+    "optionB": "Golf",
+    "optionC": "Swimming",
+    "optionD": "Cycling",
+    "answer": "Tennis",
+    "category": "sports"
+  },
+  {
+    "question": "Which athlete has won the most Olympic gold medals in history?",
+    "optionA": "Usain Bolt",
+    "optionB": "Michael Phelps",
+    "optionC": "Carl Lewis",
+    "optionD": "Jesse Owens",
+    "answer": "Michael Phelps",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport uses a shuttlecock and a racquet?",
+    "optionA": "Badminton",
+    "optionB": "Squash",
+    "optionC": "Table Tennis",
+    "optionD": "Volleyball",
+    "answer": "Badminton",
+    "category": "sports"
+  },
+  {
+    "question": "In which country was the martial art of judo developed?",
+    "optionA": "China",
+    "optionB": "Japan",
+    "optionC": "Korea",
+    "optionD": "Thailand",
+    "answer": "Japan",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport is associated with the term 'slam dunk'?",
+    "optionA": "Soccer",
+    "optionB": "Basketball",
+    "optionC": "Golf",
+    "optionD": "Tennis",
+    "answer": "Basketball",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport might you perform a 'pommel horse' routine?",
+    "optionA": "Gymnastics",
+    "optionB": "Fencing",
+    "optionC": "Synchronized Swimming",
+    "optionD": "Ice Hockey",
+    "answer": "Gymnastics",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport is known as 'The King of Sports'?",
+    "optionA": "Soccer",
+    "optionB": "Cricket",
+    "optionC": "Basketball",
+    "optionD": "Tennis",
+    "answer": "Soccer",
+    "category": "sports"
+  },
+  {
+    "question": "The term 'double fault' is associated with which sport?",
+    "optionA": "Tennis",
+    "optionB": "Golf",
+    "optionC": "Swimming",
+    "optionD": "Badminton",
+    "answer": "Tennis",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport is often referred to as 'America's pastime'?",
+    "optionA": "Baseball",
+    "optionB": "American Football",
+    "optionC": "Basketball",
+    "optionD": "Ice Hockey",
+    "answer": "Baseball",
+    "category": "sports"
+  },
+  {
+    "question": "In which city were the first modern Olympic Games held in 1896?",
+    "optionA": "Paris",
+    "optionB": "London",
+    "optionC": "Athens",
+    "optionD": "Rome",
+    "answer": "Athens",
+    "category": "sports"
+  },
+  {
+    "question": "The sport of sumo wrestling originated in which country?",
+    "optionA": "Japan",
+    "optionB": "China",
+    "optionC": "South Korea",
+    "optionD": "Mongolia",
+    "answer": "Japan",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport is characterized by competitors racing on a track while jumping over hurdles?",
+    "optionA": "Sprint",
+    "optionB": "Long Jump",
+    "optionC": "Hurdles",
+    "optionD": "Marathon",
+    "answer": "Hurdles",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport is known for its 'butterfly' and 'backstroke' techniques?",
+    "optionA": "Synchronized Swimming",
+    "optionB": "Diving",
+    "optionC": "Water Polo",
+    "optionD": "Swimming",
+    "answer": "Swimming",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport features a 'bullseye' and is played with various types of darts?",
+    "optionA": "Archery",
+    "optionB": "Billiards",
+    "optionC": "Darts",
+    "optionD": "Bowling",
+    "answer": "Darts",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport involves shooting a target with a rifle or pistol from a specified distance?",
+    "optionA": "Archery",
+    "optionB": "Shooting",
+    "optionC": "Fencing",
+    "optionD": "Boxing",
+    "answer": "Shooting",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport is the 'Wimbledon Championships' a major event?",
+    "optionA": "Golf",
+    "optionB": "Tennis",
+    "optionC": "Soccer",
+    "optionD": "Cricket",
+    "answer": "Tennis",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport's most prestigious event is the 'Tour de France'?",
+    "optionA": "Running",
+    "optionB": "Swimming",
+    "optionC": "Cycling",
+    "optionD": "Triathlon",
+    "answer": "Cycling",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport is the 'Heisman Trophy' awarded?",
+    "optionA": "Basketball",
+    "optionB": "American Football",
+    "optionC": "Baseball",
+    "optionD": "Soccer",
+    "answer": "American Football",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport involves a competition to score points by landing punches on the opponent's body or head?",
+    "optionA": "Wrestling",
+    "optionB": "Boxing",
+    "optionC": "Karate",
+    "optionD": "Judo",
+    "answer": "Boxing",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport is known for its 'spin' and 'hook' techniques?",
+    "optionA": "Tennis",
+    "optionB": "Golf",
+    "optionC": "Baseball",
+    "optionD": "Table Tennis",
+    "answer": "Baseball",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport's world championship is known as the 'Super Bowl'?",
+    "optionA": "Soccer",
+    "optionB": "American Football",
+    "optionC": "Basketball",
+    "optionD": "Ice Hockey",
+    "answer": "American Football",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport involves a rectangular ring surrounded by ropes and corners?",
+    "optionA": "Sumo Wrestling",
+    "optionB": "Judo",
+    "optionC": "Boxing",
+    "optionD": "Karate",
+    "answer": "Boxing",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport do competitors aim to knock down pins with a heavy ball?",
+    "optionA": "Bowling",
+    "optionB": "Billiards",
+    "optionC": "Darts",
+    "optionD": "Archery",
+    "answer": "Bowling",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport's major event is the 'Ryder Cup' contested between teams from the United States and Europe?",
+    "optionA": "Tennis",
+    "optionB": "Golf",
+    "optionC": "Soccer",
+    "optionD": "Cricket",
+    "answer": "Golf",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport involves athletes performing various gymnastic and dance movements on a floor exercise mat?",
+    "optionA": "Gymnastics",
+    "optionB": "Figure Skating",
+    "optionC": "Synchronized Swimming",
+    "optionD": "Diving",
+    "answer": "Gymnastics",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport is the 'Davis Cup' an international team event?",
+    "optionA": "Soccer",
+    "optionB": "Basketball",
+    "optionC": "Tennis",
+    "optionD": "Cricket",
+    "answer": "Tennis",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport involves competitors racing on ice using special shoes with blades?",
+    "optionA": "Ice Hockey",
+    "optionB": "Figure Skating",
+    "optionC": "Curling",
+    "optionD": "Speed Skating",
+    "answer": "Speed Skating",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport's most prestigious event is the 'World Series'?",
+    "optionA": "Baseball",
+    "optionB": "American Football",
+    "optionC": "Basketball",
+    "optionD": "Soccer",
+    "answer": "Baseball",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport do players compete to see who can throw a heavy spherical object the farthest?",
+    "optionA": "Shot Put",
+    "optionB": "Hammer Throw",
+    "optionC": "Javelin",
+    "optionD": "Discus",
+    "answer": "Hammer Throw",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport's major event is the 'World Cup'?",
+    "optionA": "Rugby",
+    "optionB": "Soccer",
+    "optionC": "Cricket",
+    "optionD": "Hockey",
+    "answer": "Soccer",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport do competitors race on a track while jumping over water-filled barriers?",
+    "optionA": "Horse Racing",
+    "optionB": "Steeplechase",
+    "optionC": "Sprint",
+    "optionD": "Long Jump",
+    "answer": "Steeplechase",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport's major event is the 'World Cup of Golf'?",
+    "optionA": "Tennis",
+    "optionB": "Golf",
+    "optionC": "Soccer",
+    "optionD": "Cricket",
+    "answer": "Golf",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport do competitors race on a track while jumping over hurdles and water-filled barriers?",
+    "optionA": "Horse Racing",
+    "optionB": "Steeplechase",
+    "optionC": "Sprint",
+    "optionD": "Long Jump",
+    "answer": "Steeplechase",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport's major event is the 'World Cup of Golf'?",
+    "optionA": "Tennis",
+    "optionB": "Golf",
+    "optionC": "Soccer",
+    "optionD": "Cricket",
+    "answer": "Golf",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport do competitors race on a track while jumping over hurdles?",
+    "optionA": "Running",
+    "optionB": "Long Jump",
+    "optionC": "Hurdles",
+    "optionD": "Marathon",
+    "answer": "Hurdles",
+    "category": "sports"
+  },
+  {
+    "question": "Which sport involves racing small watercraft using paddle propulsion?",
+    "optionA": "Kayaking",
+    "optionB": "Sailing",
+    "optionC": "Rowing",
+    "optionD": "Canoeing",
+    "answer": "Kayaking",
+    "category": "sports"
+  },
+  {
+    "question": "In which sport is the 'Green Jacket' awarded to the winner of the prestigious event?",
+    "optionA": "Tennis",
+    "optionB": "Golf",
+    "optionC": "Soccer",
+    "optionD": "Cricket",
+    "answer": "Golf",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most goals scored in a single soccer World Cup tournament?",
+    "optionA": "Pele",
+    "optionB": "Lionel Messi",
+    "optionC": "Cristiano Ronaldo",
+    "optionD": "Miroslav Klose",
+    "answer": "Miroslav Klose",
+    "category": "sports"
+  },
+  {
+    "question": "Which soccer player has won the most FIFA Ballon d'Or awards?",
+    "optionA": "Diego Maradona",
+    "optionB": "Cristiano Ronaldo",
+    "optionC": "Zinedine Zidane",
+    "optionD": "Lionel Messi",
+    "answer": "Lionel Messi",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most points scored in a single NBA basketball game?",
+    "optionA": "Kobe Bryant",
+    "optionB": "Wilt Chamberlain",
+    "optionC": "Michael Jordan",
+    "optionD": "LeBron James",
+    "answer": "Wilt Chamberlain",
+    "category": "sports"
+  },
+  {
+    "question": "Which basketball player has the highest career points per game average in NBA history?",
+    "optionA": "LeBron James",
+    "optionB": "Kareem Abdul-Jabbar",
+    "optionC": "Kobe Bryant",
+    "optionD": "Michael Jordan",
+    "answer": "Michael Jordan",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most Olympic gold medals won by an individual athlete?",
+    "optionA": "Usain Bolt",
+    "optionB": "Michael Phelps",
+    "optionC": "Simone Biles",
+    "optionD": "Nadia Comaneci",
+    "answer": "Michael Phelps",
+    "category": "sports"
+  },
+  {
+    "question": "Which soccer player has scored the most goals in the history of UEFA Champions League?",
+    "optionA": "Cristiano Ronaldo",
+    "optionB": "Lionel Messi",
+    "optionC": "Raul",
+    "optionD": "Thierry Henry",
+    "answer": "Cristiano Ronaldo",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career points in NBA history?",
+    "optionA": "Kareem Abdul-Jabbar",
+    "optionB": "LeBron James",
+    "optionC": "Kobe Bryant",
+    "optionD": "Michael Jordan",
+    "answer": "Kareem Abdul-Jabbar",
+    "category": "sports"
+  },
+  {
+    "question": "Which soccer player has won the most UEFA Champions League titles?",
+    "optionA": "Cristiano Ronaldo",
+    "optionB": "Lionel Messi",
+    "optionC": "Paolo Maldini",
+    "optionD": "Xavi Hernandez",
+    "answer": "Paolo Maldini",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career triple-doubles in NBA history?",
+    "optionA": "Magic Johnson",
+    "optionB": "LeBron James",
+    "optionC": "Russell Westbrook",
+    "optionD": "Oscar Robertson",
+    "answer": "Russell Westbrook",
+    "category": "sports"
+  },
+  {
+    "question": "Which soccer player has the most career international caps?",
+    "optionA": "Cristiano Ronaldo",
+    "optionB": "Lionel Messi",
+    "optionC": "Ahmed Hassan",
+    "optionD": "Xavi Hernandez",
+    "answer": "Ahmed Hassan",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career steals in NBA history?",
+    "optionA": "Chris Paul",
+    "optionB": "Scottie Pippen",
+    "optionC": "John Stockton",
+    "optionD": "Gary Payton",
+    "answer": "John Stockton",
+    "category": "sports"
+  },
+  {
+    "question": "Which soccer player has scored the most goals for a single club in their career?",
+    "optionA": "Lionel Messi",
+    "optionB": "Cristiano Ronaldo",
+    "optionC": "Pele",
+    "optionD": "Franz Beckenbauer",
+    "answer": "Lionel Messi",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career assists in NBA history?",
+    "optionA": "Chris Paul",
+    "optionB": "John Stockton",
+    "optionC": "Magic Johnson",
+    "optionD": "Steve Nash",
+    "answer": "John Stockton",
+    "category": "sports"
+  },
+  {
+    "question": "Which soccer player has the most FIFA World Cup appearances?",
+    "optionA": "Lothar Matthaus",
+    "optionB": "Pele",
+    "optionC": "Diego Maradona",
+    "optionD": "Cafu",
+    "answer": "Lothar Matthaus",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most home runs in a single MLB baseball season?",
+    "optionA": "Barry Bonds",
+    "optionB": "Babe Ruth",
+    "optionC": "Mark McGwire",
+    "optionD": "Sammy Sosa",
+    "answer": "Barry Bonds",
+    "category": "sports"
+  },
+  {
+    "question": "Which basketball player has won the most NBA championships as a player?",
+    "optionA": "Magic Johnson",
+    "optionB": "Bill Russell",
+    "optionC": "Michael Jordan",
+    "optionD": "Kareem Abdul-Jabbar",
+    "answer": "Bill Russell",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career goals in men's international soccer?",
+    "optionA": "Cristiano Ronaldo",
+    "optionB": "Pele",
+    "optionC": "Miroslav Klose",
+    "optionD": "Ali Daei",
+    "answer": "Ali Daei",
+    "category": "sports"
+  },
+  {
+    "question": "Which basketball player has the most career points in NCAA men's basketball history?",
+    "optionA": "Kareem Abdul-Jabbar",
+    "optionB": "Kevin Durant",
+    "optionC": "Larry Bird",
+    "optionD": "Christian Laettner",
+    "answer": "Christian Laettner",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career assists in NHL hockey history?",
+    "optionA": "Wayne Gretzky",
+    "optionB": "Mario Lemieux",
+    "optionC": "Jaromir Jagr",
+    "optionD": "Mark Messier",
+    "answer": "Wayne Gretzky",
+    "category": "sports"
+  },
+  {
+    "question": "Which soccer player has scored the most career goals for a single club in the top five European leagues?",
+    "optionA": "Thierry Henry",
+    "optionB": "Lionel Messi",
+    "optionC": "Gerd Muller",
+    "optionD": "Ferenc Puskas",
+    "answer": "Lionel Messi",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career wins as a starting pitcher in MLB baseball?",
+    "optionA": "Roger Clemens",
+    "optionB": "Nolan Ryan",
+    "optionC": "Greg Maddux",
+    "optionD": "Cy Young",
+    "answer": "Cy Young",
+    "category": "sports"
+  },
+  {
+    "question": "Which basketball player holds the record for the most points scored in a single NBA playoff game?",
+    "optionA": "Kobe Bryant",
+    "optionB": "Michael Jordan",
+    "optionC": "Wilt Chamberlain",
+    "optionD": "LeBron James",
+    "answer": "Michael Jordan",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career goals scored in the NHL hockey?",
+    "optionA": "Wayne Gretzky",
+    "optionB": "Jaromir Jagr",
+    "optionC": "Brett Hull",
+    "optionD": "Mario Lemieux",
+    "answer": "Wayne Gretzky",
+    "category": "sports"
+  },
+  {
+    "question": "Which soccer player holds the record for the most assists in a single Premier League season?",
+    "optionA": "Thierry Henry",
+    "optionB": "Frank Lampard",
+    "optionC": "Kevin De Bruyne",
+    "optionD": "Ryan Giggs",
+    "answer": "Kevin De Bruyne",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career victories in Formula One racing?",
+    "optionA": "Ayrton Senna",
+    "optionB": "Michael Schumacher",
+    "optionC": "Lewis Hamilton",
+    "optionD": "Sebastian Vettel",
+    "answer": "Lewis Hamilton",
+    "category": "sports"
+  },
+  {
+    "question": "Which basketball player holds the record for the most career steals in NBA history?",
+    "optionA": "John Stockton",
+    "optionB": "Chris Paul",
+    "optionC": "Scottie Pippen",
+    "optionD": "Jason Kidd",
+    "answer": "John Stockton",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career home runs in MLB baseball?",
+    "optionA": "Babe Ruth",
+    "optionB": "Barry Bonds",
+    "optionC": "Hank Aaron",
+    "optionD": "Alex Rodriguez",
+    "answer": "Barry Bonds",
+    "category": "sports"
+  },
+  {
+    "question": "Which soccer player has the most career hat-tricks in the UEFA Champions League?",
+    "optionA": "Cristiano Ronaldo",
+    "optionB": "Lionel Messi",
+    "optionC": "Thierry Henry",
+    "optionD": "Raul",
+    "answer": "Lionel Messi",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career rebounds in NBA history?",
+    "optionA": "Dennis Rodman",
+    "optionB": "Karl Malone",
+    "optionC": "Wilt Chamberlain",
+    "optionD": "Bill Russell",
+    "answer": "Wilt Chamberlain",
+    "category": "sports"
+  },
+  {
+    "question": "Which basketball player holds the record for the most career assists in NBA history?",
+    "optionA": "Chris Paul",
+    "optionB": "John Stockton",
+    "optionC": "Magic Johnson",
+    "optionD": "Jason Kidd",
+    "answer": "John Stockton",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most goals scored in a single NHL hockey season?",
+    "optionA": "Wayne Gretzky",
+    "optionB": "Mario Lemieux",
+    "optionC": "Brett Hull",
+    "optionD": "Jaromir Jagr",
+    "answer": "Wayne Gretzky",
+    "category": "sports"
+  },
+  {
+    "question": "Which soccer player holds the record for the most goals in a calendar year?",
+    "optionA": "Pele",
+    "optionB": "Cristiano Ronaldo",
+    "optionC": "Lionel Messi",
+    "optionD": "Diego Maradona",
+    "answer": "Lionel Messi",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career interceptions in NFL football history?",
+    "optionA": "Deion Sanders",
+    "optionB": "Ronnie Lott",
+    "optionC": "Ed Reed",
+    "optionD": "Paul Krause",
+    "answer": "Paul Krause",
+    "category": "sports"
+  },
+  {
+    "question": "Which basketball player holds the record for the most career points in NCAA women's basketball history?",
+    "optionA": "Breanna Stewart",
+    "optionB": "Sabrina Ionescu",
+    "optionC": "Cheryl Miller",
+    "optionD": "Diana Taurasi",
+    "answer": "Cheryl Miller",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career passing touchdowns in NFL football history?",
+    "optionA": "Tom Brady",
+    "optionB": "Peyton Manning",
+    "optionC": "Drew Brees",
+    "optionD": "Brett Favre",
+    "answer": "Tom Brady",
+    "category": "sports"
+  },
+  {
+    "question": "Which soccer player holds the record for the most goals in a single Premier League season?",
+    "optionA": "Alan Shearer",
+    "optionB": "Thierry Henry",
+    "optionC": "Cristiano Ronaldo",
+    "optionD": "Mohamed Salah",
+    "answer": "Mohamed Salah",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career rushing yards in NFL football history?",
+    "optionA": "Emmitt Smith",
+    "optionB": "Walter Payton",
+    "optionC": "Barry Sanders",
+    "optionD": "Jim Brown",
+    "answer": "Emmitt Smith",
+    "category": "sports"
+  },
+  {
+    "question": "Which basketball player holds the record for the most career three-pointers made in NBA history?",
+    "optionA": "Ray Allen",
+    "optionB": "Stephen Curry",
+    "optionC": "Reggie Miller",
+    "optionD": "Klay Thompson",
+    "answer": "Stephen Curry",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career receiving yards in NFL football history?",
+    "optionA": "Jerry Rice",
+    "optionB": "Randy Moss",
+    "optionC": "Terrell Owens",
+    "optionD": "Calvin Johnson",
+    "answer": "Jerry Rice",
+    "category": "sports"
+  },
+  {
+    "question": "Which soccer player holds the record for the most goals scored in a single calendar year?",
+    "optionA": "Pele",
+    "optionB": "Cristiano Ronaldo",
+    "optionC": "Lionel Messi",
+    "optionD": "Diego Maradona",
+    "answer": "Lionel Messi",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most career sacks in NFL football history?",
+    "optionA": "Bruce Smith",
+    "optionB": "Reggie White",
+    "optionC": "Kevin Greene",
+    "optionD": "Michael Strahan",
+    "answer": "Bruce Smith",
+    "category": "sports"
+  },
+  {
+    "question": "Which basketball player holds the record for the most points scored in a single NCAA men's basketball tournament?",
+    "optionA": "Christian Laettner",
+    "optionB": "Larry Bird",
+    "optionC": "Carmelo Anthony",
+    "optionD": "Magic Johnson",
+    "answer": "Christian Laettner",
+    "category": "sports"
+  },
+  {
+    "question": "Which mountain is the highest peak in the world?",
+    "optionA": "Mount Kilimanjaro",
+    "optionB": "Mount Fuji",
+    "optionC": "Mount Everest",
+    "optionD": "Mount McKinley",
+    "answer": "Mount Everest",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain range is home to the Matterhorn peak?",
+    "optionA": "Andes",
+    "optionB": "Rocky Mountains",
+    "optionC": "Alps",
+    "optionD": "Himalayas",
+    "answer": "Alps",
+    "category": "geography"
+  },
+  {
+    "question": "In which country is Mount Fuji located?",
+    "optionA": "China",
+    "optionB": "Japan",
+    "optionC": "South Korea",
+    "optionD": "Nepal",
+    "answer": "Japan",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain range runs along the western coast of South America?",
+    "optionA": "Rocky Mountains",
+    "optionB": "Andes",
+    "optionC": "Appalachian Mountains",
+    "optionD": "Alps",
+    "answer": "Andes",
+    "category": "geography"
+  },
+  {
+    "question": "What is the tallest mountain in North America?",
+    "optionA": "Mount Kilimanjaro",
+    "optionB": "Mount Everest",
+    "optionC": "Mount McKinley",
+    "optionD": "Mount Elbrus",
+    "answer": "Mount McKinley",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain range spans the border between France and Spain?",
+    "optionA": "Appalachian Mountains",
+    "optionB": "Himalayas",
+    "optionC": "Pyrenees",
+    "optionD": "Rocky Mountains",
+    "answer": "Pyrenees",
+    "category": "geography"
+  },
+  {
+    "question": "Mount Kilimanjaro is located in which African country?",
+    "optionA": "Kenya",
+    "optionB": "Ethiopia",
+    "optionC": "Tanzania",
+    "optionD": "Uganda",
+    "answer": "Tanzania",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain range separates Europe and Asia?",
+    "optionA": "Rocky Mountains",
+    "optionB": "Andes",
+    "optionC": "Ural Mountains",
+    "optionD": "Himalayas",
+    "answer": "Ural Mountains",
+    "category": "geography"
+  },
+  {
+    "question": "In which country is Mount Kilimanjaro located?",
+    "optionA": "Kenya",
+    "optionB": "Ethiopia",
+    "optionC": "Tanzania",
+    "optionD": "Uganda",
+    "answer": "Tanzania",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain range spans the border between Italy and Switzerland?",
+    "optionA": "Rocky Mountains",
+    "optionB": "Andes",
+    "optionC": "Alps",
+    "optionD": "Himalayas",
+    "answer": "Alps",
+    "category": "geography"
+  },
+  {
+    "question": "What is the highest volcano in the world?",
+    "optionA": "Mount Vesuvius",
+    "optionB": "Mount St. Helens",
+    "optionC": "Mount Kilimanjaro",
+    "optionD": "Mount Cotopaxi",
+    "answer": "Mount Cotopaxi",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain range is known as the 'Roof of the World'?",
+    "optionA": "Rocky Mountains",
+    "optionB": "Andes",
+    "optionC": "Alps",
+    "optionD": "Himalayas",
+    "answer": "Himalayas",
+    "category": "geography"
+  },
+  {
+    "question": "Mount Rainier is a prominent peak in which U.S. state?",
+    "optionA": "California",
+    "optionB": "Washington",
+    "optionC": "Colorado",
+    "optionD": "Oregon",
+    "answer": "Washington",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain range is located in the northeastern part of North America?",
+    "optionA": "Rocky Mountains",
+    "optionB": "Andes",
+    "optionC": "Appalachian Mountains",
+    "optionD": "Alps",
+    "answer": "Appalachian Mountains",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain is known as the 'Sleeping Giant' and is part of the Rocky Mountains?",
+    "optionA": "Mount Kilimanjaro",
+    "optionB": "Mount Elbrus",
+    "optionC": "Longs Peak",
+    "optionD": "Mount Everest",
+    "answer": "Longs Peak",
+    "category": "geography"
+  },
+  {
+    "question": "What is the highest peak in Africa?",
+    "optionA": "Mount Kilimanjaro",
+    "optionB": "Mount Everest",
+    "optionC": "Mount McKinley",
+    "optionD": "Mount Elbrus",
+    "answer": "Mount Kilimanjaro",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain is often referred to as the 'Mountain of the Seven Summits'?",
+    "optionA": "Mount Kilimanjaro",
+    "optionB": "Mount Everest",
+    "optionC": "Aconcagua",
+    "optionD": "Denali",
+    "answer": "Aconcagua",
+    "category": "geography"
+  },
+  {
+    "question": "Mount Vesuvius is famously known for its eruption that destroyed which ancient city?",
+    "optionA": "Athens",
+    "optionB": "Pompeii",
+    "optionC": "Troy",
+    "optionD": "Rome",
+    "answer": "Pompeii",
+    "category": "geography"
+  },
+  {
+    "question": "Which mountain range forms the border between Norway and Sweden?",
+    "optionA": "Rocky Mountains",
+    "optionB": "Andes",
+    "optionC": "Alps",
+    "optionD": "Scandinavian Mountains",
+    "answer": "Scandinavian Mountains",
+    "category": "geography"
+  },
+  {
+    "question": "Mount Olympus is the highest peak in which mountain range?",
+    "optionA": "Andes",
+    "optionB": "Himalayas",
+    "optionC": "Rocky Mountains",
+    "optionD": "Olympus Range",
+    "answer": "Olympus Range",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of France?",
+    "optionA": "Madrid",
+    "optionB": "Berlin",
+    "optionC": "Rome",
+    "optionD": "Paris",
+    "answer": "Paris",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Germany?",
+    "optionA": "Vienna",
+    "optionB": "Berlin",
+    "optionC": "Prague",
+    "optionD": "Amsterdam",
+    "answer": "Berlin",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Italy?",
+    "optionA": "Barcelona",
+    "optionB": "Lisbon",
+    "optionC": "Rome",
+    "optionD": "Athens",
+    "answer": "Rome",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Spain?",
+    "optionA": "Paris",
+    "optionB": "Barcelona",
+    "optionC": "Madrid",
+    "optionD": "Lisbon",
+    "answer": "Madrid",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of the United Kingdom?",
+    "optionA": "Dublin",
+    "optionB": "London",
+    "optionC": "Edinburgh",
+    "optionD": "Cardiff",
+    "answer": "London",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Portugal?",
+    "optionA": "Lisbon",
+    "optionB": "Barcelona",
+    "optionC": "Rome",
+    "optionD": "Madrid",
+    "answer": "Lisbon",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Greece?",
+    "optionA": "Istanbul",
+    "optionB": "Rome",
+    "optionC": "Athens",
+    "optionD": "Cairo",
+    "answer": "Athens",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Belgium?",
+    "optionA": "Brussels",
+    "optionB": "Amsterdam",
+    "optionC": "Berlin",
+    "optionD": "Luxembourg City",
+    "answer": "Brussels",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Sweden?",
+    "optionA": "Copenhagen",
+    "optionB": "Oslo",
+    "optionC": "Stockholm",
+    "optionD": "Helsinki",
+    "answer": "Stockholm",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Poland?",
+    "optionA": "Budapest",
+    "optionB": "Warsaw",
+    "optionC": "Prague",
+    "optionD": "Vienna",
+    "answer": "Warsaw",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Netherlands?",
+    "optionA": "Copenhagen",
+    "optionB": "Oslo",
+    "optionC": "Stockholm",
+    "optionD": "Amsterdam",
+    "answer": "Amsterdam",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Switzerland?",
+    "optionA": "Vienna",
+    "optionB": "Zurich",
+    "optionC": "Geneva",
+    "optionD": "Bern",
+    "answer": "Bern",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Austria?",
+    "optionA": "Berlin",
+    "optionB": "Vienna",
+    "optionC": "Prague",
+    "optionD": "Budapest",
+    "answer": "Vienna",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Denmark?",
+    "optionA": "Helsinki",
+    "optionB": "Stockholm",
+    "optionC": "Copenhagen",
+    "optionD": "Oslo",
+    "answer": "Copenhagen",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Norway?",
+    "optionA": "Copenhagen",
+    "optionB": "Stockholm",
+    "optionC": "Oslo",
+    "optionD": "Helsinki",
+    "answer": "Oslo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Finland?",
+    "optionA": "Helsinki",
+    "optionB": "Stockholm",
+    "optionC": "Copenhagen",
+    "optionD": "Oslo",
+    "answer": "Helsinki",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Ireland?",
+    "optionA": "Dublin",
+    "optionB": "Belfast",
+    "optionC": "Edinburgh",
+    "optionD": "Cardiff",
+    "answer": "Dublin",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Hungary?",
+    "optionA": "Prague",
+    "optionB": "Warsaw",
+    "optionC": "Budapest",
+    "optionD": "Vienna",
+    "answer": "Budapest",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Czech Republic?",
+    "optionA": "Prague",
+    "optionB": "Warsaw",
+    "optionC": "Budapest",
+    "optionD": "Vienna",
+    "answer": "Prague",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Slovakia?",
+    "optionA": "Ljubljana",
+    "optionB": "Bratislava",
+    "optionC": "Zagreb",
+    "optionD": "Podgorica",
+    "answer": "Bratislava",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Slovenia?",
+    "optionA": "Ljubljana",
+    "optionB": "Bratislava",
+    "optionC": "Zagreb",
+    "optionD": "Podgorica",
+    "answer": "Ljubljana",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Croatia?",
+    "optionA": "Ljubljana",
+    "optionB": "Bratislava",
+    "optionC": "Zagreb",
+    "optionD": "Podgorica",
+    "answer": "Zagreb",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Bosnia and Herzegovina?",
+    "optionA": "Sarajevo",
+    "optionB": "Skopje",
+    "optionC": "Tirana",
+    "optionD": "Belgrade",
+    "answer": "Sarajevo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Montenegro?",
+    "optionA": "Sarajevo",
+    "optionB": "Skopje",
+    "optionC": "Podgorica",
+    "optionD": "Belgrade",
+    "answer": "Podgorica",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Serbia?",
+    "optionA": "Sarajevo",
+    "optionB": "Skopje",
+    "optionC": "Tirana",
+    "optionD": "Belgrade",
+    "answer": "Belgrade",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Kosovo?",
+    "optionA": "Sarajevo",
+    "optionB": "Skopje",
+    "optionC": "Pristina",
+    "optionD": "Belgrade",
+    "answer": "Pristina",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of North Macedonia?",
+    "optionA": "Sarajevo",
+    "optionB": "Skopje",
+    "optionC": "Tirana",
+    "optionD": "Belgrade",
+    "answer": "Skopje",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Albania?",
+    "optionA": "Sarajevo",
+    "optionB": "Skopje",
+    "optionC": "Tirana",
+    "optionD": "Belgrade",
+    "answer": "Tirana",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Bulgaria?",
+    "optionA": "Sofia",
+    "optionB": "Bucharest",
+    "optionC": "Belgrade",
+    "optionD": "Skopje",
+    "answer": "Sofia",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Romania?",
+    "optionA": "Sofia",
+    "optionB": "Bucharest",
+    "optionC": "Belgrade",
+    "optionD": "Skopje",
+    "answer": "Bucharest",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Moldova?",
+    "optionA": "Chisinau",
+    "optionB": "Bucharest",
+    "optionC": "Belgrade",
+    "optionD": "Skopje",
+    "answer": "Chisinau",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Ukraine?",
+    "optionA": "Kiev",
+    "optionB": "Minsk",
+    "optionC": "Chisinau",
+    "optionD": "Vilnius",
+    "answer": "Kiev",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Belarus?",
+    "optionA": "Kiev",
+    "optionB": "Minsk",
+    "optionC": "Chisinau",
+    "optionD": "Vilnius",
+    "answer": "Minsk",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Lithuania?",
+    "optionA": "Kiev",
+    "optionB": "Minsk",
+    "optionC": "Chisinau",
+    "optionD": "Vilnius",
+    "answer": "Vilnius",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Latvia?",
+    "optionA": "Tallinn",
+    "optionB": "Helsinki",
+    "optionC": "Vilnius",
+    "optionD": "Riga",
+    "answer": "Riga",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Estonia?",
+    "optionA": "Tallinn",
+    "optionB": "Helsinki",
+    "optionC": "Vilnius",
+    "optionD": "Riga",
+    "answer": "Tallinn",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Turkey?",
+    "optionA": "Ankara",
+    "optionB": "Istanbul",
+    "optionC": "Izmir",
+    "optionD": "Antalya",
+    "answer": "Ankara",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Cyprus?",
+    "optionA": "Nicosia",
+    "optionB": "Limassol",
+    "optionC": "Larnaca",
+    "optionD": "Paphos",
+    "answer": "Nicosia",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Malta?",
+    "optionA": "Valletta",
+    "optionB": "Birkirkara",
+    "optionC": "Sliema",
+    "optionD": "Rabat",
+    "answer": "Valletta",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Iceland?",
+    "optionA": "Helsinki",
+    "optionB": "Reykjavik",
+    "optionC": "Oslo",
+    "optionD": "Copenhagen",
+    "answer": "Reykjavik",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Greenland?",
+    "optionA": "Nuuk",
+    "optionB": "Reykjavik",
+    "optionC": "Oslo",
+    "optionD": "Copenhagen",
+    "answer": "Nuuk",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Faroe Islands?",
+    "optionA": "Nuuk",
+    "optionB": "Torshavn",
+    "optionC": "Oslo",
+    "optionD": "Copenhagen",
+    "answer": "Torshavn",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Andorra?",
+    "optionA": "Zurich",
+    "optionB": "Andorra la Vella",
+    "optionC": "Madrid",
+    "optionD": "Lisbon",
+    "answer": "Andorra la Vella",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Monaco?",
+    "optionA": "Monte Carlo",
+    "optionB": "Monaco City",
+    "optionC": "Nice",
+    "optionD": "Cannes",
+    "answer": "Monaco City",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Egypt?",
+    "optionA": "Alexandria",
+    "optionB": "Cairo",
+    "optionC": "Nairobi",
+    "optionD": "Cape Town",
+    "answer": "Cairo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Nigeria?",
+    "optionA": "Lagos",
+    "optionB": "Abuja",
+    "optionC": "Accra",
+    "optionD": "Kigali",
+    "answer": "Abuja",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of South Africa?",
+    "optionA": "Alexandria",
+    "optionB": "Cairo",
+    "optionC": "Nairobi",
+    "optionD": "Pretoria",
+    "answer": "Pretoria",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Algeria?",
+    "optionA": "Cairo",
+    "optionB": "Algiers",
+    "optionC": "Tripoli",
+    "optionD": "Rabat",
+    "answer": "Algiers",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Kenya?",
+    "optionA": "Alexandria",
+    "optionB": "Cairo",
+    "optionC": "Nairobi",
+    "optionD": "Accra",
+    "answer": "Nairobi",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Ethiopia?",
+    "optionA": "Nairobi",
+    "optionB": "Addis Ababa",
+    "optionC": "Kigali",
+    "optionD": "Luanda",
+    "answer": "Addis Ababa",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Morocco?",
+    "optionA": "Casablanca",
+    "optionB": "Algiers",
+    "optionC": "Tunis",
+    "optionD": "Rabat",
+    "answer": "Rabat",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Ghana?",
+    "optionA": "Lagos",
+    "optionB": "Abuja",
+    "optionC": "Accra",
+    "optionD": "Kigali",
+    "answer": "Accra",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Sudan?",
+    "optionA": "Khartoum",
+    "optionB": "Cairo",
+    "optionC": "Nairobi",
+    "optionD": "Addis Ababa",
+    "answer": "Khartoum",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Tunisia?",
+    "optionA": "Casablanca",
+    "optionB": "Algiers",
+    "optionC": "Tunis",
+    "optionD": "Rabat",
+    "answer": "Tunis",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Libya?",
+    "optionA": "Alexandria",
+    "optionB": "Cairo",
+    "optionC": "Tripoli",
+    "optionD": "Rabat",
+    "answer": "Tripoli",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Angola?",
+    "optionA": "Luanda",
+    "optionB": "Lagos",
+    "optionC": "Nairobi",
+    "optionD": "Accra",
+    "answer": "Luanda",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Zimbabwe?",
+    "optionA": "Harare",
+    "optionB": "Lagos",
+    "optionC": "Nairobi",
+    "optionD": "Accra",
+    "answer": "Harare",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Zambia?",
+    "optionA": "Harare",
+    "optionB": "Lusaka",
+    "optionC": "Nairobi",
+    "optionD": "Accra",
+    "answer": "Lusaka",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Madagascar?",
+    "optionA": "Antananarivo",
+    "optionB": "Maputo",
+    "optionC": "Windhoek",
+    "optionD": "Victoria",
+    "answer": "Antananarivo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Mozambique?",
+    "optionA": "Antananarivo",
+    "optionB": "Maputo",
+    "optionC": "Windhoek",
+    "optionD": "Victoria",
+    "answer": "Maputo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Namibia?",
+    "optionA": "Antananarivo",
+    "optionB": "Maputo",
+    "optionC": "Windhoek",
+    "optionD": "Victoria",
+    "answer": "Windhoek",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Botswana?",
+    "optionA": "Gaborone",
+    "optionB": "Lusaka",
+    "optionC": "Windhoek",
+    "optionD": "Victoria",
+    "answer": "Gaborone",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Malawi?",
+    "optionA": "Lilongwe",
+    "optionB": "Lusaka",
+    "optionC": "Windhoek",
+    "optionD": "Victoria",
+    "answer": "Lilongwe",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Mauritius?",
+    "optionA": "Port Louis",
+    "optionB": "Lusaka",
+    "optionC": "Windhoek",
+    "optionD": "Victoria",
+    "answer": "Port Louis",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Eswatini (formerly Swaziland)?",
+    "optionA": "Mbabane",
+    "optionB": "Lusaka",
+    "optionC": "Windhoek",
+    "optionD": "Victoria",
+    "answer": "Mbabane",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Lesotho?",
+    "optionA": "Maseru",
+    "optionB": "Lusaka",
+    "optionC": "Windhoek",
+    "optionD": "Victoria",
+    "answer": "Maseru",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Sierra Leone?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Banjul",
+    "optionD": "Dakar",
+    "answer": "Freetown",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Senegal?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Banjul",
+    "optionD": "Dakar",
+    "answer": "Dakar",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Mali?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Banjul",
+    "optionD": "Dakar",
+    "answer": "Bamako",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Guinea?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Conakry",
+    "optionD": "Dakar",
+    "answer": "Conakry",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Burkina Faso?",
+    "optionA": "Freetown",
+    "optionB": "Ouagadougou",
+    "optionC": "Banjul",
+    "optionD": "Dakar",
+    "answer": "Ouagadougou",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Liberia?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Banjul",
+    "optionD": "Monrovia",
+    "answer": "Monrovia",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Ivory Coast?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Yamoussoukro",
+    "optionD": "Monrovia",
+    "answer": "Yamoussoukro",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Ghana?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Accra",
+    "optionD": "Monrovia",
+    "answer": "Accra",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Togo?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Accra",
+    "optionD": "Lome",
+    "answer": "Lome",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Benin?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Accra",
+    "optionD": "Cotonou",
+    "answer": "Cotonou",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Niger?",
+    "optionA": "Freetown",
+    "optionB": "Niamey",
+    "optionC": "Accra",
+    "optionD": "Cotonou",
+    "answer": "Niamey",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Chad?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "N'Djamena",
+    "optionD": "Cotonou",
+    "answer": "N'Djamena",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Central African Republic?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Bangui",
+    "optionD": "Cotonou",
+    "answer": "Bangui",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Cameroon?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Yaounde",
+    "optionD": "Cotonou",
+    "answer": "Yaounde",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Gabon?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Libreville",
+    "optionD": "Cotonou",
+    "answer": "Libreville",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Equatorial Guinea?",
+    "optionA": "Freetown",
+    "optionB": "Bata",
+    "optionC": "Malabo",
+    "optionD": "Cotonou",
+    "answer": "Malabo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Sao Tome and Principe?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Accra",
+    "optionD": "Sao Tome",
+    "answer": "Sao Tome",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Guinea-Bissau?",
+    "optionA": "Freetown",
+    "optionB": "Bissau",
+    "optionC": "Accra",
+    "optionD": "Sao Tome",
+    "answer": "Bissau",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Mauritania?",
+    "optionA": "Freetown",
+    "optionB": "Bamako",
+    "optionC": "Nouakchott",
+    "optionD": "Sao Tome",
+    "answer": "Nouakchott",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of China?",
+    "optionA": "Beijing",
+    "optionB": "Shanghai",
+    "optionC": "Hong Kong",
+    "optionD": "Tokyo",
+    "answer": "Beijing",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of India?",
+    "optionA": "Mumbai",
+    "optionB": "New Delhi",
+    "optionC": "Kolkata",
+    "optionD": "Bangalore",
+    "answer": "New Delhi",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "optionA": "Seoul",
+    "optionB": "Shanghai",
+    "optionC": "Beijing",
+    "optionD": "Tokyo",
+    "answer": "Tokyo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of South Korea?",
+    "optionA": "Seoul",
+    "optionB": "Busan",
+    "optionC": "Incheon",
+    "optionD": "Pyongyang",
+    "answer": "Seoul",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Indonesia?",
+    "optionA": "Jakarta",
+    "optionB": "Bangkok",
+    "optionC": "Manila",
+    "optionD": "Kuala Lumpur",
+    "answer": "Jakarta",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Russia?",
+    "optionA": "Moscow",
+    "optionB": "St. Petersburg",
+    "optionC": "Kiev",
+    "optionD": "Kazan",
+    "answer": "Moscow",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Saudi Arabia?",
+    "optionA": "Dubai",
+    "optionB": "Riyadh",
+    "optionC": "Abu Dhabi",
+    "optionD": "Doha",
+    "answer": "Riyadh",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Turkey?",
+    "optionA": "Ankara",
+    "optionB": "Istanbul",
+    "optionC": "Izmir",
+    "optionD": "Antalya",
+    "answer": "Ankara",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Pakistan?",
+    "optionA": "Lahore",
+    "optionB": "Karachi",
+    "optionC": "Islamabad",
+    "optionD": "Kabul",
+    "answer": "Islamabad",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Iran?",
+    "optionA": "Tehran",
+    "optionB": "Baghdad",
+    "optionC": "Dubai",
+    "optionD": "Abu Dhabi",
+    "answer": "Tehran",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Iraq?",
+    "optionA": "Tehran",
+    "optionB": "Baghdad",
+    "optionC": "Dubai",
+    "optionD": "Abu Dhabi",
+    "answer": "Baghdad",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Afghanistan?",
+    "optionA": "Tehran",
+    "optionB": "Kabul",
+    "optionC": "Dubai",
+    "optionD": "Abu Dhabi",
+    "answer": "Kabul",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Thailand?",
+    "optionA": "Bangkok",
+    "optionB": "Hanoi",
+    "optionC": "Phnom Penh",
+    "optionD": "Vientiane",
+    "answer": "Bangkok",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Vietnam?",
+    "optionA": "Bangkok",
+    "optionB": "Hanoi",
+    "optionC": "Phnom Penh",
+    "optionD": "Vientiane",
+    "answer": "Hanoi",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Malaysia?",
+    "optionA": "Kuala Lumpur",
+    "optionB": "Singapore",
+    "optionC": "Jakarta",
+    "optionD": "Bangkok",
+    "answer": "Kuala Lumpur",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Philippines?",
+    "optionA": "Manila",
+    "optionB": "Hanoi",
+    "optionC": "Phnom Penh",
+    "optionD": "Vientiane",
+    "answer": "Manila",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Kazakhstan?",
+    "optionA": "Astana",
+    "optionB": "Almaty",
+    "optionC": "Tashkent",
+    "optionD": "Bishkek",
+    "answer": "Astana",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Uzbekistan?",
+    "optionA": "Astana",
+    "optionB": "Almaty",
+    "optionC": "Tashkent",
+    "optionD": "Bishkek",
+    "answer": "Tashkent",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Turkmenistan?",
+    "optionA": "Ashgabat",
+    "optionB": "Almaty",
+    "optionC": "Tashkent",
+    "optionD": "Bishkek",
+    "answer": "Ashgabat",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Kyrgyzstan?",
+    "optionA": "Ashgabat",
+    "optionB": "Almaty",
+    "optionC": "Tashkent",
+    "optionD": "Bishkek",
+    "answer": "Bishkek",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Tajikistan?",
+    "optionA": "Dushanbe",
+    "optionB": "Almaty",
+    "optionC": "Tashkent",
+    "optionD": "Bishkek",
+    "answer": "Dushanbe",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Bangladesh?",
+    "optionA": "Dhaka",
+    "optionB": "Kolkata",
+    "optionC": "Colombo",
+    "optionD": "Kathmandu",
+    "answer": "Dhaka",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Sri Lanka?",
+    "optionA": "Dhaka",
+    "optionB": "Kolkata",
+    "optionC": "Colombo",
+    "optionD": "Kathmandu",
+    "answer": "Colombo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Nepal?",
+    "optionA": "Dhaka",
+    "optionB": "Kolkata",
+    "optionC": "Colombo",
+    "optionD": "Kathmandu",
+    "answer": "Kathmandu",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Maldives?",
+    "optionA": "Male",
+    "optionB": "Kolkata",
+    "optionC": "Colombo",
+    "optionD": "Kathmandu",
+    "answer": "Male",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Mongolia?",
+    "optionA": "Ulaanbaatar",
+    "optionB": "Kolkata",
+    "optionC": "Colombo",
+    "optionD": "Kathmandu",
+    "answer": "Ulaanbaatar",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Bhutan?",
+    "optionA": "Thimphu",
+    "optionB": "Kolkata",
+    "optionC": "Colombo",
+    "optionD": "Kathmandu",
+    "answer": "Thimphu",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Cambodia?",
+    "optionA": "Phnom Penh",
+    "optionB": "Kolkata",
+    "optionC": "Colombo",
+    "optionD": "Vientiane",
+    "answer": "Phnom Penh",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Laos?",
+    "optionA": "Bangkok",
+    "optionB": "Hanoi",
+    "optionC": "Phnom Penh",
+    "optionD": "Vientiane",
+    "answer": "Vientiane",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Myanmar?",
+    "optionA": "Naypyidaw",
+    "optionB": "Hanoi",
+    "optionC": "Phnom Penh",
+    "optionD": "Vientiane",
+    "answer": "Naypyidaw",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Malaysia?",
+    "optionA": "Kuala Lumpur",
+    "optionB": "Singapore",
+    "optionC": "Jakarta",
+    "optionD": "Bangkok",
+    "answer": "Kuala Lumpur",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Singapore?",
+    "optionA": "Kuala Lumpur",
+    "optionB": "Singapore",
+    "optionC": "Jakarta",
+    "optionD": "Bangkok",
+    "answer": "Singapore",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Brunei?",
+    "optionA": "Bandar Seri Begawan",
+    "optionB": "Singapore",
+    "optionC": "Jakarta",
+    "optionD": "Bangkok",
+    "answer": "Bandar Seri Begawan",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of East Timor?",
+    "optionA": "Dili",
+    "optionB": "Singapore",
+    "optionC": "Jakarta",
+    "optionD": "Bangkok",
+    "answer": "Dili",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Lebanon?",
+    "optionA": "Beirut",
+    "optionB": "Amman",
+    "optionC": "Tel Aviv",
+    "optionD": "Cairo",
+    "answer": "Beirut",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "optionA": "Sydney",
+    "optionB": "Melbourne",
+    "optionC": "Canberra",
+    "optionD": "Brisbane",
+    "answer": "Canberra",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of New Zealand?",
+    "optionA": "Wellington",
+    "optionB": "Auckland",
+    "optionC": "Christchurch",
+    "optionD": "Sydney",
+    "answer": "Wellington",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Papua New Guinea?",
+    "optionA": "Port Moresby",
+    "optionB": "Honiara",
+    "optionC": "Suva",
+    "optionD": "Apia",
+    "answer": "Port Moresby",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Fiji?",
+    "optionA": "Nuku'alofa",
+    "optionB": "Port Moresby",
+    "optionC": "Suva",
+    "optionD": "Apia",
+    "answer": "Suva",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Solomon Islands?",
+    "optionA": "Nuku'alofa",
+    "optionB": "Port Moresby",
+    "optionC": "Suva",
+    "optionD": "Honiara",
+    "answer": "Honiara",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Vanuatu?",
+    "optionA": "Port Vila",
+    "optionB": "Port Moresby",
+    "optionC": "Suva",
+    "optionD": "Honiara",
+    "answer": "Port Vila",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Samoa?",
+    "optionA": "Nuku'alofa",
+    "optionB": "Port Moresby",
+    "optionC": "Apia",
+    "optionD": "Honiara",
+    "answer": "Apia",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Tonga?",
+    "optionA": "Nuku'alofa",
+    "optionB": "Port Moresby",
+    "optionC": "Apia",
+    "optionD": "Suva",
+    "answer": "Nuku'alofa",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Kiribati?",
+    "optionA": "Tarawa",
+    "optionB": "Port Moresby",
+    "optionC": "Apia",
+    "optionD": "Suva",
+    "answer": "Tarawa",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Tuvalu?",
+    "optionA": "Funafuti",
+    "optionB": "Tarawa",
+    "optionC": "Apia",
+    "optionD": "Suva",
+    "answer": "Funafuti",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Nauru?",
+    "optionA": "Funafuti",
+    "optionB": "Tarawa",
+    "optionC": "Apia",
+    "optionD": "Yaren",
+    "answer": "Yaren",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Palau?",
+    "optionA": "Koror",
+    "optionB": "Tarawa",
+    "optionC": "Apia",
+    "optionD": "Suva",
+    "answer": "Koror",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Micronesia?",
+    "optionA": "Pohnpei",
+    "optionB": "Tarawa",
+    "optionC": "Apia",
+    "optionD": "Suva",
+    "answer": "Pohnpei",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Marshall Islands?",
+    "optionA": "Majuro",
+    "optionB": "Tarawa",
+    "optionC": "Apia",
+    "optionD": "Suva",
+    "answer": "Majuro",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Federated States of Micronesia?",
+    "optionA": "Pohnpei",
+    "optionB": "Koror",
+    "optionC": "Apia",
+    "optionD": "Suva",
+    "answer": "Pohnpei",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of the United States?",
+    "optionA": "New York City",
+    "optionB": "Los Angeles",
+    "optionC": "Chicago",
+    "optionD": "Washington, D.C.",
+    "answer": "Washington, D.C.",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "optionA": "Toronto",
+    "optionB": "Montreal",
+    "optionC": "Ottawa",
+    "optionD": "Vancouver",
+    "answer": "Ottawa",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Mexico?",
+    "optionA": "Mexico City",
+    "optionB": "Guadalajara",
+    "optionC": "Monterrey",
+    "optionD": "Puebla",
+    "answer": "Mexico City",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Brazil?",
+    "optionA": "São Paulo",
+    "optionB": "Rio de Janeiro",
+    "optionC": "Brasília",
+    "optionD": "Salvador",
+    "answer": "Brasília",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Argentina?",
+    "optionA": "Buenos Aires",
+    "optionB": "Córdoba",
+    "optionC": "Rosario",
+    "optionD": "Mendoza",
+    "answer": "Buenos Aires",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Colombia?",
+    "optionA": "Bogotá",
+    "optionB": "Medellín",
+    "optionC": "Cali",
+    "optionD": "Barranquilla",
+    "answer": "Bogotá",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Peru?",
+    "optionA": "Lima",
+    "optionB": "Arequipa",
+    "optionC": "Cusco",
+    "optionD": "Trujillo",
+    "answer": "Lima",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Venezuela?",
+    "optionA": "Caracas",
+    "optionB": "Maracaibo",
+    "optionC": "Valencia",
+    "optionD": "Barquisimeto",
+    "answer": "Caracas",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Chile?",
+    "optionA": "Santiago",
+    "optionB": "Valparaíso",
+    "optionC": "Concepción",
+    "optionD": "Viña del Mar",
+    "answer": "Santiago",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Ecuador?",
+    "optionA": "Quito",
+    "optionB": "Guayaquil",
+    "optionC": "Cuenca",
+    "optionD": "Santo Domingo",
+    "answer": "Quito",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Bolivia?",
+    "optionA": "La Paz",
+    "optionB": "Santa Cruz",
+    "optionC": "Cochabamba",
+    "optionD": "Sucre",
+    "answer": "La Paz",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Paraguay?",
+    "optionA": "Asunción",
+    "optionB": "Ciudad del Este",
+    "optionC": "San Lorenzo",
+    "optionD": "Luque",
+    "answer": "Asunción",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Uruguay?",
+    "optionA": "Montevideo",
+    "optionB": "Punta del Este",
+    "optionC": "Salto",
+    "optionD": "Rivera",
+    "answer": "Montevideo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Guyana?",
+    "optionA": "Georgetown",
+    "optionB": "Linden",
+    "optionC": "New Amsterdam",
+    "optionD": "Anna Regina",
+    "answer": "Georgetown",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Suriname?",
+    "optionA": "Paramaribo",
+    "optionB": "Nieuw Nickerie",
+    "optionC": "Lelydorp",
+    "optionD": "Brokopondo",
+    "answer": "Paramaribo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Belize?",
+    "optionA": "Belize City",
+    "optionB": "Belmopan",
+    "optionC": "San Ignacio",
+    "optionD": "Orange Walk",
+    "answer": "Belmopan",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Costa Rica?",
+    "optionA": "San José",
+    "optionB": "Limon",
+    "optionC": "Heredia",
+    "optionD": "Alajuela",
+    "answer": "San José",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of El Salvador?",
+    "optionA": "San Salvador",
+    "optionB": "Santa Ana",
+    "optionC": "San Miguel",
+    "optionD": "La Libertad",
+    "answer": "San Salvador",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Guatemala?",
+    "optionA": "Guatemala City",
+    "optionB": "Quetzaltenango",
+    "optionC": "Mixco",
+    "optionD": "Villa Nueva",
+    "answer": "Guatemala City",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Honduras?",
+    "optionA": "Tegucigalpa",
+    "optionB": "San Pedro Sula",
+    "optionC": "La Ceiba",
+    "optionD": "Choloma",
+    "answer": "Tegucigalpa",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital city of Nicaragua?",
+    "optionA": "Managua",
+    "optionB": "León",
+    "optionC": "Granada",
+    "optionD": "Masaya",
+    "answer": "Managua",
+    "category": "geography"
+  },
+  {
+    "question": "What is the most populous city in China?",
+    "optionA": "Beijing",
+    "optionB": "Shanghai",
+    "optionC": "Guangzhou",
+    "optionD": "Chongqing",
+    "answer": "Shanghai",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is known as the 'Big Apple' and is the most populous city in the United States?",
+    "optionA": "Los Angeles",
+    "optionB": "Chicago",
+    "optionC": "Houston",
+    "optionD": "New York City",
+    "answer": "New York City",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital and most populous city of Brazil?",
+    "optionA": "Sao Paulo",
+    "optionB": "Rio de Janeiro",
+    "optionC": "Brasilia",
+    "optionD": "Salvador",
+    "answer": "Sao Paulo",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in India is often referred to as the 'City of Dreams' and has the highest population in the country?",
+    "optionA": "New Delhi",
+    "optionB": "Mumbai",
+    "optionC": "Kolkata",
+    "optionD": "Bangalore",
+    "answer": "Mumbai",
+    "category": "geography"
+  },
+  {
+    "question": "Which Asian city is the most populous city in the world and is located in Japan?",
+    "optionA": "Beijing",
+    "optionB": "Shanghai",
+    "optionC": "Tokyo",
+    "optionD": "Seoul",
+    "answer": "Tokyo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in Russia and the most populous city in Europe?",
+    "optionA": "Moscow",
+    "optionB": "St. Petersburg",
+    "optionC": "Novosibirsk",
+    "optionD": "Yekaterinburg",
+    "answer": "Moscow",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in Pakistan has the highest population and is known as the 'City of Lights'?",
+    "optionA": "Lahore",
+    "optionB": "Karachi",
+    "optionC": "Islamabad",
+    "optionD": "Faisalabad",
+    "answer": "Karachi",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital and most populous city of Indonesia?",
+    "optionA": "Surabaya",
+    "optionB": "Jakarta",
+    "optionC": "Bandung",
+    "optionD": "Medan",
+    "answer": "Jakarta",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in Nigeria is the most populous city in Africa and is often called the 'Mega City'?",
+    "optionA": "Lagos",
+    "optionB": "Abuja",
+    "optionC": "Kano",
+    "optionD": "Ibadan",
+    "answer": "Lagos",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in Bangladesh and one of the most densely populated cities in the world?",
+    "optionA": "Dhaka",
+    "optionB": "Chittagong",
+    "optionC": "Khulna",
+    "optionD": "Rajshahi",
+    "answer": "Dhaka",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in Mexico has the highest population and is a major cultural and economic hub?",
+    "optionA": "Mexico City",
+    "optionB": "Guadalajara",
+    "optionC": "Monterrey",
+    "optionD": "Puebla",
+    "answer": "Mexico City",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital and most populous city of Turkey?",
+    "optionA": "Ankara",
+    "optionB": "Istanbul",
+    "optionC": "Izmir",
+    "optionD": "Antalya",
+    "answer": "Istanbul",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in Egypt is the most populous city in Africa and the Arab world?",
+    "optionA": "Alexandria",
+    "optionB": "Giza",
+    "optionC": "Cairo",
+    "optionD": "Luxor",
+    "answer": "Cairo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the most populous city in South Korea and is often called the 'Special City'?",
+    "optionA": "Busan",
+    "optionB": "Incheon",
+    "optionC": "Seoul",
+    "optionD": "Daegu",
+    "answer": "Seoul",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in Iran is the most populous city in the Middle East and the second-largest metropolitan area in the country?",
+    "optionA": "Tehran",
+    "optionB": "Mashhad",
+    "optionC": "Isfahan",
+    "optionD": "Shiraz",
+    "answer": "Tehran",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital and most populous city of Thailand?",
+    "optionA": "Bangkok",
+    "optionB": "Chiang Mai",
+    "optionC": "Phuket",
+    "optionD": "Pattaya",
+    "answer": "Bangkok",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in Vietnam is the largest city and a significant cultural and economic center?",
+    "optionA": "Hanoi",
+    "optionB": "Ho Chi Minh City",
+    "optionC": "Da Nang",
+    "optionD": "Can Tho",
+    "answer": "Ho Chi Minh City",
+    "category": "geography"
+  },
+  {
+    "question": "What is the most populous city in the Philippines and one of the oldest cities in the country?",
+    "optionA": "Manila",
+    "optionB": "Quezon City",
+    "optionC": "Cebu City",
+    "optionD": "Davao City",
+    "answer": "Quezon City",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in Ethiopia has the highest population and is often referred to as the 'Political Capital'?",
+    "optionA": "Addis Ababa",
+    "optionB": "Dire Dawa",
+    "optionC": "Mekelle",
+    "optionD": "Gondar",
+    "answer": "Addis Ababa",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in Argentina and one of the most visited cities in the world?",
+    "optionA": "Buenos Aires",
+    "optionB": "Cordoba",
+    "optionC": "Rosario",
+    "optionD": "Mendoza",
+    "answer": "Buenos Aires",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in Colombia is the most populous city and a major cultural and economic center?",
+    "optionA": "Bogota",
+    "optionB": "Medellin",
+    "optionC": "Cali",
+    "optionD": "Barranquilla",
+    "answer": "Bogota",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital and most populous city of Peru?",
+    "optionA": "Lima",
+    "optionB": "Arequipa",
+    "optionC": "Cusco",
+    "optionD": "Trujillo",
+    "answer": "Lima",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in South Africa is the most populous city and a global financial hub?",
+    "optionA": "Cape Town",
+    "optionB": "Durban",
+    "optionC": "Pretoria",
+    "optionD": "Johannesburg",
+    "answer": "Johannesburg",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in Canada and one of the most diverse cities in the world?",
+    "optionA": "Montreal",
+    "optionB": "Toronto",
+    "optionC": "Vancouver",
+    "optionD": "Calgary",
+    "answer": "Toronto",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in Italy is the most populous city and a global fashion and design capital?",
+    "optionA": "Rome",
+    "optionB": "Milan",
+    "optionC": "Naples",
+    "optionD": "Florence",
+    "answer": "Milan",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital and most populous city of Australia?",
+    "optionA": "Sydney",
+    "optionB": "Melbourne",
+    "optionC": "Brisbane",
+    "optionD": "Canberra",
+    "answer": "Sydney",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in Saudi Arabia is the most populous city and is considered the country's economic hub?",
+    "optionA": "Mecca",
+    "optionB": "Medina",
+    "optionC": "Riyadh",
+    "optionD": "Jeddah",
+    "answer": "Riyadh",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in Spain and one of the oldest cities in Europe?",
+    "optionA": "Barcelona",
+    "optionB": "Madrid",
+    "optionC": "Valencia",
+    "optionD": "Seville",
+    "answer": "Madrid",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in France is the most populous city and is often referred to as the 'City of Love'?",
+    "optionA": "Marseille",
+    "optionB": "Lyon",
+    "optionC": "Paris",
+    "optionD": "Nice",
+    "answer": "Paris",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is known as the 'City of Angels'?",
+    "optionA": "Bangkok",
+    "optionB": "Los Angeles",
+    "optionC": "Rome",
+    "optionD": "Cape Town",
+    "answer": "Los Angeles",
+    "category": "geography"
+  },
+  {
+    "question": "What is the nickname of New Orleans?",
+    "optionA": "The Windy City",
+    "optionB": "The Big Apple",
+    "optionC": "The Crescent City",
+    "optionD": "The Mile-High City",
+    "answer": "The Crescent City",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is often referred to as the 'Eternal City'?",
+    "optionA": "Venice",
+    "optionB": "Athens",
+    "optionC": "Rome",
+    "optionD": "Paris",
+    "answer": "Rome",
+    "category": "geography"
+  },
+  {
+    "question": "What is the nickname of Chicago?",
+    "optionA": "The Windy City",
+    "optionB": "The Big Easy",
+    "optionC": "The Emerald City",
+    "optionD": "The City of Angels",
+    "answer": "The Windy City",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is known as the 'City of Love'?",
+    "optionA": "Venice",
+    "optionB": "Paris",
+    "optionC": "Prague",
+    "optionD": "Vienna",
+    "answer": "Paris",
+    "category": "geography"
+  },
+  {
+    "question": "What is the nickname of New York City?",
+    "optionA": "The Big Apple",
+    "optionB": "The Windy City",
+    "optionC": "The City of Angels",
+    "optionD": "The Eternal City",
+    "answer": "The Big Apple",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is often called 'The Pearl of the Adriatic'?",
+    "optionA": "Barcelona",
+    "optionB": "Dubrovnik",
+    "optionC": "Lisbon",
+    "optionD": "Istanbul",
+    "answer": "Dubrovnik",
+    "category": "geography"
+  },
+  {
+    "question": "What is the nickname of Seattle?",
+    "optionA": "The Windy City",
+    "optionB": "The Emerald City",
+    "optionC": "The Big Apple",
+    "optionD": "The City of Angels",
+    "answer": "The Emerald City",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is known as the 'City of Canals'?",
+    "optionA": "Venice",
+    "optionB": "Amsterdam",
+    "optionC": "Bruges",
+    "optionD": "Copenhagen",
+    "answer": "Venice",
+    "category": "geography"
+  },
+  {
+    "question": "What is the nickname of San Francisco?",
+    "optionA": "The Windy City",
+    "optionB": "The Big Easy",
+    "optionC": "The City by the Bay",
+    "optionD": "The Mile-High City",
+    "answer": "The City by the Bay",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is often referred to as the 'Venice of the North'?",
+    "optionA": "St. Petersburg",
+    "optionB": "Copenhagen",
+    "optionC": "Amsterdam",
+    "optionD": "Stockholm",
+    "answer": "Stockholm",
+    "category": "geography"
+  },
+  {
+    "question": "What is the nickname of Barcelona?",
+    "optionA": "The Eternal City",
+    "optionB": "The Windy City",
+    "optionC": "The City of Love",
+    "optionD": "The Pearl of the Adriatic",
+    "answer": "The Pearl of the Adriatic",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is known as the 'City of Light'?",
+    "optionA": "Vienna",
+    "optionB": "Rome",
+    "optionC": "Paris",
+    "optionD": "Barcelona",
+    "answer": "Paris",
+    "category": "geography"
+  },
+  {
+    "question": "What is the nickname of Dubai?",
+    "optionA": "The City of Dreams",
+    "optionB": "The Desert Oasis",
+    "optionC": "The City of Gold",
+    "optionD": "The Shining Jewel",
+    "answer": "The City of Gold",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is often referred to as the 'Gateway to the Americas'?",
+    "optionA": "Miami",
+    "optionB": "New York City",
+    "optionC": "Los Angeles",
+    "optionD": "Houston",
+    "answer": "Miami",
+    "category": "geography"
+  },
+  {
+    "question": "What is the nickname of Istanbul?",
+    "optionA": "The City of Seven Hills",
+    "optionB": "The City of Mosques",
+    "optionC": "The Gateway to the East",
+    "optionD": "The Crossroads of the World",
+    "answer": "The Crossroads of the World",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is known as the 'City of Lakes'?",
+    "optionA": "Stockholm",
+    "optionB": "Helsinki",
+    "optionC": "Copenhagen",
+    "optionD": "Minneapolis",
+    "answer": "Minneapolis",
+    "category": "geography"
+  },
+  {
+    "question": "What is the nickname of Hong Kong?",
+    "optionA": "The Pearl of the Orient",
+    "optionB": "The City of Skyscrapers",
+    "optionC": "The Golden City",
+    "optionD": "The Oriental Paradise",
+    "answer": "The Pearl of the Orient",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is often called the 'City of Music'?",
+    "optionA": "Vienna",
+    "optionB": "Salzburg",
+    "optionC": "Prague",
+    "optionD": "Budapest",
+    "answer": "Vienna",
+    "category": "geography"
+  },
+  {
+    "question": "What is the nickname of Sydney?",
+    "optionA": "The Harbour City",
+    "optionB": "The City of Sails",
+    "optionC": "The Emerald City",
+    "optionD": "The City of Light",
+    "answer": "The Harbour City",
+    "category": "geography"
+  },
+  {
+    "question": "Who holds the record for the most goals scored in FIFA World Cup history?",
+    "optionA": "Diego Maradona",
+    "optionB": "Pele",
+    "optionC": "Miroslav Klose",
+    "optionD": "Lionel Messi",
+    "answer": "Miroslav Klose",
+    "category": "sports"
+  },
+  {
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "optionA": "Germany",
+    "optionB": "Italy",
+    "optionC": "Brazil",
+    "optionD": "Argentina",
+    "answer": "Brazil",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the youngest player to score a goal in a FIFA World Cup tournament?",
+    "optionA": "Kylian Mbappe",
+    "optionB": "Pele",
+    "optionC": "Diego Maradona",
+    "optionD": "Michael Owen",
+    "answer": "Pele",
+    "category": "sports"
+  },
+  {
+    "question": "Which player has the most appearances in FIFA World Cup matches?",
+    "optionA": "Ronaldo",
+    "optionB": "Miroslav Klose",
+    "optionC": "Lothar Matthaus",
+    "optionD": "Cafu",
+    "answer": "Lothar Matthaus",
+    "category": "sports"
+  },
+  {
+    "question": "Which country has participated in every FIFA World Cup since its inception in 1930?",
+    "optionA": "Argentina",
+    "optionB": "Germany",
+    "optionC": "Uruguay",
+    "optionD": "Brazil",
+    "answer": "Brazil",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the only player to have won the Golden Ball (Best Player) award three times in FIFA World Cup history?",
+    "optionA": "Lionel Messi",
+    "optionB": "Cristiano Ronaldo",
+    "optionC": "Diego Maradona",
+    "optionD": "Pele",
+    "answer": "Diego Maradona",
+    "category": "sports"
+  },
+  {
+    "question": "Which goalkeeper has the record for the most clean sheets in FIFA World Cup history?",
+    "optionA": "Manuel Neuer",
+    "optionB": "Dino Zoff",
+    "optionC": "Lev Yashin",
+    "optionD": "Gianluigi Buffon",
+    "answer": "Lev Yashin",
+    "category": "sports"
+  },
+  {
+    "question": "Who scored the 'Hand of God' goal in the 1986 FIFA World Cup quarter-final?",
+    "optionA": "Pele",
+    "optionB": "Diego Maradona",
+    "optionC": "Michel Platini",
+    "optionD": "Zinedine Zidane",
+    "answer": "Diego Maradona",
+    "category": "sports"
+  },
+  {
+    "question": "Which country has the record for the most consecutive FIFA World Cup wins?",
+    "optionA": "Germany",
+    "optionB": "Italy",
+    "optionC": "Brazil",
+    "optionD": "France",
+    "answer": "Brazil",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the oldest player to have played in a FIFA World Cup match?",
+    "optionA": "Roger Milla",
+    "optionB": "Dino Zoff",
+    "optionC": "Essam El-Hadary",
+    "optionD": "Gianluigi Buffon",
+    "answer": "Essam El-Hadary",
+    "category": "sports"
+  },
+  {
+    "question": "Which player has the record for the fastest hat-trick in FIFA World Cup history?",
+    "optionA": "Geoff Hurst",
+    "optionB": "Paolo Rossi",
+    "optionC": "Just Fontaine",
+    "optionD": "Hakan Şükür",
+    "answer": "Hakan Şükür",
+    "category": "sports"
+  },
+  {
+    "question": "Which country has scored the most goals in a single FIFA World Cup tournament?",
+    "optionA": "Hungary",
+    "optionB": "Germany",
+    "optionC": "Brazil",
+    "optionD": "France",
+    "answer": "Hungary",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the only player to have won the Golden Boot (Top Scorer) award twice in FIFA World Cup history?",
+    "optionA": "Ronaldo",
+    "optionB": "Gerd Muller",
+    "optionC": "Miroslav Klose",
+    "optionD": "Gary Lineker",
+    "answer": "Miroslav Klose",
+    "category": "sports"
+  },
+  {
+    "question": "Which country has reached the most FIFA World Cup finals without winning the tournament?",
+    "optionA": "Netherlands",
+    "optionB": "Germany",
+    "optionC": "Italy",
+    "optionD": "Argentina",
+    "answer": "Netherlands",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for the most World Cup assists?",
+    "optionA": "Andres Iniesta",
+    "optionB": "Pele",
+    "optionC": "Lionel Messi",
+    "optionD": "Kaka",
+    "answer": "Andres Iniesta",
+    "category": "sports"
+  },
+  {
+    "question": "Which country won the first FIFA World Cup held in 1930?",
+    "optionA": "Italy",
+    "optionB": "Uruguay",
+    "optionC": "Argentina",
+    "optionD": "Brazil",
+    "answer": "Uruguay",
+    "category": "sports"
+  },
+  {
+    "question": "Who scored the fastest goal in FIFA World Cup history?",
+    "optionA": "Hakan Şükür",
+    "optionB": "Vaclav Masek",
+    "optionC": "Clint Dempsey",
+    "optionD": "Roger Milla",
+    "answer": "Hakan Şükür",
+    "category": "sports"
+  },
+  {
+    "question": "Which country has the most consecutive semi-final appearances in FIFA World Cup history?",
+    "optionA": "Germany",
+    "optionB": "Brazil",
+    "optionC": "Argentina",
+    "optionD": "France",
+    "answer": "Brazil",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the only goalkeeper to have won the FIFA World Cup Golden Ball award?",
+    "optionA": "Lev Yashin",
+    "optionB": "Gianluigi Buffon",
+    "optionC": "Manuel Neuer",
+    "optionD": "Dino Zoff",
+    "answer": "Lev Yashin",
+    "category": "sports"
+  },
+  {
+    "question": "Which country has the record for the most World Cup appearances without winning the tournament?",
+    "optionA": "Mexico",
+    "optionB": "Sweden",
+    "optionC": "Belgium",
+    "optionD": "South Korea",
+    "answer": "Mexico",
+    "category": "sports"
+  },
+  {
+    "question": "In which year did World War II begin?",
+    "optionA": "1937",
+    "optionB": "1939",
+    "optionC": "1941",
+    "optionD": "1945",
+    "answer": "1939",
+    "category": "history"
+  },
+  {
+    "question": "Which country's invasion marked the beginning of World War II?",
+    "optionA": "Germany",
+    "optionB": "Japan",
+    "optionC": "Italy",
+    "optionD": "Soviet Union",
+    "answer": "Germany",
+    "category": "history"
+  },
+  {
+    "question": "What was the code name for the Allied invasion of Normandy, France, during World War II?",
+    "optionA": "Operation Overlord",
+    "optionB": "Operation Torch",
+    "optionC": "Operation Barbarossa",
+    "optionD": "Operation Neptune",
+    "answer": "Operation Overlord",
+    "category": "history"
+  },
+  {
+    "question": "Which event led to the United States' entry into World War II?",
+    "optionA": "The Holocaust",
+    "optionB": "The Battle of Stalingrad",
+    "optionC": "The Attack on Pearl Harbor",
+    "optionD": "The Invasion of Poland",
+    "answer": "The Attack on Pearl Harbor",
+    "category": "history"
+  },
+  {
+    "question": "Who was the leader of Nazi Germany during World War II?",
+    "optionA": "Joseph Stalin",
+    "optionB": "Winston Churchill",
+    "optionC": "Benito Mussolini",
+    "optionD": "Adolf Hitler",
+    "answer": "Adolf Hitler",
+    "category": "history"
+  },
+  {
+    "question": "Which major battle in the Pacific theater of World War II is often considered the turning point of the war?",
+    "optionA": "Battle of Midway",
+    "optionB": "Battle of Iwo Jima",
+    "optionC": "Battle of Guadalcanal",
+    "optionD": "Battle of Okinawa",
+    "answer": "Battle of Midway",
+    "category": "history"
+  },
+  {
+    "question": "What was the Manhattan Project?",
+    "optionA": "A secret Allied operation in Europe",
+    "optionB": "A covert Soviet intelligence program",
+    "optionC": "A propaganda campaign during the war",
+    "optionD": "The development of the atomic bomb",
+    "answer": "The development of the atomic bomb",
+    "category": "history"
+  },
+  {
+    "question": "Which country was invaded by Nazi Germany in June 1941, leading to a significant turning point in the war?",
+    "optionA": "France",
+    "optionB": "Soviet Union",
+    "optionC": "Poland",
+    "optionD": "Italy",
+    "answer": "Soviet Union",
+    "category": "history"
+  },
+  {
+    "question": "What was the Holocaust during World War II?",
+    "optionA": "A series of secret negotiations",
+    "optionB": "A propaganda campaign by the Axis powers",
+    "optionC": "A genocide that targeted six million Jews",
+    "optionD": "A strategy to eliminate enemy communication",
+    "answer": "A genocide that targeted six million Jews",
+    "category": "history"
+  },
+  {
+    "question": "Which event marked the end of World War II in Europe?",
+    "optionA": "D-Day",
+    "optionB": "V-E Day",
+    "optionC": "Pearl Harbor attack",
+    "optionD": "Hiroshima bombing",
+    "answer": "V-E Day",
+    "category": "history"
+  },
+  {
+    "question": "What was the name of the strategy used by the United States to defeat Japan in the Pacific?",
+    "optionA": "Operation Overlord",
+    "optionB": "Island Hopping",
+    "optionC": "Blitzkrieg",
+    "optionD": "Kamikaze",
+    "answer": "Island Hopping",
+    "category": "history"
+  },
+  {
+    "question": "Which two cities in Japan were targeted with atomic bombs by the United States?",
+    "optionA": "Nagasaki and Hiroshima",
+    "optionB": "Tokyo and Kyoto",
+    "optionC": "Osaka and Yokohama",
+    "optionD": "Fukuoka and Sapporo",
+    "answer": "Nagasaki and Hiroshima",
+    "category": "history"
+  },
+  {
+    "question": "What was the name of the plane that dropped the first atomic bomb on Hiroshima?",
+    "optionA": "Enola Gay",
+    "optionB": "Spirit of St. Louis",
+    "optionC": "Red Baron",
+    "optionD": "Memphis Belle",
+    "answer": "Enola Gay",
+    "category": "history"
+  },
+  {
+    "question": "What was the purpose of the Yalta Conference held in 1945?",
+    "optionA": "To plan the invasion of Normandy",
+    "optionB": "To discuss post-war reconstruction",
+    "optionC": "To negotiate an end to the war in Europe",
+    "optionD": "To establish the United Nations",
+    "answer": "To discuss post-war reconstruction",
+    "category": "history"
+  },
+  {
+    "question": "What was the Nazi regime's 'Final Solution'?",
+    "optionA": "A strategy for winning the war",
+    "optionB": "A plan for economic recovery",
+    "optionC": "A program to exterminate Jews and others",
+    "optionD": "A secret weapon project",
+    "answer": "A program to exterminate Jews and others",
+    "category": "history"
+  },
+  {
+    "question": "Which event prompted the United States to enter World War II?",
+    "optionA": "The signing of the Treaty of Versailles",
+    "optionB": "The sinking of the Lusitania",
+    "optionC": "The Battle of Britain",
+    "optionD": "The attack on Pearl Harbor",
+    "answer": "The attack on Pearl Harbor",
+    "category": "history"
+  },
+  {
+    "question": "What was the name of the Allied operation that resulted in the evacuation of Allied soldiers from the beaches of Dunkirk?",
+    "optionA": "Operation Overlord",
+    "optionB": "Operation Dynamo",
+    "optionC": "Operation Torch",
+    "optionD": "Operation Neptune",
+    "answer": "Operation Dynamo",
+    "category": "history"
+  },
+  {
+    "question": "Which country was divided into East and West Germany after World War II?",
+    "optionA": "France",
+    "optionB": "Soviet Union",
+    "optionC": "Italy",
+    "optionD": "Germany",
+    "answer": "Germany",
+    "category": "history"
+  },
+  {
+    "question": "What was the name of the policy of appeasement followed by Western powers before World War II?",
+    "optionA": "Isolationism",
+    "optionB": "Collective Security",
+    "optionC": "Anschluss",
+    "optionD": "Munich Agreement",
+    "answer": "Munich Agreement",
+    "category": "history"
+  },
+  {
+    "question": "Which battle is often considered the largest and bloodiest battle in history, fought between Germany and the Soviet Union?",
+    "optionA": "Battle of Stalingrad",
+    "optionB": "Battle of Normandy",
+    "optionC": "Battle of Kursk",
+    "optionD": "Battle of the Bulge",
+    "answer": "Battle of Stalingrad",
+    "category": "history"
+  },
+  {
+    "question": "What ideological conflict and geopolitical tension characterized the period of the late 1940s to the early 1990s?",
+    "optionA": "World War I",
+    "optionB": "Cold War",
+    "optionC": "Vietnam War",
+    "optionD": "Korean War",
+    "answer": "Cold War",
+    "category": "history"
+  },
+  {
+    "question": "Which two superpowers were the primary participants in the Cold War?",
+    "optionA": "United States and Soviet Union",
+    "optionB": "United States and China",
+    "optionC": "United States and United Kingdom",
+    "optionD": "Soviet Union and China",
+    "answer": "United States and Soviet Union",
+    "category": "history"
+  },
+  {
+    "question": "What was the policy of containment during the Cold War?",
+    "optionA": "A plan to encourage economic growth",
+    "optionB": "A strategy to prevent the spread of communism",
+    "optionC": "An initiative to promote international cooperation",
+    "optionD": "A plan for arms reduction",
+    "answer": "A strategy to prevent the spread of communism",
+    "category": "history"
+  },
+  {
+    "question": "Which conflict is often considered a 'proxy war' during the Cold War period?",
+    "optionA": "Cuban Missile Crisis",
+    "optionB": "Space Race",
+    "optionC": "Korean War",
+    "optionD": "Berlin Airlift",
+    "answer": "Korean War",
+    "category": "history"
+  },
+  {
+    "question": "What was the term used to describe the division between the democratic West and the communist East in Europe during the Cold War?",
+    "optionA": "The Iron Curtain",
+    "optionB": "The Bamboo Curtain",
+    "optionC": "The Red Curtain",
+    "optionD": "The Berlin Wall",
+    "answer": "The Iron Curtain",
+    "category": "history"
+  },
+  {
+    "question": "What event marked the beginning of the Space Race between the United States and the Soviet Union?",
+    "optionA": "Launch of Sputnik 1",
+    "optionB": "First human in space",
+    "optionC": "Moon landing",
+    "optionD": "Construction of the ISS",
+    "answer": "Launch of Sputnik 1",
+    "category": "history"
+  },
+  {
+    "question": "What was the purpose of the Berlin Wall, constructed in 1961?",
+    "optionA": "To separate East and West Berlin",
+    "optionB": "To prevent espionage",
+    "optionC": "To improve transportation",
+    "optionD": "To commemorate a historical event",
+    "answer": "To separate East and West Berlin",
+    "category": "history"
+  },
+  {
+    "question": "Which term refers to the state of political and military tension between NATO and the Warsaw Pact during the Cold War?",
+    "optionA": "Cold War",
+    "optionB": "Cuban Missile Crisis",
+    "optionC": "Detente",
+    "optionD": "Arms Race",
+    "answer": "Detente",
+    "category": "history"
+  },
+  {
+    "question": "Which president of the United States played a significant role in ending the Cold War?",
+    "optionA": "Ronald Reagan",
+    "optionB": "John F. Kennedy",
+    "optionC": "Richard Nixon",
+    "optionD": "Dwight D. Eisenhower",
+    "answer": "Ronald Reagan",
+    "category": "history"
+  },
+  {
+    "question": "What was the purpose of the Vietnam War?",
+    "optionA": "To establish a communist government in South Vietnam",
+    "optionB": "To conquer North Vietnam",
+    "optionC": "To annex Laos and Cambodia",
+    "optionD": "To protect American interests in the region",
+    "answer": "To establish a communist government in South Vietnam",
+    "category": "history"
+  },
+  {
+    "question": "Which conflict between North Vietnam and South Vietnam resulted in the United States' involvement?",
+    "optionA": "Korean War",
+    "optionB": "World War I",
+    "optionC": "Vietnam War",
+    "optionD": "Gulf War",
+    "answer": "Vietnam War",
+    "category": "history"
+  },
+  {
+    "question": "What event is often considered the turning point of the Vietnam War?",
+    "optionA": "Tet Offensive",
+    "optionB": "Battle of Dien Bien Phu",
+    "optionC": "Fall of Saigon",
+    "optionD": "Operation Rolling Thunder",
+    "answer": "Tet Offensive",
+    "category": "history"
+  },
+  {
+    "question": "What was the main strategy employed by the United States during the Vietnam War?",
+    "optionA": "Search and destroy missions",
+    "optionB": "Guerilla warfare",
+    "optionC": "Trench warfare",
+    "optionD": "Blitzkrieg",
+    "answer": "Search and destroy missions",
+    "category": "history"
+  },
+  {
+    "question": "Which incident led to a significant increase in anti-war protests in the United States during the Vietnam War?",
+    "optionA": "Gulf of Tonkin incident",
+    "optionB": "Tet Offensive",
+    "optionC": "Fall of Saigon",
+    "optionD": "My Lai Massacre",
+    "answer": "Gulf of Tonkin incident",
+    "category": "history"
+  },
+  {
+    "question": "Which U.S. policy aimed to gradually withdraw American troops from Vietnam while increasing the combat role of the South Vietnamese?",
+    "optionA": "Operation Desert Storm",
+    "optionB": "Operation Rolling Thunder",
+    "optionC": "Vietnamization",
+    "optionD": "Domino Theory",
+    "answer": "Vietnamization",
+    "category": "history"
+  },
+  {
+    "question": "What was the outcome of the Vietnam War?",
+    "optionA": "South Vietnam achieved victory",
+    "optionB": "Vietnam remained divided",
+    "optionC": "North Vietnam surrendered",
+    "optionD": "United States annexed Vietnam",
+    "answer": "Vietnam remained divided",
+    "category": "history"
+  },
+  {
+    "question": "Which neighboring country provided support to North Vietnam during the Vietnam War?",
+    "optionA": "Cambodia",
+    "optionB": "Laos",
+    "optionC": "Thailand",
+    "optionD": "Malaysia",
+    "answer": "Cambodia",
+    "category": "history"
+  },
+  {
+    "question": "What event marked the end of the Vietnam War?",
+    "optionA": "Treaty of Saigon",
+    "optionB": "Paris Peace Accords",
+    "optionC": "Fall of Hanoi",
+    "optionD": "Gulf of Tonkin Resolution",
+    "answer": "Paris Peace Accords",
+    "category": "history"
+  },
+  {
+    "question": "Which U.S. president announced the withdrawal of American troops from Vietnam?",
+    "optionA": "Dwight D. Eisenhower",
+    "optionB": "John F. Kennedy",
+    "optionC": "Lyndon B. Johnson",
+    "optionD": "Richard Nixon",
+    "answer": "Richard Nixon",
+    "category": "history"
+  },
+  {
+    "question": "What was the significance of the Ho Chi Minh Trail during the Vietnam War?",
+    "optionA": "It was a key supply route for North Vietnam",
+    "optionB": "It was a demilitarized zone",
+    "optionC": "It was a nuclear testing site",
+    "optionD": "It was a negotiation site",
+    "answer": "It was a key supply route for North Vietnam",
+    "category": "history"
   }
 ]

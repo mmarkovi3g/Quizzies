@@ -5,6 +5,8 @@ export default function Question({
   selectedQuestions,
   randomArray,
   numOfQuestions,
+  started,
+  setStarted,
 }) {
   console.log(selectedQuestions.length);
   console.log(randomArray);
@@ -37,6 +39,10 @@ export default function Question({
     }
   }
 
+  function newGame() {
+    setStarted(false);
+  }
+
   return (
     <div>
       {finished ? (
@@ -45,7 +51,9 @@ export default function Question({
           <p>
             You answered correctly {score} of {numOfQuestions} questions
           </p>
-          <button>Start new Quizzie</button>
+          <button className="new-game" onClick={newGame}>
+            Start new Quizzie
+          </button>
         </div>
       ) : (
         <div className="question">
