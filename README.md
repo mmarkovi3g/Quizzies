@@ -1,5 +1,7 @@
 #Quizzies app
 
+During the process of learning front-end technology (React), I decided to create my own quiz application. The main idea was to develop a small application while learning React in order to practice the concepts I'm studying. However, the idea started to evolve, and with each new lesson, new ideas come along. As a result, this initially simple project gradually transforms into a more serious endeavor.
+
 Basic idea:
 (first steps and planning path)
 
