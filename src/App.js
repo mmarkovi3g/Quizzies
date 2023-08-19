@@ -27,7 +27,7 @@ function App() {
 
   // initali list of random numbers
   const initialList = Array.from({ length: numOfQuestions }, () =>
-    Math.floor(Math.random() * questions.length)
+    Math.floor(Math.random() * (questions.length - 1))
   );
 
   const [randomArray, setRandomArray] = useState(initialList);
@@ -51,7 +51,7 @@ function App() {
       // generating random array
 
       const randomList = Array.from({ length: numOfQuestions }, () =>
-        Math.floor(Math.random() * selectedQuestionsList.length)
+        Math.floor(Math.random() * (selectedQuestionsList.length - 1))
       );
       setRandomArray(randomList ? randomList : initialList);
     }

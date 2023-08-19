@@ -6,17 +6,14 @@ export default function Question({
   randomArray,
   numOfQuestions,
 }) {
-  console.log(selectedQuestions);
+  console.log(selectedQuestions.length);
   console.log(randomArray);
-  console.log(numOfQuestions);
 
   const [index, setIndex] = useState(0); // defaultni index za početak
   const currentQ = randomArray[index]; // trenutno pitanje - index iz random arraya
   // što ako nema random arraya?
-  console.log(currentQ);
 
   const question = selectedQuestions[currentQ];
-  console.log(question);
 
   //setting up state to show results window
   const [finished, setFinished] = useState(false);
