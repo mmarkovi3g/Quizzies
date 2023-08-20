@@ -62,15 +62,7 @@
     "answer": "Lewis Hamilton",
     "category": "sports"
   },
-  {
-    "question": "In which sport would you perform a 'slam dunk'?",
-    "optionA": "Volleyball",
-    "optionB": "Soccer",
-    "optionC": "Basketball",
-    "optionD": "Tennis",
-    "answer": "Basketball",
-    "category": "sports"
-  },
+
   {
     "question": "Which country hosted the 2014 Winter Olympics?",
     "optionA": "Canada",
@@ -116,15 +108,7 @@
     "answer": "Asia",
     "category": "geography"
   },
-  {
-    "question": "What is the capital city of Australia?",
-    "optionA": "Melbourne",
-    "optionB": "Sydney",
-    "optionC": "Canberra",
-    "optionD": "Brisbane",
-    "answer": "Canberra",
-    "category": "geography"
-  },
+
   {
     "question": "Which ocean is the largest in the world?",
     "optionA": "Atlantic Ocean",
@@ -306,15 +290,6 @@
     "category": "sports"
   },
   {
-    "question": "Which city hosted the 2016 UEFA Champions League final?",
-    "optionA": "Milan",
-    "optionB": "London",
-    "optionC": "Madrid",
-    "optionD": "Berlin",
-    "answer": "Milan",
-    "category": "sports"
-  },
-  {
     "question": "Which athlete holds the record for the most gold medals won at a single Olympic Games?",
     "optionA": "Michael Phelps",
     "optionB": "Usain Bolt",
@@ -378,15 +353,6 @@
     "category": "geography"
   },
   {
-    "question": "Which city is the capital of Canada?",
-    "optionA": "Toronto",
-    "optionB": "Vancouver",
-    "optionC": "Ottawa",
-    "optionD": "Montreal",
-    "answer": "Ottawa",
-    "category": "geography"
-  },
-  {
     "question": "Which ocean is the second-largest by area?",
     "optionA": "Indian Ocean",
     "optionB": "Atlantic Ocean",
@@ -439,15 +405,6 @@
     "optionD": "Nauru",
     "answer": "Vatican City",
     "category": "geography"
-  },
-  {
-    "question": "In which year did World War I end?",
-    "optionA": "1914",
-    "optionB": "1918",
-    "optionC": "1916",
-    "optionD": "1920",
-    "answer": "1918",
-    "category": "history"
   },
   {
     "question": "Who was the first woman to win a Nobel Prize?",
@@ -576,15 +533,6 @@
     "category": "sports"
   },
   {
-    "question": "Which country hosted the inaugural Cricket World Cup in 1975?",
-    "optionA": "India",
-    "optionB": "England",
-    "optionC": "Australia",
-    "optionD": "West Indies",
-    "answer": "England",
-    "category": "sports"
-  },
-  {
     "question": "In which sport would you perform a 'slap shot'?",
     "optionA": "Soccer",
     "optionB": "Ice Hockey",
@@ -694,16 +642,6 @@
     "category": "geography"
   },
   {
-    "question": "Which country's invasion triggered the start of World War II?",
-    "optionA": "Germany",
-    "optionB": "Japan",
-    "optionC": "Italy",
-    "optionD": "Soviet Union",
-    "answer": "Germany",
-    "category": "history"
-  },
-
-  {
     "question": "In which sport would you perform a 'knuckleball'?",
     "optionA": "Baseball",
     "optionB": "Football",
@@ -741,15 +679,6 @@
     "category": "sports"
   },
   {
-    "question": "In which sport would you perform a 'hat-trick'?",
-    "optionA": "Hockey",
-    "optionB": "Soccer",
-    "optionC": "Basketball",
-    "optionD": "Tennis",
-    "answer": "Hockey",
-    "category": "sports"
-  },
-  {
     "question": "Which country hosted the 2004 Summer Olympics?",
     "optionA": "Australia",
     "optionB": "United States",
@@ -759,48 +688,12 @@
     "category": "sports"
   },
   {
-    "question": "Which female tennis player has won the most Grand Slam singles titles?",
-    "optionA": "Martina Navratilova",
-    "optionB": "Steffi Graf",
-    "optionC": "Serena Williams",
-    "optionD": "Chris Evert",
-    "answer": "Serena Williams",
-    "category": "sports"
-  },
-  {
-    "question": "In which game would you perform a 'checkmate'?",
-    "optionA": "Poker",
-    "optionB": "Chess",
-    "optionC": "Monopoly",
-    "optionD": "Scrabble",
-    "answer": "Chess",
-    "category": "sports"
-  },
-  {
-    "question": "Which river is the longest in the world?",
-    "optionA": "Nile River",
-    "optionB": "Amazon River",
-    "optionC": "Yangtze River",
-    "optionD": "Mississippi River",
-    "answer": "Nile River",
-    "category": "geography"
-  },
-  {
     "question": "Which city is known as the 'Eternal City'?",
     "optionA": "Paris",
     "optionB": "Rome",
     "optionC": "Athens",
     "optionD": "Venice",
     "answer": "Rome",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital city of Canada?",
-    "optionA": "Toronto",
-    "optionB": "Vancouver",
-    "optionC": "Ottawa",
-    "optionD": "Montreal",
-    "answer": "Ottawa",
     "category": "geography"
   },
   {
@@ -849,15 +742,6 @@
     "category": "history"
   },
   {
-    "question": "Which ancient civilization built the Great Pyramid of Giza?",
-    "optionA": "Greek",
-    "optionB": "Roman",
-    "optionC": "Egyptian",
-    "optionD": "Mesopotamian",
-    "answer": "Egyptian",
-    "category": "history"
-  },
-  {
     "question": "Which European explorer discovered the sea route to India?",
     "optionA": "Christopher Columbus",
     "optionB": "Ferdinand Magellan",
@@ -873,15 +757,6 @@
     "optionC": "Aztec",
     "optionD": "Egyptian",
     "answer": "Incan",
-    "category": "history"
-  },
-  {
-    "question": "Who was the famous playwright who wrote 'Romeo and Juliet'?",
-    "optionA": "William Shakespeare",
-    "optionB": "Leo Tolstoy",
-    "optionC": "Charles Dickens",
-    "optionD": "Jane Austen",
-    "answer": "William Shakespeare",
     "category": "history"
   },
   {
@@ -911,6 +786,7 @@
     "answer": "Italy",
     "category": "sports"
   },
+
   {
     "question": "In which sport would you perform a 'bump' and 'set'?",
     "optionA": "Volleyball",

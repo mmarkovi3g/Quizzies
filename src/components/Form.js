@@ -8,24 +8,22 @@ export default function Form({
   setFilteredQuestions,
   filteredQuestions,
 }) {
-  //
-
-  //filternig questions based on category
-
-  // toggler for choosing quizz options by default it is open, it should close when i chose quizz settings and start the quizz
+  // toggler for choosing quizz options by default it is open, it should close when i choose quizz settings and start the quizz
   const [isOpen, setIsOpen] = useState(false);
+
   function toggleHandler() {
     setIsOpen((isOpen) => !isOpen);
   }
-  //
+
   //defining state and function for handling categories
   const [chosenCategory, setChosenCategory] = useState("allcategories");
 
   function categoryHandler(event) {
+    // storing selected values into variables for easier later on use
     const categoryValue = event.target.value;
     setChosenCategory((prev) => categoryValue);
 
-    //
+    // handler for category selection based on chosen value
     if (chosenCategory === "allcategories") {
       setFilteredQuestions((prev) => questions);
     } else {
@@ -33,14 +31,14 @@ export default function Form({
     }
   }
 
-  //
   //defining state and function for hadling number of questions
   const [chosenNumOfQuestions, setChosenNumOfQuestions] = useState(10);
+
   function numOfQuestionsHandler(event) {
     setChosenNumOfQuestions((prev) => Number(event.target.value));
   }
-  //
-  //defining submit handler that stores number of questions and category into object
+
+  //defining submit handler that stores number of questions and category into object that i can extract in app component
   function submitHandler(event) {
     event.preventDefault();
     const quizzSettings = {
@@ -48,9 +46,6 @@ export default function Form({
       chosenNumOfQuestions,
       filteredQuestions,
     };
-
-    // loging values just in case
-    /* console.log(quizzSettings); */
 
     // handler for moving state up into APP
     onHandleQuizzSetting(quizzSettings);

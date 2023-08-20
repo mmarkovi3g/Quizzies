@@ -8,19 +8,23 @@ export default function Question({
   started,
   setStarted,
 }) {
-  console.log(selectedQuestions.length);
-  console.log(randomArray);
+  // testing consoles for later use on more categories / number of Questions
+  /* console.log(selectedQuestions.length);
+  console.log(randomArray); */
 
-  const [index, setIndex] = useState(0); // defaultni index za početak
-  const currentQ = randomArray[index]; // trenutno pitanje - index iz random arraya
-  // što ako nema random arraya?
+  // setting default index state to loop through the questions
+  const [index, setIndex] = useState(0);
 
+  // derived state form index state - to reduce number of states
+  const currentQ = randomArray[index];
+
+  // choosing selected question based on 2 previous states
   const question = selectedQuestions[currentQ];
 
   //setting up state to show results window
   const [finished, setFinished] = useState(false);
 
-  //setting up score
+  //setting up score (this needs to be improved later on)
   const [score, setScore] = useState(0);
 
   //next question handler
@@ -39,6 +43,7 @@ export default function Question({
     }
   }
 
+  // default state for game start - resets on button click
   function newGame() {
     setStarted(false);
   }

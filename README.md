@@ -9,6 +9,7 @@ Basic idea:
 - ✔️User inputs category and number of question - App generates random quizzie based on input values
 - ✔️ User plays the quizz and gets points - Points are being added to general user score after each quizzie
 - ✔️ Add icon according to quizz category - done
+- Store questions and correct answers into array / object and render them at the end of the quizzie
 - Optional - change collor scheme for diferent categories
 - Create visual identity for Quizzies website (logo, colors)
 - Add more categories
