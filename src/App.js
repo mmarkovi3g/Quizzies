@@ -20,7 +20,7 @@ function App() {
   };
 
   // just a piece of code to check number of questions
-  /* console.log(questions.length); */
+  console.log(questions.length);
 
   // state for filtered questions passed to form component so i can handle changes directly - set to full JSON file on default
   const [filteredQuestions, setFilteredQuestions] = useState(questions);

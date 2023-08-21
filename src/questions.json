@@ -62,7 +62,6 @@
     "answer": "Lewis Hamilton",
     "category": "sports"
   },
-
   {
     "question": "Which country hosted the 2014 Winter Olympics?",
     "optionA": "Canada",
@@ -108,7 +107,6 @@
     "answer": "Asia",
     "category": "geography"
   },
-
   {
     "question": "Which ocean is the largest in the world?",
     "optionA": "Atlantic Ocean",
@@ -125,24 +123,6 @@
     "optionC": "Colombia",
     "optionD": "Brazil",
     "answer": "Peru",
-    "category": "geography"
-  },
-  {
-    "question": "Which country is known as the 'Land of the Rising Sun'?",
-    "optionA": "China",
-    "optionB": "South Korea",
-    "optionC": "Japan",
-    "optionD": "Thailand",
-    "answer": "Japan",
-    "category": "geography"
-  },
-  {
-    "question": "What is the largest desert in the world?",
-    "optionA": "Gobi Desert",
-    "optionB": "Kalahari Desert",
-    "optionC": "Sahara Desert",
-    "optionD": "Atacama Desert",
-    "answer": "Sahara Desert",
     "category": "geography"
   },
   {
@@ -182,15 +162,6 @@
     "category": "history"
   },
   {
-    "question": "Who was the first Roman Emperor?",
-    "optionA": "Julius Caesar",
-    "optionB": "Augustus",
-    "optionC": "Nero",
-    "optionD": "Caligula",
-    "answer": "Augustus",
-    "category": "history"
-  },
-  {
     "question": "Which famous speech by Martin Luther King Jr. began with 'I have a dream'?",
     "optionA": "I Have a Dream",
     "optionB": "I am Prepared to Die",
@@ -200,30 +171,12 @@
     "category": "history"
   },
   {
-    "question": "The Magna Carta, signed in 1215, was a significant document that limited the power of which monarch?",
-    "optionA": "Henry VIII",
-    "optionB": "King John",
-    "optionC": "Richard the Lionheart",
-    "optionD": "Queen Elizabeth I",
-    "answer": "King John",
-    "category": "history"
-  },
-  {
     "question": "Which ancient civilization built the famous city of Troy, known for the Trojan War?",
     "optionA": "Greek",
     "optionB": "Egyptian",
     "optionC": "Roman",
     "optionD": "Hittite",
     "answer": "Greek",
-    "category": "history"
-  },
-  {
-    "question": "In which year did the Berlin Wall fall, leading to the reunification of Germany?",
-    "optionA": "1989",
-    "optionB": "1991",
-    "optionC": "1990",
-    "optionD": "1987",
-    "answer": "1989",
     "category": "history"
   },
   {
@@ -242,15 +195,6 @@
     "optionC": "HMS Victory",
     "optionD": "USS Monitor",
     "answer": "HMS Titanic",
-    "category": "history"
-  },
-  {
-    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
-    "optionA": "Bessie Coleman",
-    "optionB": "Amelia Earhart",
-    "optionC": "Valentina Tereshkova",
-    "optionD": "Sally Ride",
-    "answer": "Amelia Earhart",
     "category": "history"
   },
   {
@@ -333,15 +277,6 @@
     "optionD": "Bogey",
     "answer": "Eagle",
     "category": "sports"
-  },
-  {
-    "question": "Which river is the longest in South America?",
-    "optionA": "Amazon River",
-    "optionB": "Nile River",
-    "optionC": "Yangtze River",
-    "optionD": "Mississippi River",
-    "answer": "Amazon River",
-    "category": "geography"
   },
   {
     "question": "Which mountain range is located between France and Spain?",
@@ -434,15 +369,6 @@
     "category": "history"
   },
   {
-    "question": "Who was the first President of the United States?",
-    "optionA": "George Washington",
-    "optionB": "Thomas Jefferson",
-    "optionC": "John Adams",
-    "optionD": "James Madison",
-    "answer": "George Washington",
-    "category": "history"
-  },
-  {
     "question": "Which Chinese dynasty is known for building the Great Wall of China?",
     "optionA": "Han Dynasty",
     "optionB": "Ming Dynasty",
@@ -506,15 +432,6 @@
     "category": "sports"
   },
   {
-    "question": "Which country has won the most FIFA World Cup titles?",
-    "optionA": "Germany",
-    "optionB": "Italy",
-    "optionC": "Brazil",
-    "optionD": "Argentina",
-    "answer": "Brazil",
-    "category": "sports"
-  },
-  {
     "question": "Which city hosted the 2008 Summer Olympics?",
     "optionA": "Sydney",
     "optionB": "Beijing",
@@ -559,16 +476,6 @@
     "answer": "Portugal",
     "category": "sports"
   },
-
-  {
-    "question": "Which river is the longest in Europe?",
-    "optionA": "Danube",
-    "optionB": "Volga",
-    "optionC": "Rhine",
-    "optionD": "Loire",
-    "answer": "Volga",
-    "category": "geography"
-  },
   {
     "question": "Which desert is located in North Africa and is one of the hottest in the world?",
     "optionA": "Sahara Desert",
@@ -579,39 +486,12 @@
     "category": "geography"
   },
   {
-    "question": "Which country is known as the 'Land of the Midnight Sun'?",
-    "optionA": "Sweden",
-    "optionB": "Norway",
-    "optionC": "Canada",
-    "optionD": "Russia",
-    "answer": "Norway",
-    "category": "geography"
-  },
-  {
     "question": "Which continent is the largest by population?",
     "optionA": "Africa",
     "optionB": "Asia",
     "optionC": "Europe",
     "optionD": "North America",
     "answer": "Asia",
-    "category": "geography"
-  },
-  {
-    "question": "Which mountain range runs along the western coast of South America?",
-    "optionA": "The Rockies",
-    "optionB": "The Andes",
-    "optionC": "The Alps",
-    "optionD": "The Himalayas",
-    "answer": "The Andes",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital city of South Korea?",
-    "optionA": "Seoul",
-    "optionB": "Tokyo",
-    "optionC": "Beijing",
-    "optionD": "Bangkok",
-    "answer": "Seoul",
     "category": "geography"
   },
   {
@@ -659,7 +539,6 @@
     "answer": "Japan",
     "category": "sports"
   },
-
   {
     "question": "Which athlete won the most gold medals at the 2012 Summer Olympics?",
     "optionA": "Usain Bolt",
@@ -724,15 +603,6 @@
     "category": "geography"
   },
   {
-    "question": "What is the capital city of Argentina?",
-    "optionA": "Buenos Aires",
-    "optionB": "Santiago",
-    "optionC": "Rio de Janeiro",
-    "optionD": "Lima",
-    "answer": "Buenos Aires",
-    "category": "geography"
-  },
-  {
     "question": "In which year did the United States declare its independence from Britain?",
     "optionA": "1776",
     "optionB": "1789",
@@ -786,7 +656,6 @@
     "answer": "Italy",
     "category": "sports"
   },
-
   {
     "question": "In which sport would you perform a 'bump' and 'set'?",
     "optionA": "Volleyball",
@@ -858,15 +727,6 @@
     "optionD": "Checkers",
     "answer": "Poker",
     "category": "sports"
-  },
-  {
-    "question": "Which city is known as the 'City of Love'?",
-    "optionA": "Paris",
-    "optionB": "Venice",
-    "optionC": "Rome",
-    "optionD": "Prague",
-    "answer": "Paris",
-    "category": "geography"
   },
   {
     "question": "What is the largest desert in the world?",
@@ -959,15 +819,6 @@
     "category": "geography"
   },
   {
-    "question": "Which river is the longest in South America?",
-    "optionA": "Amazon River",
-    "optionB": "Nile River",
-    "optionC": "Mississippi River",
-    "optionD": "Yangtze River",
-    "answer": "Amazon River",
-    "category": "geography"
-  },
-  {
     "question": "What is the largest city in the United States?",
     "optionA": "Los Angeles",
     "optionB": "Chicago",
@@ -992,15 +843,6 @@
     "optionC": "Denmark",
     "optionD": "Finland",
     "answer": "Norway",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital city of China?",
-    "optionA": "Beijing",
-    "optionB": "Shanghai",
-    "optionC": "Guangzhou",
-    "optionD": "Hong Kong",
-    "answer": "Beijing",
     "category": "geography"
   },
   {
@@ -1190,15 +1032,6 @@
     "optionC": "Jeddah",
     "optionD": "Medina",
     "answer": "Riyadh",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of South Korea?",
-    "optionA": "Busan",
-    "optionB": "Seoul",
-    "optionC": "Incheon",
-    "optionD": "Daegu",
-    "answer": "Seoul",
     "category": "geography"
   },
   {
@@ -1814,15 +1647,6 @@
     "category": "history"
   },
   {
-    "question": "What is the capital city of Australia?",
-    "optionA": "Sydney",
-    "optionB": "Melbourne",
-    "optionC": "Canberra",
-    "optionD": "Brisbane",
-    "answer": "Canberra",
-    "category": "geography"
-  },
-  {
     "question": "Mount Everest, the highest peak in the world, is located in which mountain range?",
     "optionA": "Rocky Mountains",
     "optionB": "Andes",
@@ -1838,15 +1662,6 @@
     "optionC": "Arabian Desert",
     "optionD": "Kalahari Desert",
     "answer": "Sahara Desert",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital city of Brazil?",
-    "optionA": "Rio de Janeiro",
-    "optionB": "São Paulo",
-    "optionC": "Brasília",
-    "optionD": "Buenos Aires",
-    "answer": "Brasília",
     "category": "geography"
   },
   {
@@ -1874,15 +1689,6 @@
     "optionC": "Mojave Desert",
     "optionD": "Atacama Desert",
     "answer": "Mojave Desert",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital city of China?",
-    "optionA": "Shanghai",
-    "optionB": "Beijing",
-    "optionC": "Guangzhou",
-    "optionD": "Hong Kong",
-    "answer": "Beijing",
     "category": "geography"
   },
   {
@@ -1940,15 +1746,6 @@
     "category": "geography"
   },
   {
-    "question": "What is the capital city of Japan?",
-    "optionA": "Tokyo",
-    "optionB": "Osaka",
-    "optionC": "Kyoto",
-    "optionD": "Seoul",
-    "answer": "Tokyo",
-    "category": "geography"
-  },
-  {
     "question": "Which river is the longest in the United States?",
     "optionA": "Nile River",
     "optionB": "Amazon River",
@@ -1973,15 +1770,6 @@
     "optionC": "Kalahari Desert",
     "optionD": "Atacama Desert",
     "answer": "Kalahari Desert",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital city of Russia?",
-    "optionA": "St. Petersburg",
-    "optionB": "Moscow",
-    "optionC": "Kiev",
-    "optionD": "Warsaw",
-    "answer": "Moscow",
     "category": "geography"
   },
   {
@@ -2092,7 +1880,6 @@
     "answer": "Euphrates",
     "category": "history"
   },
-
   {
     "question": "Which famous ancient Egyptian queen was known for her relationships with Julius Caesar and Mark Antony?",
     "optionA": "Nefertiti",
@@ -2271,97 +2058,6 @@
     "optionC": "Renaissance Period",
     "optionD": "Enlightenment Era",
     "answer": "Late Middle Ages",
-    "category": "history"
-  },
-
-  {
-    "question": "The medieval Byzantine Empire was known for preserving and transmitting knowledge from which ancient civilization?",
-    "optionA": "Egypt",
-    "optionB": "Greece",
-    "optionC": "Rome",
-    "optionD": "Persia",
-    "answer": "Greece",
-    "category": "history"
-  },
-  {
-    "question": "Which famous medieval castle, located in Scotland, is associated with the legend of King Arthur?",
-    "optionA": "Edinburgh Castle",
-    "optionB": "Caernarfon Castle",
-    "optionC": "Stirling Castle",
-    "optionD": "Tintagel Castle",
-    "answer": "Tintagel Castle",
-    "category": "history"
-  },
-  {
-    "question": "The medieval trade route that connected Europe with Asia, allowing for the exchange of goods and ideas, is called the...",
-    "optionA": "Silk Road",
-    "optionB": "Trans-Saharan Route",
-    "optionC": "Amber Route",
-    "optionD": "Gold Road",
-    "answer": "Silk Road",
-    "category": "history"
-  },
-  {
-    "question": "Which medieval English king is famous for his role in the Third Crusade and his efforts to expand the Angevin Empire?",
-    "optionA": "Henry II",
-    "optionB": "Richard the Lionheart",
-    "optionC": "Edward III",
-    "optionD": "William the Conqueror",
-    "answer": "Richard the Lionheart",
-    "category": "history"
-  },
-  {
-    "question": "The medieval Spanish landmark known as Alhambra is a palace and fortress complex located in which city?",
-    "optionA": "Seville",
-    "optionB": "Toledo",
-    "optionC": "Granada",
-    "optionD": "Barcelona",
-    "answer": "Granada",
-    "category": "history"
-  },
-  {
-    "question": "Which medieval queen was known for her influential role during the Hundred Years' War and her support of the French army?",
-    "optionA": "Isabella of Castile",
-    "optionB": "Eleanor of Aquitaine",
-    "optionC": "Mary Queen of Scots",
-    "optionD": "Joan of Arc",
-    "answer": "Joan of Arc",
-    "category": "history"
-  },
-  {
-    "question": "During the medieval period, the Carolingian Empire was established by which Frankish king?",
-    "optionA": "Charlemagne",
-    "optionB": "Clovis I",
-    "optionC": "Louis XIV",
-    "optionD": "Pepin the Short",
-    "answer": "Charlemagne",
-    "category": "history"
-  },
-  {
-    "question": "The medieval 'Domesday Book' was a survey ordered by which English monarch to assess landholdings and taxation?",
-    "optionA": "Edward the Confessor",
-    "optionB": "William the Conqueror",
-    "optionC": "Henry II",
-    "optionD": "John",
-    "answer": "William the Conqueror",
-    "category": "history"
-  },
-  {
-    "question": "Medieval guilds played a significant role in the development of trade and craftsmanship. Which famous city is often associated with the Hanseatic League?",
-    "optionA": "Venice",
-    "optionB": "Hamburg",
-    "optionC": "Bruges",
-    "optionD": "Cologne",
-    "answer": "Hamburg",
-    "category": "history"
-  },
-  {
-    "question": "The medieval concept of chivalry was closely associated with which social institution?",
-    "optionA": "Monasteries",
-    "optionB": "Noble Courts",
-    "optionC": "Universities",
-    "optionD": "Merchant Guilds",
-    "answer": "Noble Courts",
     "category": "history"
   },
   {
@@ -2992,15 +2688,6 @@
     "optionC": "Sprint",
     "optionD": "Long Jump",
     "answer": "Steeplechase",
-    "category": "sports"
-  },
-  {
-    "question": "Which sport's major event is the 'World Cup of Golf'?",
-    "optionA": "Tennis",
-    "optionB": "Golf",
-    "optionC": "Soccer",
-    "optionD": "Cricket",
-    "answer": "Golf",
     "category": "sports"
   },
   {
@@ -3931,15 +3618,6 @@
     "category": "geography"
   },
   {
-    "question": "What is the capital city of Turkey?",
-    "optionA": "Ankara",
-    "optionB": "Istanbul",
-    "optionC": "Izmir",
-    "optionD": "Antalya",
-    "answer": "Ankara",
-    "category": "geography"
-  },
-  {
     "question": "What is the capital city of Cyprus?",
     "optionA": "Nicosia",
     "optionB": "Limassol",
@@ -4063,15 +3741,6 @@
     "optionC": "Tunis",
     "optionD": "Rabat",
     "answer": "Rabat",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital city of Ghana?",
-    "optionA": "Lagos",
-    "optionB": "Abuja",
-    "optionC": "Accra",
-    "optionD": "Kigali",
-    "answer": "Accra",
     "category": "geography"
   },
   {
@@ -4495,15 +4164,6 @@
     "optionC": "Phnom Penh",
     "optionD": "Vientiane",
     "answer": "Hanoi",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital city of Malaysia?",
-    "optionA": "Kuala Lumpur",
-    "optionB": "Singapore",
-    "optionC": "Jakarta",
-    "optionD": "Bangkok",
-    "answer": "Kuala Lumpur",
     "category": "geography"
   },
   {
@@ -5990,5 +5650,2336 @@
     "optionD": "It was a negotiation site",
     "answer": "It was a key supply route for North Vietnam",
     "category": "history"
+  },
+  {
+    "question": "Which country is often referred to as the 'Land of the Rising Sun'?",
+    "optionA": "China",
+    "optionB": "Japan",
+    "optionC": "South Korea",
+    "optionD": "Thailand",
+    "answer": "Japan",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is known as the 'Emerald Isle'?",
+    "optionA": "Iceland",
+    "optionB": "Greenland",
+    "optionC": "Ireland",
+    "optionD": "Scotland",
+    "answer": "Ireland",
+    "category": "geography"
+  },
+  {
+    "question": "Which nation is sometimes called the 'Land of Fire and Ice'?",
+    "optionA": "Sweden",
+    "optionB": "Norway",
+    "optionC": "Finland",
+    "optionD": "Iceland",
+    "answer": "Iceland",
+    "category": "geography"
+  },
+  {
+    "question": "What country is often referred to as the 'Pearl of the Indian Ocean'?",
+    "optionA": "Seychelles",
+    "optionB": "Maldives",
+    "optionC": "Mauritius",
+    "optionD": "Sri Lanka",
+    "answer": "Sri Lanka",
+    "category": "geography"
+  },
+  {
+    "question": "What country is often called the 'Cradle of Civilization'?",
+    "optionA": "Greece",
+    "optionB": "Egypt",
+    "optionC": "Iraq",
+    "optionD": "India",
+    "answer": "Iraq",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is referred to as the 'Land of Fire' due to its active volcanoes?",
+    "optionA": "Iceland",
+    "optionB": "Indonesia",
+    "optionC": "New Zealand",
+    "optionD": "Japan",
+    "answer": "Azerbaijan",
+    "category": "geography"
+  },
+  {
+    "question": "What nation is known as the 'Rainbow Nation' due to its diverse population?",
+    "optionA": "Australia",
+    "optionB": "Canada",
+    "optionC": "South Africa",
+    "optionD": "United States",
+    "answer": "South Africa",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is often referred to as the 'Land of a Thousand Lakes'?",
+    "optionA": "Canada",
+    "optionB": "Finland",
+    "optionC": "Sweden",
+    "optionD": "Russia",
+    "answer": "Finland",
+    "category": "geography"
+  },
+  {
+    "question": "What nation is known as the 'Land of Gold'?",
+    "optionA": "Mexico",
+    "optionB": "Colombia",
+    "optionC": "Peru",
+    "optionD": "Brazil",
+    "answer": "Ghana",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is often called the 'Land of the Long White Cloud'?",
+    "optionA": "Norway",
+    "optionB": "Canada",
+    "optionC": "New Zealand",
+    "optionD": "Iceland",
+    "answer": "New Zealand",
+    "category": "geography"
+  },
+  {
+    "question": "What country is referred to as the 'Crossroads of Europe' due to its location?",
+    "optionA": "Germany",
+    "optionB": "Austria",
+    "optionC": "Hungary",
+    "optionD": "Poland",
+    "answer": "Czech Republic",
+    "category": "geography"
+  },
+  {
+    "question": "Which nation is known as the 'Land of Kings'?",
+    "optionA": "Saudi Arabia",
+    "optionB": "Qatar",
+    "optionC": "Jordan",
+    "optionD": "Bahrain",
+    "answer": "Nepal",
+    "category": "geography"
+  },
+  {
+    "question": "What country is often called the 'Land of the Midnight Sun'?",
+    "optionA": "Canada",
+    "optionB": "Norway",
+    "optionC": "Russia",
+    "optionD": "Sweden",
+    "answer": "Norway",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is referred to as the 'Land of Five Rivers'?",
+    "optionA": "India",
+    "optionB": "Pakistan",
+    "optionC": "Bangladesh",
+    "optionD": "Nepal",
+    "answer": "Pakistan",
+    "category": "geography"
+  },
+  {
+    "question": "What nation is known as the 'Land of the Pharaohs'?",
+    "optionA": "Greece",
+    "optionB": "Egypt",
+    "optionC": "Italy",
+    "optionD": "Turkey",
+    "answer": "Egypt",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is often referred to as the 'Land of Lakes and Volcanoes'?",
+    "optionA": "Costa Rica",
+    "optionB": "Chile",
+    "optionC": "Nicaragua",
+    "optionD": "Panama",
+    "answer": "Nicaragua",
+    "category": "geography"
+  },
+  {
+    "question": "What country is known as the 'Land of Saints and Scholars'?",
+    "optionA": "Ireland",
+    "optionB": "Scotland",
+    "optionC": "Wales",
+    "optionD": "England",
+    "answer": "Ireland",
+    "category": "geography"
+  },
+  {
+    "question": "Which nation is referred to as the 'Land of the Rising Sun'?",
+    "optionA": "China",
+    "optionB": "Japan",
+    "optionC": "South Korea",
+    "optionD": "Thailand",
+    "answer": "Japan",
+    "category": "geography"
+  },
+  {
+    "question": "What country is often called the 'Pearl of Africa'?",
+    "optionA": "Mauritius",
+    "optionB": "Madagascar",
+    "optionC": "Seychelles",
+    "optionD": "Uganda",
+    "answer": "Uganda",
+    "category": "geography"
+  },
+  {
+    "question": "Which nation is known as the 'Land of Smiles'?",
+    "optionA": "Thailand",
+    "optionB": "Vietnam",
+    "optionC": "Cambodia",
+    "optionD": "Laos",
+    "answer": "Thailand",
+    "category": "geography"
+  },
+  {
+    "question": "What country is often referred to as the 'Land Down Under'?",
+    "optionA": "New Zealand",
+    "optionB": "Fiji",
+    "optionC": "Australia",
+    "optionD": "Papua New Guinea",
+    "answer": "Australia",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "optionA": "Canada",
+    "optionB": "Norway",
+    "optionC": "Russia",
+    "optionD": "Sweden",
+    "answer": "Norway",
+    "category": "geography"
+  },
+  {
+    "question": "What nation is referred to as the 'Switzerland of Africa' due to its neutrality?",
+    "optionA": "Lesotho",
+    "optionB": "Swaziland",
+    "optionC": "Rwanda",
+    "optionD": "Uganda",
+    "answer": "Rwanda",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is often called the 'Land of the Thunder Dragon'?",
+    "optionA": "Bhutan",
+    "optionB": "Nepal",
+    "optionC": "Tibet",
+    "optionD": "Mongolia",
+    "answer": "Bhutan",
+    "category": "geography"
+  },
+  {
+    "question": "What country is known as the 'Land of Lakes'?",
+    "optionA": "Canada",
+    "optionB": "Finland",
+    "optionC": "Sweden",
+    "optionD": "Russia",
+    "answer": "Canada",
+    "category": "geography"
+  },
+  {
+    "question": "In which city is the Eiffel Tower located?",
+    "optionA": "Barcelona",
+    "optionB": "London",
+    "optionC": "Rome",
+    "optionD": "Paris",
+    "answer": "Paris",
+    "category": "geography"
+  },
+  {
+    "question": "Where can you find the Colosseum, an ancient amphitheater?",
+    "optionA": "Rome",
+    "optionB": "Athens",
+    "optionC": "Istanbul",
+    "optionD": "Cairo",
+    "answer": "Rome",
+    "category": "geography"
+  },
+  {
+    "question": "Which city is home to the iconic Sydney Opera House?",
+    "optionA": "Melbourne",
+    "optionB": "Sydney",
+    "optionC": "Auckland",
+    "optionD": "Brisbane",
+    "answer": "Sydney",
+    "category": "geography"
+  },
+  {
+    "question": "In which city is the Taj Mahal, a UNESCO World Heritage Site?",
+    "optionA": "Mumbai",
+    "optionB": "Delhi",
+    "optionC": "Jaipur",
+    "optionD": "Agra",
+    "answer": "Agra",
+    "category": "geography"
+  },
+  {
+    "question": "Where can you visit the Great Wall, one of the most famous structures in the world?",
+    "optionA": "Beijing",
+    "optionB": "Shanghai",
+    "optionC": "Tokyo",
+    "optionD": "Seoul",
+    "answer": "Beijing",
+    "category": "geography"
+  },
+  {
+    "question": "In which city is the Christ the Redeemer statue located?",
+    "optionA": "Rio de Janeiro",
+    "optionB": "Sao Paulo",
+    "optionC": "Buenos Aires",
+    "optionD": "Lima",
+    "answer": "Rio de Janeiro",
+    "category": "geography"
+  },
+  {
+    "question": "Where can you find the Vatican, including St. Peter's Basilica and the Sistine Chapel?",
+    "optionA": "Rome",
+    "optionB": "Venice",
+    "optionC": "Florence",
+    "optionD": "Naples",
+    "answer": "Rome",
+    "category": "geography"
+  },
+  {
+    "question": "In which city is the Burj Khalifa, the world's tallest building?",
+    "optionA": "Dubai",
+    "optionB": "Abu Dhabi",
+    "optionC": "Doha",
+    "optionD": "Muscat",
+    "answer": "Dubai",
+    "category": "geography"
+  },
+  {
+    "question": "Where is the Alhambra, a stunning palace and fortress complex?",
+    "optionA": "Barcelona",
+    "optionB": "Seville",
+    "optionC": "Granada",
+    "optionD": "Madrid",
+    "answer": "Granada",
+    "category": "geography"
+  },
+  {
+    "question": "In which city is the Statue of Liberty located?",
+    "optionA": "Boston",
+    "optionB": "New York City",
+    "optionC": "Philadelphia",
+    "optionD": "Washington, D.C.",
+    "answer": "New York City",
+    "category": "geography"
+  },
+  {
+    "question": "Where can you find the Acropolis, an ancient citadel featuring the Parthenon?",
+    "optionA": "Istanbul",
+    "optionB": "Athens",
+    "optionC": "Rome",
+    "optionD": "Cairo",
+    "answer": "Athens",
+    "category": "geography"
+  },
+  {
+    "question": "In which city is the Leaning Tower located?",
+    "optionA": "Florence",
+    "optionB": "Pisa",
+    "optionC": "Venice",
+    "optionD": "Milan",
+    "answer": "Pisa",
+    "category": "geography"
+  },
+  {
+    "question": "Where can you visit the Louvre, one of the world's largest and most famous art museums?",
+    "optionA": "Berlin",
+    "optionB": "London",
+    "optionC": "Paris",
+    "optionD": "Madrid",
+    "answer": "Paris",
+    "category": "geography"
+  },
+  {
+    "question": "In which city is the Red Square, home to iconic landmarks like St. Basil's Cathedral?",
+    "optionA": "Moscow",
+    "optionB": "Kiev",
+    "optionC": "Warsaw",
+    "optionD": "Budapest",
+    "answer": "Moscow",
+    "category": "geography"
+  },
+  {
+    "question": "Where can you find the Machu Picchu, an ancient Incan citadel?",
+    "optionA": "Lima",
+    "optionB": "Cusco",
+    "optionC": "Machu Picchu",
+    "optionD": "Quito",
+    "answer": "Machu Picchu",
+    "category": "geography"
+  },
+  {
+    "question": "In which city is the Brandenburg Gate, a symbol of unity and peace?",
+    "optionA": "Berlin",
+    "optionB": "Vienna",
+    "optionC": "Munich",
+    "optionD": "Frankfurt",
+    "answer": "Berlin",
+    "category": "geography"
+  },
+  {
+    "question": "Where can you visit the Forbidden City, a palace complex from the Ming dynasty?",
+    "optionA": "Shanghai",
+    "optionB": "Beijing",
+    "optionC": "Hong Kong",
+    "optionD": "Taipei",
+    "answer": "Beijing",
+    "category": "geography"
+  },
+  {
+    "question": "In which city is the Petronas Twin Towers, once the tallest twin towers in the world?",
+    "optionA": "Singapore",
+    "optionB": "Kuala Lumpur",
+    "optionC": "Jakarta",
+    "optionD": "Bangkok",
+    "answer": "Kuala Lumpur",
+    "category": "geography"
+  },
+  {
+    "question": "Where can you find the Neuschwanstein Castle, an inspiration for Disney's Cinderella Castle?",
+    "optionA": "Vienna",
+    "optionB": "Berlin",
+    "optionC": "Munich",
+    "optionD": "Fussen",
+    "answer": "Fussen",
+    "category": "geography"
+  },
+  {
+    "question": "In which city is the Tower Bridge, an iconic bascule and suspension bridge?",
+    "optionA": "Manchester",
+    "optionB": "Edinburgh",
+    "optionC": "London",
+    "optionD": "Birmingham",
+    "answer": "London",
+    "category": "geography"
+  },
+  {
+    "question": "Where can you visit the Sagrada Familia, a renowned basilica designed by Antoni Gaudi?",
+    "optionA": "Madrid",
+    "optionB": "Barcelona",
+    "optionC": "Valencia",
+    "optionD": "Seville",
+    "answer": "Barcelona",
+    "category": "geography"
+  },
+  {
+    "question": "In which city is the Golden Gate Bridge, an iconic suspension bridge?",
+    "optionA": "Los Angeles",
+    "optionB": "San Francisco",
+    "optionC": "Seattle",
+    "optionD": "Portland",
+    "answer": "San Francisco",
+    "category": "geography"
+  },
+  {
+    "question": "Where can you find the Burj Al Arab, a luxurious hotel shaped like a sail?",
+    "optionA": "Abu Dhabi",
+    "optionB": "Doha",
+    "optionC": "Dubai",
+    "optionD": "Muscat",
+    "answer": "Dubai",
+    "category": "geography"
+  },
+  {
+    "question": "In which city is the Statue of Unity, a colossal statue of Sardar Vallabhbhai Patel?",
+    "optionA": "Mumbai",
+    "optionB": "Ahmedabad",
+    "optionC": "New Delhi",
+    "optionD": "Chennai",
+    "answer": "Ahmedabad",
+    "category": "geography"
+  },
+  {
+    "question": "Where can you visit the Anne Frank House, a museum dedicated to Anne Frank's life during World War II?",
+    "optionA": "Brussels",
+    "optionB": "Amsterdam",
+    "optionC": "Berlin",
+    "optionD": "Copenhagen",
+    "answer": "Amsterdam",
+    "category": "geography"
+  },
+  {
+    "question": "In which city is the Grand Palace, a stunning complex of buildings including the Wat Phra Kaew?",
+    "optionA": "Bangkok",
+    "optionB": "Phuket",
+    "optionC": "Chiang Mai",
+    "optionD": "Pattaya",
+    "answer": "Bangkok",
+    "category": "geography"
+  },
+  {
+    "question": "Where can you find the Palace of Westminster, which houses the UK Parliament and the Big Ben clock tower?",
+    "optionA": "Manchester",
+    "optionB": "Edinburgh",
+    "optionC": "London",
+    "optionD": "Birmingham",
+    "answer": "London",
+    "category": "geography"
+  },
+  {
+    "question": "In which city can you find the Burj Khalifa, the tallest skyscraper in the world?",
+    "optionA": "Dubai",
+    "optionB": "Shanghai",
+    "optionC": "New York City",
+    "optionD": "Hong Kong",
+    "answer": "Dubai",
+    "category": "geography"
+  },
+  {
+    "question": "Where is the Shanghai Tower, the second tallest skyscraper globally and tallest in China, located?",
+    "optionA": "Shanghai",
+    "optionB": "Beijing",
+    "optionC": "Guangzhou",
+    "optionD": "Chongqing",
+    "answer": "Shanghai",
+    "category": "geography"
+  },
+  {
+    "question": "In which city can you find the Abraj Al-Bait Clock Tower, one of the world's tallest clock towers?",
+    "optionA": "Riyadh",
+    "optionB": "Jeddah",
+    "optionC": "Mecca",
+    "optionD": "Medina",
+    "answer": "Mecca",
+    "category": "geography"
+  },
+  {
+    "question": "Where is the One World Trade Center, also known as the Freedom Tower, located?",
+    "optionA": "Chicago",
+    "optionB": "Los Angeles",
+    "optionC": "San Francisco",
+    "optionD": "New York City",
+    "answer": "New York City",
+    "category": "geography"
+  },
+  {
+    "question": "In which city can you find the Petronas Twin Towers, formerly the tallest twin towers in the world?",
+    "optionA": "Kuala Lumpur",
+    "optionB": "Singapore",
+    "optionC": "Bangkok",
+    "optionD": "Manila",
+    "answer": "Kuala Lumpur",
+    "category": "geography"
+  },
+  {
+    "question": "Where is the Taipei 101, a skyscraper with a unique pagoda-inspired design?",
+    "optionA": "Beijing",
+    "optionB": "Taipei",
+    "optionC": "Shanghai",
+    "optionD": "Hong Kong",
+    "answer": "Taipei",
+    "category": "geography"
+  },
+  {
+    "question": "In which city can you find the Willis Tower, formerly known as the Sears Tower?",
+    "optionA": "Chicago",
+    "optionB": "New York City",
+    "optionC": "Los Angeles",
+    "optionD": "Dallas",
+    "answer": "Chicago",
+    "category": "geography"
+  },
+  {
+    "question": "Where is the Lotte World Tower, the tallest building in South Korea, situated?",
+    "optionA": "Seoul",
+    "optionB": "Busan",
+    "optionC": "Incheon",
+    "optionD": "Daegu",
+    "answer": "Seoul",
+    "category": "geography"
+  },
+  {
+    "question": "In which city can you find the International Commerce Centre (ICC), the tallest building in Hong Kong?",
+    "optionA": "Hong Kong",
+    "optionB": "Shanghai",
+    "optionC": "Beijing",
+    "optionD": "Shenzhen",
+    "answer": "Hong Kong",
+    "category": "geography"
+  },
+  {
+    "question": "Where is the CN Tower, an iconic communications and observation tower?",
+    "optionA": "Toronto",
+    "optionB": "Montreal",
+    "optionC": "Vancouver",
+    "optionD": "Calgary",
+    "answer": "Toronto",
+    "category": "geography"
+  },
+  {
+    "question": "In which city can you find the Shard, a distinctive glass-clad skyscraper?",
+    "optionA": "London",
+    "optionB": "Paris",
+    "optionC": "Berlin",
+    "optionD": "Amsterdam",
+    "answer": "London",
+    "category": "geography"
+  },
+  {
+    "question": "Where is the Marina 101, a prominent skyscraper in the United Arab Emirates?",
+    "optionA": "Dubai",
+    "optionB": "Abu Dhabi",
+    "optionC": "Sharjah",
+    "optionD": "Ras Al Khaimah",
+    "answer": "Dubai",
+    "category": "geography"
+  },
+  {
+    "question": "In which city can you find the Almas Tower, a key landmark in a major business district?",
+    "optionA": "Dubai",
+    "optionB": "Abu Dhabi",
+    "optionC": "Doha",
+    "optionD": "Muscat",
+    "answer": "Dubai",
+    "category": "geography"
+  },
+  {
+    "question": "Where is the Bank of China Tower, an architectural marvel with a distinctive geometric design?",
+    "optionA": "Beijing",
+    "optionB": "Shanghai",
+    "optionC": "Hong Kong",
+    "optionD": "Guangzhou",
+    "answer": "Hong Kong",
+    "category": "geography"
+  },
+  {
+    "question": "In which city can you find the John Hancock Center, known for its distinctive X-bracing exterior?",
+    "optionA": "Chicago",
+    "optionB": "New York City",
+    "optionC": "Los Angeles",
+    "optionD": "San Francisco",
+    "answer": "Chicago",
+    "category": "geography"
+  },
+  {
+    "question": "Where is the Kingdom Centre, a skyscraper with a unique inverted parabolic arch?",
+    "optionA": "Riyadh",
+    "optionB": "Jeddah",
+    "optionC": "Mecca",
+    "optionD": "Medina",
+    "answer": "Riyadh",
+    "category": "geography"
+  },
+  {
+    "question": "In which city can you find the Sky Tower, an iconic landmark and telecommunications tower?",
+    "optionA": "Auckland",
+    "optionB": "Wellington",
+    "optionC": "Christchurch",
+    "optionD": "Dunedin",
+    "answer": "Auckland",
+    "category": "geography"
+  },
+  {
+    "question": "Where is the Emirates Office Tower, part of a twin-tower complex?",
+    "optionA": "Dubai",
+    "optionB": "Abu Dhabi",
+    "optionC": "Doha",
+    "optionD": "Muscat",
+    "answer": "Dubai",
+    "category": "geography"
+  },
+  {
+    "question": "In which city can you find the Yokohama Landmark Tower, a prominent skyscraper?",
+    "optionA": "Tokyo",
+    "optionB": "Osaka",
+    "optionC": "Yokohama",
+    "optionD": "Nagoya",
+    "answer": "Yokohama",
+    "category": "geography"
+  },
+  {
+    "question": "Where is the Grand Lisboa, an eye-catching building featuring a distinctive lotus-flower design?",
+    "optionA": "Hong Kong",
+    "optionB": "Macau",
+    "optionC": "Taipei",
+    "optionD": "Shanghai",
+    "answer": "Macau",
+    "category": "geography"
+  },
+  {
+    "question": "Which river flows through Cairo, the capital city of Egypt?",
+    "optionA": "Amazon River",
+    "optionB": "Nile River",
+    "optionC": "Yangtze River",
+    "optionD": "Mississippi River",
+    "answer": "Nile River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river is known as the 'Mother of Rivers' and flows through the Indian subcontinent?",
+    "optionA": "Ganges River",
+    "optionB": "Danube River",
+    "optionC": "Mekong River",
+    "optionD": "Volga River",
+    "answer": "Ganges River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river passes through Paris, the capital city of France?",
+    "optionA": "Thames River",
+    "optionB": "Seine River",
+    "optionC": "Rhine River",
+    "optionD": "Tiber River",
+    "answer": "Seine River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river runs through London, the capital city of the United Kingdom?",
+    "optionA": "Danube River",
+    "optionB": "Rhine River",
+    "optionC": "Thames River",
+    "optionD": "Tagus River",
+    "answer": "Thames River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river flows through Rome, the capital city of Italy?",
+    "optionA": "Tiber River",
+    "optionB": "Seine River",
+    "optionC": "Volga River",
+    "optionD": "Danube River",
+    "answer": "Tiber River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river passes through Budapest, the capital city of Hungary?",
+    "optionA": "Danube River",
+    "optionB": "Rhone River",
+    "optionC": "Elbe River",
+    "optionD": "Loire River",
+    "answer": "Danube River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river flows through Vienna, the capital city of Austria?",
+    "optionA": "Seine River",
+    "optionB": "Elbe River",
+    "optionC": "Rhine River",
+    "optionD": "Danube River",
+    "answer": "Danube River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river passes through Berlin, the capital city of Germany?",
+    "optionA": "Rhine River",
+    "optionB": "Elbe River",
+    "optionC": "Seine River",
+    "optionD": "Spree River",
+    "answer": "Spree River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river flows through St. Petersburg, a major city in Russia?",
+    "optionA": "Volga River",
+    "optionB": "Neva River",
+    "optionC": "Dnieper River",
+    "optionD": "Ob River",
+    "answer": "Neva River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river passes through New York City, one of the largest cities in the United States?",
+    "optionA": "Hudson River",
+    "optionB": "Mississippi River",
+    "optionC": "Colorado River",
+    "optionD": "Columbia River",
+    "answer": "Hudson River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river flows through Shanghai, the largest city in China?",
+    "optionA": "Yangtze River",
+    "optionB": "Mekong River",
+    "optionC": "Yellow River",
+    "optionD": "Pearl River",
+    "answer": "Yangtze River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river passes through Cairo, the capital city of Egypt?",
+    "optionA": "Amazon River",
+    "optionB": "Nile River",
+    "optionC": "Yangtze River",
+    "optionD": "Mississippi River",
+    "answer": "Nile River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river is known as the 'Mother of Rivers' and flows through the Indian subcontinent?",
+    "optionA": "Ganges River",
+    "optionB": "Danube River",
+    "optionC": "Mekong River",
+    "optionD": "Volga River",
+    "answer": "Ganges River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river passes through Paris, the capital city of France?",
+    "optionA": "Thames River",
+    "optionB": "Seine River",
+    "optionC": "Rhine River",
+    "optionD": "Tiber River",
+    "answer": "Seine River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river runs through London, the capital city of the United Kingdom?",
+    "optionA": "Danube River",
+    "optionB": "Rhine River",
+    "optionC": "Thames River",
+    "optionD": "Tagus River",
+    "answer": "Thames River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river flows through Rome, the capital city of Italy?",
+    "optionA": "Tiber River",
+    "optionB": "Seine River",
+    "optionC": "Volga River",
+    "optionD": "Danube River",
+    "answer": "Tiber River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river passes through Budapest, the capital city of Hungary?",
+    "optionA": "Danube River",
+    "optionB": "Rhone River",
+    "optionC": "Elbe River",
+    "optionD": "Loire River",
+    "answer": "Danube River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river flows through Vienna, the capital city of Austria?",
+    "optionA": "Seine River",
+    "optionB": "Elbe River",
+    "optionC": "Rhine River",
+    "optionD": "Danube River",
+    "answer": "Danube River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river passes through Berlin, the capital city of Germany?",
+    "optionA": "Rhine River",
+    "optionB": "Elbe River",
+    "optionC": "Seine River",
+    "optionD": "Spree River",
+    "answer": "Spree River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river flows through St. Petersburg, a major city in Russia?",
+    "optionA": "Volga River",
+    "optionB": "Neva River",
+    "optionC": "Dnieper River",
+    "optionD": "Ob River",
+    "answer": "Neva River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river passes through New York City, one of the largest cities in the United States?",
+    "optionA": "Hudson River",
+    "optionB": "Mississippi River",
+    "optionC": "Colorado River",
+    "optionD": "Columbia River",
+    "answer": "Hudson River",
+    "category": "geography"
+  },
+  {
+    "question": "Which river flows through Shanghai, the largest city in China?",
+    "optionA": "Yangtze River",
+    "optionB": "Mekong River",
+    "optionC": "Yellow River",
+    "optionD": "Pearl River",
+    "answer": "Yangtze River",
+    "category": "geography"
+  },
+  {
+    "question": "Which two countries share the longest land border in the world?",
+    "optionA": "Canada and United States",
+    "optionB": "Russia and China",
+    "optionC": "India and Pakistan",
+    "optionD": "Brazil and Argentina",
+    "answer": "Canada and United States",
+    "category": "geography"
+  },
+  {
+    "question": "Which country shares borders with both China and India?",
+    "optionA": "Bangladesh",
+    "optionB": "Nepal",
+    "optionC": "Bhutan",
+    "optionD": "Myanmar",
+    "answer": "Nepal",
+    "category": "geography"
+  },
+  {
+    "question": "Which two countries share the Iberian Peninsula?",
+    "optionA": "Spain and Italy",
+    "optionB": "France and Germany",
+    "optionC": "Spain and Portugal",
+    "optionD": "Italy and Greece",
+    "answer": "Spain and Portugal",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is bordered by both Egypt and Saudi Arabia?",
+    "optionA": "Jordan",
+    "optionB": "Lebanon",
+    "optionC": "Syria",
+    "optionD": "Iraq",
+    "answer": "Jordan",
+    "category": "geography"
+  },
+  {
+    "question": "Which two countries share the island of Borneo?",
+    "optionA": "Indonesia and Malaysia",
+    "optionB": "Vietnam and Cambodia",
+    "optionC": "Thailand and Myanmar",
+    "optionD": "Philippines and Brunei",
+    "answer": "Indonesia and Malaysia",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is bordered by both Brazil and Argentina?",
+    "optionA": "Chile",
+    "optionB": "Bolivia",
+    "optionC": "Peru",
+    "optionD": "Uruguay",
+    "answer": "Uruguay",
+    "category": "geography"
+  },
+  {
+    "question": "Which two countries share the island of Hispaniola?",
+    "optionA": "Cuba and Jamaica",
+    "optionB": "Puerto Rico and Dominican Republic",
+    "optionC": "Haiti and Dominican Republic",
+    "optionD": "Haiti and Cuba",
+    "answer": "Haiti and Dominican Republic",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is bordered by both Poland and Austria?",
+    "optionA": "Czech Republic",
+    "optionB": "Slovakia",
+    "optionC": "Hungary",
+    "optionD": "Ukraine",
+    "answer": "Slovakia",
+    "category": "geography"
+  },
+  {
+    "question": "Which two countries share the Korean Peninsula?",
+    "optionA": "South Korea and Japan",
+    "optionB": "North Korea and Russia",
+    "optionC": "China and South Korea",
+    "optionD": "North Korea and South Korea",
+    "answer": "North Korea and South Korea",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is bordered by both Germany and Belgium?",
+    "optionA": "Netherlands",
+    "optionB": "Luxembourg",
+    "optionC": "Switzerland",
+    "optionD": "France",
+    "answer": "Luxembourg",
+    "category": "geography"
+  },
+  {
+    "question": "Which two countries share the island of Cyprus?",
+    "optionA": "Greece and Cyprus",
+    "optionB": "Turkey and Cyprus",
+    "optionC": "Egypt and Cyprus",
+    "optionD": "Israel and Cyprus",
+    "answer": "Turkey and Cyprus",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is bordered by both Russia and China?",
+    "optionA": "Mongolia",
+    "optionB": "Kazakhstan",
+    "optionC": "Kyrgyzstan",
+    "optionD": "Tajikistan",
+    "answer": "Mongolia",
+    "category": "geography"
+  },
+  {
+    "question": "Which two countries share the island of New Guinea?",
+    "optionA": "Indonesia and Papua New Guinea",
+    "optionB": "Australia and Solomon Islands",
+    "optionC": "Fiji and Vanuatu",
+    "optionD": "Samoa and Tonga",
+    "answer": "Indonesia and Papua New Guinea",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is bordered by both Iran and Russia?",
+    "optionA": "Georgia",
+    "optionB": "Armenia",
+    "optionC": "Azerbaijan",
+    "optionD": "Turkmenistan",
+    "answer": "Azerbaijan",
+    "category": "geography"
+  },
+  {
+    "question": "Which two countries share the island of Great Britain?",
+    "optionA": "Ireland and United Kingdom",
+    "optionB": "England and Scotland",
+    "optionC": "Wales and Scotland",
+    "optionD": "United Kingdom and Scotland",
+    "answer": "United Kingdom and Scotland",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is bordered by both Egypt and Libya?",
+    "optionA": "Algeria",
+    "optionB": "Morocco",
+    "optionC": "Tunisia",
+    "optionD": "Sudan",
+    "answer": "Libya",
+    "category": "geography"
+  },
+  {
+    "question": "Which two countries share the island of Ireland?",
+    "optionA": "Ireland and United Kingdom",
+    "optionB": "Scotland and Ireland",
+    "optionC": "Wales and Ireland",
+    "optionD": "Ireland and Northern Ireland",
+    "answer": "Ireland and United Kingdom",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is bordered by both France and Germany?",
+    "optionA": "Netherlands",
+    "optionB": "Belgium",
+    "optionC": "Luxembourg",
+    "optionD": "Switzerland",
+    "answer": "Luxembourg",
+    "category": "geography"
+  },
+  {
+    "question": "Which two countries share the island of Sumatra?",
+    "optionA": "Indonesia and Malaysia",
+    "optionB": "Indonesia and Singapore",
+    "optionC": "Indonesia and Philippines",
+    "optionD": "Indonesia and Brunei",
+    "answer": "Indonesia and Malaysia",
+    "category": "geography"
+  },
+  {
+    "question": "Which country is bordered by both India and China?",
+    "optionA": "Nepal",
+    "optionB": "Bangladesh",
+    "optionC": "Pakistan",
+    "optionD": "Bhutan",
+    "answer": "Nepal",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of the United States?",
+    "optionA": "Euro",
+    "optionB": "Dollar",
+    "optionC": "Pound",
+    "optionD": "Yen",
+    "answer": "Dollar",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of China?",
+    "optionA": "Ruble",
+    "optionB": "Yuan",
+    "optionC": "Rupee",
+    "optionD": "Peso",
+    "answer": "Yuan",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "optionA": "Yuan",
+    "optionB": "Yen",
+    "optionC": "Won",
+    "optionD": "Ringgit",
+    "answer": "Yen",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of India?",
+    "optionA": "Rupee",
+    "optionB": "Rupiah",
+    "optionC": "Rand",
+    "optionD": "Real",
+    "answer": "Rupee",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Russia?",
+    "optionA": "Rupiah",
+    "optionB": "Ruble",
+    "optionC": "Rand",
+    "optionD": "Real",
+    "answer": "Ruble",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Brazil?",
+    "optionA": "Riyal",
+    "optionB": "Real",
+    "optionC": "Rupiah",
+    "optionD": "Ruble",
+    "answer": "Real",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Canada?",
+    "optionA": "Dollar",
+    "optionB": "Euro",
+    "optionC": "Peso",
+    "optionD": "Rupee",
+    "answer": "Dollar",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Australia?",
+    "optionA": "Pound",
+    "optionB": "Dollar",
+    "optionC": "Franc",
+    "optionD": "Krona",
+    "answer": "Dollar",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Indonesia?",
+    "optionA": "Rupiah",
+    "optionB": "Yen",
+    "optionC": "Baht",
+    "optionD": "Dong",
+    "answer": "Rupiah",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Mexico?",
+    "optionA": "Dollar",
+    "optionB": "Peso",
+    "optionC": "Rand",
+    "optionD": "Real",
+    "answer": "Peso",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of South Korea?",
+    "optionA": "Yuan",
+    "optionB": "Won",
+    "optionC": "Yen",
+    "optionD": "Dollar",
+    "answer": "Won",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Turkey?",
+    "optionA": "Lira",
+    "optionB": "Rupee",
+    "optionC": "Pound",
+    "optionD": "Krone",
+    "answer": "Lira",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of United Kingdom?",
+    "optionA": "Euro",
+    "optionB": "Dollar",
+    "optionC": "Pound",
+    "optionD": "Yuan",
+    "answer": "Pound",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of France?",
+    "optionA": "Euro",
+    "optionB": "Dollar",
+    "optionC": "Pound",
+    "optionD": "Franc",
+    "answer": "Euro",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Germany?",
+    "optionA": "Mark",
+    "optionB": "Euro",
+    "optionC": "Krona",
+    "optionD": "Pound",
+    "answer": "Euro",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Italy?",
+    "optionA": "Euro",
+    "optionB": "Dollar",
+    "optionC": "Pound",
+    "optionD": "Yuan",
+    "answer": "Euro",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Argentina?",
+    "optionA": "Peso",
+    "optionB": "Real",
+    "optionC": "Dollar",
+    "optionD": "Pound",
+    "answer": "Peso",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Saudi Arabia?",
+    "optionA": "Dinar",
+    "optionB": "Riyal",
+    "optionC": "Peso",
+    "optionD": "Rupee",
+    "answer": "Riyal",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Iran?",
+    "optionA": "Rupiah",
+    "optionB": "Rupee",
+    "optionC": "Dinar",
+    "optionD": "Rial",
+    "answer": "Rial",
+    "category": "geography"
+  },
+  {
+    "question": "What is the currency of Pakistan?",
+    "optionA": "Riyal",
+    "optionB": "Rupiah",
+    "optionC": "Rupee",
+    "optionD": "Ringgit",
+    "answer": "Rupee",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Sunshine State'?",
+    "optionA": "Texas",
+    "optionB": "California",
+    "optionC": "Florida",
+    "optionD": "Arizona",
+    "answer": "Florida",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is home to the Grand Canyon?",
+    "optionA": "Colorado",
+    "optionB": "Utah",
+    "optionC": "Nevada",
+    "optionD": "Arizona",
+    "answer": "Arizona",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Golden State'?",
+    "optionA": "Nevada",
+    "optionB": "California",
+    "optionC": "Oregon",
+    "optionD": "New Mexico",
+    "answer": "California",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is famous for its seafood and New England clam chowder?",
+    "optionA": "New Hampshire",
+    "optionB": "Maine",
+    "optionC": "Massachusetts",
+    "optionD": "Rhode Island",
+    "answer": "Maine",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Lone Star State'?",
+    "optionA": "New Mexico",
+    "optionB": "Arizona",
+    "optionC": "Texas",
+    "optionD": "Oklahoma",
+    "answer": "Texas",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is home to Mount Rushmore?",
+    "optionA": "Montana",
+    "optionB": "Wyoming",
+    "optionC": "South Dakota",
+    "optionD": "North Dakota",
+    "answer": "South Dakota",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Empire State'?",
+    "optionA": "New Jersey",
+    "optionB": "New York",
+    "optionC": "Connecticut",
+    "optionD": "Delaware",
+    "answer": "New York",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is home to the Rocky Mountains?",
+    "optionA": "Colorado",
+    "optionB": "Idaho",
+    "optionC": "Montana",
+    "optionD": "Wyoming",
+    "answer": "Colorado",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Granite State'?",
+    "optionA": "Rhode Island",
+    "optionB": "Connecticut",
+    "optionC": "New Hampshire",
+    "optionD": "Vermont",
+    "answer": "New Hampshire",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is famous for its music scene in cities like Nashville and Memphis?",
+    "optionA": "Georgia",
+    "optionB": "Mississippi",
+    "optionC": "Tennessee",
+    "optionD": "Alabama",
+    "answer": "Tennessee",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Sunset State'?",
+    "optionA": "New Mexico",
+    "optionB": "California",
+    "optionC": "Arizona",
+    "optionD": "Nevada",
+    "answer": "California",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is the largest in terms of land area?",
+    "optionA": "Alaska",
+    "optionB": "Texas",
+    "optionC": "California",
+    "optionD": "Montana",
+    "answer": "Alaska",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known for its potatoes and is often called the 'Gem State'?",
+    "optionA": "Utah",
+    "optionB": "Idaho",
+    "optionC": "Oregon",
+    "optionD": "Washington",
+    "answer": "Idaho",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is famous for its Mardi Gras celebrations in cities like New Orleans?",
+    "optionA": "Louisiana",
+    "optionB": "Mississippi",
+    "optionC": "Alabama",
+    "optionD": "Georgia",
+    "answer": "Louisiana",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Show-Me State'?",
+    "optionA": "Kansas",
+    "optionB": "Oklahoma",
+    "optionC": "Missouri",
+    "optionD": "Arkansas",
+    "answer": "Missouri",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is famous for its beaches, amusement parks, and oranges?",
+    "optionA": "Florida",
+    "optionB": "California",
+    "optionC": "Texas",
+    "optionD": "Georgia",
+    "answer": "Florida",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Peach State'?",
+    "optionA": "South Carolina",
+    "optionB": "Florida",
+    "optionC": "Georgia",
+    "optionD": "Alabama",
+    "answer": "Georgia",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is home to the Great Salt Lake and is often called the 'Beehive State'?",
+    "optionA": "Nevada",
+    "optionB": "Utah",
+    "optionC": "Idaho",
+    "optionD": "Wyoming",
+    "answer": "Utah",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Palmetto State'?",
+    "optionA": "South Carolina",
+    "optionB": "North Carolina",
+    "optionC": "Georgia",
+    "optionD": "Florida",
+    "answer": "South Carolina",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is famous for its corn production and is often called the 'Cornhusker State'?",
+    "optionA": "Nebraska",
+    "optionB": "Iowa",
+    "optionC": "Kansas",
+    "optionD": "Missouri",
+    "answer": "Nebraska",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Tar Heel State'?",
+    "optionA": "South Carolina",
+    "optionB": "North Carolina",
+    "optionC": "Georgia",
+    "optionD": "Florida",
+    "answer": "North Carolina",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is famous for its potatoes and is often called the 'Gem State'?",
+    "optionA": "Utah",
+    "optionB": "Idaho",
+    "optionC": "Oregon",
+    "optionD": "Washington",
+    "answer": "Idaho",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is famous for its Mardi Gras celebrations in cities like New Orleans?",
+    "optionA": "Louisiana",
+    "optionB": "Mississippi",
+    "optionC": "Alabama",
+    "optionD": "Georgia",
+    "answer": "Louisiana",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Show-Me State'?",
+    "optionA": "Kansas",
+    "optionB": "Oklahoma",
+    "optionC": "Missouri",
+    "optionD": "Arkansas",
+    "answer": "Missouri",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is famous for its beaches, amusement parks, and oranges?",
+    "optionA": "Florida",
+    "optionB": "California",
+    "optionC": "Texas",
+    "optionD": "Georgia",
+    "answer": "Florida",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Peach State'?",
+    "optionA": "South Carolina",
+    "optionB": "Florida",
+    "optionC": "Georgia",
+    "optionD": "Alabama",
+    "answer": "Georgia",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is home to the Great Salt Lake and is often called the 'Beehive State'?",
+    "optionA": "Nevada",
+    "optionB": "Utah",
+    "optionC": "Idaho",
+    "optionD": "Wyoming",
+    "answer": "Utah",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Palmetto State'?",
+    "optionA": "South Carolina",
+    "optionB": "North Carolina",
+    "optionC": "Georgia",
+    "optionD": "Florida",
+    "answer": "South Carolina",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is famous for its corn production and is often called the 'Cornhusker State'?",
+    "optionA": "Nebraska",
+    "optionB": "Iowa",
+    "optionC": "Kansas",
+    "optionD": "Missouri",
+    "answer": "Nebraska",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Land of Enchantment'?",
+    "optionA": "New Mexico",
+    "optionB": "Arizona",
+    "optionC": "Nevada",
+    "optionD": "Colorado",
+    "answer": "New Mexico",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is famous for its natural beauty and is often called the 'Green Mountain State'?",
+    "optionA": "Vermont",
+    "optionB": "New Hampshire",
+    "optionC": "Maine",
+    "optionD": "Connecticut",
+    "answer": "Vermont",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known as the 'Bluegrass State'?",
+    "optionA": "Kentucky",
+    "optionB": "Tennessee",
+    "optionC": "Virginia",
+    "optionD": "Ohio",
+    "answer": "Kentucky",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is famous for its deserts and is often called the 'Cactus State'?",
+    "optionA": "Nevada",
+    "optionB": "California",
+    "optionC": "Arizona",
+    "optionD": "New Mexico",
+    "answer": "Arizona",
+    "category": "geography"
+  },
+  {
+    "question": "Which state is known for its maritime heritage and is often called the 'Old Line State'?",
+    "optionA": "Delaware",
+    "optionB": "New Jersey",
+    "optionC": "Maryland",
+    "optionD": "Virginia",
+    "answer": "Maryland",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is known as the 'Pearl of the Indian Ocean' and is famous for its lush landscapes and tea plantations?",
+    "optionA": "Sri Lanka",
+    "optionB": "Maldives",
+    "optionC": "Mauritius",
+    "optionD": "Bali",
+    "answer": "Sri Lanka",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is the largest in the Mediterranean Sea and is home to famous cities like Palermo and Catania?",
+    "optionA": "Corsica",
+    "optionB": "Sicily",
+    "optionC": "Sardinia",
+    "optionD": "Malta",
+    "answer": "Sicily",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is the largest in the world and is part of the North American Arctic Archipelago?",
+    "optionA": "Greenland",
+    "optionB": "Iceland",
+    "optionC": "Baffin Island",
+    "optionD": "Svalbard",
+    "answer": "Greenland",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is famous for its stunning beaches, coral reefs, and is located off the coast of Queensland, Australia?",
+    "optionA": "Hawaii",
+    "optionB": "Tahiti",
+    "optionC": "Fiji",
+    "optionD": "Great Barrier Reef",
+    "answer": "Great Barrier Reef",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is known for its unique wildlife, including the famous Galápagos tortoises?",
+    "optionA": "Madagascar",
+    "optionB": "Mauritius",
+    "optionC": "Galápagos Islands",
+    "optionD": "Easter Island",
+    "answer": "Galápagos Islands",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is famous for its iconic stone statues called moai and is located in the Pacific Ocean?",
+    "optionA": "Bora Bora",
+    "optionB": "Tahiti",
+    "optionC": "Easter Island",
+    "optionD": "Bali",
+    "answer": "Easter Island",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is known for its breathtaking landscapes, geothermal activity, and stunning waterfalls?",
+    "optionA": "New Zealand",
+    "optionB": "Iceland",
+    "optionC": "Hawaii",
+    "optionD": "Fiji",
+    "answer": "Iceland",
+    "category": "geography"
+  },
+  {
+    "question": "Which island country is famous for its beautiful blue waters, overwater bungalows, and stunning coral reefs?",
+    "optionA": "Maldives",
+    "optionB": "Seychelles",
+    "optionC": "Bora Bora",
+    "optionD": "Barbados",
+    "answer": "Maldives",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is the largest in the Caribbean and is shared by two countries, Haiti and the Dominican Republic?",
+    "optionA": "Cuba",
+    "optionB": "Puerto Rico",
+    "optionC": "Jamaica",
+    "optionD": "Hispaniola",
+    "answer": "Hispaniola",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is known as the 'Emerald Isle' and is famous for its lush green landscapes and rich history?",
+    "optionA": "Iceland",
+    "optionB": "New Zealand",
+    "optionC": "Ireland",
+    "optionD": "Scotland",
+    "answer": "Ireland",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is the largest in the Mediterranean Sea and is known for its beautiful beaches and ancient ruins?",
+    "optionA": "Corsica",
+    "optionB": "Sardinia",
+    "optionC": "Sicily",
+    "optionD": "Malta",
+    "answer": "Sardinia",
+    "category": "geography"
+  },
+  {
+    "question": "Which island country is located in the South Pacific and is famous for its rugby culture and stunning natural beauty?",
+    "optionA": "Fiji",
+    "optionB": "Samoa",
+    "optionC": "Tonga",
+    "optionD": "Solomon Islands",
+    "answer": "Fiji",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is known as the 'Island of the Gods' and is a popular tourist destination known for its arts and culture?",
+    "optionA": "Hawaii",
+    "optionB": "Bali",
+    "optionC": "Tahiti",
+    "optionD": "Mauritius",
+    "answer": "Bali",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is the largest in the Mediterranean Sea and is famous for its historical sites like the Colosseum and Vatican City?",
+    "optionA": "Sicily",
+    "optionB": "Sardinia",
+    "optionC": "Corsica",
+    "optionD": "Malta",
+    "answer": "Sicily",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is located in the Caribbean Sea and is known for its vibrant culture, salsa music, and historic old town?",
+    "optionA": "Haiti",
+    "optionB": "Puerto Rico",
+    "optionC": "Cuba",
+    "optionD": "Jamaica",
+    "answer": "Puerto Rico",
+    "category": "geography"
+  },
+  {
+    "question": "Which island country is located in the Indian Ocean and is famous for its stunning beaches, coral reefs, and luxury resorts?",
+    "optionA": "Seychelles",
+    "optionB": "Maldives",
+    "optionC": "Mauritius",
+    "optionD": "Madagascar",
+    "answer": "Maldives",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is the largest in the Mediterranean Sea and is known for its historic architecture and capital city, Valletta?",
+    "optionA": "Sicily",
+    "optionB": "Sardinia",
+    "optionC": "Corsica",
+    "optionD": "Malta",
+    "answer": "Malta",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is known for its unique wildlife, including lemurs, and is located off the southeast coast of Africa?",
+    "optionA": "Mauritius",
+    "optionB": "Seychelles",
+    "optionC": "Madagascar",
+    "optionD": "Maldives",
+    "answer": "Madagascar",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is the largest in the Mediterranean Sea and is known for its rugged coastline and mountainous terrain?",
+    "optionA": "Sardinia",
+    "optionB": "Sicily",
+    "optionC": "Corsica",
+    "optionD": "Malta",
+    "answer": "Corsica",
+    "category": "geography"
+  },
+  {
+    "question": "Which island is famous for its unique wildlife, including the giant tortoises, and was a place of inspiration for Charles Darwin's theory of evolution?",
+    "optionA": "Mauritius",
+    "optionB": "Galápagos Islands",
+    "optionC": "Easter Island",
+    "optionD": "Bali",
+    "answer": "Galápagos Islands",
+    "category": "geography"
+  },
+  {
+    "question": "Which country's internet domain ends with .kz?",
+    "optionA": "Kenya",
+    "optionB": "Kuwait",
+    "optionC": "Kazakhstan",
+    "optionD": "Kyrgyzstan",
+    "answer": "Kazakhstan",
+    "category": "technology"
+  },
+  {
+    "question": "The domain .de belongs to which country?",
+    "optionA": "Denmark",
+    "optionB": "Dominican Republic",
+    "optionC": "Djibouti",
+    "optionD": "Germany",
+    "answer": "Germany",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .fi represents which country?",
+    "optionA": "Fiji",
+    "optionB": "Finland",
+    "optionC": "France",
+    "optionD": "Faroe Islands",
+    "answer": "Finland",
+    "category": "technology"
+  },
+  {
+    "question": "Which nation's internet domain is .jo?",
+    "optionA": "Jordan",
+    "optionB": "Japan",
+    "optionC": "Jamaica",
+    "optionD": "Jersey",
+    "answer": "Jordan",
+    "category": "technology"
+  },
+  {
+    "question": "The domain .vn belongs to which country?",
+    "optionA": "Vanuatu",
+    "optionB": "Vatican City",
+    "optionC": "Venezuela",
+    "optionD": "Vietnam",
+    "answer": "Vietnam",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .cz represents which country?",
+    "optionA": "Czech Republic",
+    "optionB": "Cuba",
+    "optionC": "Cyprus",
+    "optionD": "Côte d'Ivoire",
+    "answer": "Czech Republic",
+    "category": "technology"
+  },
+  {
+    "question": "Which nation's internet domain is .ae?",
+    "optionA": "Austria",
+    "optionB": "Algeria",
+    "optionC": "Angola",
+    "optionD": "United Arab Emirates",
+    "answer": "United Arab Emirates",
+    "category": "technology"
+  },
+  {
+    "question": "The domain .th belongs to which country?",
+    "optionA": "Thailand",
+    "optionB": "Tonga",
+    "optionC": "Tunisia",
+    "optionD": "Turkey",
+    "answer": "Thailand",
+    "category": "technology"
+  },
+  {
+    "question": "Which country's internet domain ends with .ge?",
+    "optionA": "Georgia",
+    "optionB": "Germany",
+    "optionC": "Greece",
+    "optionD": "Greenland",
+    "answer": "Georgia",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .kw represents which country?",
+    "optionA": "Kuwait",
+    "optionB": "Kyrgyzstan",
+    "optionC": "Kazakhstan",
+    "optionD": "Kenya",
+    "answer": "Kuwait",
+    "category": "technology"
+  },
+  {
+    "question": "The domain .no belongs to which country?",
+    "optionA": "Nepal",
+    "optionB": "Nicaragua",
+    "optionC": "Norway",
+    "optionD": "Nigeria",
+    "answer": "Norway",
+    "category": "technology"
+  },
+  {
+    "question": "Which nation's internet domain is .fi?",
+    "optionA": "Fiji",
+    "optionB": "Finland",
+    "optionC": "France",
+    "optionD": "Faroe Islands",
+    "answer": "Finland",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .sg represents which country?",
+    "optionA": "Saudi Arabia",
+    "optionB": "Slovakia",
+    "optionC": "Singapore",
+    "optionD": "Senegal",
+    "answer": "Singapore",
+    "category": "technology"
+  },
+  {
+    "question": "Which country's internet domain ends with .eg?",
+    "optionA": "Ethiopia",
+    "optionB": "Estonia",
+    "optionC": "Eritrea",
+    "optionD": "Egypt",
+    "answer": "Egypt",
+    "category": "technology"
+  },
+  {
+    "question": "The domain .pl belongs to which country?",
+    "optionA": "Poland",
+    "optionB": "Portugal",
+    "optionC": "Palau",
+    "optionD": "Panama",
+    "answer": "Poland",
+    "category": "technology"
+  },
+  {
+    "question": "Which nation's internet domain is .my?",
+    "optionA": "Maldives",
+    "optionB": "Mali",
+    "optionC": "Myanmar",
+    "optionD": "Malaysia",
+    "answer": "Malaysia",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .ch represents which country?",
+    "optionA": "Chad",
+    "optionB": "China",
+    "optionC": "Chile",
+    "optionD": "Switzerland",
+    "answer": "Switzerland",
+    "category": "technology"
+  },
+  {
+    "question": "Which country's internet domain ends with .fi?",
+    "optionA": "Fiji",
+    "optionB": "Finland",
+    "optionC": "France",
+    "optionD": "Faroe Islands",
+    "answer": "Finland",
+    "category": "technology"
+  },
+  {
+    "question": "The domain .ke belongs to which country?",
+    "optionA": "Kenya",
+    "optionB": "Kuwait",
+    "optionC": "Kazakhstan",
+    "optionD": "Kyrgyzstan",
+    "answer": "Kenya",
+    "category": "technology"
+  },
+  {
+    "question": "Which nation's internet domain is .vn?",
+    "optionA": "Vanuatu",
+    "optionB": "Vatican City",
+    "optionC": "Venezuela",
+    "optionD": "Vietnam",
+    "answer": "Vietnam",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .ca belong to?",
+    "optionA": "Canada",
+    "optionB": "China",
+    "optionC": "Czech Republic",
+    "optionD": "Colombia",
+    "answer": "Canada",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .br is associated with which country?",
+    "optionA": "Brazil",
+    "optionB": "Belgium",
+    "optionC": "Bahrain",
+    "optionD": "Bulgaria",
+    "answer": "Brazil",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .it belong to?",
+    "optionA": "Iceland",
+    "optionB": "Indonesia",
+    "optionC": "Ireland",
+    "optionD": "Italy",
+    "answer": "Italy",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .au is associated with which country?",
+    "optionA": "Austria",
+    "optionB": "Australia",
+    "optionC": "Argentina",
+    "optionD": "Armenia",
+    "answer": "Australia",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .es belong to?",
+    "optionA": "Estonia",
+    "optionB": "Egypt",
+    "optionC": "Ecuador",
+    "optionD": "Spain",
+    "answer": "Spain",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .jp is associated with which country?",
+    "optionA": "Japan",
+    "optionB": "Jordan",
+    "optionC": "Jamaica",
+    "optionD": "Jersey",
+    "answer": "Japan",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .nz belong to?",
+    "optionA": "Nigeria",
+    "optionB": "Netherlands",
+    "optionC": "New Zealand",
+    "optionD": "Norway",
+    "answer": "New Zealand",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .kr is associated with which country?",
+    "optionA": "Kuwait",
+    "optionB": "Kyrgyzstan",
+    "optionC": "South Korea",
+    "optionD": "Kazakhstan",
+    "answer": "South Korea",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .ru belong to?",
+    "optionA": "Romania",
+    "optionB": "Russia",
+    "optionC": "Rwanda",
+    "optionD": "Rwanda",
+    "answer": "Russia",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .in is associated with which country?",
+    "optionA": "Indonesia",
+    "optionB": "India",
+    "optionC": "Iran",
+    "optionD": "Ireland",
+    "answer": "India",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .za belong to?",
+    "optionA": "Zambia",
+    "optionB": "Zimbabwe",
+    "optionC": "Zimbabwe",
+    "optionD": "South Africa",
+    "answer": "South Africa",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .gb is associated with which country?",
+    "optionA": "Greece",
+    "optionB": "Greenland",
+    "optionC": "Grenada",
+    "optionD": "United Kingdom",
+    "answer": "United Kingdom",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .cn belong to?",
+    "optionA": "Canada",
+    "optionB": "China",
+    "optionC": "Colombia",
+    "optionD": "Czech Republic",
+    "answer": "China",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .fr is associated with which country?",
+    "optionA": "Finland",
+    "optionB": "France",
+    "optionC": "Faroe Islands",
+    "optionD": "Fiji",
+    "answer": "France",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .de belong to?",
+    "optionA": "Denmark",
+    "optionB": "Dominican Republic",
+    "optionC": "Djibouti",
+    "optionD": "Germany",
+    "answer": "Germany",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .fi is associated with which country?",
+    "optionA": "Fiji",
+    "optionB": "Finland",
+    "optionC": "France",
+    "optionD": "Faroe Islands",
+    "answer": "Finland",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .uk belong to?",
+    "optionA": "Ukraine",
+    "optionB": "United States",
+    "optionC": "United Arab Emirates",
+    "optionD": "United Kingdom",
+    "answer": "United Kingdom",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .mx is associated with which country?",
+    "optionA": "Malta",
+    "optionB": "Maldives",
+    "optionC": "Mexico",
+    "optionD": "Mongolia",
+    "answer": "Mexico",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .ca belong to?",
+    "optionA": "Canada",
+    "optionB": "China",
+    "optionC": "Czech Republic",
+    "optionD": "Colombia",
+    "answer": "Canada",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .ru is associated with which country?",
+    "optionA": "Romania",
+    "optionB": "Russia",
+    "optionC": "Rwanda",
+    "optionD": "Rwanda",
+    "answer": "Russia",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .es belong to?",
+    "optionA": "Estonia",
+    "optionB": "Egypt",
+    "optionC": "Ecuador",
+    "optionD": "Spain",
+    "answer": "Spain",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .kr is associated with which country?",
+    "optionA": "Kuwait",
+    "optionB": "Kyrgyzstan",
+    "optionC": "South Korea",
+    "optionD": "Kazakhstan",
+    "answer": "South Korea",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .it belong to?",
+    "optionA": "Iceland",
+    "optionB": "Indonesia",
+    "optionC": "Ireland",
+    "optionD": "Italy",
+    "answer": "Italy",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .mx is associated with which country?",
+    "optionA": "Malta",
+    "optionB": "Maldives",
+    "optionC": "Mexico",
+    "optionD": "Mongolia",
+    "answer": "Mexico",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .br belong to?",
+    "optionA": "Brazil",
+    "optionB": "Belgium",
+    "optionC": "Bahrain",
+    "optionD": "Bulgaria",
+    "answer": "Brazil",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .ca is associated with which country?",
+    "optionA": "Canada",
+    "optionB": "China",
+    "optionC": "Czech Republic",
+    "optionD": "Colombia",
+    "answer": "Canada",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .fi belong to?",
+    "optionA": "Fiji",
+    "optionB": "Finland",
+    "optionC": "France",
+    "optionD": "Faroe Islands",
+    "answer": "Finland",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .jp is associated with which country?",
+    "optionA": "Japan",
+    "optionB": "Jordan",
+    "optionC": "Jamaica",
+    "optionD": "Jersey",
+    "answer": "Japan",
+    "category": "technology"
+  },
+  {
+    "question": "Which country does the internet domain .uk belong to?",
+    "optionA": "Ukraine",
+    "optionB": "United States",
+    "optionC": "United Arab Emirates",
+    "optionD": "United Kingdom",
+    "answer": "United Kingdom",
+    "category": "technology"
+  },
+  {
+    "question": "The internet domain .gb is associated with which country?",
+    "optionA": "Greece",
+    "optionB": "Greenland",
+    "optionC": "Grenada",
+    "optionD": "United Kingdom",
+    "answer": "United Kingdom",
+    "category": "technology"
+  },
+  {
+    "question": "How many countries does Russia share its land borders with?",
+    "optionA": "11",
+    "optionB": "12",
+    "optionC": "13",
+    "optionD": "14",
+    "answer": "14",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does China share its land borders with?",
+    "optionA": "12",
+    "optionB": "13",
+    "optionC": "14",
+    "optionD": "15",
+    "answer": "14",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Brazil share its land borders with?",
+    "optionA": "8",
+    "optionB": "9",
+    "optionC": "10",
+    "optionD": "11",
+    "answer": "10",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does India share its land borders with?",
+    "optionA": "5",
+    "optionB": "6",
+    "optionC": "7",
+    "optionD": "8",
+    "answer": "6",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does France share its land borders with?",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "answer": "8",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Germany share its land borders with?",
+    "optionA": "7",
+    "optionB": "8",
+    "optionC": "9",
+    "optionD": "10",
+    "answer": "9",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Turkey share its land borders with?",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "answer": "8",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Saudi Arabia share its land borders with?",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "answer": "8",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Kazakhstan share its land borders with?",
+    "optionA": "7",
+    "optionB": "8",
+    "optionC": "9",
+    "optionD": "10",
+    "answer": "5",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Sudan share its land borders with?",
+    "optionA": "5",
+    "optionB": "6",
+    "optionC": "7",
+    "optionD": "8",
+    "answer": "7",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Algeria share its land borders with?",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "answer": "7",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Niger share its land borders with?",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "answer": "7",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Angola share its land borders with?",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "answer": "7",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Zambia share its land borders with?",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "answer": "8",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Democratic Republic of the Congo share its land borders with?",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "answer": "9",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Libya share its land borders with?",
+    "optionA": "5",
+    "optionB": "6",
+    "optionC": "7",
+    "optionD": "8",
+    "answer": "6",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Chad share its land borders with?",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "answer": "6",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Mali share its land borders with?",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "answer": "7",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Mauritania share its land borders with?",
+    "optionA": "5",
+    "optionB": "6",
+    "optionC": "7",
+    "optionD": "8",
+    "answer": "5",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does South Sudan share its land borders with?",
+    "optionA": "5",
+    "optionB": "6",
+    "optionC": "7",
+    "optionD": "8",
+    "answer": "6",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries does Niger share its land borders with?",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "answer": "7",
+    "category": "geography"
   }
 ]
