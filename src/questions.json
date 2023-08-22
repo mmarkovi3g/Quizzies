@@ -7795,191 +7795,74 @@
   },
   {
     "question": "How many countries does Russia share its land borders with?",
-    "optionA": "11",
-    "optionB": "12",
-    "optionC": "13",
+    "optionA": "4",
+    "optionB": "8",
+    "optionC": "10",
     "optionD": "14",
     "answer": "14",
     "category": "geography"
   },
   {
     "question": "How many countries does China share its land borders with?",
-    "optionA": "12",
-    "optionB": "13",
+    "optionA": "7",
+    "optionB": "21",
     "optionC": "14",
-    "optionD": "15",
+    "optionD": "18",
     "answer": "14",
     "category": "geography"
   },
   {
     "question": "How many countries does Brazil share its land borders with?",
-    "optionA": "8",
-    "optionB": "9",
+    "optionA": "5",
+    "optionB": "7",
     "optionC": "10",
-    "optionD": "11",
+    "optionD": "15",
     "answer": "10",
     "category": "geography"
   },
   {
     "question": "How many countries does India share its land borders with?",
-    "optionA": "5",
+    "optionA": "2",
     "optionB": "6",
-    "optionC": "7",
-    "optionD": "8",
+    "optionC": "4",
+    "optionD": "10",
     "answer": "6",
     "category": "geography"
   },
   {
     "question": "How many countries does France share its land borders with?",
-    "optionA": "6",
-    "optionB": "7",
+    "optionA": "2",
+    "optionB": "14",
     "optionC": "8",
-    "optionD": "9",
+    "optionD": "10",
     "answer": "8",
     "category": "geography"
   },
   {
     "question": "How many countries does Germany share its land borders with?",
-    "optionA": "7",
-    "optionB": "8",
+    "optionA": "2",
+    "optionB": "4",
     "optionC": "9",
-    "optionD": "10",
+    "optionD": "11",
     "answer": "9",
     "category": "geography"
   },
   {
     "question": "How many countries does Turkey share its land borders with?",
-    "optionA": "6",
-    "optionB": "7",
-    "optionC": "8",
-    "optionD": "9",
+    "optionA": "1",
+    "optionB": "5",
+    "optionC": "12",
+    "optionD": "8",
     "answer": "8",
     "category": "geography"
   },
   {
     "question": "How many countries does Saudi Arabia share its land borders with?",
-    "optionA": "6",
-    "optionB": "7",
-    "optionC": "8",
-    "optionD": "9",
+    "optionA": "2",
+    "optionB": "4",
+    "optionC": "6",
+    "optionD": "8",
     "answer": "8",
-    "category": "geography"
-  },
-  {
-    "question": "How many countries does Kazakhstan share its land borders with?",
-    "optionA": "7",
-    "optionB": "8",
-    "optionC": "9",
-    "optionD": "10",
-    "answer": "5",
-    "category": "geography"
-  },
-  {
-    "question": "How many countries does Sudan share its land borders with?",
-    "optionA": "5",
-    "optionB": "6",
-    "optionC": "7",
-    "optionD": "8",
-    "answer": "7",
-    "category": "geography"
-  },
-  {
-    "question": "How many countries does Algeria share its land borders with?",
-    "optionA": "6",
-    "optionB": "7",
-    "optionC": "8",
-    "optionD": "9",
-    "answer": "7",
-    "category": "geography"
-  },
-  {
-    "question": "How many countries does Niger share its land borders with?",
-    "optionA": "6",
-    "optionB": "7",
-    "optionC": "8",
-    "optionD": "9",
-    "answer": "7",
-    "category": "geography"
-  },
-  {
-    "question": "How many countries does Angola share its land borders with?",
-    "optionA": "6",
-    "optionB": "7",
-    "optionC": "8",
-    "optionD": "9",
-    "answer": "7",
-    "category": "geography"
-  },
-  {
-    "question": "How many countries does Zambia share its land borders with?",
-    "optionA": "6",
-    "optionB": "7",
-    "optionC": "8",
-    "optionD": "9",
-    "answer": "8",
-    "category": "geography"
-  },
-  {
-    "question": "How many countries does Democratic Republic of the Congo share its land borders with?",
-    "optionA": "6",
-    "optionB": "7",
-    "optionC": "8",
-    "optionD": "9",
-    "answer": "9",
-    "category": "geography"
-  },
-  {
-    "question": "How many countries does Libya share its land borders with?",
-    "optionA": "5",
-    "optionB": "6",
-    "optionC": "7",
-    "optionD": "8",
-    "answer": "6",
-    "category": "geography"
-  },
-  {
-    "question": "How many countries does Chad share its land borders with?",
-    "optionA": "6",
-    "optionB": "7",
-    "optionC": "8",
-    "optionD": "9",
-    "answer": "6",
-    "category": "geography"
-  },
-  {
-    "question": "How many countries does Mali share its land borders with?",
-    "optionA": "6",
-    "optionB": "7",
-    "optionC": "8",
-    "optionD": "9",
-    "answer": "7",
-    "category": "geography"
-  },
-  {
-    "question": "How many countries does Mauritania share its land borders with?",
-    "optionA": "5",
-    "optionB": "6",
-    "optionC": "7",
-    "optionD": "8",
-    "answer": "5",
-    "category": "geography"
-  },
-  {
-    "question": "How many countries does South Sudan share its land borders with?",
-    "optionA": "5",
-    "optionB": "6",
-    "optionC": "7",
-    "optionD": "8",
-    "answer": "6",
-    "category": "geography"
-  },
-  {
-    "question": "How many countries does Niger share its land borders with?",
-    "optionA": "6",
-    "optionB": "7",
-    "optionC": "8",
-    "optionD": "9",
-    "answer": "7",
     "category": "geography"
   }
 ]
