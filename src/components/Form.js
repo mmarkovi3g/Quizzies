@@ -61,7 +61,7 @@ export default function Form({
   return (
     <div className="form">
       <div className="form_header">
-        <p>Choose you Quizzies settings to generate your own Quizzie: </p>
+        <p>Select your settings: </p>
         <p className="toggler" onClick={toggleHandler}>
           {isOpen === true ? "✖️" : "➕"}
         </p>

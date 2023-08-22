@@ -20,7 +20,7 @@ function App() {
   };
 
   // just a piece of code to check number of questions
-  console.log(questions.length);
+  /*   console.log(questions.length); */
 
   // state for filtered questions passed to form component so i can handle changes directly - set to full JSON file on default
   const [filteredQuestions, setFilteredQuestions] = useState(questions);
@@ -67,12 +67,6 @@ function App() {
   return (
     <div>
       <div className="title">Wellcome to Quizzies</div>
-      <Form
-        onHandleQuizzSetting={handleQuizzSettings}
-        categoryFilters={categoryFilters}
-        filteredQuestions={filteredQuestions}
-        setFilteredQuestions={setFilteredQuestions}
-      />
       <div>
         {started ? (
           <Question
@@ -87,6 +81,12 @@ function App() {
             <h2 className="title">
               Select your Quizzie settings and start new game!
             </h2>
+            <Form
+              onHandleQuizzSetting={handleQuizzSettings}
+              categoryFilters={categoryFilters}
+              filteredQuestions={filteredQuestions}
+              setFilteredQuestions={setFilteredQuestions}
+            />
           </div>
         )}
       </div>
