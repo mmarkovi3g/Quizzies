@@ -162,15 +162,6 @@
     "category": "history"
   },
   {
-    "question": "Which famous speech by Martin Luther King Jr. began with 'I have a dream'?",
-    "optionA": "I Have a Dream",
-    "optionB": "I am Prepared to Die",
-    "optionC": "Ask Not What Your Country Can Do for You",
-    "optionD": "Tear Down this Wall",
-    "answer": "I Have a Dream",
-    "category": "history"
-  },
-  {
     "question": "Which ancient civilization built the famous city of Troy, known for the Trojan War?",
     "optionA": "Greek",
     "optionB": "Egyptian",
@@ -248,7 +239,7 @@
     "optionB": "Boston Celtics",
     "optionC": "Chicago Bulls",
     "optionD": "Golden State Warriors",
-    "answer": "Boston Celtics",
+    "answer": "Los Angeles Lakers",
     "category": "sports"
   },
   {
@@ -303,15 +294,6 @@
     "optionC": "Finland",
     "optionD": "Norway",
     "answer": "Finland",
-    "category": "geography"
-  },
-  {
-    "question": "Which continent is the driest and has the world's largest hot desert?",
-    "optionA": "Africa",
-    "optionB": "Australia",
-    "optionC": "South America",
-    "optionD": "Asia",
-    "answer": "Australia",
     "category": "geography"
   },
   {
@@ -402,15 +384,6 @@
     "optionC": "The Emancipation Proclamation",
     "optionD": "The Bill of Rights",
     "answer": "The Declaration of Independence",
-    "category": "history"
-  },
-  {
-    "question": "Which ancient wonder was a massive statue of the Greek god Zeus, located in Olympia?",
-    "optionA": "Colossus of Rhodes",
-    "optionB": "Hanging Gardens of Babylon",
-    "optionC": "Lighthouse of Alexandria",
-    "optionD": "Statue of Zeus at Olympia",
-    "answer": "Statue of Zeus at Olympia",
     "category": "history"
   },
   {
@@ -585,15 +558,6 @@
     "category": "geography"
   },
   {
-    "question": "Which mountain is the highest in Africa?",
-    "optionA": "Mount Everest",
-    "optionB": "Mount Kilimanjaro",
-    "optionC": "Mount McKinley",
-    "optionD": "Mount Fuji",
-    "answer": "Mount Kilimanjaro",
-    "category": "geography"
-  },
-  {
     "question": "In which continent is the country of New Zealand located?",
     "optionA": "Australia",
     "optionB": "North America",
@@ -729,15 +693,6 @@
     "category": "sports"
   },
   {
-    "question": "What is the largest desert in the world?",
-    "optionA": "Sahara Desert",
-    "optionB": "Arabian Desert",
-    "optionC": "Gobi Desert",
-    "optionD": "Atacama Desert",
-    "answer": "Sahara Desert",
-    "category": "geography"
-  },
-  {
     "question": "Which country is home to the famous 'Machu Picchu'?",
     "optionA": "Peru",
     "optionB": "Mexico",
@@ -836,15 +791,7 @@
     "answer": "Andes Mountains",
     "category": "geography"
   },
-  {
-    "question": "Which country is known for its beautiful fjords, northern lights, and high standard of living?",
-    "optionA": "Sweden",
-    "optionB": "Norway",
-    "optionC": "Denmark",
-    "optionD": "Finland",
-    "answer": "Norway",
-    "category": "geography"
-  },
+
   {
     "question": "Which country is famous for its ancient pyramids and the Nile River?",
     "optionA": "Egypt",
@@ -6003,15 +5950,6 @@
     "category": "geography"
   },
   {
-    "question": "Where can you find the Machu Picchu, an ancient Incan citadel?",
-    "optionA": "Lima",
-    "optionB": "Cusco",
-    "optionC": "Machu Picchu",
-    "optionD": "Quito",
-    "answer": "Machu Picchu",
-    "category": "geography"
-  },
-  {
     "question": "In which city is the Brandenburg Gate, a symbol of unity and peace?",
     "optionA": "Berlin",
     "optionB": "Vienna",
@@ -7350,7 +7288,7 @@
     "optionC": "Kazakhstan",
     "optionD": "Kyrgyzstan",
     "answer": "Kazakhstan",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The domain .de belongs to which country?",
@@ -7359,7 +7297,7 @@
     "optionC": "Djibouti",
     "optionD": "Germany",
     "answer": "Germany",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .fi represents which country?",
@@ -7368,7 +7306,7 @@
     "optionC": "France",
     "optionD": "Faroe Islands",
     "answer": "Finland",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which nation's internet domain is .jo?",
@@ -7377,7 +7315,7 @@
     "optionC": "Jamaica",
     "optionD": "Jersey",
     "answer": "Jordan",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The domain .vn belongs to which country?",
@@ -7386,7 +7324,7 @@
     "optionC": "Venezuela",
     "optionD": "Vietnam",
     "answer": "Vietnam",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .cz represents which country?",
@@ -7395,7 +7333,7 @@
     "optionC": "Cyprus",
     "optionD": "Côte d'Ivoire",
     "answer": "Czech Republic",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which nation's internet domain is .ae?",
@@ -7404,7 +7342,7 @@
     "optionC": "Angola",
     "optionD": "United Arab Emirates",
     "answer": "United Arab Emirates",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The domain .th belongs to which country?",
@@ -7413,7 +7351,7 @@
     "optionC": "Tunisia",
     "optionD": "Turkey",
     "answer": "Thailand",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country's internet domain ends with .ge?",
@@ -7422,7 +7360,7 @@
     "optionC": "Greece",
     "optionD": "Greenland",
     "answer": "Georgia",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .kw represents which country?",
@@ -7431,7 +7369,7 @@
     "optionC": "Kazakhstan",
     "optionD": "Kenya",
     "answer": "Kuwait",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The domain .no belongs to which country?",
@@ -7440,7 +7378,7 @@
     "optionC": "Norway",
     "optionD": "Nigeria",
     "answer": "Norway",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which nation's internet domain is .fi?",
@@ -7449,7 +7387,7 @@
     "optionC": "France",
     "optionD": "Faroe Islands",
     "answer": "Finland",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .sg represents which country?",
@@ -7458,7 +7396,7 @@
     "optionC": "Singapore",
     "optionD": "Senegal",
     "answer": "Singapore",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country's internet domain ends with .eg?",
@@ -7467,7 +7405,7 @@
     "optionC": "Eritrea",
     "optionD": "Egypt",
     "answer": "Egypt",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The domain .pl belongs to which country?",
@@ -7476,7 +7414,7 @@
     "optionC": "Palau",
     "optionD": "Panama",
     "answer": "Poland",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which nation's internet domain is .my?",
@@ -7485,7 +7423,7 @@
     "optionC": "Myanmar",
     "optionD": "Malaysia",
     "answer": "Malaysia",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .ch represents which country?",
@@ -7494,7 +7432,7 @@
     "optionC": "Chile",
     "optionD": "Switzerland",
     "answer": "Switzerland",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country's internet domain ends with .fi?",
@@ -7503,7 +7441,7 @@
     "optionC": "France",
     "optionD": "Faroe Islands",
     "answer": "Finland",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The domain .ke belongs to which country?",
@@ -7512,7 +7450,7 @@
     "optionC": "Kazakhstan",
     "optionD": "Kyrgyzstan",
     "answer": "Kenya",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which nation's internet domain is .vn?",
@@ -7521,7 +7459,7 @@
     "optionC": "Venezuela",
     "optionD": "Vietnam",
     "answer": "Vietnam",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .ca belong to?",
@@ -7530,7 +7468,7 @@
     "optionC": "Czech Republic",
     "optionD": "Colombia",
     "answer": "Canada",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .br is associated with which country?",
@@ -7539,7 +7477,7 @@
     "optionC": "Bahrain",
     "optionD": "Bulgaria",
     "answer": "Brazil",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .it belong to?",
@@ -7548,7 +7486,7 @@
     "optionC": "Ireland",
     "optionD": "Italy",
     "answer": "Italy",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .au is associated with which country?",
@@ -7557,7 +7495,7 @@
     "optionC": "Argentina",
     "optionD": "Armenia",
     "answer": "Australia",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .es belong to?",
@@ -7566,7 +7504,7 @@
     "optionC": "Ecuador",
     "optionD": "Spain",
     "answer": "Spain",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .jp is associated with which country?",
@@ -7575,7 +7513,7 @@
     "optionC": "Jamaica",
     "optionD": "Jersey",
     "answer": "Japan",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .nz belong to?",
@@ -7584,7 +7522,7 @@
     "optionC": "New Zealand",
     "optionD": "Norway",
     "answer": "New Zealand",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .kr is associated with which country?",
@@ -7593,7 +7531,7 @@
     "optionC": "South Korea",
     "optionD": "Kazakhstan",
     "answer": "South Korea",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .ru belong to?",
@@ -7602,7 +7540,7 @@
     "optionC": "Rwanda",
     "optionD": "Rwanda",
     "answer": "Russia",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .in is associated with which country?",
@@ -7611,7 +7549,7 @@
     "optionC": "Iran",
     "optionD": "Ireland",
     "answer": "India",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .za belong to?",
@@ -7620,7 +7558,7 @@
     "optionC": "Zimbabwe",
     "optionD": "South Africa",
     "answer": "South Africa",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .gb is associated with which country?",
@@ -7629,7 +7567,7 @@
     "optionC": "Grenada",
     "optionD": "United Kingdom",
     "answer": "United Kingdom",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .cn belong to?",
@@ -7638,7 +7576,7 @@
     "optionC": "Colombia",
     "optionD": "Czech Republic",
     "answer": "China",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .fr is associated with which country?",
@@ -7647,7 +7585,7 @@
     "optionC": "Faroe Islands",
     "optionD": "Fiji",
     "answer": "France",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .de belong to?",
@@ -7656,7 +7594,7 @@
     "optionC": "Djibouti",
     "optionD": "Germany",
     "answer": "Germany",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .fi is associated with which country?",
@@ -7665,7 +7603,7 @@
     "optionC": "France",
     "optionD": "Faroe Islands",
     "answer": "Finland",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .uk belong to?",
@@ -7674,7 +7612,7 @@
     "optionC": "United Arab Emirates",
     "optionD": "United Kingdom",
     "answer": "United Kingdom",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .mx is associated with which country?",
@@ -7683,7 +7621,7 @@
     "optionC": "Mexico",
     "optionD": "Mongolia",
     "answer": "Mexico",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .ca belong to?",
@@ -7692,7 +7630,7 @@
     "optionC": "Czech Republic",
     "optionD": "Colombia",
     "answer": "Canada",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .ru is associated with which country?",
@@ -7701,7 +7639,7 @@
     "optionC": "Rwanda",
     "optionD": "Rwanda",
     "answer": "Russia",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .es belong to?",
@@ -7710,7 +7648,7 @@
     "optionC": "Ecuador",
     "optionD": "Spain",
     "answer": "Spain",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .kr is associated with which country?",
@@ -7719,7 +7657,7 @@
     "optionC": "South Korea",
     "optionD": "Kazakhstan",
     "answer": "South Korea",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .it belong to?",
@@ -7728,7 +7666,7 @@
     "optionC": "Ireland",
     "optionD": "Italy",
     "answer": "Italy",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .mx is associated with which country?",
@@ -7737,7 +7675,7 @@
     "optionC": "Mexico",
     "optionD": "Mongolia",
     "answer": "Mexico",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .br belong to?",
@@ -7746,7 +7684,7 @@
     "optionC": "Bahrain",
     "optionD": "Bulgaria",
     "answer": "Brazil",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .ca is associated with which country?",
@@ -7755,7 +7693,7 @@
     "optionC": "Czech Republic",
     "optionD": "Colombia",
     "answer": "Canada",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .fi belong to?",
@@ -7764,7 +7702,7 @@
     "optionC": "France",
     "optionD": "Faroe Islands",
     "answer": "Finland",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .jp is associated with which country?",
@@ -7773,7 +7711,7 @@
     "optionC": "Jamaica",
     "optionD": "Jersey",
     "answer": "Japan",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "Which country does the internet domain .uk belong to?",
@@ -7782,7 +7720,7 @@
     "optionC": "United Arab Emirates",
     "optionD": "United Kingdom",
     "answer": "United Kingdom",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "The internet domain .gb is associated with which country?",
@@ -7791,7 +7729,7 @@
     "optionC": "Grenada",
     "optionD": "United Kingdom",
     "answer": "United Kingdom",
-    "category": "technology"
+    "category": "geography"
   },
   {
     "question": "How many countries does Russia share its land borders with?",

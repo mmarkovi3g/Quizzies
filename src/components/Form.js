@@ -8,12 +8,11 @@ export default function Form({
   setFilteredQuestions,
   filteredQuestions,
 }) {
-  // toggler for choosing quizz options by default it is open, it should close when i choose quizz settings and start the quizz
-  const [isOpen, setIsOpen] = useState(false);
-
+  /* toggler for choosing quizz options by default it is open, it should close when i choose quizz settings and start the quizz - REMOVED BUT SAVED FOR LATER USE
+   */ /* const [isOpen, setIsOpen] = useState(false);
   function toggleHandler() {
     setIsOpen((isOpen) => !isOpen);
-  }
+  } */
 
   //defining state and function for handling categories
   const [chosenCategory, setChosenCategory] = useState("allcategories");
@@ -53,49 +52,41 @@ export default function Form({
     // reseting form to default values after submit
     setChosenCategory("allcategories");
     setChosenNumOfQuestions(10);
-    setIsOpen(false);
   }
 
   /*  console.log(chosenNumOfQuestions, chosenCategory); */
 
   return (
     <div className="form">
-      <div className="form_header">
-        <p>Select your settings: </p>
-        <p className="toggler" onClick={toggleHandler}>
-          {isOpen === true ? "✖️" : "➕"}
-        </p>
-      </div>
-      {isOpen === true ? (
-        <form onSubmit={submitHandler}>
-          <div className="form_wrap">
-            <div>
-              <p>Select category: </p>
-              <select value={chosenCategory} onChange={categoryHandler}>
-                <option value="allcategories">All Categories</option>
-                <option value="geography">Geography</option>
-                <option value="sports">Sports</option>
-                <option value="history"> History</option>
-              </select>
-            </div>
-
-            <div>
-              <p>Select number of questions: </p>
-              <select
-                value={chosenNumOfQuestions}
-                onChange={numOfQuestionsHandler}
-              >
-                <option value={10}>10</option>
-                <option value={20}>20</option>
-                <option value={30}>30</option>
-              </select>
-            </div>
+      <h2 className="title">
+        Select your Quizzie settings and start new game!
+      </h2>
+      <form onSubmit={submitHandler}>
+        <div className="form_wrap">
+          <div>
+            <p>Select category: </p>
+            <select value={chosenCategory} onChange={categoryHandler}>
+              <option value="allcategories">All Categories</option>
+              <option value="geography">Geography</option>
+              <option value="sports">Sports</option>
+              <option value="history"> History</option>
+            </select>
           </div>
-          <button type="submit">Generate Quizzie</button>
-        </form>
-      ) : (
-        ""
-      )}
+
+          <div>
+            <p>Select number of questions: </p>
+            <select
+              value={chosenNumOfQuestions}
+              onChange={numOfQuestionsHandler}
+            >
+              <option value={10}>10</option>
+              <option value={20}>20</option>
+              <option value={30}>30</option>
+            </select>
+          </div>
+        </div>
+        <button type="submit">Generate Quizzie</button>
+      </form>
     </div>
   );
 }

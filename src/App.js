@@ -5,6 +5,8 @@ import "./App.css";
 import questions from "./questions.json";
 import { useState } from "react";
 
+/* QUESTION EDITING NUMBER OF LINE: 2011 */
+
 function App() {
   // quizz started or not state - default is false to show message to choose settings
   const [started, setStarted] = useState(false);
@@ -78,9 +80,6 @@ function App() {
           />
         ) : (
           <div className="question">
-            <h2 className="title">
-              Select your Quizzie settings and start new game!
-            </h2>
             <Form
               onHandleQuizzSetting={handleQuizzSettings}
               categoryFilters={categoryFilters}
