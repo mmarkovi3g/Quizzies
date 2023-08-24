@@ -11,72 +11,6 @@
     "director": "Francis Ford Coppola"
   },
   {
-    "question": "Which 1942 film featured Humphrey Bogart and Ingrid Bergman and is set during World War II?",
-    "optionA": "Gone with the Wind",
-    "optionB": "Casablanca",
-    "optionC": "Rebecca",
-    "optionD": "The Maltese Falcon",
-    "answer": "Casablanca",
-    "genre": "romance",
-    "genres": ["romance", "drama"],
-    "director": "Michael Curtiz"
-  },
-  {
-    "question": "Who played the titular character in the 1933 film 'King Kong'?",
-    "optionA": "Boris Karloff",
-    "optionB": "Lon Chaney",
-    "optionC": "Fay Wray",
-    "optionD": "Bela Lugosi",
-    "answer": "Fay Wray",
-    "genre": "adventure",
-    "genres": ["adventure", "fantasy", "horror"],
-    "director": "Merian C. Cooper, Ernest B. Schoedsack"
-  },
-  {
-    "question": "In which 1941 film does Orson Welles play the role of Charles Foster Kane?",
-    "optionA": "Casablanca",
-    "optionB": "Gone with the Wind",
-    "optionC": "Citizen Kane",
-    "optionD": "Rebecca",
-    "answer": "Citizen Kane",
-    "genre": "drama",
-    "genres": ["drama", "mystery"],
-    "director": "Orson Welles"
-  },
-  {
-    "question": "Who won the Best Actor Oscar for his role in 'The Philadelphia Story' (1940)?",
-    "optionA": "Cary Grant",
-    "optionB": "James Stewart",
-    "optionC": "Spencer Tracy",
-    "optionD": "Humphrey Bogart",
-    "answer": "James Stewart",
-    "genre": "comedy",
-    "genres": ["comedy", "romance"],
-    "director": "George Cukor"
-  },
-  {
-    "question": "Which iconic actor starred in the 1939 film 'Gone with the Wind'?",
-    "optionA": "Clark Gable",
-    "optionB": "Humphrey Bogart",
-    "optionC": "Cary Grant",
-    "optionD": "John Wayne",
-    "answer": "Clark Gable",
-    "genre": "drama",
-    "genres": ["drama", "romance"],
-    "director": "Victor Fleming"
-  },
-  {
-    "question": "Who directed the 1946 film 'It's a Wonderful Life'?",
-    "optionA": "Frank Capra",
-    "optionB": "Alfred Hitchcock",
-    "optionC": "Billy Wilder",
-    "optionD": "John Ford",
-    "answer": "Frank Capra",
-    "genre": "drama",
-    "genres": ["drama", "family", "fantasy"],
-    "director": "Frank Capra"
-  },
-  {
     "question": "Which classic actress played the role of Scarlett O'Hara in 'Gone with the Wind' (1939)?",
     "optionA": "Katharine Hepburn",
     "optionB": "Bette Davis",
@@ -121,50 +55,6 @@
     "director": "Fritz Lang"
   },
   {
-    "question": "Which legendary actor portrayed the title role in the 1931 film 'Dr. Jekyll and Mr. Hyde'?",
-    "optionA": "Bela Lugosi",
-    "optionB": "Vincent Price",
-    "optionC": "Lon Chaney",
-    "optionD": "Fredric March",
-    "answer": "Fredric March",
-    "genre": "horror",
-    "genres": ["horror", "sci-fi"],
-    "director": "Rouben Mamoulian"
-  },
-  {
-    "question": "In which 1940 film does Charlie Chaplin play a dual role as a Jewish barber and a dictator?",
-    "optionA": "Modern Times",
-    "optionB": "The Great Dictator",
-    "optionC": "City Lights",
-    "optionD": "Limelight",
-    "answer": "The Great Dictator",
-    "genre": "comedy",
-    "genres": ["comedy", "drama"],
-    "director": "Charlie Chaplin"
-  },
-  {
-    "question": "Who won the Best Actress Oscar for her role in 'Jezebel' (1938)?",
-    "optionA": "Bette Davis",
-    "optionB": "Katharine Hepburn",
-    "optionC": "Joan Crawford",
-    "optionD": "Greta Garbo",
-    "answer": "Bette Davis",
-    "genre": "drama",
-    "genres": ["drama", "romance"],
-    "director": "William Wyler"
-  },
-  {
-    "question": "In which 1942 film does Humphrey Bogart play the role of a private detective named Sam Spade?",
-    "optionA": "Double Indemnity",
-    "optionB": "The Big Sleep",
-    "optionC": "The Maltese Falcon",
-    "optionD": "Murder, My Sweet",
-    "answer": "The Maltese Falcon",
-    "genre": "crime",
-    "genres": ["crime", "film-noir"],
-    "director": "John Huston"
-  },
-  {
     "question": "Who starred as the iconic vampire Count Dracula in the 1931 film 'Dracula'?",
     "optionA": "Boris Karloff",
     "optionB": "Bela Lugosi",
@@ -187,6 +77,83 @@
     "director": "Rupert Julian"
   },
   {
+    "question": "Who directed the 1927 silent science fiction film 'Metropolis' known for its groundbreaking visual effects?",
+    "optionA": "Fritz Lang",
+    "optionB": "Charlie Chaplin",
+    "optionC": "Buster Keaton",
+    "optionD": "George Méliès",
+    "answer": "Fritz Lang",
+    "genre": "sci-fi",
+    "genres": ["sci-fi", "drama"],
+    "director": "Fritz Lang"
+  },
+  {
+    "question": "Which 1933 classic monster film features the gigantic ape King Kong and his iconic climb atop the Empire State Building?",
+    "optionA": "Frankenstein",
+    "optionB": "The Wolf Man",
+    "optionC": "The Phantom of the Opera",
+    "optionD": "King Kong",
+    "answer": "King Kong",
+    "genre": "adventure",
+    "genres": ["adventure", "fantasy"],
+    "director": "Merian C. Cooper, Ernest B. Schoedsack"
+  },
+  {
+    "question": "Who directed the 1946 film 'It's a Wonderful Life'?",
+    "optionA": "Frank Capra",
+    "optionB": "Alfred Hitchcock",
+    "optionC": "Billy Wilder",
+    "optionD": "John Ford",
+    "answer": "Frank Capra",
+    "genre": "drama",
+    "genres": ["drama", "family", "fantasy"],
+    "director": "Frank Capra"
+  },
+  {
+    "question": "In which 1940 film does Charlie Chaplin play a dual role as a Jewish barber and a dictator?",
+    "optionA": "Modern Times",
+    "optionB": "The Great Dictator",
+    "optionC": "City Lights",
+    "optionD": "Limelight",
+    "answer": "The Great Dictator",
+    "genre": "comedy",
+    "genres": ["comedy", "drama"],
+    "director": "Charlie Chaplin"
+  },
+  {
+    "question": "Which legendary actor portrayed the title role in the 1931 film 'Dr. Jekyll and Mr. Hyde'?",
+    "optionA": "Bela Lugosi",
+    "optionB": "Vincent Price",
+    "optionC": "Lon Chaney",
+    "optionD": "Fredric March",
+    "answer": "Fredric March",
+    "genre": "horror",
+    "genres": ["horror", "sci-fi"],
+    "director": "Rouben Mamoulian"
+  },
+  {
+    "question": "In which 1942 film does Humphrey Bogart play the role of a private detective named Sam Spade?",
+    "optionA": "Double Indemnity",
+    "optionB": "The Big Sleep",
+    "optionC": "The Maltese Falcon",
+    "optionD": "Murder, My Sweet",
+    "answer": "The Maltese Falcon",
+    "genre": "crime",
+    "genres": ["crime", "film-noir"],
+    "director": "John Huston"
+  },
+  {
+    "question": "Which actress starred as Norma Desmond in the 1950 film 'Sunset Boulevard'?",
+    "optionA": "Gloria Swanson",
+    "optionB": "Joan Crawford",
+    "optionC": "Bette Davis",
+    "optionD": "Katharine Hepburn",
+    "answer": "Gloria Swanson",
+    "genre": "drama",
+    "genres": ["drama", "film-noir"],
+    "director": "Billy Wilder"
+  },
+  {
     "question": "Who won the first Academy Award for Best Actor for his role in the 1927 film 'The Last Command'?",
     "optionA": "Charlie Chaplin",
     "optionB": "John Barrymore",
@@ -196,6 +163,61 @@
     "genre": "drama",
     "genres": ["drama"],
     "director": "Josef von Sternberg"
+  },
+  {
+    "question": "Which 1942 film featured Humphrey Bogart and Ingrid Bergman and is set during World War II?",
+    "optionA": "Gone with the Wind",
+    "optionB": "Casablanca",
+    "optionC": "Rebecca",
+    "optionD": "The Maltese Falcon",
+    "answer": "Casablanca",
+    "genre": "romance",
+    "genres": ["romance", "drama"],
+    "director": "Michael Curtiz"
+  },
+  {
+    "question": "Who played the titular character in the 1933 film 'King Kong'?",
+    "optionA": "Boris Karloff",
+    "optionB": "Lon Chaney",
+    "optionC": "Fay Wray",
+    "optionD": "Bela Lugosi",
+    "answer": "Fay Wray",
+    "genre": "adventure",
+    "genres": ["adventure", "fantasy", "horror"],
+    "director": "Merian C. Cooper, Ernest B. Schoedsack"
+  },
+  {
+    "question": "In which 1941 film does Orson Welles play the role of Charles Foster Kane?",
+    "optionA": "Casablanca",
+    "optionB": "Gone with the Wind",
+    "optionC": "Citizen Kane",
+    "optionD": "Rebecca",
+    "answer": "Citizen Kane",
+    "genre": "drama",
+    "genres": ["drama", "mystery"],
+    "director": "Orson Welles"
+  },
+  {
+    "question": "Who won the Best Actor Oscar for his role in 'The Philadelphia Story' (1940)?",
+    "optionA": "Cary Grant",
+    "optionB": "James Stewart",
+    "optionC": "Spencer Tracy",
+    "optionD": "Humphrey Bogart",
+    "answer": "James Stewart",
+    "genre": "comedy",
+    "genres": ["comedy", "romance"],
+    "director": "George Cukor"
+  },
+  {
+    "question": "Which actress starred as Scarlett O'Hara in 'Gone with the Wind' (1939)?",
+    "optionA": "Katharine Hepburn",
+    "optionB": "Bette Davis",
+    "optionC": "Audrey Hepburn",
+    "optionD": "Vivien Leigh",
+    "answer": "Vivien Leigh",
+    "genre": "drama",
+    "genres": ["drama", "romance"],
+    "director": "Victor Fleming"
   },
   {
     "question": "Which 1935 film adaptation of a classic adventure novel features a character named Long John Silver?",
@@ -231,14 +253,135 @@
     "director": "Charlie Chaplin"
   },
   {
-    "question": "Which actress starred as Norma Desmond in the 1950 film 'Sunset Boulevard'?",
-    "optionA": "Gloria Swanson",
-    "optionB": "Joan Crawford",
-    "optionC": "Bette Davis",
-    "optionD": "Katharine Hepburn",
-    "answer": "Gloria Swanson",
+    "question": "Who won the Best Actress Oscar for her role in 'Jezebel' (1938)?",
+    "optionA": "Bette Davis",
+    "optionB": "Katharine Hepburn",
+    "optionC": "Joan Crawford",
+    "optionD": "Greta Garbo",
+    "answer": "Bette Davis",
+    "genre": "drama",
+    "genres": ["drama", "romance"],
+    "director": "William Wyler"
+  },
+  {
+    "question": "Which iconic actor starred in the 1939 film 'Gone with the Wind'?",
+    "optionA": "Clark Gable",
+    "optionB": "Humphrey Bogart",
+    "optionC": "Cary Grant",
+    "optionD": "John Wayne",
+    "answer": "Clark Gable",
+    "genre": "drama",
+    "genres": ["drama", "romance"],
+    "director": "Victor Fleming"
+  },
+  {
+    "question": "Which 1928 silent film was the first feature-length animation in history?",
+    "optionA": "Snow White and the Seven Dwarfs",
+    "optionB": "Cinderella",
+    "optionC": "Steamboat Willie",
+    "optionD": "Gertie the Dinosaur",
+    "answer": "Steamboat Willie",
+    "genre": "animation",
+    "genres": ["animation", "short"],
+    "director": "Ub Iwerks"
+  },
+  {
+    "question": "Who played the role of Rhett Butler in the 1939 film 'Gone with the Wind'?",
+    "optionA": "Cary Grant",
+    "optionB": "Humphrey Bogart",
+    "optionC": "Clark Gable",
+    "optionD": "James Stewart",
+    "answer": "Clark Gable",
+    "genre": "drama",
+    "genres": ["drama", "romance"],
+    "director": "Victor Fleming"
+  },
+  {
+    "question": "Which 1944 film starred Judy Garland as Esther Blodgett, an aspiring singer?",
+    "optionA": "The Wizard of Oz",
+    "optionB": "Meet Me in St. Louis",
+    "optionC": "Easter Parade",
+    "optionD": "A Star Is Born",
+    "answer": "A Star Is Born",
+    "genre": "drama",
+    "genres": ["drama", "musical"],
+    "director": "George Cukor"
+  },
+  {
+    "question": "Who won the Best Actor Oscar for his role in the 1939 film 'Goodbye, Mr. Chips'?",
+    "optionA": "Spencer Tracy",
+    "optionB": "Laurence Olivier",
+    "optionC": "James Stewart",
+    "optionD": "Robert Donat",
+    "answer": "Robert Donat",
+    "genre": "drama",
+    "genres": ["drama", "romance"],
+    "director": "Sam Wood"
+  },
+  {
+    "question": "In which 1936 film does Charlie Chaplin's character struggle to adapt to the modern, industrialized world?",
+    "optionA": "Modern Times",
+    "optionB": "The Great Dictator",
+    "optionC": "City Lights",
+    "optionD": "Limelight",
+    "answer": "Modern Times",
+    "genre": "comedy",
+    "genres": ["comedy", "drama"],
+    "director": "Charlie Chaplin"
+  },
+  {
+    "question": "Who directed the 1921 silent film 'The Kid', in which Charlie Chaplin starred as the Tramp?",
+    "optionA": "Buster Keaton",
+    "optionB": "Harold Lloyd",
+    "optionC": "Charlie Chaplin",
+    "optionD": "F.W. Murnau",
+    "answer": "Charlie Chaplin",
+    "genre": "comedy",
+    "genres": ["comedy", "drama"],
+    "director": "Charlie Chaplin"
+  },
+  {
+    "question": "In which 1947 film did Gene Kelly perform the iconic dance sequence in the rain?",
+    "optionA": "Singing in the Rain",
+    "optionB": "An American in Paris",
+    "optionC": "On the Town",
+    "optionD": "Brigadoon",
+    "answer": "Singing in the Rain",
+    "genre": "musical",
+    "genres": ["comedy", "musical"],
+    "director": "Gene Kelly, Stanley Donen"
+  },
+  {
+    "question": "Which 1948 film features Laurence Olivier and Joan Fontaine in a psychological thriller about a newlywed bride?",
+    "optionA": "Notorious",
+    "optionB": "Rebecca",
+    "optionC": "Spellbound",
+    "optionD": "Gaslight",
+    "answer": "Rebecca",
     "genre": "drama",
     "genres": ["drama", "film-noir"],
-    "director": "Billy Wilder"
+    "director": "Alfred Hitchcock"
+  },
+  {
+    "question": "Who played the role of the monster in the 1931 film 'Frankenstein'?",
+    "optionA": "Bela Lugosi",
+    "optionB": "Vincent Price",
+    "optionC": "Lon Chaney",
+    "optionD": "Boris Karloff",
+    "answer": "Boris Karloff",
+    "genre": "horror",
+    "genres": ["horror", "sci-fi"],
+    "director": "James Whale"
+  },
+  {
+    "question": "In the 1925 film 'The Gold Rush', Charlie Chaplin's character famously dines on a pair of what?",
+    "optionA": "Shoes",
+    "optionB": "Gloves",
+    "optionC": "Boots",
+    "optionD": "Socks",
+    "answer": "Shoes",
+    "genre": "comedy",
+    "genres": ["comedy"],
+    "director": "Charlie Chaplin"
   }
 ]
