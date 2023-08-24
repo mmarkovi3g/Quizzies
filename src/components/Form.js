@@ -70,6 +70,7 @@ export default function Form({
               <option value="geography">Geography</option>
               <option value="sports">Sports</option>
               <option value="history"> History</option>
+              <option value="movies"> Movies</option>
             </select>
           </div>
 

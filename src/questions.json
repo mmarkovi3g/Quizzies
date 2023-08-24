@@ -7802,5 +7802,428 @@
     "optionD": "8",
     "answer": "8",
     "category": "geography"
+  },
+  {
+    "question": "Which 1972 crime film features the characters Michael Corleone and Vito Corleone?",
+    "optionA": "Goodfellas",
+    "optionB": "Scarface",
+    "optionC": "The Godfather",
+    "optionD": "Heat",
+    "answer": "The Godfather",
+    "category": "movies"
+  },
+  {
+    "question": "In the movie 'The Shawshank Redemption', what did Andy Dufresne use to escape from prison?",
+    "optionA": "A tunnel",
+    "optionB": "A helicopter",
+    "optionC": "A hot air balloon",
+    "optionD": "A poster",
+    "answer": "A tunnel",
+    "category": "movies"
+  },
+  {
+    "question": "Which actress won an Academy Award for her role in 'La La Land'?",
+    "optionA": "Jennifer Lawrence",
+    "optionB": "Emma Stone",
+    "optionC": "Natalie Portman",
+    "optionD": "Scarlett Johansson",
+    "answer": "Emma Stone",
+    "category": "movies"
+  },
+  {
+    "question": "Which movie features a clown named Pennywise who terrorizes a small town?",
+    "optionA": "The Conjuring",
+    "optionB": "Insidious",
+    "optionC": "It",
+    "optionD": "Annabelle",
+    "answer": "It",
+    "category": "movies"
+  },
+  {
+    "question": "Who directed the 1994 film 'Pulp Fiction'?",
+    "optionA": "Quentin Tarantino",
+    "optionB": "Martin Scorsese",
+    "optionC": "Steven Spielberg",
+    "optionD": "Christopher Nolan",
+    "answer": "Quentin Tarantino",
+    "category": "movies"
+  },
+  {
+    "question": "Which famous actor plays the character Jack Dawson in the movie 'Titanic'?",
+    "optionA": "Leonardo DiCaprio",
+    "optionB": "Tom Hanks",
+    "optionC": "Brad Pitt",
+    "optionD": "Johnny Depp",
+    "answer": "Leonardo DiCaprio",
+    "category": "movies"
+  },
+  {
+    "question": "What is the name of the fictional African country in 'Black Panther'?",
+    "optionA": "Wakanda",
+    "optionB": "Zamunda",
+    "optionC": "Genovia",
+    "optionD": "Asgard",
+    "answer": "Wakanda",
+    "category": "movies"
+  },
+  {
+    "question": "Which sci-fi movie features a character named Neo and a simulated reality called the Matrix?",
+    "optionA": "Inception",
+    "optionB": "Blade Runner",
+    "optionC": "The Matrix",
+    "optionD": "Interstellar",
+    "answer": "The Matrix",
+    "category": "movies"
+  },
+  {
+    "question": "In the movie 'Forrest Gump', what does Forrest say his momma always told him life was like?",
+    "optionA": "A box of chocolates",
+    "optionB": "A puzzle",
+    "optionC": "A roller coaster",
+    "optionD": "A journey",
+    "answer": "A box of chocolates",
+    "category": "movies"
+  },
+  {
+    "question": "Which 1985 movie features a time-traveling teenager named Marty McFly?",
+    "optionA": "Back to the Future",
+    "optionB": "The Terminator",
+    "optionC": "E.T. the Extra-Terrestrial",
+    "optionD": "Gremlins",
+    "answer": "Back to the Future",
+    "category": "movies"
+  },
+  {
+    "question": "In the 'Harry Potter' series, what is the name of the three-headed dog that guards the trapdoor on the third floor of Hogwarts?",
+    "optionA": "Fluffy",
+    "optionB": "Buckbeak",
+    "optionC": "Norbert",
+    "optionD": "Aragog",
+    "answer": "Fluffy",
+    "category": "movies"
+  },
+  {
+    "question": "Which actor played the role of Tony Stark / Iron Man in the Marvel Cinematic Universe?",
+    "optionA": "Chris Hemsworth",
+    "optionB": "Mark Ruffalo",
+    "optionC": "Robert Downey Jr.",
+    "optionD": "Chris Evans",
+    "answer": "Robert Downey Jr.",
+    "category": "movies"
+  },
+  {
+    "question": "What is the title of the 1993 science fiction film about a theme park with genetically engineered dinosaurs?",
+    "optionA": "Jurassic Park",
+    "optionB": "Godzilla",
+    "optionC": "King Kong",
+    "optionD": "The Lost World",
+    "answer": "Jurassic Park",
+    "category": "movies"
+  },
+  {
+    "question": "Which movie features a character named Tyler Durden and explores the philosophy of self-destruction?",
+    "optionA": "American Psycho",
+    "optionB": "Fight Club",
+    "optionC": "Donnie Darko",
+    "optionD": "The Machinist",
+    "answer": "Fight Club",
+    "category": "movies"
+  },
+  {
+    "question": "What is the name of the ship that travels back in time in the movie 'Star Trek IV: The Voyage Home'?",
+    "optionA": "USS Enterprise",
+    "optionB": "USS Voyager",
+    "optionC": "USS Reliant",
+    "optionD": "USS Excelsior",
+    "answer": "USS Enterprise",
+    "category": "movies"
+  },
+  {
+    "question": "Which Disney movie features the song 'Let It Go'?",
+    "optionA": "Cinderella",
+    "optionB": "Beauty and the Beast",
+    "optionC": "Moana",
+    "optionD": "Frozen",
+    "answer": "Frozen",
+    "category": "movies"
+  },
+  {
+    "question": "What is the name of the clownfish protagonist in the animated movie 'Finding Nemo'?",
+    "optionA": "Marlin",
+    "optionB": "Nemo",
+    "optionC": "Dory",
+    "optionD": "Bruce",
+    "answer": "Marlin",
+    "category": "movies"
+  },
+  {
+    "question": "In which Quentin Tarantino movie can you find a character named Stuntman Mike?",
+    "optionA": "Kill Bill: Vol. 2",
+    "optionB": "Pulp Fiction",
+    "optionC": "Death Proof",
+    "optionD": "Reservoir Dogs",
+    "answer": "Death Proof",
+    "category": "movies"
+  },
+  {
+    "question": "What type of business does the Bride work at in 'Kill Bill'?",
+    "optionA": "Flower shop",
+    "optionB": "Strip club",
+    "optionC": "Diner",
+    "optionD": "Law firm",
+    "answer": "Strip club",
+    "category": "movies"
+  },
+  {
+    "question": "Which actor plays the role of Major Marquis Warren in 'The Hateful Eight'?",
+    "optionA": "Samuel L. Jackson",
+    "optionB": "Kurt Russell",
+    "optionC": "Michael Madsen",
+    "optionD": "Tim Roth",
+    "answer": "Samuel L. Jackson",
+    "category": "movies"
+  },
+  {
+    "question": "What is the fictional brand of cigarettes frequently featured in Quentin Tarantino's movies?",
+    "optionA": "Red Apples",
+    "optionB": "Cool Clouds",
+    "optionC": "Marlboro Reds",
+    "optionD": "Lucky Strikes",
+    "answer": "Red Apples",
+    "category": "movies"
+  },
+  {
+    "question": "Which character recites the monologue about the 'Royale with Cheese' in 'Pulp Fiction'?",
+    "optionA": "Jules Winnfield",
+    "optionB": "Vincent Vega",
+    "optionC": "Marsellus Wallace",
+    "optionD": "Butch Coolidge",
+    "answer": "Vincent Vega",
+    "category": "movies"
+  },
+  {
+    "question": "What is the title of the fictional TV show in 'Once Upon a Time in Hollywood' that Rick Dalton stars in?",
+    "optionA": "Bounty Law",
+    "optionB": "Gunsmoke",
+    "optionC": "The Outlaw",
+    "optionD": "Deadwood",
+    "answer": "Bounty Law",
+    "category": "movies"
+  },
+  {
+    "question": "In 'Inglourious Basterds', what nickname is given to the German soldier who escaped the farmhouse?",
+    "optionA": "The Bear Jew",
+    "optionB": "The Little Man",
+    "optionC": "The Luger Liar",
+    "optionD": "The Rat",
+    "answer": "The Little Man",
+    "category": "movies"
+  },
+  {
+    "question": "Which Tarantino film features the characters Honey Bunny and Pumpkin?",
+    "optionA": "Jackie Brown",
+    "optionB": "Django Unchained",
+    "optionC": "Reservoir Dogs",
+    "optionD": "Pulp Fiction",
+    "answer": "Pulp Fiction",
+    "category": "movies"
+  },
+  {
+    "question": "What is the name of the main character in 'Reservoir Dogs'?",
+    "optionA": "Mr. Brown",
+    "optionB": "Mr. White",
+    "optionC": "Mr. Pink",
+    "optionD": "Mr. Orange",
+    "answer": "Mr. White",
+    "category": "movies"
+  },
+  {
+    "question": "Which real-life historical figure is portrayed by Christoph Waltz in 'Django Unchained'?",
+    "optionA": "Harriet Tubman",
+    "optionB": "Frederick Douglass",
+    "optionC": "Nat Turner",
+    "optionD": "Dr. King Schultz",
+    "answer": "Dr. King Schultz",
+    "category": "movies"
+  },
+  {
+    "question": "Which character in 'Pulp Fiction' famously states, 'I'm Winston Wolfe. I solve problems.'?",
+    "optionA": "Vincent Vega",
+    "optionB": "Marsellus Wallace",
+    "optionC": "Jules Winnfield",
+    "optionD": "Winston Wolfe",
+    "answer": "Winston Wolfe",
+    "category": "movies"
+  },
+  {
+    "question": "What weapon does the Bride use to defeat O-Ren Ishii in 'Kill Bill: Vol. 1'?",
+    "optionA": "A katana",
+    "optionB": "A shotgun",
+    "optionC": "A chainsaw",
+    "optionD": "A baseball bat",
+    "answer": "A katana",
+    "category": "movies"
+  },
+  {
+    "question": "In 'Jackie Brown', what does the title character do for a living?",
+    "optionA": "Flight attendant",
+    "optionB": "Chef",
+    "optionC": "Bounty hunter",
+    "optionD": "Secret agent",
+    "answer": "Flight attendant",
+    "category": "movies"
+  },
+  {
+    "question": "What is the name of the bride in 'Kill Bill'?",
+    "optionA": "Beatrix Kiddo",
+    "optionB": "Mia Wallace",
+    "optionC": "Elle Driver",
+    "optionD": "Bridget von Hammersmark",
+    "answer": "Beatrix Kiddo",
+    "category": "movies"
+  },
+  {
+    "question": "Which character in 'The Hateful Eight' is nicknamed 'The Hangman'?",
+    "optionA": "Major Marquis Warren",
+    "optionB": "John Ruth",
+    "optionC": "Chris Mannix",
+    "optionD": "Oswaldo Mobray",
+    "answer": "John Ruth",
+    "category": "movies"
+  },
+  {
+    "question": "What is the main setting of 'The Hateful Eight'?",
+    "optionA": "A spaceship",
+    "optionB": "A train",
+    "optionC": "A cabin",
+    "optionD": "A courtroom",
+    "answer": "A cabin",
+    "category": "movies"
+  },
+  {
+    "question": "Which classic actor played the role of Mr. Pink in 'Reservoir Dogs'?",
+    "optionA": "Harvey Keitel",
+    "optionB": "Tim Roth",
+    "optionC": "Steve Buscemi",
+    "optionD": "Michael Madsen",
+    "answer": "Steve Buscemi",
+    "category": "movies"
+  },
+  {
+    "question": "What is the name of the plantation in 'Django Unchained' where the climax of the film takes place?",
+    "optionA": "Candyland",
+    "optionB": "Magnolia Manor",
+    "optionC": "Tarantino Plantation",
+    "optionD": "Monroe Mansion",
+    "answer": "Candyland",
+    "category": "movies"
+  },
+  {
+    "question": "Which actor played the role of Calvin Candie in 'Django Unchained'?",
+    "optionA": "Leonardo DiCaprio",
+    "optionB": "Brad Pitt",
+    "optionC": "Christoph Waltz",
+    "optionD": "Samuel L. Jackson",
+    "answer": "Leonardo DiCaprio",
+    "category": "movies"
+  },
+  {
+    "question": "In 'Once Upon a Time in Hollywood', which real-life actress is portrayed by Margot Robbie?",
+    "optionA": "Sharon Tate",
+    "optionB": "Marilyn Monroe",
+    "optionC": "Natalie Wood",
+    "optionD": "Grace Kelly",
+    "answer": "Sharon Tate",
+    "category": "movies"
+  },
+  {
+    "question": "What is the name of the martial arts master who trains the Bride in 'Kill Bill: Vol. 2'?",
+    "optionA": "Master Pai Mei",
+    "optionB": "Sensei Hattori Hanzo",
+    "optionC": "Sifu Wong Fei-hung",
+    "optionD": "Grandmaster Ip Man",
+    "answer": "Master Pai Mei",
+    "category": "movies"
+  },
+  {
+    "question": "Which actor plays the role of Jules Winnfield in 'Pulp Fiction'?",
+    "optionA": "Samuel L. Jackson",
+    "optionB": "John Travolta",
+    "optionC": "Harvey Keitel",
+    "optionD": "Tim Roth",
+    "answer": "Samuel L. Jackson",
+    "category": "movies"
+  },
+  {
+    "question": "What is the occupation of the character played by Kurt Russell in 'Death Proof'?",
+    "optionA": "Stuntman",
+    "optionB": "Detective",
+    "optionC": "Bounty hunter",
+    "optionD": "Surgeon",
+    "answer": "Stuntman",
+    "category": "movies"
+  },
+  {
+    "question": "Which Tarantino film features the line 'You know what they call a Quarter Pounder with Cheese in Paris?'",
+    "optionA": "Pulp Fiction",
+    "optionB": "Reservoir Dogs",
+    "optionC": "Inglourious Basterds",
+    "optionD": "Jackie Brown",
+    "answer": "Pulp Fiction",
+    "category": "movies"
+  },
+  {
+    "question": "What is the name of the Japanese swordsmith who creates the Bride's katana in 'Kill Bill'?",
+    "optionA": "Saito Hajime",
+    "optionB": "Hattori Hanzo",
+    "optionC": "Isoroku Yamamoto",
+    "optionD": "Musashi Miyamoto",
+    "answer": "Hattori Hanzo",
+    "category": "movies"
+  },
+  {
+    "question": "Which actor plays the role of Mr. Blonde in 'Reservoir Dogs'?",
+    "optionA": "Harvey Keitel",
+    "optionB": "Tim Roth",
+    "optionC": "Steve Buscemi",
+    "optionD": "Michael Madsen",
+    "answer": "Michael Madsen",
+    "category": "movies"
+  },
+  {
+    "question": "What is the name of the plantation owner who buys Django's wife in 'Django Unchained'?",
+    "optionA": "Calvin Candie",
+    "optionB": "Stephen",
+    "optionC": "Big Daddy",
+    "optionD": "Butch Pooch",
+    "answer": "Calvin Candie",
+    "category": "movies"
+  },
+  {
+    "question": "In 'Once Upon a Time in Hollywood', who is the stunt double of the main character Rick Dalton?",
+    "optionA": "Cliff Booth",
+    "optionB": "Jay Sebring",
+    "optionC": "Charles Manson",
+    "optionD": "Roman Polanski",
+    "answer": "Cliff Booth",
+    "category": "movies"
+  },
+  {
+    "question": "Which character in 'Inglourious Basterds' is known as 'The Jew Hunter'?",
+    "optionA": "Lt. Aldo Raine",
+    "optionB": "Hans Landa",
+    "optionC": "Frederick Zoller",
+    "optionD": "Hugo Stiglitz",
+    "answer": "Hans Landa",
+    "category": "movies"
+  },
+  {
+    "question": "What is the name of the café where much of 'Pulp Fiction' takes place?",
+    "optionA": "Rusty's Café",
+    "optionB": "Jackrabbit Slim's",
+    "optionC": "The Royale Café",
+    "optionD": "Big Kahuna Burger",
+    "answer": "Jackrabbit Slim's",
+    "category": "movies"
   }
 ]

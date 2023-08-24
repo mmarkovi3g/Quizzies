@@ -19,6 +19,7 @@ function App() {
       (question) => question.category === "geography"
     ),
     history: questions.filter((question) => question.category === "history"),
+    movies: questions.filter((question) => question.category === "movies"),
   };
 
   // just a piece of code to check number of questions
@@ -32,9 +33,15 @@ function App() {
   const [numOfQuestions, setNumOfQuestions] = useState(10);
 
   // initial list of random numbers - if there is not any choosen category
-  const initialList = Array.from({ length: numOfQuestions }, () =>
-    Math.floor(Math.random() * (questions.length - 1))
-  );
+  // this one could have repetitions - maybe i should change it
+  const initialList = [];
+  while (initialList.length < Number(numOfQuestions)) {
+    const randomIndex = Math.floor(Math.random() * questions.length - 1);
+    if (!initialList.includes(randomIndex)) {
+      initialList.push(randomIndex);
+    }
+  }
+  console.log(initialList);
 
   //state for random Array of numbers (which get aligned with number of questions in the list)
   const [randomArray, setRandomArray] = useState(initialList);
@@ -56,15 +63,25 @@ function App() {
     setSelectedQuestions(selectedQuestionsList);
 
     // generating random array after creation of number and category
-    const randomList = Array.from(
-      { length: Number(item.chosenNumOfQuestions) },
-      () => Math.floor(Math.random() * selectedQuestionsList.length)
-    );
+    const randomList = [];
+
+    // edited old code so i would not get any repetitions
+    while (randomList.length < Number(item.chosenNumOfQuestions)) {
+      const randomIndex = Math.floor(
+        Math.random() * selectedQuestionsList.length
+      );
+
+      if (!randomList.includes(randomIndex)) {
+        randomList.push(randomIndex);
+      }
+    }
     setRandomArray(randomList);
 
     // triger started state to start the quizzie
     setStarted(true);
   }
+
+  console.log(randomArray);
 
   return (
     <div>
