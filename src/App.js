@@ -6,6 +6,7 @@ import questions from "./questions.json";
 import { useState } from "react";
 
 /* QUESTION EDITING NUMBER OF LINE: 2011 */
+console.log(questions.length);
 
 function App() {
   // quizz started or not state - default is false to show message to choose settings
