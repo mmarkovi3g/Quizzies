@@ -1,5 +1,330 @@
 [
   {
+    "question": "What is the largest city in Kazakhstan, which has a larger population than the capital city?",
+    "optionA": "Astana",
+    "optionB": "Almaty",
+    "optionC": "Nur-Sultan",
+    "optionD": "Karaganda",
+    "answer": "Almaty",
+    "category": "geography"
+  },
+  {
+    "question": "In which country is Karachi the largest city, having a larger population than the capital city?",
+    "optionA": "Pakistan",
+    "optionB": "Bangladesh",
+    "optionC": "India",
+    "optionD": "Nepal",
+    "answer": "Pakistan",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in Philippines, which has a larger population than the capital city?",
+    "optionA": "Manila",
+    "optionB": "Quezon City",
+    "optionC": "Cebu City",
+    "optionD": "Davao City",
+    "answer": "Quezon City",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in South Africa has a larger population than the capital city Pretoria?",
+    "optionA": "Pretoria",
+    "optionB": "Johannesburg",
+    "optionC": "Cape Town",
+    "optionD": "Durban",
+    "answer": "Johannesburg",
+    "category": "geography"
+  },
+  {
+    "question": "The largest city in Sri Lanka, Colombo, has a larger population than which capital city?",
+    "optionA": "Sri Jayawardenepura Kotte",
+    "optionB": "Colombo",
+    "optionC": "Galle",
+    "optionD": "Kandy",
+    "answer": "Sri Jayawardenepura Kotte",
+    "category": "geography"
+  },
+  {
+    "question": "In which country is Zürich the largest city, having a larger population than the designated federal city?",
+    "optionA": "Germany",
+    "optionB": "France",
+    "optionC": "Switzerland",
+    "optionD": "Austria",
+    "answer": "Switzerland",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in Tanzania, which has a larger population than the capital city?",
+    "optionA": "Dodoma",
+    "optionB": "Dar es Salaam",
+    "optionC": "Mwanza",
+    "optionD": "Arusha",
+    "answer": "Dar es Salaam",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in Turkey has a larger population than the capital city Ankara?",
+    "optionA": "Ankara",
+    "optionB": "Istanbul",
+    "optionC": "Izmir",
+    "optionD": "Bursa",
+    "answer": "Istanbul",
+    "category": "geography"
+  },
+  {
+    "question": "The largest city in the United Arab Emirates, Dubai, has a larger population than which capital city?",
+    "optionA": "Abu Dhabi",
+    "optionB": "Dubai",
+    "optionC": "Sharjah",
+    "optionD": "Ras Al Khaimah",
+    "answer": "Abu Dhabi",
+    "category": "geography"
+  },
+  {
+    "question": "In which country is Ho Chi Minh City the largest city, having a larger population than the capital city?",
+    "optionA": "Vietnam",
+    "optionB": "Cambodia",
+    "optionC": "Laos",
+    "optionD": "Thailand",
+    "answer": "Vietnam",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in Australia, which has a larger population than the capital city?",
+    "optionA": "Canberra",
+    "optionB": "Melbourne",
+    "optionC": "Sydney",
+    "optionD": "Brisbane",
+    "answer": "Melbourne",
+    "category": "geography"
+  },
+  {
+    "question": "In which country is Mumbai the largest city, surpassing the capital city's population?",
+    "optionA": "Bangladesh",
+    "optionB": "Pakistan",
+    "optionC": "India",
+    "optionD": "Sri Lanka",
+    "answer": "India",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in Benin, which has a larger population than the capital city?",
+    "optionA": "Porto-Novo",
+    "optionB": "Cotonou",
+    "optionC": "Gitega",
+    "optionD": "Bujumbura",
+    "answer": "Cotonou",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in Bolivia is larger than the capital city Sucre in terms of population?",
+    "optionA": "Sucre",
+    "optionB": "Santa Cruz de la Sierra",
+    "optionC": "La Paz",
+    "optionD": "Cochabamba",
+    "answer": "Santa Cruz de la Sierra",
+    "category": "geography"
+  },
+  {
+    "question": "The largest city in Brazil, São Paulo, has a larger population than which capital city?",
+    "optionA": "Rio de Janeiro",
+    "optionB": "Brasília",
+    "optionC": "Salvador",
+    "optionD": "Belo Horizonte",
+    "answer": "Brasília",
+    "category": "geography"
+  },
+  {
+    "question": "In which country is Douala the largest city, having a larger population than the capital city?",
+    "optionA": "Cameroon",
+    "optionB": "Gabon",
+    "optionC": "Equatorial Guinea",
+    "optionD": "Chad",
+    "answer": "Cameroon",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in Canada, which has a larger population than the capital city?",
+    "optionA": "Ottawa",
+    "optionB": "Toronto",
+    "optionC": "Vancouver",
+    "optionD": "Montreal",
+    "answer": "Toronto",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in China has a larger population than the capital city Beijing?",
+    "optionA": "Beijing",
+    "optionB": "Shanghai",
+    "optionC": "Guangzhou",
+    "optionD": "Chongqing",
+    "answer": "Shanghai",
+    "category": "geography"
+  },
+  {
+    "question": "The largest city in Equatorial Guinea, Bata, has a larger population than which capital city?",
+    "optionA": "Bata",
+    "optionB": "Malabo",
+    "optionC": "Libreville",
+    "optionD": "Yaoundé",
+    "answer": "Malabo",
+    "category": "geography"
+  },
+  {
+    "question": "In which country is Mumbai the largest city, surpassing the capital city's population?",
+    "optionA": "Bangladesh",
+    "optionB": "Pakistan",
+    "optionC": "India",
+    "optionD": "Sri Lanka",
+    "answer": "India",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in Australia?",
+    "optionA": "Canberra",
+    "optionB": "Sydney",
+    "optionC": "Melbourne",
+    "optionD": "Brisbane",
+    "answer": "Sydney",
+    "category": "geography"
+  },
+  {
+    "question": "In which country is Mumbai the largest city?",
+    "optionA": "Bangladesh",
+    "optionB": "Pakistan",
+    "optionC": "India",
+    "optionD": "Sri Lanka",
+    "answer": "India",
+    "category": "geography"
+  },
+  {
+    "question": "Which city in Brazil is larger than the capital city Brasília in terms of population?",
+    "optionA": "São Paulo",
+    "optionB": "Rio de Janeiro",
+    "optionC": "Salvador",
+    "optionD": "Belo Horizonte",
+    "answer": "São Paulo",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in Canada, with a larger population than the capital city?",
+    "optionA": "Ottawa",
+    "optionB": "Toronto",
+    "optionC": "Vancouver",
+    "optionD": "Montreal",
+    "answer": "Toronto",
+    "category": "geography"
+  },
+  {
+    "question": "In which country is Rio de Janeiro the largest city, surpassing the population of the capital city?",
+    "optionA": "Argentina",
+    "optionB": "Chile",
+    "optionC": "Brazil",
+    "optionD": "Uruguay",
+    "answer": "Brazil",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest city in Pakistan, with a larger population than the capital city?",
+    "optionA": "Islamabad",
+    "optionB": "Karachi",
+    "optionC": "Lahore",
+    "optionD": "Faisalabad",
+    "answer": "Karachi",
+    "category": "geography"
+  },
+  {
+    "question": "The Forint is the currency of which European country?",
+    "optionA": "Hungary",
+    "optionB": "Slovakia",
+    "optionC": "Czech Republic",
+    "optionD": "Austria",
+    "answer": "Hungary",
+    "category": "geography"
+  },
+  {
+    "question": "Which South American country uses the Inti as its currency?",
+    "optionA": "Bolivia",
+    "optionB": "Venezuela",
+    "optionC": "Ecuador",
+    "optionD": "Peru",
+    "answer": "Ecuador",
+    "category": "geography"
+  },
+  {
+    "question": "The Franc is the currency of which European country?",
+    "optionA": "Germany",
+    "optionB": "Switzerland",
+    "optionC": "France",
+    "optionD": "Austria",
+    "answer": "Switzerland",
+    "category": "geography"
+  },
+  {
+    "question": "Which South American country uses the Real as its currency?",
+    "optionA": "Argentina",
+    "optionB": "Uruguay",
+    "optionC": "Brazil",
+    "optionD": "Chile",
+    "answer": "Brazil",
+    "category": "geography"
+  },
+  {
+    "question": "The Koruna is the currency of which European country?",
+    "optionA": "Czech Republic",
+    "optionB": "Slovakia",
+    "optionC": "Austria",
+    "optionD": "Hungary",
+    "answer": "Czech Republic",
+    "category": "geography"
+  },
+  {
+    "question": "Which South American country uses the Guarani as its currency?",
+    "optionA": "Paraguay",
+    "optionB": "Venezuela",
+    "optionC": "Colombia",
+    "optionD": "Ecuador",
+    "answer": "Paraguay",
+    "category": "geography"
+  },
+  {
+    "question": "The Leu is the currency of which European country?",
+    "optionA": "Moldova",
+    "optionB": "Romania",
+    "optionC": "Bulgaria",
+    "optionD": "Serbia",
+    "answer": "Romania",
+    "category": "geography"
+  },
+  {
+    "question": "The Złoty is the currency of which European country?",
+    "optionA": "Poland",
+    "optionB": "Ukraine",
+    "optionC": "Belarus",
+    "optionD": "Lithuania",
+    "answer": "Poland",
+    "category": "geography"
+  },
+  {
+    "question": "Which South American country uses the Bolívar as its currency?",
+    "optionA": "Venezuela",
+    "optionB": "Bolivia",
+    "optionC": "Colombia",
+    "optionD": "Ecuador",
+    "answer": "Venezuela",
+    "category": "geography"
+  },
+
+  {
+    "question": "Which South American country uses the Sol as its currency?",
+    "optionA": "Peru",
+    "optionB": "Ecuador",
+    "optionC": "Brazil",
+    "optionD": "Colombia",
+    "answer": "Peru",
+    "category": "geography"
+  },
+  {
     "question": "Which country won the FIFA World Cup in 2018?",
     "optionA": "Brazil",
     "optionB": "Germany",

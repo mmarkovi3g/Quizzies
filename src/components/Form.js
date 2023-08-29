@@ -61,6 +61,7 @@ export default function Form({
       <h2 className="title">
         Select your Quizzie settings and start new game!
       </h2>
+      <img src="../media/img/quiz.png" alt="img-quiz"></img>
       <form onSubmit={submitHandler}>
         <div className="form_wrap">
           <div>
