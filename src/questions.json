@@ -8676,5 +8676,905 @@
     "optionD": "Johnny Depp",
     "answer": "Keanu Reeves",
     "category": "movies"
+  },
+  {
+    "question": "Where are the Spanish Steps located?",
+    "optionA": "Rome, Italy",
+    "optionB": "Florence, Italy",
+    "optionC": "Barcelona, Spain",
+    "optionD": "Lisbon, Portugal",
+    "answer": "Rome, Italy",
+    "category": "geography"
+  },
+  {
+    "question": "How many countries are there in the United Kingdom?",
+    "optionA": "2",
+    "optionB": "3",
+    "optionC": "4",
+    "optionD": "5",
+    "answer": "4",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Senegal?",
+    "optionA": "Dakar",
+    "optionB": "Bamako",
+    "optionC": "Accra",
+    "optionD": "Kinshasa",
+    "answer": "Dakar",
+    "category": "geography"
+  },
+  {
+    "question": "How many time zones does Russia have?",
+    "optionA": "6",
+    "optionB": "8",
+    "optionC": "10",
+    "optionD": "11",
+    "answer": "11",
+    "category": "geography"
+  },
+  {
+    "question": "What is the name of the tallest mountain in Canada?",
+    "optionA": "Mount Logan",
+    "optionB": "Mount McKinley",
+    "optionC": "Mount Rainier",
+    "optionD": "Mount Elbert",
+    "answer": "Mount Logan",
+    "category": "geography"
+  },
+  {
+    "question": "What country does the Rhine River run through?",
+    "optionA": "France",
+    "optionB": "Netherlands",
+    "optionC": "Germany",
+    "optionD": "Italy",
+    "answer": "Germany",
+    "category": "geography"
+  },
+  {
+    "question": "What two countries border directly north of Hungary?",
+    "optionA": "Slovakia and Ukraine",
+    "optionB": "Poland and Czech Republic",
+    "optionC": "Romania and Serbia",
+    "optionD": "Austria and Slovenia",
+    "answer": "Slovakia and Ukraine",
+    "category": "geography"
+  },
+  {
+    "question": "What is the name of the largest city in Australia?",
+    "optionA": "Sydney",
+    "optionB": "Melbourne",
+    "optionC": "Brisbane",
+    "optionD": "Perth",
+    "answer": "Sydney",
+    "category": "geography"
+  },
+  {
+    "question": "What is the name of the second tallest mountain in the world?",
+    "optionA": "Mount Everest",
+    "optionB": "K2",
+    "optionC": "Kangchenjunga",
+    "optionD": "Lhotse",
+    "answer": "K2",
+    "category": "geography"
+  },
+  {
+    "question": "What Cape sits at the tip of Africa?",
+    "optionA": "Cape Horn",
+    "optionB": "Cape Cod",
+    "optionC": "Cape of Good Hope",
+    "optionD": "Cape Canaveral",
+    "answer": "Cape of Good Hope",
+    "category": "geography"
+  },
+  {
+    "question": "What type of leaf is on the Canadian flag?",
+    "optionA": "Oak Leaf",
+    "optionB": "Pine Leaf",
+    "optionC": "Maple Leaf",
+    "optionD": "Birch Leaf",
+    "answer": "Maple Leaf",
+    "category": "geography"
+  },
+  {
+    "question": "What is the capital of Nova Scotia?",
+    "optionA": "Halifax",
+    "optionB": "St. John's",
+    "optionC": "Charlottetown",
+    "optionD": "Fredericton",
+    "answer": "Halifax",
+    "category": "geography"
+  },
+  {
+    "question": "What country first used tinsel as a holiday tree decoration?",
+    "optionA": "Germany",
+    "optionB": "United States",
+    "optionC": "France",
+    "optionD": "England",
+    "answer": "Germany",
+    "category": "geography"
+  },
+  {
+    "question": "What is the name of the only tropical rainforest in the United States?",
+    "optionA": "Amazon Rainforest",
+    "optionB": "Congo Rainforest",
+    "optionC": "Puerto Rico’s El Yunque National Forest",
+    "optionD": "Borneo Rainforest",
+    "answer": "Puerto Rico’s El Yunque National Forest",
+    "category": "geography"
+  },
+  {
+    "question": "What season does Australia experience in December?",
+    "optionA": "Spring",
+    "optionB": "Summer",
+    "optionC": "Fall",
+    "optionD": "Winter",
+    "answer": "Summer",
+    "category": "geography"
+  },
+  {
+    "question": "What is the name of the driest continent on Earth?",
+    "optionA": "Africa",
+    "optionB": "Asia",
+    "optionC": "Australia",
+    "optionD": "South America",
+    "answer": "Australia",
+    "category": "geography"
+  },
+  {
+    "question": "Peking Duck is the national dish of what country?",
+    "optionA": "Vietnam",
+    "optionB": "China",
+    "optionC": "South Korea",
+    "optionD": "Thailand",
+    "answer": "China",
+    "category": "geography"
+  },
+  {
+    "question": "In which European city was the first organized marathon held?",
+    "optionA": "Rome",
+    "optionB": "Athens",
+    "optionC": "Paris",
+    "optionD": "London",
+    "answer": "Athens",
+    "category": "geography"
+  },
+  {
+    "question": "What country formerly ruled Iceland?",
+    "optionA": "Norway",
+    "optionB": "Sweden",
+    "optionC": "Denmark",
+    "optionD": "Finland",
+    "answer": "Denmark",
+    "category": "geography"
+  },
+  {
+    "question": "What is the name of the largest airport in the United States of America?",
+    "optionA": "Los Angeles International Airport",
+    "optionB": "Hartsfield-Jackson Atlanta International Airport",
+    "optionC": "John F. Kennedy International Airport",
+    "optionD": "Denver International Airport",
+    "answer": "Hartsfield-Jackson Atlanta International Airport",
+    "category": "geography"
+  },
+  {
+    "question": "Which continent is Cambodia located in?",
+    "optionA": "Africa",
+    "optionB": "Asia",
+    "optionC": "Europe",
+    "optionD": "South America",
+    "answer": "Asia",
+    "category": "geography"
+  },
+  {
+    "question": "What country is known to have the best quality tap water?",
+    "optionA": "Switzerland",
+    "optionB": "Canada",
+    "optionC": "United States",
+    "optionD": "France",
+    "answer": "Switzerland",
+    "category": "geography"
+  },
+  {
+    "question": "In what ocean is the Bermuda Triangle located?",
+    "optionA": "Atlantic Ocean",
+    "optionB": "Pacific Ocean",
+    "optionC": "Indian Ocean",
+    "optionD": "Arctic Ocean",
+    "answer": "Atlantic Ocean",
+    "category": "geography"
+  },
+  {
+    "question": "What city is known as the Glass Capital of the World?",
+    "optionA": "Venice",
+    "optionB": "Toledo",
+    "optionC": "Paris",
+    "optionD": "New York City",
+    "answer": "Toledo",
+    "category": "geography"
+  },
+  {
+    "question": "How many stars are on the Australian flag?",
+    "optionA": "5",
+    "optionB": "6",
+    "optionC": "7",
+    "optionD": "8",
+    "answer": "6",
+    "category": "geography"
+  },
+  {
+    "question": "Pierre is the capital of what US state?",
+    "optionA": "South Dakota",
+    "optionB": "North Dakota",
+    "optionC": "Nebraska",
+    "optionD": "Montana",
+    "answer": "South Dakota",
+    "category": "geography"
+  },
+  {
+    "question": "What is the name of the smallest US state?",
+    "optionA": "Connecticut",
+    "optionB": "Vermont",
+    "optionC": "Rhode Island",
+    "optionD": "Delaware",
+    "answer": "Rhode Island",
+    "category": "geography"
+  },
+  {
+    "question": "What ocean borders the state of Florida?",
+    "optionA": "Pacific Ocean",
+    "optionB": "Indian Ocean",
+    "optionC": "Arctic Ocean",
+    "optionD": "Atlantic Ocean",
+    "answer": "Atlantic Ocean",
+    "category": "geography"
+  },
+  {
+    "question": "What US states share a border with Mexico?",
+    "optionA": "California and Arizona",
+    "optionB": "Arizona and New Mexico",
+    "optionC": "New Mexico and Texas",
+    "optionD": "California, Arizona, New Mexico, Texas",
+    "answer": "California, Arizona, New Mexico, Texas",
+    "category": "geography"
+  },
+  {
+    "question": "What is the name of the longest river in the US?",
+    "optionA": "Mississippi River",
+    "optionB": "Missouri River",
+    "optionC": "Colorado River",
+    "optionD": "Columbia River",
+    "answer": "Missouri River",
+    "category": "geography"
+  },
+  {
+    "question": "What is the name of the tallest mountain in the US?",
+    "optionA": "Mount McKinley",
+    "optionB": "Mount Everest",
+    "optionC": "Mount Rainier",
+    "optionD": "Mount St. Helens",
+    "answer": "Mount McKinley",
+    "category": "geography"
+  },
+  {
+    "question": "What is the lowest point of the US?",
+    "optionA": "Badwater Basin",
+    "optionB": "Death Valley",
+    "optionC": "Salton Sea",
+    "optionD": "Challenger Deep",
+    "answer": "Death Valley",
+    "category": "geography"
+  },
+  {
+    "question": "What are the names of the five Great Lakes?",
+    "optionA": "Superior, Erie, Ontario, Michigan, Huron",
+    "optionB": "Erie, Ontario, Michigan, Huron, Superior",
+    "optionC": "Ontario, Michigan, Huron, Superior, Erie",
+    "optionD": "Huron, Superior, Erie, Ontario, Michigan",
+    "answer": "Superior, Erie, Ontario, Michigan, Huron",
+    "category": "geography"
+  },
+  {
+    "question": "What is the name of the flattest state in the US?",
+    "optionA": "Florida",
+    "optionB": "Kansas",
+    "optionC": "Nebraska",
+    "optionD": "Louisiana",
+    "answer": "Florida",
+    "category": "geography"
+  },
+  {
+    "question": "What two states do not share a border with any other US state?",
+    "optionA": "Alaska and Hawaii",
+    "optionB": "Hawaii and Maine",
+    "optionC": "Alaska and Rhode Island",
+    "optionD": "Hawaii and Vermont",
+    "answer": "Alaska and Hawaii",
+    "category": "geography"
+  },
+  {
+    "question": "What state is Mount Rushmore located in?",
+    "optionA": "South Dakota",
+    "optionB": "North Dakota",
+    "optionC": "Montana",
+    "optionD": "Wyoming",
+    "answer": "South Dakota",
+    "category": "geography"
+  },
+  {
+    "question": "What is the name of the largest lake in the US?",
+    "optionA": "Lake Erie",
+    "optionB": "Lake Huron",
+    "optionC": "Lake Michigan",
+    "optionD": "Lake Superior",
+    "answer": "Lake Superior",
+    "category": "geography"
+  },
+  {
+    "question": "In what state would you find the North Mojave Desert?",
+    "optionA": "California",
+    "optionB": "Nevada",
+    "optionC": "Arizona",
+    "optionD": "New Mexico",
+    "answer": "Nevada",
+    "category": "geography"
+  },
+  {
+    "question": "What is the coldest state in the US?",
+    "optionA": "Alaska",
+    "optionB": "North Dakota",
+    "optionC": "Minnesota",
+    "optionD": "Maine",
+    "answer": "Alaska",
+    "category": "geography"
+  },
+  {
+    "question": "How many US states share a border with Canada?",
+    "optionA": "10",
+    "optionB": "12",
+    "optionC": "13",
+    "optionD": "15",
+    "answer": "13",
+    "category": "geography"
+  },
+  {
+    "question": "What is the largest bay in the US?",
+    "optionA": "Tampa Bay",
+    "optionB": "San Francisco Bay",
+    "optionC": "Chesapeake Bay",
+    "optionD": "Hudson Bay",
+    "answer": "Chesapeake Bay",
+    "category": "geography"
+  },
+  {
+    "question": "What city is the White House located in?",
+    "optionA": "New York City",
+    "optionB": "Washington, D.C.",
+    "optionC": "Philadelphia",
+    "optionD": "Boston",
+    "answer": "Washington, D.C.",
+    "category": "geography"
+  },
+  {
+    "question": "How many time zones are there in the US?",
+    "optionA": "4",
+    "optionB": "5",
+    "optionC": "6",
+    "optionD": "7",
+    "answer": "6",
+    "category": "geography"
+  },
+  {
+    "question": "Which US state is known as The Garden State?",
+    "optionA": "New York",
+    "optionB": "New Jersey",
+    "optionC": "Connecticut",
+    "optionD": "Massachusetts",
+    "answer": "New Jersey",
+    "category": "geography"
+  },
+  {
+    "question": "What state has the fewest counties?",
+    "optionA": "Delaware",
+    "optionB": "Rhode Island",
+    "optionC": "Connecticut",
+    "optionD": "New Hampshire",
+    "answer": "Delaware",
+    "category": "geography"
+  },
+  {
+    "question": "Which state was purchased from Russia in 1867?",
+    "optionA": "Louisiana",
+    "optionB": "Alaska",
+    "optionC": "Texas",
+    "optionD": "Oregon",
+    "answer": "Alaska",
+    "category": "geography"
+  },
+  {
+    "question": "What state is known as The Heart of Dixie?",
+    "optionA": "Tennessee",
+    "optionB": "Georgia",
+    "optionC": "Mississippi",
+    "optionD": "Alabama",
+    "answer": "Alabama",
+    "category": "geography"
+  },
+  {
+    "question": "What is the name of the only living coral barrier reef in the continental United States?",
+    "optionA": "The Great Barrier Reef",
+    "optionB": "The Florida Reef",
+    "optionC": "The Belize Barrier Reef",
+    "optionD": "The Maldives Barrier Reef",
+    "answer": "The Florida Reef",
+    "category": "geography"
+  },
+  {
+    "question": "What state is known as The First State?",
+    "optionA": "Delaware",
+    "optionB": "Connecticut",
+    "optionC": "Massachusetts",
+    "optionD": "Maryland",
+    "answer": "Delaware",
+    "category": "geography"
+  },
+  {
+    "question": "How many total islands does Hawaii have?",
+    "optionA": "105",
+    "optionB": "137",
+    "optionC": "180",
+    "optionD": "132",
+    "answer": "132",
+    "category": "geography"
+  },
+  {
+    "question": "This country is divided at the 38th parallel.",
+    "optionA": "North Korea",
+    "optionB": "South Korea",
+    "optionC": "China",
+    "optionD": "Vietnam",
+    "answer": "Korea",
+    "category": "geography"
+  },
+  {
+    "question": "This country is divided into two parts: Sabah and Sarawak on the island of Borneo, and a peninsula north of Singapore.",
+    "optionA": "Indonesia",
+    "optionB": "Malaysia",
+    "optionC": "Thailand",
+    "optionD": "Philippines",
+    "answer": "Malaysia",
+    "category": "geography"
+  },
+  {
+    "question": "This country is home to the world's oldest continuous local democracy.",
+    "optionA": "Ireland",
+    "optionB": "Norway",
+    "optionC": "Iceland",
+    "optionD": "Switzerland",
+    "answer": "Iceland",
+    "category": "geography"
+  },
+  {
+    "question": "This country lost the largest percentage of its men in a single war (~70%).",
+    "optionA": "Germany",
+    "optionB": "Russia",
+    "optionC": "France",
+    "optionD": "Paraguay",
+    "answer": "Paraguay",
+    "category": "geography"
+  },
+  {
+    "question": "This country occupies the \"horn of Africa\".",
+    "optionA": "Sudan",
+    "optionB": "Kenya",
+    "optionC": "Ethiopia",
+    "optionD": "Somalia",
+    "answer": "Somalia",
+    "category": "geography"
+  },
+  {
+    "question": "This country's flag has a large \"R\" on it.",
+    "optionA": "Rwanda",
+    "optionB": "Romania",
+    "optionC": "Russia",
+    "optionD": "Republic of the Congo",
+    "answer": "Rwanda",
+    "category": "geography"
+  },
+  {
+    "question": "This country holds the distinction of being the least densely populated in the world.",
+    "optionA": "Mongolia",
+    "optionB": "Canada",
+    "optionC": "Australia",
+    "optionD": "Greenland",
+    "answer": "Mongolia",
+    "category": "geography"
+  },
+  {
+    "question": "This imaginary line approximately follows the 180 degree meridian through the Pacific Ocean.",
+    "optionA": "Prime Meridian",
+    "optionB": "Equator",
+    "optionC": "Tropic of Cancer",
+    "optionD": "International Date Line",
+    "answer": "International Date Line",
+    "category": "geography"
+  },
+  {
+    "question": "This is called the \"Honeymoon Capital\" of the world.",
+    "optionA": "Paris",
+    "optionB": "Venice",
+    "optionC": "Hawaii",
+    "optionD": "Niagara Falls",
+    "answer": "Niagara Falls",
+    "category": "geography"
+  },
+  {
+    "question": "This is the bridge with the longest span in the U.S.A.",
+    "optionA": "Golden Gate Bridge",
+    "optionB": "Brooklyn Bridge",
+    "optionC": "Verrazano Narrows",
+    "optionD": "George Washington Bridge",
+    "answer": "Verrazano Narrows",
+    "category": "geography"
+  },
+  {
+    "question": "This is the longest mountain chain in the world.",
+    "optionA": "Rocky Mountains",
+    "optionB": "Andes",
+    "optionC": "Himalayas",
+    "optionD": "Alps",
+    "answer": "Andes",
+    "category": "geography"
+  },
+  {
+    "question": "This is the only borough of New York City that is not on an island.",
+    "optionA": "Brooklyn",
+    "optionB": "Queens",
+    "optionC": "Staten Island",
+    "optionD": "The Bronx",
+    "answer": "The Bronx",
+    "category": "geography"
+  },
+  {
+    "question": "This is the port city serving Tokyo.",
+    "optionA": "Osaka",
+    "optionB": "Yokohama",
+    "optionC": "Kobe",
+    "optionD": "Nagasaki",
+    "answer": "Yokohama",
+    "category": "geography"
+  },
+  {
+    "question": "This is the residence of English monarchs.",
+    "optionA": "Tower of London",
+    "optionB": "Windsor Castle",
+    "optionC": "Buckingham Palace",
+    "optionD": "Kensington Palace",
+    "answer": "Buckingham Palace",
+    "category": "geography"
+  },
+  {
+    "question": "This island group is off the east coast of southern South America.",
+    "optionA": "Galapagos Islands",
+    "optionB": "Falkland Islands",
+    "optionC": "Hawaiian Islands",
+    "optionD": "Seychelles",
+    "answer": "Falkland Islands",
+    "category": "geography"
+  },
+  {
+    "question": "This Moslem republic in Asia was formerly part of India.",
+    "optionA": "Bangladesh",
+    "optionB": "Pakistan",
+    "optionC": "Indonesia",
+    "optionD": "Malaysia",
+    "answer": "Pakistan",
+    "category": "geography"
+  },
+  {
+    "question": "This mountain, found in the California Cascades, is famous for its twin peaks?",
+    "optionA": "Mount Rainier",
+    "optionB": "Mount Hood",
+    "optionC": "Mount Shasta",
+    "optionD": "Mount St. Helens",
+    "answer": "Mount Shasta",
+    "category": "geography"
+  },
+  {
+    "question": "This Pacific island's puzzling monoliths attract ethnologists.",
+    "optionA": "Hawaii",
+    "optionB": "Easter Island",
+    "optionC": "Tahiti",
+    "optionD": "Fiji",
+    "answer": "Easter Island",
+    "category": "geography"
+  },
+  {
+    "question": "This re-opened in 1975 after being closed for 8 years.",
+    "optionA": "Panama Canal",
+    "optionB": "Suez Canal",
+    "optionC": "Kiel Canal",
+    "optionD": "Erie Canal",
+    "answer": "Suez Canal",
+    "category": "geography"
+  },
+  {
+    "question": "This section of Manhattan is noted for its Negro and Latin American residents.",
+    "optionA": "Times Square",
+    "optionB": "Greenwich Village",
+    "optionC": "Upper East Side",
+    "optionD": "Harlem",
+    "answer": "Harlem",
+    "category": "geography"
+  },
+  {
+    "question": "Though part of the British Isles, the _______________ is administered according to its own laws by the Court of Tynwald. The island is not bound by British law unless it chooses to be.",
+    "optionA": "Channel Islands",
+    "optionB": "Isle of Man",
+    "optionC": "Orkney Islands",
+    "optionD": "Hebrides",
+    "answer": "Isle of Man",
+    "category": "geography"
+  },
+  {
+    "question": "Through which ocean does the International Date Line approximately follow the 180 degree meridian?",
+    "optionA": "Atlantic Ocean",
+    "optionB": "Indian Ocean",
+    "optionC": "Arctic Ocean",
+    "optionD": "Pacific Ocean",
+    "answer": "Pacific Ocean",
+    "category": "geography"
+  },
+  {
+    "question": "To The Nearest 100 Million Years How Old Is The Earth",
+    "optionA": "4,540 Million Years",
+    "optionB": "5,000 Million Years",
+    "optionC": "3,800 Million Years",
+    "optionD": "2,100 Million Years",
+    "answer": "4,540 Million Years",
+    "category": "geography"
+  },
+  {
+    "question": "To what country do the Faeroe Islands belong",
+    "optionA": "Sweden",
+    "optionB": "Norway",
+    "optionC": "Denmark",
+    "optionD": "Iceland",
+    "answer": "Denmark",
+    "category": "geography"
+  },
+  {
+    "question": "To what country does the Gaza Strip belong",
+    "optionA": "Israel",
+    "optionB": "Egypt",
+    "optionC": "Jordan",
+    "optionD": "Lebanon",
+    "answer": "Egypt",
+    "category": "geography"
+  },
+  {
+    "question": "To Which Country do The Balearic Islands Belong?",
+    "optionA": "Greece",
+    "optionB": "Italy",
+    "optionC": "Spain",
+    "optionD": "Portugal",
+    "answer": "Spain",
+    "category": "geography"
+  },
+  {
+    "question": "To Which Country Does Easter Island Belong",
+    "optionA": "Fiji",
+    "optionB": "Chile",
+    "optionC": "Indonesia",
+    "optionD": "Australia",
+    "answer": "Chile",
+    "category": "geography"
+  },
+  {
+    "question": "Tourists who are eager to visit recently erupted volcanoes while on vacation should take heed. Volcanic ash has been known to remain hot for a period of nearly ______________",
+    "optionA": "100 years",
+    "optionB": "10 years",
+    "optionC": "1 year",
+    "optionD": "1000 years",
+    "answer": "100 years",
+    "category": "geography"
+  },
+  {
+    "question": "Translation of _____________ is \"beautiful country\".",
+    "optionA": "Bali",
+    "optionB": "Sri Lanka",
+    "optionC": "Maldives",
+    "optionD": "Philippines",
+    "answer": "Sri Lanka",
+    "category": "geography"
+  },
+  {
+    "question": "Twenty-three states in the U.S. border an ____________",
+    "optionA": "Ocean",
+    "optionB": "International Border",
+    "optionC": "Equator",
+    "optionD": "Indian Ocean",
+    "answer": "Ocean",
+    "category": "geography"
+  },
+  {
+    "question": "Two thousand years ago, the ancient Roman city of __________ was a thriving commercial port of 20,000 people.",
+    "optionA": "Athens",
+    "optionB": "Pompeii",
+    "optionC": "Rome",
+    "optionD": "Alexandria",
+    "answer": "Pompeii",
+    "category": "geography"
+  },
+  {
+    "question": "Ulan Bator is the capital of ______?",
+    "optionA": "Mongolia",
+    "optionB": "Kazakhstan",
+    "optionC": "Afghanistan",
+    "optionD": "Turkmenistan",
+    "answer": "Mongolia",
+    "category": "geography"
+  },
+  {
+    "question": "Under what river does the Holland Tunnel run?",
+    "optionA": "East River",
+    "optionB": "Hudson River",
+    "optionC": "Mississippi River",
+    "optionD": "Thames River",
+    "answer": "Hudson River",
+    "category": "geography"
+  },
+  {
+    "question": "Unlike most African nations, ________ was never a European colony.",
+    "optionA": "Nigeria",
+    "optionB": "South Africa",
+    "optionC": "Kenya",
+    "optionD": "Ethiopia",
+    "answer": "Ethiopia",
+    "category": "geography"
+  },
+  {
+    "question": "Vaduz is the capital of ______?",
+    "optionA": "Luxembourg",
+    "optionB": "Switzerland",
+    "optionC": "Austria",
+    "optionD": "Liechtenstein",
+    "answer": "Liechtenstein",
+    "category": "geography"
+  },
+  {
+    "question": "Various U.S. cities are named after other countries. You can visit the U.S. city of ________ in the states of Maine, Nebraska, and New York.",
+    "optionA": "Peru",
+    "optionB": "Mexico",
+    "optionC": "Spain",
+    "optionD": "Italy",
+    "answer": "Peru",
+    "category": "geography"
+  },
+  {
+    "question": "Vilnius is the capital of which country?",
+    "optionA": "Latvia",
+    "optionB": "Estonia",
+    "optionC": "Lithuania",
+    "optionD": "Belarus",
+    "answer": "Lithuania",
+    "category": "geography"
+  },
+  {
+    "question": "Warsaw is the capital of what country",
+    "optionA": "Hungary",
+    "optionB": "Poland",
+    "optionC": "Czech Republic",
+    "optionD": "Slovakia",
+    "answer": "Poland",
+    "category": "geography"
+  },
+  {
+    "question": "Water is so scarce in the arid regions of _________ that, in the grasslands, the people never take baths, and sometimes must wash their faces in yak's milk.",
+    "optionA": "India",
+    "optionB": "China",
+    "optionC": "Pakistan",
+    "optionD": "Afghanistan",
+    "answer": "China",
+    "category": "geography"
+  },
+  {
+    "question": "What 'I' was once Mesopotamia?",
+    "optionA": "Iran",
+    "optionB": "Iraq",
+    "optionC": "Iceland",
+    "optionD": "Ireland",
+    "answer": "Iraq",
+    "category": "geography"
+  },
+  {
+    "question": "What 2 countries have square flags?",
+    "optionA": "Switzerland and the Vatican",
+    "optionB": "Japan and South Korea",
+    "optionC": "Canada and Australia",
+    "optionD": "United Kingdom and France",
+    "answer": "Switzerland and the Vatican",
+    "category": "geography"
+  },
+  {
+    "question": "What American city is also known as Beantown?",
+    "optionA": "New York City",
+    "optionB": "Los Angeles",
+    "optionC": "Chicago",
+    "optionD": "Boston",
+    "answer": "Boston",
+    "category": "geography"
+  },
+  {
+    "question": "What American city is known as Little Havana",
+    "optionA": "San Francisco",
+    "optionB": "Miami",
+    "optionC": "New Orleans",
+    "optionD": "Los Angeles",
+    "answer": "Miami",
+    "category": "geography"
+  },
+  {
+    "question": "What American state has a Thames river?",
+    "optionA": "New York",
+    "optionB": "Connecticut",
+    "optionC": "Massachusetts",
+    "optionD": "New Jersey",
+    "answer": "Connecticut",
+    "category": "geography"
+  },
+  {
+    "question": "What American state is 'The Golden State'?",
+    "optionA": "New York",
+    "optionB": "California",
+    "optionC": "Texas",
+    "optionD": "Florida",
+    "answer": "California",
+    "category": "geography"
+  },
+  {
+    "question": "What American state is also called the 'Garden State'?",
+    "optionA": "New York",
+    "optionB": "New Jersey",
+    "optionC": "Pennsylvania",
+    "optionD": "Delaware",
+    "answer": "New Jersey",
+    "category": "geography"
+  },
+  {
+    "question": "What American state is the 'Hoosier State'?",
+    "optionA": "Illinois",
+    "optionB": "Indiana",
+    "optionC": "Iowa",
+    "optionD": "Ohio",
+    "answer": "Indiana",
+    "category": "geography"
+  },
+  {
+    "question": "What and when is the biggest national celebration every year in Australia?",
+    "optionA": "Christmas",
+    "optionB": "New Year's Day",
+    "optionC": "Australia Day",
+    "optionD": "Easter",
+    "answer": "Australia Day",
+    "category": "geography"
+  },
+  {
+    "question": "What are drumlins and eskers formed by",
+    "optionA": "Rivers",
+    "optionB": "Wind",
+    "optionC": "Ice",
+    "optionD": "Volcanic Activity",
+    "answer": "Ice",
+    "category": "geography"
+  },
+  {
+    "question": "What are drumlins and eskers formed by?",
+    "optionA": "Rivers",
+    "optionB": "Wind",
+    "optionC": "Ice",
+    "optionD": "Glaciers",
+    "answer": "Glaciers",
+    "category": "geography"
   }
 ]

@@ -23,6 +23,8 @@ function App() {
     movies: questions.filter((question) => question.category === "movies"),
   };
 
+  console.log(categoryFilters.geography.length);
+
   // just a piece of code to check number of questions
   /*   console.log(questions.length); */
 
