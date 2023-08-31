@@ -23,8 +23,6 @@ function App() {
     movies: questions.filter((question) => question.category === "movies"),
   };
 
-  console.log(categoryFilters.geography.length);
-
   // just a piece of code to check number of questions
   /*   console.log(questions.length); */
 
@@ -44,7 +42,7 @@ function App() {
       initialList.push(randomIndex);
     }
   }
-  console.log(initialList);
+  /*   console.log(initialList); */
 
   //state for random Array of numbers (which get aligned with number of questions in the list)
   const [randomArray, setRandomArray] = useState(initialList);
@@ -84,7 +82,7 @@ function App() {
     setStarted(true);
   }
 
-  console.log(randomArray);
+  /* console.log(randomArray); */
 
   return (
     <div>

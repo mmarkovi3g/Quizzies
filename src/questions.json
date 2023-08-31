@@ -9576,5 +9576,385 @@
     "optionD": "Glaciers",
     "answer": "Glaciers",
     "category": "geography"
+  },
+  {
+    "question": "Which film holds the record for the most Academy Awards won by a single film?",
+    "optionA": "Ben-Hur",
+    "optionB": "Titanic",
+    "optionC": "The Lord of the Rings: The Return of the King",
+    "optionD": "La La Land",
+    "answer": "The Lord of the Rings: The Return of the King",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many films have won 11 Academy Awards?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Three",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "Which film received 14 nominations?",
+    "optionA": "All About Eve",
+    "optionB": "Titanic",
+    "optionC": "La La Land",
+    "optionD": "Crouching Tiger, Hidden Dragon",
+    "answer": "All About Eve",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "Which film won awards in every nominated category?",
+    "optionA": "Ben-Hur",
+    "optionB": "Titanic",
+    "optionC": "The Lord of the Rings: The Return of the King",
+    "optionD": "La La Land",
+    "answer": "The Lord of the Rings: The Return of the King",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "Who holds the record for the most total awards won by a person?",
+    "optionA": "Walt Disney",
+    "optionB": "Dennis Muren",
+    "optionC": "Edith Head",
+    "optionD": "Alan Menken",
+    "answer": "Walt Disney",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "Who holds the record for the most awards by a living person?",
+    "optionA": "Walt Disney",
+    "optionB": "Dennis Muren",
+    "optionC": "Edith Head",
+    "optionD": "Alan Menken",
+    "answer": "Dennis Muren",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "Who holds the record for the most total awards won by a woman?",
+    "optionA": "Edith Head",
+    "optionB": "Katharine Hepburn",
+    "optionC": "Alan Menken",
+    "optionD": "Thelma Schoonmaker",
+    "answer": "Edith Head",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "Who holds the record for the most total nominations for a person?",
+    "optionA": "Walt Disney",
+    "optionB": "Alan Menken",
+    "optionC": "Edith Head",
+    "optionD": "Katharine Hepburn",
+    "answer": "Walt Disney",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "In what year did Walt Disney receive six nominations and win four awards?",
+    "optionA": "1954",
+    "optionB": "1967",
+    "optionC": "1982",
+    "optionD": "1999",
+    "answer": "1954",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "Who holds the record for the most competitive awards won by a person who is still living?",
+    "optionA": "Alan Menken",
+    "optionB": "John Williams",
+    "optionC": "Sammy Cahn",
+    "optionD": "Johnny Mercer",
+    "answer": "Alan Menken",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Katharine Hepburn win for Best Actress?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Four",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did John Ford win for Directing?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Four",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Woody Allen win for Best Original Screenplay?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Three",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Charles Brackett win for Best Adapted and Original Screenplay?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Three",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Paddy Chayefsky win for Best Adapted and Original Screenplay?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Three",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Francis Ford Coppola win for Best Adapted and Original Screenplay?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Three",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Billy Wilder win for Best Adapted and Original Screenplay?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Three",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Michael Kahn win for Film Editing?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Three",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Thelma Schoonmaker win for Film Editing?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Three",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Daniel Mandell win for Film Editing?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Three",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Ralph Dawson win for Film Editing?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Three",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Joseph Ruttenberg win for Cinematography?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Four",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Leon Shamroy win for Cinematography?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Four",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Alfred Newman win for Film Music Composition and Songwriting?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Nine",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Alan Menken win for Film Music Composition and Songwriting?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Eight",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did John Williams win for Film Music Composition and Songwriting?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Five",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Sammy Cahn win for Film Music Composition and Songwriting?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Four",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Johnny Mercer win for Film Music Composition and Songwriting?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Four",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Jimmy Van Heusen win for Film Music Composition and Songwriting?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Four",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Cedric Gibbons win for Art Direction?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Eleven",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Edith Head win for Costume Design?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Eight",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Rick Baker win for Makeup?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Seven",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Dennis Muren win for Visual Effects?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Eight",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did A. Arnold Gillespie win for Special Effects (discontinued in 1962)?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Three",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Pete Docter win for an animated feature film?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Three",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "How many Academy Awards did Pete Docter receive for the Best Animated Feature?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "answer": "Three",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "Which country has won the most awards for Best International Feature Film?",
+    "optionA": "Italy",
+    "optionB": "France",
+    "optionC": "Israel",
+    "optionD": "Germany",
+    "answer": "Italy",
+    "category": "movies",
+    "subcategory": "oscars"
+  },
+  {
+    "question": "Which country has the most nominations for Best International Feature Film without an award?",
+    "optionA": "Italy",
+    "optionB": "France",
+    "optionC": "Israel",
+    "optionD": "Germany",
+    "answer": "Israel",
+    "category": "movies",
+    "subcategory": "oscars"
   }
 ]
