@@ -9956,5 +9956,799 @@
     "answer": "Israel",
     "category": "movies",
     "subcategory": "oscars"
+  },
+  {
+    "question": "Which movie features the song 'Over the Rainbow'?",
+    "optionA": "The Wizard of Oz",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "The Wizard of Oz",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie can you hear the song 'Moon River'?",
+    "optionA": "The Wizard of Oz",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Breakfast at Tiffany's",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'My Heart Will Go On'?",
+    "optionA": "The Wizard of Oz",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Titanic",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie is 'The Sound of Music' song featured?",
+    "optionA": "The Wizard of Oz",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "The Sound of Music",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'I Will Always Love You'?",
+    "optionA": "The Wizard of Oz",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Bodyguard",
+    "answer": "The Bodyguard",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie is the song 'Singin' in the Rain' featured?",
+    "optionA": "The Wizard of Oz",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Singin' in the Rain",
+    "optionD": "The Sound of Music",
+    "answer": "Singin' in the Rain",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'Staying Alive'?",
+    "optionA": "The Wizard of Oz",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Saturday Night Fever",
+    "optionD": "The Sound of Music",
+    "answer": "Saturday Night Fever",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie is the song 'Don't You (Forget About Me)' featured?",
+    "optionA": "The Breakfast Club",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "The Breakfast Club",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'I Want to Hold Your Hand'?",
+    "optionA": "A Hard Day's Night",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "A Hard Day's Night",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie is the song 'Eye of the Tiger' featured?",
+    "optionA": "Rocky III",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Rocky III",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'Jai Ho'?",
+    "optionA": "Slumdog Millionaire",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Slumdog Millionaire",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie is the song 'Time of My Life' featured?",
+    "optionA": "Dirty Dancing",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Dirty Dancing",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'Let It Go'?",
+    "optionA": "Frozen",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Frozen",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie is the song 'Somewhere Over the Rainbow' featured?",
+    "optionA": "The Wizard of Oz",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "The Wizard of Oz",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'Mrs. Robinson'?",
+    "optionA": "The Graduate",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "The Graduate",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie can you hear the song 'When You Wish Upon a Star'?",
+    "optionA": "Pinocchio",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Pinocchio",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'I Got You Babe'?",
+    "optionA": "Groundhog Day",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Groundhog Day",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie is the song 'Ghostbusters' featured?",
+    "optionA": "Ghostbusters",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Ghostbusters",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'My Girl'?",
+    "optionA": "My Girl",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "My Girl",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie can you hear the song 'Can't Stop the Feeling!'?",
+    "optionA": "Trolls",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Trolls",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'Bohemian Rhapsody'?",
+    "optionA": "Wayne's World",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Wayne's World",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie is the song 'Circle of Life' featured?",
+    "optionA": "The Lion King",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "The Lion King",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'When I Fall in Love'?",
+    "optionA": "Sleepless in Seattle",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Sleepless in Seattle",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie can you hear the song 'Unchained Melody'?",
+    "optionA": "Ghost",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Ghost",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'I Will Survive'?",
+    "optionA": "The Replacements",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "The Replacements",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie is the song 'I Don't Want to Miss a Thing' featured?",
+    "optionA": "Armageddon",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Armageddon",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'My Way'?",
+    "optionA": "Goodfellas",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Goodfellas",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie can you hear the song 'Footloose'?",
+    "optionA": "Footloose",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Footloose",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'A Whole New World'?",
+    "optionA": "Aladdin",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Aladdin",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie is the song 'I'm a Believer' featured?",
+    "optionA": "Shrek",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Shrek",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'When You Believe'?",
+    "optionA": "The Prince of Egypt",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "The Prince of Egypt",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie can you hear the song 'You've Got a Friend in Me'?",
+    "optionA": "Toy Story",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Toy Story",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'Let's Get It On'?",
+    "optionA": "Austin Powers: International Man of Mystery",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Austin Powers: International Man of Mystery",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "In which movie can you hear the song 'The Power of Love'?",
+    "optionA": "Back to the Future",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Back to the Future",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+
+  {
+    "question": "Which film features the song 'Purple Rain'?",
+    "optionA": "Purple Rain",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Titanic",
+    "optionD": "The Sound of Music",
+    "answer": "Purple Rain",
+    "category": "movies",
+    "subcategory": "movie songs"
+  },
+  {
+    "question": "Who played the iconic character Luke Skywalker in the 'Star Wars' series?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Michael J. Fox",
+    "optionD": "Sigourney Weaver",
+    "answer": "Mark Hamill",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor portrayed the role of Frodo Baggins in 'The Lord of the Rings' film trilogy?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Michael J. Fox",
+    "optionD": "Sigourney Weaver",
+    "answer": "Elijah Wood",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "In 'Back to the Future,' who played the character Marty McFly?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Michael J. Fox",
+    "optionD": "Sigourney Weaver",
+    "answer": "Michael J. Fox",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Ellen Ripley, known for battling aliens in the 'Alien' franchise, was portrayed by which actress?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Michael J. Fox",
+    "optionD": "Sigourney Weaver",
+    "answer": "Sigourney Weaver",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "In 'E.T. the Extra-Terrestrial,' what is the name of the friendly alien?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Michael J. Fox",
+    "optionD": "E.T.",
+    "answer": "E.T.",
+    "category": "movies",
+    "subcategory": "characters"
+  },
+  {
+    "question": "Who played the titular character Forrest Gump in the movie of the same name?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Tom Hanks",
+    "optionD": "Sigourney Weaver",
+    "answer": "Tom Hanks",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor is famous for his role as Captain Jack Sparrow in the 'Pirates of the Caribbean' series?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Johnny Depp",
+    "optionD": "Sigourney Weaver",
+    "answer": "Johnny Depp",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Clarice Starling, the FBI trainee in 'The Silence of the Lambs,' was portrayed by which actress?",
+    "optionA": "Mark Hamill",
+    "optionB": "Jodie Foster",
+    "optionC": "Michael J. Fox",
+    "optionD": "Sigourney Weaver",
+    "answer": "Jodie Foster",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "In 'The Matrix' trilogy, who played the character Trinity?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Carrie-Anne Moss",
+    "optionD": "Sigourney Weaver",
+    "answer": "Carrie-Anne Moss",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Who is known for his role as Ethan Hunt in the 'Mission: Impossible' series?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Tom Cruise",
+    "optionD": "Sigourney Weaver",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "In the 'Toy Story' series, who voiced the character Woody?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Tom Hanks",
+    "optionD": "Sigourney Weaver",
+    "answer": "Tom Hanks",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "In 'Shrek,' which actor provided the voice for the character Shrek?",
+    "optionA": "Mark Hamill",
+    "optionB": "Mike Myers",
+    "optionC": "Michael J. Fox",
+    "optionD": "Sigourney Weaver",
+    "answer": "Mike Myers",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Who portrayed Katniss Everdeen in 'The Hunger Games' film series?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Jennifer Lawrence",
+    "optionD": "Sigourney Weaver",
+    "answer": "Jennifer Lawrence",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor is famous for his portrayal of Wolverine in the 'X-Men' film series?",
+    "optionA": "Mark Hamill",
+    "optionB": "Hugh Jackman",
+    "optionC": "Michael J. Fox",
+    "optionD": "Sigourney Weaver",
+    "answer": "Hugh Jackman",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Morpheus, a key character in 'The Matrix' trilogy, was portrayed by which actor?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Laurence Fishburne",
+    "optionD": "Sigourney Weaver",
+    "answer": "Laurence Fishburne",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Who played Scarlett O'Hara in the classic film 'Gone with the Wind'?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Vivien Leigh",
+    "optionD": "Sigourney Weaver",
+    "answer": "Vivien Leigh",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Marilyn Monroe, an iconic figure in film history, was portrayed by various actresses?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Michael J. Fox",
+    "optionD": "Various actresses",
+    "answer": "Various actresses",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "In 'The Wizard of Oz,' who played the role of Dorothy Gale?",
+    "optionA": "Judy Garland",
+    "optionB": "Elijah Wood",
+    "optionC": "Michael J. Fox",
+    "optionD": "Sigourney Weaver",
+    "answer": "Judy Garland",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor portrayed Ripley in the 'Alien' film franchise?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Michael J. Fox",
+    "optionD": "Sigourney Weaver",
+    "answer": "Sigourney Weaver",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Holly Golightly, a beloved character in 'Breakfast at Tiffany's,' was portrayed by which actress?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Audrey Hepburn",
+    "optionD": "Sigourney Weaver",
+    "answer": "Audrey Hepburn",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "In 'Pulp Fiction,' who portrayed the character Jules Winnfield?",
+    "optionA": "Mark Hamill",
+    "optionB": "Elijah Wood",
+    "optionC": "Samuel L. Jackson",
+    "optionD": "Sigourney Weaver",
+    "answer": "Samuel L. Jackson",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "In which movie series can you find the character Luke Skywalker?",
+    "optionA": "Star Wars",
+    "optionB": "The Lord of the Rings",
+    "optionC": "Back to the Future",
+    "optionD": "Alien",
+    "answer": "Star Wars",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie series can you find the character Frodo Baggins?",
+    "optionA": "Star Wars",
+    "optionB": "The Lord of the Rings",
+    "optionC": "Back to the Future",
+    "optionD": "Alien",
+    "answer": "The Lord of the Rings",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie series can you find the character Marty McFly?",
+    "optionA": "Star Wars",
+    "optionB": "The Lord of the Rings",
+    "optionC": "Back to the Future",
+    "optionD": "Alien",
+    "answer": "Back to the Future",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie series can you find the character Ellen Ripley?",
+    "optionA": "Star Wars",
+    "optionB": "The Lord of the Rings",
+    "optionC": "Back to the Future",
+    "optionD": "Alien",
+    "answer": "Alien",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie can you find the character E.T.?",
+    "optionA": "E.T. the Extra-Terrestrial",
+    "optionB": "Forrest Gump",
+    "optionC": "Pirates of the Caribbean",
+    "optionD": "Mission: Impossible",
+    "answer": "E.T. the Extra-Terrestrial",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie can you find the character Forrest Gump?",
+    "optionA": "E.T. the Extra-Terrestrial",
+    "optionB": "Forrest Gump",
+    "optionC": "Pirates of the Caribbean",
+    "optionD": "Mission: Impossible",
+    "answer": "Forrest Gump",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie series can you find the character Jack Sparrow?",
+    "optionA": "E.T. the Extra-Terrestrial",
+    "optionB": "Forrest Gump",
+    "optionC": "Pirates of the Caribbean",
+    "optionD": "Mission: Impossible",
+    "answer": "Pirates of the Caribbean",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie can you find the character Clarice Starling?",
+    "optionA": "E.T. the Extra-Terrestrial",
+    "optionB": "The Silence of the Lambs",
+    "optionC": "Pirates of the Caribbean",
+    "optionD": "Mission: Impossible",
+    "answer": "The Silence of the Lambs",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie series can you find the character Trinity?",
+    "optionA": "The Matrix",
+    "optionB": "Back to the Future",
+    "optionC": "Pirates of the Caribbean",
+    "optionD": "Mission: Impossible",
+    "answer": "The Matrix",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie series can you find the character Ethan Hunt?",
+    "optionA": "The Matrix",
+    "optionB": "Back to the Future",
+    "optionC": "Mission: Impossible",
+    "optionD": "Alien",
+    "answer": "Mission: Impossible",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie series can you find the character Woody?",
+    "optionA": "Toy Story",
+    "optionB": "The Lord of the Rings",
+    "optionC": "Back to the Future",
+    "optionD": "Alien",
+    "answer": "Toy Story",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie series can you find the character Shrek?",
+    "optionA": "E.T. the Extra-Terrestrial",
+    "optionB": "Shrek",
+    "optionC": "Pirates of the Caribbean",
+    "optionD": "Alien",
+    "answer": "Shrek",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie series can you find the character Katniss Everdeen?",
+    "optionA": "Star Wars",
+    "optionB": "The Hunger Games",
+    "optionC": "Back to the Future",
+    "optionD": "Alien",
+    "answer": "The Hunger Games",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie series can you find the character Wolverine?",
+    "optionA": "X-Men",
+    "optionB": "The Lord of the Rings",
+    "optionC": "Back to the Future",
+    "optionD": "Alien",
+    "answer": "X-Men",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie series can you find the character Morpheus?",
+    "optionA": "The Matrix",
+    "optionB": "The Lord of the Rings",
+    "optionC": "Back to the Future",
+    "optionD": "Alien",
+    "answer": "The Matrix",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie can you find the character Scarlett O'Hara?",
+    "optionA": "E.T. the Extra-Terrestrial",
+    "optionB": "Gone with the Wind",
+    "optionC": "Pirates of the Caribbean",
+    "optionD": "Alien",
+    "answer": "Gone with the Wind",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie can you find the character Dorothy Gale?",
+    "optionA": "E.T. the Extra-Terrestrial",
+    "optionB": "Forrest Gump",
+    "optionC": "The Wizard of Oz",
+    "optionD": "Mission: Impossible",
+    "answer": "The Wizard of Oz",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie can you find the character Ripley?",
+    "optionA": "E.T. the Extra-Terrestrial",
+    "optionB": "Forrest Gump",
+    "optionC": "Pirates of the Caribbean",
+    "optionD": "Alien",
+    "answer": "Alien",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie can you find the character Holly Golightly?",
+    "optionA": "E.T. the Extra-Terrestrial",
+    "optionB": "Breakfast at Tiffany's",
+    "optionC": "Pirates of the Caribbean",
+    "optionD": "Alien",
+    "answer": "Breakfast at Tiffany's",
+    "category": "movies",
+    "subcategory": "movie-characters"
+  },
+  {
+    "question": "In which movie can you find the character Jules Winnfield?",
+    "optionA": "E.T. the Extra-Terrestrial",
+    "optionB": "The Silence of the Lambs",
+    "optionC": "Pirates of the Caribbean",
+    "optionD": "Pulp Fiction",
+    "answer": "Pulp Fiction",
+    "category": "movies",
+    "subcategory": "movie-characters"
   }
 ]
