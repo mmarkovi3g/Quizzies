@@ -78,7 +78,7 @@
   list-style: none;
   color: black;
   font-size: 1rem;
-  background-color: #cddce9;
+  /* background-color: #cddce9; */
   padding: 0.5rem;
   width: 80%;
   text-align: center;
@@ -88,6 +88,13 @@
 
 .answers button:hover {
   background-color: #ffffff;
+}
+
+.answ-false {
+  background-color: rgba(239, 146, 146, 0.5);
+}
+.answ-correct {
+  background-color: rgba(117, 186, 117, 0.5);
 }
 
 /* CONTAINER FOR NAVIGATION BUTTONS */

@@ -27,6 +27,21 @@ export default function Question({
   //setting up score (this needs to be improved later on)
   const [score, setScore] = useState(0);
 
+  // showing correct / wrong answer with class change on button
+
+  /*   const [correct, setCorrect] = useState(null);
+
+  function answerCheck(event) {
+    event.preventDefault();
+    const answer = event.target.value;
+    if (answer === question.answer) {
+      setCorrect((prev) => true);
+    } else {
+      setCorrect((prev) => false);
+    }
+    console.log(correct);
+  } */
+
   //next question handler
   function nextHandler(event) {
     event.preventDefault();
