@@ -99,15 +99,6 @@
     "category": "geography"
   },
   {
-    "question": "In which country is Mumbai the largest city, surpassing the capital city's population?",
-    "optionA": "Bangladesh",
-    "optionB": "Pakistan",
-    "optionC": "India",
-    "optionD": "Sri Lanka",
-    "answer": "India",
-    "category": "geography"
-  },
-  {
     "question": "What is the largest city in Benin, which has a larger population than the capital city?",
     "optionA": "Porto-Novo",
     "optionB": "Cotonou",
@@ -314,7 +305,6 @@
     "answer": "Venezuela",
     "category": "geography"
   },
-
   {
     "question": "Which South American country uses the Sol as its currency?",
     "optionA": "Peru",
@@ -1116,7 +1106,6 @@
     "answer": "Andes Mountains",
     "category": "geography"
   },
-
   {
     "question": "Which country is famous for its ancient pyramids and the Nile River?",
     "optionA": "Egypt",
@@ -1154,39 +1143,12 @@
     "category": "geography"
   },
   {
-    "question": "What is the capital of Brazil?",
-    "optionA": "Rio de Janeiro",
-    "optionB": "Sao Paulo",
-    "optionC": "Brasilia",
-    "optionD": "Buenos Aires",
-    "answer": "Brasilia",
-    "category": "geography"
-  },
-  {
     "question": "What is the capital of Russia?",
     "optionA": "St. Petersburg",
     "optionB": "Moscow",
     "optionC": "Kiev",
     "optionD": "Berlin",
     "answer": "Moscow",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Australia?",
-    "optionA": "Sydney",
-    "optionB": "Melbourne",
-    "optionC": "Canberra",
-    "optionD": "Perth",
-    "answer": "Canberra",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Canada?",
-    "optionA": "Toronto",
-    "optionB": "Vancouver",
-    "optionC": "Ottawa",
-    "optionD": "Montreal",
-    "answer": "Ottawa",
     "category": "geography"
   },
   {
@@ -1223,15 +1185,6 @@
     "optionC": "Frankfurt",
     "optionD": "Hamburg",
     "answer": "Berlin",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of China?",
-    "optionA": "Shanghai",
-    "optionB": "Beijing",
-    "optionC": "Guangzhou",
-    "optionD": "Hong Kong",
-    "answer": "Beijing",
     "category": "geography"
   },
   {
@@ -3971,15 +3924,6 @@
     "category": "geography"
   },
   {
-    "question": "What is the capital city of Ethiopia?",
-    "optionA": "Nairobi",
-    "optionB": "Addis Ababa",
-    "optionC": "Kigali",
-    "optionD": "Luanda",
-    "answer": "Addis Ababa",
-    "category": "geography"
-  },
-  {
     "question": "What is the capital city of Morocco?",
     "optionA": "Casablanca",
     "optionB": "Algiers",
@@ -4598,15 +4542,6 @@
     "optionC": "Canberra",
     "optionD": "Brisbane",
     "answer": "Canberra",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital city of New Zealand?",
-    "optionA": "Wellington",
-    "optionB": "Auckland",
-    "optionC": "Christchurch",
-    "optionD": "Sydney",
-    "answer": "Wellington",
     "category": "geography"
   },
   {
@@ -6545,96 +6480,6 @@
     "category": "geography"
   },
   {
-    "question": "Which river is known as the 'Mother of Rivers' and flows through the Indian subcontinent?",
-    "optionA": "Ganges River",
-    "optionB": "Danube River",
-    "optionC": "Mekong River",
-    "optionD": "Volga River",
-    "answer": "Ganges River",
-    "category": "geography"
-  },
-  {
-    "question": "Which river passes through Paris, the capital city of France?",
-    "optionA": "Thames River",
-    "optionB": "Seine River",
-    "optionC": "Rhine River",
-    "optionD": "Tiber River",
-    "answer": "Seine River",
-    "category": "geography"
-  },
-  {
-    "question": "Which river runs through London, the capital city of the United Kingdom?",
-    "optionA": "Danube River",
-    "optionB": "Rhine River",
-    "optionC": "Thames River",
-    "optionD": "Tagus River",
-    "answer": "Thames River",
-    "category": "geography"
-  },
-  {
-    "question": "Which river flows through Rome, the capital city of Italy?",
-    "optionA": "Tiber River",
-    "optionB": "Seine River",
-    "optionC": "Volga River",
-    "optionD": "Danube River",
-    "answer": "Tiber River",
-    "category": "geography"
-  },
-  {
-    "question": "Which river passes through Budapest, the capital city of Hungary?",
-    "optionA": "Danube River",
-    "optionB": "Rhone River",
-    "optionC": "Elbe River",
-    "optionD": "Loire River",
-    "answer": "Danube River",
-    "category": "geography"
-  },
-  {
-    "question": "Which river flows through Vienna, the capital city of Austria?",
-    "optionA": "Seine River",
-    "optionB": "Elbe River",
-    "optionC": "Rhine River",
-    "optionD": "Danube River",
-    "answer": "Danube River",
-    "category": "geography"
-  },
-  {
-    "question": "Which river passes through Berlin, the capital city of Germany?",
-    "optionA": "Rhine River",
-    "optionB": "Elbe River",
-    "optionC": "Seine River",
-    "optionD": "Spree River",
-    "answer": "Spree River",
-    "category": "geography"
-  },
-  {
-    "question": "Which river flows through St. Petersburg, a major city in Russia?",
-    "optionA": "Volga River",
-    "optionB": "Neva River",
-    "optionC": "Dnieper River",
-    "optionD": "Ob River",
-    "answer": "Neva River",
-    "category": "geography"
-  },
-  {
-    "question": "Which river passes through New York City, one of the largest cities in the United States?",
-    "optionA": "Hudson River",
-    "optionB": "Mississippi River",
-    "optionC": "Colorado River",
-    "optionD": "Columbia River",
-    "answer": "Hudson River",
-    "category": "geography"
-  },
-  {
-    "question": "Which river flows through Shanghai, the largest city in China?",
-    "optionA": "Yangtze River",
-    "optionB": "Mekong River",
-    "optionC": "Yellow River",
-    "optionD": "Pearl River",
-    "answer": "Yangtze River",
-    "category": "geography"
-  },
-  {
     "question": "Which river passes through Cairo, the capital city of Egypt?",
     "optionA": "Amazon River",
     "optionB": "Nile River",
@@ -7211,69 +7056,6 @@
     "category": "geography"
   },
   {
-    "question": "Which state is famous for its Mardi Gras celebrations in cities like New Orleans?",
-    "optionA": "Louisiana",
-    "optionB": "Mississippi",
-    "optionC": "Alabama",
-    "optionD": "Georgia",
-    "answer": "Louisiana",
-    "category": "geography"
-  },
-  {
-    "question": "Which state is known as the 'Show-Me State'?",
-    "optionA": "Kansas",
-    "optionB": "Oklahoma",
-    "optionC": "Missouri",
-    "optionD": "Arkansas",
-    "answer": "Missouri",
-    "category": "geography"
-  },
-  {
-    "question": "Which state is famous for its beaches, amusement parks, and oranges?",
-    "optionA": "Florida",
-    "optionB": "California",
-    "optionC": "Texas",
-    "optionD": "Georgia",
-    "answer": "Florida",
-    "category": "geography"
-  },
-  {
-    "question": "Which state is known as the 'Peach State'?",
-    "optionA": "South Carolina",
-    "optionB": "Florida",
-    "optionC": "Georgia",
-    "optionD": "Alabama",
-    "answer": "Georgia",
-    "category": "geography"
-  },
-  {
-    "question": "Which state is home to the Great Salt Lake and is often called the 'Beehive State'?",
-    "optionA": "Nevada",
-    "optionB": "Utah",
-    "optionC": "Idaho",
-    "optionD": "Wyoming",
-    "answer": "Utah",
-    "category": "geography"
-  },
-  {
-    "question": "Which state is known as the 'Palmetto State'?",
-    "optionA": "South Carolina",
-    "optionB": "North Carolina",
-    "optionC": "Georgia",
-    "optionD": "Florida",
-    "answer": "South Carolina",
-    "category": "geography"
-  },
-  {
-    "question": "Which state is famous for its corn production and is often called the 'Cornhusker State'?",
-    "optionA": "Nebraska",
-    "optionB": "Iowa",
-    "optionC": "Kansas",
-    "optionD": "Missouri",
-    "answer": "Nebraska",
-    "category": "geography"
-  },
-  {
     "question": "Which state is known as the 'Tar Heel State'?",
     "optionA": "South Carolina",
     "optionB": "North Carolina",
@@ -7760,30 +7542,12 @@
     "category": "geography"
   },
   {
-    "question": "Which country does the internet domain .ca belong to?",
-    "optionA": "Canada",
-    "optionB": "China",
-    "optionC": "Czech Republic",
-    "optionD": "Colombia",
-    "answer": "Canada",
-    "category": "geography"
-  },
-  {
     "question": "The internet domain .br is associated with which country?",
     "optionA": "Brazil",
     "optionB": "Belgium",
     "optionC": "Bahrain",
     "optionD": "Bulgaria",
     "answer": "Brazil",
-    "category": "geography"
-  },
-  {
-    "question": "Which country does the internet domain .it belong to?",
-    "optionA": "Iceland",
-    "optionB": "Indonesia",
-    "optionC": "Ireland",
-    "optionD": "Italy",
-    "answer": "Italy",
     "category": "geography"
   },
   {
@@ -7796,39 +7560,12 @@
     "category": "geography"
   },
   {
-    "question": "Which country does the internet domain .es belong to?",
-    "optionA": "Estonia",
-    "optionB": "Egypt",
-    "optionC": "Ecuador",
-    "optionD": "Spain",
-    "answer": "Spain",
-    "category": "geography"
-  },
-  {
-    "question": "The internet domain .jp is associated with which country?",
-    "optionA": "Japan",
-    "optionB": "Jordan",
-    "optionC": "Jamaica",
-    "optionD": "Jersey",
-    "answer": "Japan",
-    "category": "geography"
-  },
-  {
     "question": "Which country does the internet domain .nz belong to?",
     "optionA": "Nigeria",
     "optionB": "Netherlands",
     "optionC": "New Zealand",
     "optionD": "Norway",
     "answer": "New Zealand",
-    "category": "geography"
-  },
-  {
-    "question": "The internet domain .kr is associated with which country?",
-    "optionA": "Kuwait",
-    "optionB": "Kyrgyzstan",
-    "optionC": "South Korea",
-    "optionD": "Kazakhstan",
-    "answer": "South Korea",
     "category": "geography"
   },
   {
@@ -7856,15 +7593,6 @@
     "optionC": "Zimbabwe",
     "optionD": "South Africa",
     "answer": "South Africa",
-    "category": "geography"
-  },
-  {
-    "question": "The internet domain .gb is associated with which country?",
-    "optionA": "Greece",
-    "optionB": "Greenland",
-    "optionC": "Grenada",
-    "optionD": "United Kingdom",
-    "answer": "United Kingdom",
     "category": "geography"
   },
   {
@@ -7901,24 +7629,6 @@
     "optionC": "France",
     "optionD": "Faroe Islands",
     "answer": "Finland",
-    "category": "geography"
-  },
-  {
-    "question": "Which country does the internet domain .uk belong to?",
-    "optionA": "Ukraine",
-    "optionB": "United States",
-    "optionC": "United Arab Emirates",
-    "optionD": "United Kingdom",
-    "answer": "United Kingdom",
-    "category": "geography"
-  },
-  {
-    "question": "The internet domain .mx is associated with which country?",
-    "optionA": "Malta",
-    "optionB": "Maldives",
-    "optionC": "Mexico",
-    "optionD": "Mongolia",
-    "answer": "Mexico",
     "category": "geography"
   },
   {
@@ -9967,7 +9677,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie can you hear the song 'Moon River'?",
     "optionA": "The Wizard of Oz",
@@ -9978,7 +9687,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'My Heart Will Go On'?",
     "optionA": "The Wizard of Oz",
@@ -9989,7 +9697,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie is 'The Sound of Music' song featured?",
     "optionA": "The Wizard of Oz",
@@ -10000,7 +9707,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'I Will Always Love You'?",
     "optionA": "The Wizard of Oz",
@@ -10011,7 +9717,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie is the song 'Singin' in the Rain' featured?",
     "optionA": "The Wizard of Oz",
@@ -10022,7 +9727,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'Staying Alive'?",
     "optionA": "The Wizard of Oz",
@@ -10033,7 +9737,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie is the song 'Don't You (Forget About Me)' featured?",
     "optionA": "The Breakfast Club",
@@ -10044,7 +9747,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'I Want to Hold Your Hand'?",
     "optionA": "A Hard Day's Night",
@@ -10055,7 +9757,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie is the song 'Eye of the Tiger' featured?",
     "optionA": "Rocky III",
@@ -10066,7 +9767,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'Jai Ho'?",
     "optionA": "Slumdog Millionaire",
@@ -10077,7 +9777,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie is the song 'Time of My Life' featured?",
     "optionA": "Dirty Dancing",
@@ -10088,7 +9787,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'Let It Go'?",
     "optionA": "Frozen",
@@ -10099,7 +9797,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie is the song 'Somewhere Over the Rainbow' featured?",
     "optionA": "The Wizard of Oz",
@@ -10110,7 +9807,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'Mrs. Robinson'?",
     "optionA": "The Graduate",
@@ -10121,7 +9817,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie can you hear the song 'When You Wish Upon a Star'?",
     "optionA": "Pinocchio",
@@ -10132,7 +9827,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'I Got You Babe'?",
     "optionA": "Groundhog Day",
@@ -10143,7 +9837,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie is the song 'Ghostbusters' featured?",
     "optionA": "Ghostbusters",
@@ -10154,7 +9847,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'My Girl'?",
     "optionA": "My Girl",
@@ -10165,7 +9857,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie can you hear the song 'Can't Stop the Feeling!'?",
     "optionA": "Trolls",
@@ -10176,7 +9867,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'Bohemian Rhapsody'?",
     "optionA": "Wayne's World",
@@ -10187,7 +9877,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie is the song 'Circle of Life' featured?",
     "optionA": "The Lion King",
@@ -10198,7 +9887,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'When I Fall in Love'?",
     "optionA": "Sleepless in Seattle",
@@ -10209,7 +9897,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie can you hear the song 'Unchained Melody'?",
     "optionA": "Ghost",
@@ -10220,7 +9907,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'I Will Survive'?",
     "optionA": "The Replacements",
@@ -10231,7 +9917,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie is the song 'I Don't Want to Miss a Thing' featured?",
     "optionA": "Armageddon",
@@ -10242,7 +9927,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'My Way'?",
     "optionA": "Goodfellas",
@@ -10253,7 +9937,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie can you hear the song 'Footloose'?",
     "optionA": "Footloose",
@@ -10264,7 +9947,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'A Whole New World'?",
     "optionA": "Aladdin",
@@ -10275,7 +9957,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie is the song 'I'm a Believer' featured?",
     "optionA": "Shrek",
@@ -10286,7 +9967,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'When You Believe'?",
     "optionA": "The Prince of Egypt",
@@ -10297,7 +9977,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie can you hear the song 'You've Got a Friend in Me'?",
     "optionA": "Toy Story",
@@ -10308,7 +9987,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'Let's Get It On'?",
     "optionA": "Austin Powers: International Man of Mystery",
@@ -10319,7 +9997,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "In which movie can you hear the song 'The Power of Love'?",
     "optionA": "Back to the Future",
@@ -10330,7 +10007,6 @@
     "category": "movies",
     "subcategory": "movie songs"
   },
-
   {
     "question": "Which film features the song 'Purple Rain'?",
     "optionA": "Purple Rain",
@@ -10750,5 +10426,1005 @@
     "answer": "Pulp Fiction",
     "category": "movies",
     "subcategory": "movie-characters"
+  },
+  {
+    "question": "What are the Northern Lights otherwise known as?",
+    "optionA": "Aurora Borealis",
+    "optionB": "Solar Flares",
+    "optionC": "Meteor Showers",
+    "optionD": "Stellar Nebulae",
+    "answer": "Aurora Borealis",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What are the world's four oceans - alphabetically?",
+    "optionA": "Arctic, Atlantic, Indian, Pacific",
+    "optionB": "Pacific, Indian, Atlantic, Arctic",
+    "optionC": "Atlantic, Pacific, Indian, Arctic",
+    "optionD": "Indian, Atlantic, Arctic, Pacific",
+    "answer": "Arctic, Atlantic, Indian, Pacific",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What Asian city was once called Edo?",
+    "optionA": "Kyoto",
+    "optionB": "Beijing",
+    "optionC": "Seoul",
+    "optionD": "Tokyo",
+    "answer": "Tokyo",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What Asian country has the highest population density?",
+    "optionA": "India",
+    "optionB": "China",
+    "optionC": "Bangladesh",
+    "optionD": "Singapore",
+    "answer": "Singapore",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What body of water borders Saudi Arabia to the east?",
+    "optionA": "Caspian Sea",
+    "optionB": "Black Sea",
+    "optionC": "Red Sea",
+    "optionD": "Persian Gulf",
+    "answer": "Persian Gulf",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What building built in 1897 contains 327 miles of bookshelves?",
+    "optionA": "The Vatican Library",
+    "optionB": "The British Library",
+    "optionC": "The Library of Congress",
+    "optionD": "The Bodleian Library",
+    "answer": "The Library of Congress",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What Canadian city is at the west end of Lake Ontario?",
+    "optionA": "Toronto",
+    "optionB": "Montreal",
+    "optionC": "Vancouver",
+    "optionD": "Hamilton",
+    "answer": "Hamilton",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What canal connects Lake Ontario and Lake Erie?",
+    "optionA": "Erie Canal",
+    "optionB": "Welland Canal",
+    "optionC": "Panama Canal",
+    "optionD": "Suez Canal",
+    "answer": "Welland Canal",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What capital city does the Liffey River flow through?",
+    "optionA": "Belfast",
+    "optionB": "Dublin",
+    "optionC": "Edinburgh",
+    "optionD": "Cardiff",
+    "answer": "Dublin",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What Central American country extends furthest north?",
+    "optionA": "Costa Rica",
+    "optionB": "Panama",
+    "optionC": "Guatemala",
+    "optionD": "Belize",
+    "answer": "Belize",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What Central American country's name means 'many fish'?",
+    "optionA": "Honduras",
+    "optionB": "Nicaragua",
+    "optionC": "Costa Rica",
+    "optionD": "Panama",
+    "answer": "Panama",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What city boasts the Copacabana Beach and Ipanema?",
+    "optionA": "Buenos Aires",
+    "optionB": "Lima",
+    "optionC": "Sao Paulo",
+    "optionD": "Rio de Janeiro",
+    "answer": "Rio de Janeiro",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What city did the Mormons establish as their headquarters in 1847?",
+    "optionA": "Las Vegas",
+    "optionB": "Salt Lake City",
+    "optionC": "Denver",
+    "optionD": "Phoenix",
+    "answer": "Salt Lake City",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What city has a newspaper called the Plain Dealer?",
+    "optionA": "Chicago",
+    "optionB": "Detroit",
+    "optionC": "Cleveland",
+    "optionD": "St. Louis",
+    "answer": "Cleveland",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What city has the world's largest black population?",
+    "optionA": "Los Angeles",
+    "optionB": "Chicago",
+    "optionC": "New York City",
+    "optionD": "Atlanta",
+    "answer": "New York City",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What city is associated with Alcatraz?",
+    "optionA": "Los Angeles",
+    "optionB": "San Francisco",
+    "optionC": "Seattle",
+    "optionD": "Miami",
+    "answer": "San Francisco",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What city is on Lake Erie at the mouth of the Cuyahoga River?",
+    "optionA": "Erie",
+    "optionB": "Cleveland",
+    "optionC": "Buffalo",
+    "optionD": "Toledo",
+    "answer": "Cleveland",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What city is served by Tempelhof Airport?",
+    "optionA": "Berlin",
+    "optionB": "Hamburg",
+    "optionC": "Munich",
+    "optionD": "Frankfurt",
+    "answer": "Berlin",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What city is the Christian Science Monitor based in?",
+    "optionA": "New York City",
+    "optionB": "Washington, D.C.",
+    "optionC": "Los Angeles",
+    "optionD": "Boston",
+    "answer": "Boston",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What city is the Kremlin located in?",
+    "optionA": "St. Petersburg",
+    "optionB": "Kiev",
+    "optionC": "Minsk",
+    "optionD": "Moscow",
+    "answer": "Moscow",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What city was Fillmore West in?",
+    "optionA": "New York City",
+    "optionB": "Chicago",
+    "optionC": "Los Angeles",
+    "optionD": "San Francisco",
+    "answer": "San Francisco",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What city was the setting for 'Gone With the Wind'?",
+    "optionA": "New Orleans",
+    "optionB": "Charleston",
+    "optionC": "Atlanta",
+    "optionD": "Savannah",
+    "answer": "Atlanta",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What color are French letter boxes?",
+    "optionA": "Red",
+    "optionB": "Blue",
+    "optionC": "Yellow",
+    "optionD": "Green",
+    "answer": "Yellow",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What color does the bride wear in China?",
+    "optionA": "White",
+    "optionB": "Blue",
+    "optionC": "Pink",
+    "optionD": "Red",
+    "answer": "Red",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What color is the leftmost stripe on the French flag?",
+    "optionA": "Red",
+    "optionB": "White",
+    "optionC": "Blue",
+    "optionD": "Green",
+    "answer": "Blue",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What continent contains Queen Maud Land, Wilkes Land, and Bird Land?",
+    "optionA": "Africa",
+    "optionB": "Antarctica",
+    "optionC": "Australia",
+    "optionD": "South America",
+    "answer": "Antarctica",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What continent is Cyprus considered to be part of?",
+    "optionA": "Europe",
+    "optionB": "Asia",
+    "optionC": "Africa",
+    "optionD": "Australia",
+    "answer": "Asia",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What continent is part of both the East and West hemispheres?",
+    "optionA": "Australia",
+    "optionB": "North America",
+    "optionC": "Asia",
+    "optionD": "Antarctica",
+    "answer": "Antarctica",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What continent is Sierra Leone in?",
+    "optionA": "South America",
+    "optionB": "Europe",
+    "optionC": "Africa",
+    "optionD": "Asia",
+    "answer": "Africa",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What continent is the home to the greatest number of countries?",
+    "optionA": "North America",
+    "optionB": "Asia",
+    "optionC": "Australia",
+    "optionD": "Africa",
+    "answer": "Africa",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What continent's westernmost point is called Cape Verde?",
+    "optionA": "South America",
+    "optionB": "Australia",
+    "optionC": "Africa",
+    "optionD": "Antarctica",
+    "answer": "Africa",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country's flag has only one color (Green)?",
+    "optionA": "Saudi Arabia",
+    "optionB": "Kuwait",
+    "optionC": "Libya",
+    "optionD": "Yemen",
+    "answer": "Libya",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country are the Islands of Quemoy and Matsu part of?",
+    "optionA": "China",
+    "optionB": "Taiwan",
+    "optionC": "Japan",
+    "optionD": "South Korea",
+    "answer": "Taiwan",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country boasts the southernmost point in continental Europe?",
+    "optionA": "Italy",
+    "optionB": "Greece",
+    "optionC": "Spain",
+    "optionD": "Portugal",
+    "answer": "Spain",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country borders Egypt on the west?",
+    "optionA": "Sudan",
+    "optionB": "Libya",
+    "optionC": "Israel",
+    "optionD": "Jordan",
+    "answer": "Libya",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country borders Egypt to the South?",
+    "optionA": "Sudan",
+    "optionB": "Libya",
+    "optionC": "Israel",
+    "optionD": "Jordan",
+    "answer": "Sudan",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country borders Libya on the East?",
+    "optionA": "Egypt",
+    "optionB": "Sudan",
+    "optionC": "Algeria",
+    "optionD": "Chad",
+    "answer": "Egypt",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country borders Sudan to the North?",
+    "optionA": "Egypt",
+    "optionB": "Libya",
+    "optionC": "Ethiopia",
+    "optionD": "Chad",
+    "answer": "Egypt",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country consists mainly of the Jutland Peninsula?",
+    "optionA": "Sweden",
+    "optionB": "Norway",
+    "optionC": "Denmark",
+    "optionD": "Finland",
+    "answer": "Denmark",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country covers more than 194,000 square miles of the Iberian Peninsula?",
+    "optionA": "Portugal",
+    "optionB": "Spain",
+    "optionC": "Italy",
+    "optionD": "Greece",
+    "answer": "Spain",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country does the island of Mykonos belong to?",
+    "optionA": "Italy",
+    "optionB": "Greece",
+    "optionC": "Cyprus",
+    "optionD": "Spain",
+    "answer": "Greece",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country formed the union of Tanganyika and Zanzibar?",
+    "optionA": "Kenya",
+    "optionB": "Tanzania",
+    "optionC": "Uganda",
+    "optionD": "Rwanda",
+    "answer": "Tanzania",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country has a birth rate of 0?",
+    "optionA": "Italy",
+    "optionB": "Germany",
+    "optionC": "The Vatican City",
+    "optionD": "Austria",
+    "answer": "The Vatican City",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country has the biggest population?",
+    "optionA": "Russia",
+    "optionB": "India",
+    "optionC": "China",
+    "optionD": "United States",
+    "answer": "China",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country has the highest per capita tea consumption?",
+    "optionA": "Japan",
+    "optionB": "United Kingdom",
+    "optionC": "Ireland",
+    "optionD": "China",
+    "answer": "Ireland",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country has the oldest constitution that still exists?",
+    "optionA": "United Kingdom",
+    "optionB": "Greece",
+    "optionC": "America",
+    "optionD": "France",
+    "answer": "America",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country has the world's most southerly city?",
+    "optionA": "New Zealand",
+    "optionB": "Argentina",
+    "optionC": "Australia",
+    "optionD": "Chile",
+    "answer": "Chile",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country is directly north of the continental United States?",
+    "optionA": "Canada",
+    "optionB": "Mexico",
+    "optionC": "Russia",
+    "optionD": "Cuba",
+    "answer": "Canada",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country is directly west of Spain?",
+    "optionA": "Portugal",
+    "optionB": "Andorra",
+    "optionC": "France",
+    "optionD": "Gibraltar",
+    "answer": "Portugal",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country is known as the Hellenic Republic?",
+    "optionA": "Cyprus",
+    "optionB": "Greece",
+    "optionC": "Italy",
+    "optionD": "Turkey",
+    "answer": "Greece",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country was once known as 'The Breadbasket of Russia'?",
+    "optionA": "Ukraine",
+    "optionB": "Poland",
+    "optionC": "Belarus",
+    "optionD": "Lithuania",
+    "answer": "Ukraine",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country was once known as Gaul?",
+    "optionA": "Germany",
+    "optionB": "Spain",
+    "optionC": "Italy",
+    "optionD": "France",
+    "answer": "France",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country is located between Panama and Nicaragua?",
+    "optionA": "Costa Rica",
+    "optionB": "Honduras",
+    "optionC": "El Salvador",
+    "optionD": "Guatemala",
+    "answer": "Costa Rica",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country produces the original Edam cheese?",
+    "optionA": "Netherlands",
+    "optionB": "Switzerland",
+    "optionC": "France",
+    "optionD": "Italy",
+    "answer": "Netherlands",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country is directly north of Israel?",
+    "optionA": "Lebanon",
+    "optionB": "Syria",
+    "optionC": "Jordan",
+    "optionD": "Egypt",
+    "answer": "Lebanon",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What country's capital is Caracas?",
+    "optionA": "Peru",
+    "optionB": "Venezuela",
+    "optionC": "Colombia",
+    "optionD": "Ecuador",
+    "answer": "Venezuela",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What does the River Seine empty into?",
+    "optionA": "The Mediterranean Sea",
+    "optionB": "The North Sea",
+    "optionC": "The Atlantic Ocean",
+    "optionD": "The English Channel",
+    "answer": "The English Channel",
+    "category": "geography",
+    "subcategory": "general-geography"
+  },
+  {
+    "question": "What is the capital city of Ethiopia?",
+    "optionA": "Addis Ababa",
+    "optionB": "Nairobi",
+    "optionC": "Cairo",
+    "optionD": "Accra",
+    "answer": "Addis Ababa",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital city of New Zealand?",
+    "optionA": "Sydney",
+    "optionB": "Melbourne",
+    "optionC": "Wellington",
+    "optionD": "Auckland",
+    "answer": "Wellington",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Afghanistan?",
+    "optionA": "Kabul",
+    "optionB": "Tehran",
+    "optionC": "Islamabad",
+    "optionD": "Baghdad",
+    "answer": "Kabul",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Alaska?",
+    "optionA": "Anchorage",
+    "optionB": "Fairbanks",
+    "optionC": "Juneau",
+    "optionD": "Sitka",
+    "answer": "Juneau",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Albania?",
+    "optionA": "Tirana",
+    "optionB": "Skopje",
+    "optionC": "Pristina",
+    "optionD": "Podgorica",
+    "answer": "Tirana",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Algeria?",
+    "optionA": "Algiers",
+    "optionB": "Tunis",
+    "optionC": "Rabat",
+    "optionD": "Tripoli",
+    "answer": "Algiers",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Andorra?",
+    "optionA": "Andorra la Vella",
+    "optionB": "La Massana",
+    "optionC": "Encamp",
+    "optionD": "Sant Julia de Loria",
+    "answer": "Andorra la Vella",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Angola?",
+    "optionA": "Luanda",
+    "optionB": "Huambo",
+    "optionC": "Lubango",
+    "optionD": "Benguela",
+    "answer": "Luanda",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Antigua and Barbuda?",
+    "optionA": "St. John's",
+    "optionB": "Liberta",
+    "optionC": "All Saints",
+    "optionD": "Potters Village",
+    "answer": "St. John's",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Armenia?",
+    "optionA": "Yerevan",
+    "optionB": "Gyumri",
+    "optionC": "Vanadzor",
+    "optionD": "Echmiadzin",
+    "answer": "Yerevan",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "optionA": "Canberra",
+    "optionB": "Sydney",
+    "optionC": "Melbourne",
+    "optionD": "Brisbane",
+    "answer": "Canberra",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Austria?",
+    "optionA": "Vienna",
+    "optionB": "Graz",
+    "optionC": "Linz",
+    "optionD": "Salzburg",
+    "answer": "Vienna",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Azerbaijan?",
+    "optionA": "Baku",
+    "optionB": "Ganja",
+    "optionC": "Sumgait",
+    "optionD": "Mingachevir",
+    "answer": "Baku",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Bahrain?",
+    "optionA": "Manama",
+    "optionB": "Muharraq",
+    "optionC": "Riffa",
+    "optionD": "Isa Town",
+    "answer": "Manama",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Bangladesh?",
+    "optionA": "Dhaka",
+    "optionB": "Chittagong",
+    "optionC": "Khulna",
+    "optionD": "Rajshahi",
+    "answer": "Dhaka",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Barbados?",
+    "optionA": "Bridgetown",
+    "optionB": "Holetown",
+    "optionC": "Speightstown",
+    "optionD": "Oistins",
+    "answer": "Bridgetown",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Belarus?",
+    "optionA": "Minsk",
+    "optionB": "Gomel",
+    "optionC": "Mogilev",
+    "optionD": "Brest",
+    "answer": "Minsk",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Belgium?",
+    "optionA": "Brussels",
+    "optionB": "Antwerp",
+    "optionC": "Ghent",
+    "optionD": "Charleroi",
+    "answer": "Brussels",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Belize?",
+    "optionA": "Belmopan",
+    "optionB": "Belize City",
+    "optionC": "San Ignacio",
+    "optionD": "Orange Walk Town",
+    "answer": "Belmopan",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Bhutan?",
+    "optionA": "Thimphu",
+    "optionB": "Phuntsholing",
+    "optionC": "Punakha",
+    "optionD": "Paro",
+    "answer": "Thimphu",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Bolivia?",
+    "optionA": "La Paz",
+    "optionB": "Sucre",
+    "optionC": "Santa Cruz de la Sierra",
+    "optionD": "Cochabamba",
+    "answer": "La Paz",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Bosnia and Herzegovina?",
+    "optionA": "Sarajevo",
+    "optionB": "Banja Luka",
+    "optionC": "Tuzla",
+    "optionD": "Zenica",
+    "answer": "Sarajevo",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Botswana?",
+    "optionA": "Gaborone",
+    "optionB": "Francistown",
+    "optionC": "Molepolole",
+    "optionD": "Selebi-Phikwe",
+    "answer": "Gaborone",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "optionA": "Brasília",
+    "optionB": "Rio de Janeiro",
+    "optionC": "São Paulo",
+    "optionD": "Salvador",
+    "answer": "Brasília",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Brunei?",
+    "optionA": "Bandar Seri Begawan",
+    "optionB": "Kuala Belait",
+    "optionC": "Seria",
+    "optionD": "Tutong",
+    "answer": "Bandar Seri Begawan",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Bulgaria?",
+    "optionA": "Sofia",
+    "optionB": "Plovdiv",
+    "optionC": "Varna",
+    "optionD": "Burgas",
+    "answer": "Sofia",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Burkina Faso?",
+    "optionA": "Ouagadougou",
+    "optionB": "Bobo-Dioulasso",
+    "optionC": "Koudougou",
+    "optionD": "Banfora",
+    "answer": "Ouagadougou",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Burma?",
+    "optionA": "Rangoon",
+    "optionB": "Mandalay",
+    "optionC": "Naypyidaw",
+    "optionD": "Bago",
+    "answer": "Rangoon",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Burundi?",
+    "optionA": "Bujumbura",
+    "optionB": "Gitega",
+    "optionC": "Ruyigi",
+    "optionD": "Ngozi",
+    "answer": "Bujumbura",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Cambodia?",
+    "optionA": "Phnom Penh",
+    "optionB": "Siem Reap",
+    "optionC": "Battambang",
+    "optionD": "Sihanoukville",
+    "answer": "Phnom Penh",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "optionA": "Toronto",
+    "optionB": "Montreal",
+    "optionC": "Vancouver",
+    "optionD": "Ottawa",
+    "answer": "Ottawa",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Cape Verde?",
+    "optionA": "Praia",
+    "optionB": "Mindelo",
+    "optionC": "Santa Maria",
+    "optionD": "Espargos",
+    "answer": "Praia",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Central African Republic?",
+    "optionA": "Bangui",
+    "optionB": "Bimbo",
+    "optionC": "Mbaiki",
+    "optionD": "Berbérati",
+    "answer": "Bangui",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Chad?",
+    "optionA": "N'Djamena",
+    "optionB": "Moundou",
+    "optionC": "Abéché",
+    "optionD": "Sarh",
+    "answer": "N'Djamena",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Chechnya?",
+    "optionA": "Grozny",
+    "optionB": "Shali",
+    "optionC": "Argun",
+    "optionD": "Urus-Martan",
+    "answer": "Grozny",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Chile?",
+    "optionA": "Santiago",
+    "optionB": "Valparaíso",
+    "optionC": "Concepción",
+    "optionD": "La Serena",
+    "answer": "Santiago",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of China?",
+    "optionA": "Shanghai",
+    "optionB": "Beijing",
+    "optionC": "Guangzhou",
+    "optionD": "Shenzhen",
+    "answer": "Beijing",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Colombia?",
+    "optionA": "Bogotá",
+    "optionB": "Medellín",
+    "optionC": "Cali",
+    "optionD": "Barranquilla",
+    "answer": "Bogotá",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Colorado?",
+    "optionA": "Denver",
+    "optionB": "Colorado Springs",
+    "optionC": "Aurora",
+    "optionD": "Boulder",
+    "answer": "Denver",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Comoros?",
+    "optionA": "Moroni",
+    "optionB": "Mutsamudu",
+    "optionC": "Fomboni",
+    "optionD": "Domoni",
+    "answer": "Moroni",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Congo?",
+    "optionA": "Brazzaville",
+    "optionB": "Pointe-Noire",
+    "optionC": "Dolisie",
+    "optionD": "Owando",
+    "answer": "Brazzaville",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Croatia?",
+    "optionA": "Zagreb",
+    "optionB": "Split",
+    "optionC": "Rijeka",
+    "optionD": "Osijek",
+    "answer": "Zagreb",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Cuba?",
+    "optionA": "Havana",
+    "optionB": "Santiago de Cuba",
+    "optionC": "Camagüey",
+    "optionD": "Holguín",
+    "answer": "Havana",
+    "category": "geography",
+    "subcategory": "capital-cities"
   }
 ]
