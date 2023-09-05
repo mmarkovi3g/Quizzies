@@ -1125,33 +1125,6 @@
     "category": "sports"
   },
   {
-    "question": "What is the capital of France?",
-    "optionA": "Madrid",
-    "optionB": "Berlin",
-    "optionC": "London",
-    "optionD": "Paris",
-    "answer": "Paris",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Japan?",
-    "optionA": "Tokyo",
-    "optionB": "Beijing",
-    "optionC": "Seoul",
-    "optionD": "Singapore",
-    "answer": "Tokyo",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Russia?",
-    "optionA": "St. Petersburg",
-    "optionB": "Moscow",
-    "optionC": "Kiev",
-    "optionD": "Berlin",
-    "answer": "Moscow",
-    "category": "geography"
-  },
-  {
     "question": "What is the capital of South Africa?",
     "optionA": "Cape Town",
     "optionB": "Pretoria",
@@ -1161,147 +1134,12 @@
     "category": "geography"
   },
   {
-    "question": "What is the capital of India?",
-    "optionA": "Mumbai",
-    "optionB": "Delhi",
-    "optionC": "Kolkata",
-    "optionD": "Bangalore",
-    "answer": "Delhi",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Egypt?",
-    "optionA": "Cairo",
-    "optionB": "Alexandria",
-    "optionC": "Giza",
-    "optionD": "Luxor",
-    "answer": "Cairo",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Germany?",
-    "optionA": "Berlin",
-    "optionB": "Munich",
-    "optionC": "Frankfurt",
-    "optionD": "Hamburg",
-    "answer": "Berlin",
-    "category": "geography"
-  },
-  {
     "question": "What is the capital of Argentina?",
     "optionA": "Buenos Aires",
     "optionB": "Santiago",
     "optionC": "Lima",
     "optionD": "Montevideo",
     "answer": "Buenos Aires",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Italy?",
-    "optionA": "Rome",
-    "optionB": "Milan",
-    "optionC": "Venice",
-    "optionD": "Naples",
-    "answer": "Rome",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Turkey?",
-    "optionA": "Istanbul",
-    "optionB": "Ankara",
-    "optionC": "Izmir",
-    "optionD": "Antalya",
-    "answer": "Ankara",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Mexico?",
-    "optionA": "Cancun",
-    "optionB": "Mexico City",
-    "optionC": "Guadalajara",
-    "optionD": "Monterrey",
-    "answer": "Mexico City",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Spain?",
-    "optionA": "Barcelona",
-    "optionB": "Madrid",
-    "optionC": "Valencia",
-    "optionD": "Seville",
-    "answer": "Madrid",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Nigeria?",
-    "optionA": "Lagos",
-    "optionB": "Abuja",
-    "optionC": "Kano",
-    "optionD": "Ibadan",
-    "answer": "Abuja",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Sweden?",
-    "optionA": "Stockholm",
-    "optionB": "Gothenburg",
-    "optionC": "Malmö",
-    "optionD": "Uppsala",
-    "answer": "Stockholm",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Saudi Arabia?",
-    "optionA": "Riyadh",
-    "optionB": "Mecca",
-    "optionC": "Jeddah",
-    "optionD": "Medina",
-    "answer": "Riyadh",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Thailand?",
-    "optionA": "Bangkok",
-    "optionB": "Phuket",
-    "optionC": "Chiang Mai",
-    "optionD": "Pattaya",
-    "answer": "Bangkok",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Kenya?",
-    "optionA": "Nairobi",
-    "optionB": "Mombasa",
-    "optionC": "Kisumu",
-    "optionD": "Nakuru",
-    "answer": "Nairobi",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Indonesia?",
-    "optionA": "Jakarta",
-    "optionB": "Bali",
-    "optionC": "Surabaya",
-    "optionD": "Bandung",
-    "answer": "Jakarta",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of Greece?",
-    "optionA": "Athens",
-    "optionB": "Thessaloniki",
-    "optionC": "Patras",
-    "optionD": "Heraklion",
-    "answer": "Athens",
-    "category": "geography"
-  },
-  {
-    "question": "What is the capital of South Korea?",
-    "optionA": "Seoul",
-    "optionB": "Busan",
-    "optionC": "Incheon",
-    "optionD": "Daegu",
-    "answer": "Seoul",
     "category": "geography"
   },
   {
@@ -8406,15 +8244,6 @@
     "category": "geography"
   },
   {
-    "question": "What is the capital of Senegal?",
-    "optionA": "Dakar",
-    "optionB": "Bamako",
-    "optionC": "Accra",
-    "optionD": "Kinshasa",
-    "answer": "Dakar",
-    "category": "geography"
-  },
-  {
     "question": "How many time zones does Russia have?",
     "optionA": "6",
     "optionB": "8",
@@ -11408,11 +11237,141 @@
     "subcategory": "capital-cities"
   },
   {
+    "question": "What Is An Isthmus?",
+    "optionA": "A Narrow Neck Of Land Connecting 2 Pieces Of Land",
+    "optionB": "A Wide Expanse Of Water Separating Two Continents",
+    "optionC": "A Mountain Range",
+    "optionD": "A Volcanic Island Chain",
+    "answer": "A Narrow Neck Of Land Connecting 2 Pieces Of Land",
+    "category": "geography",
+    "subcategory": "landforms"
+  },
+  {
+    "question": "What is built on the former home of the Earl of Shrewsbury?",
+    "optionA": "Buckingham Palace",
+    "optionB": "Alton Towers",
+    "optionC": "Windsor Castle",
+    "optionD": "Edinburgh Castle",
+    "answer": "Alton Towers",
+    "category": "geography",
+    "subcategory": "historic-places"
+  },
+  {
+    "question": "What Is Common To The Republic Of Ireland, Northern Ireland, Scotland, Wales, Monaco, Denmark & Portugal?",
+    "optionA": "They All Have A Coastline And A Land Border With Only 1 Other Country",
+    "optionB": "They All Share The Same Official Language",
+    "optionC": "They All Have A Common Currency",
+    "optionD": "They All Belong To The Same Political Union",
+    "answer": "They All Have A Coastline And A Land Border With Only 1 Other Country",
+    "category": "geography",
+    "subcategory": "shared-features"
+  },
+  {
+    "question": "What is known as the graveyard of the Atlantic?",
+    "optionA": "Bermuda Triangle",
+    "optionB": "Sable Island",
+    "optionC": "Devil's Triangle",
+    "optionD": "The Marianas Trench",
+    "answer": "Sable Island",
+    "category": "geography",
+    "subcategory": "notable-locations"
+  },
+  {
+    "question": "What is London's largest park?",
+    "optionA": "Central Park",
+    "optionB": "Golden Gate Park",
+    "optionC": "Hyde Park",
+    "optionD": "Prospect Park",
+    "answer": "Hyde Park",
+    "category": "geography",
+    "subcategory": "urban-parks"
+  },
+  {
+    "question": "What Is Officially The Largest Sea By Area?",
+    "optionA": "Mediterranean Sea",
+    "optionB": "Baltic Sea",
+    "optionC": "South China Sea",
+    "optionD": "Caribbean Sea",
+    "answer": "South China Sea",
+    "category": "geography",
+    "subcategory": "seas"
+  },
+  {
+    "question": "What Is Rhodesia Now Called?",
+    "optionA": "Namibia",
+    "optionB": "Zimbabwe",
+    "optionC": "Botswana",
+    "optionD": "Mozambique",
+    "answer": "Zimbabwe",
+    "category": "geography",
+    "subcategory": "country-names"
+  },
+  {
+    "question": "What Is Seismology?",
+    "optionA": "The Study Of Weather Patterns",
+    "optionB": "The Study Of Volcanoes",
+    "optionC": "The Study Of Earthquakes",
+    "optionD": "The Study Of Oceanography",
+    "answer": "The Study Of Earthquakes",
+    "category": "geography",
+    "subcategory": "scientific-fields"
+  },
+  {
+    "question": "What is South America's highest peak in the Andes, Argentina?",
+    "optionA": "Mount Kilimanjaro",
+    "optionB": "Mount Everest",
+    "optionC": "Mount Aconcagua",
+    "optionD": "Mount McKinley",
+    "answer": "Mount Aconcagua",
+    "category": "geography",
+    "subcategory": "mountains"
+  },
+  {
+    "question": "What Is The 2nd Official Language Spoken In Germany?",
+    "optionA": "French",
+    "optionB": "Spanish",
+    "optionC": "Italian",
+    "optionD": "Turkish",
+    "answer": "Turkish",
+    "category": "geography",
+    "subcategory": "languages"
+  },
+  {
+    "question": "What Is The 3rd Most Populous Country On Earth?",
+    "optionA": "China",
+    "optionB": "India",
+    "optionC": "Russia",
+    "optionD": "The USA",
+    "answer": "The USA",
+    "category": "geography",
+    "subcategory": "population"
+  },
+  {
+    "question": "What is the Administrative Centre of East Sussex?",
+    "optionA": "Brighton",
+    "optionB": "Hastings",
+    "optionC": "Eastbourne",
+    "optionD": "Lewes",
+    "answer": "Lewes",
+    "category": "geography",
+    "subcategory": "administrative-centers"
+  },
+  {
+    "question": "What Is The Airline Of Luxembourg?",
+    "optionA": "Lufthansa",
+    "optionB": "Air France",
+    "optionC": "Ryanair",
+    "optionD": "Luxair",
+    "answer": "Luxair",
+    "category": "geography",
+    "subcategory": "airlines"
+  },
+  {
     "question": "What is the capital of Croatia?",
-    "optionA": "Zagreb",
-    "optionB": "Split",
-    "optionC": "Rijeka",
-    "optionD": "Osijek",
+    "optionA": "Rijeka",
+    "optionB": "Zadar",
+    "optionC": "Osijek",
+    "optionD": "Zagreb",
     "answer": "Zagreb",
     "category": "geography",
     "subcategory": "capital-cities"
@@ -11420,10 +11379,1710 @@
   {
     "question": "What is the capital of Cuba?",
     "optionA": "Havana",
-    "optionB": "Santiago de Cuba",
-    "optionC": "Camagüey",
+    "optionB": "Trinidad",
+    "optionC": "Cienfuegos",
     "optionD": "Holguín",
     "answer": "Havana",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Cyprus?",
+    "optionA": "Limassol",
+    "optionB": "Paphos",
+    "optionC": "Famagusta",
+    "optionD": "Nicosia",
+    "answer": "Nicosia",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Czech Republic?",
+    "optionA": "Bratislava",
+    "optionB": "Brno",
+    "optionC": "Pilsen",
+    "optionD": "Prague",
+    "answer": "Prague",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Democratic Republic of the Congo?",
+    "optionA": "Brazzaville",
+    "optionB": "Lubumbashi",
+    "optionC": "Kisangani",
+    "optionD": "Kinshasa",
+    "answer": "Kinshasa",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Denmark?",
+    "optionA": "Copenhagen",
+    "optionB": "Aalborg",
+    "optionC": "Aarhus",
+    "optionD": "Odense",
+    "answer": "Copenhagen",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Djibouti?",
+    "optionA": "Djibouti",
+    "optionB": "Dikhil",
+    "optionC": "Tadjoura",
+    "optionD": "Obock",
+    "answer": "Djibouti",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Dominica?",
+    "optionA": "Roseau",
+    "optionB": "Portsmouth",
+    "optionC": "Marigot",
+    "optionD": "Mahaut",
+    "answer": "Roseau",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Dominican Republic?",
+    "optionA": "Santo Domingo",
+    "optionB": "Santiago",
+    "optionC": "La Romana",
+    "optionD": "Puerto Plata",
+    "answer": "Santo Domingo",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Ecuador?",
+    "optionA": "Guayaquil",
+    "optionB": "Cuenca",
+    "optionC": "Ambato",
+    "optionD": "Quito",
+    "answer": "Quito",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "optionA": "Giza",
+    "optionB": "Aswan",
+    "optionC": "Luxor",
+    "optionD": "Cairo",
+    "answer": "Cairo",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of El Salvador?",
+    "optionA": "San Salvador",
+    "optionB": "Santa Ana",
+    "optionC": "San Miguel",
+    "optionD": "La Libertad",
+    "answer": "San Salvador",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Equatorial Guinea?",
+    "optionA": "Luba",
+    "optionB": "Ebebiyin",
+    "optionC": "Malabo",
+    "optionD": "Bata",
+    "answer": "Malabo",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Eritrea?",
+    "optionA": "Asmara",
+    "optionB": "Keren",
+    "optionC": "Massawa",
+    "optionD": "Asmera",
+    "answer": "Asmara",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Estonia?",
+    "optionA": "Tallinn",
+    "optionB": "Tartu",
+    "optionC": "Viljandi",
+    "optionD": "Narva",
+    "answer": "Tallinn",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Ethiopia?",
+    "optionA": "Addis Ababa",
+    "optionB": "Addis ababa",
+    "optionC": "Dire Dawa",
+    "optionD": "Bahir Dar",
+    "answer": "Addis Ababa",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Fiji?",
+    "optionA": "Suva",
+    "optionB": "Lautoka",
+    "optionC": "Nadi",
+    "optionD": "Labasa",
+    "answer": "Suva",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Finland?",
+    "optionA": "Helsinki",
+    "optionB": "Tampere",
+    "optionC": "Turku",
+    "optionD": "Oulu",
+    "answer": "Helsinki",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Florida?",
+    "optionA": "Tallahassee",
+    "optionB": "Miami",
+    "optionC": "Orlando",
+    "optionD": "Jacksonville",
+    "answer": "Tallahassee",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of France?",
+    "optionA": "Paris",
+    "optionB": "Lyon",
+    "optionC": "Marseille",
+    "optionD": "Bordeaux",
+    "answer": "Paris",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Gabon?",
+    "optionA": "Libreville",
+    "optionB": "Franceville",
+    "optionC": "Port-Gentil",
+    "optionD": "Oyem",
+    "answer": "Libreville",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Gambia?",
+    "optionA": "Banjul",
+    "optionB": "Brikama",
+    "optionC": "Serekunda",
+    "optionD": "Farafenni",
+    "answer": "Banjul",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Georgia?",
+    "optionA": "Tbilisi",
+    "optionB": "Kutaisi",
+    "optionC": "Batumi",
+    "optionD": "Rustavi",
+    "answer": "Tbilisi",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "optionA": "Berlin",
+    "optionB": "Hamburg",
+    "optionC": "Munich",
+    "optionD": "Cologne",
+    "answer": "Berlin",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Ghana?",
+    "optionA": "Accra",
+    "optionB": "Kumasi",
+    "optionC": "Tamale",
+    "optionD": "Cape Coast",
+    "answer": "Accra",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "optionA": "Athens",
+    "optionB": "Thessaloniki",
+    "optionC": "Patras",
+    "optionD": "Heraklion",
+    "answer": "Athens",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Grenada?",
+    "optionA": "St. George's",
+    "optionB": "Gouyave",
+    "optionC": "Victoria",
+    "optionD": "St. David's",
+    "answer": "St. George's",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Guam?",
+    "optionA": "Hagåtña",
+    "optionB": "Agana",
+    "optionC": "Dededo",
+    "optionD": "Tamuning",
+    "answer": "Agana",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Guatemala?",
+    "optionA": "Guatemala City",
+    "optionB": "Antigua Guatemala",
+    "optionC": "Quetzaltenango",
+    "optionD": "Chichicastenango",
+    "answer": "Guatemala City",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Guinea?",
+    "optionA": "Conakry",
+    "optionB": "Kindia",
+    "optionC": "Nzérékoré",
+    "optionD": "Kankan",
+    "answer": "Conakry",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Guinea-Bissau?",
+    "optionA": "Bissau",
+    "optionB": "Bafatá",
+    "optionC": "Gabú",
+    "optionD": "Bissora",
+    "answer": "Bissau",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Guyana?",
+    "optionA": "Georgetown",
+    "optionB": "Linden",
+    "optionC": "Bartica",
+    "optionD": "New Amsterdam",
+    "answer": "Georgetown",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Haiti?",
+    "optionA": "Port-au-Prince",
+    "optionB": "Cap-Haïtien",
+    "optionC": "Jacmel",
+    "optionD": "Les Cayes",
+    "answer": "Port-au-Prince",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Hawaii?",
+    "optionA": "Honolulu",
+    "optionB": "Hilo",
+    "optionC": "Kailua",
+    "optionD": "Pearl City",
+    "answer": "Honolulu",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Honduras?",
+    "optionA": "Tegucigalpa",
+    "optionB": "San Pedro Sula",
+    "optionC": "La Ceiba",
+    "optionD": "Choloma",
+    "answer": "Tegucigalpa",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Hungary?",
+    "optionA": "Budapest",
+    "optionB": "Debrecen",
+    "optionC": "Szeged",
+    "optionD": "Miskolc",
+    "answer": "Budapest",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Idaho?",
+    "optionA": "Boise",
+    "optionB": "Meridian",
+    "optionC": "Nampa",
+    "optionD": "Idaho Falls",
+    "answer": "Boise",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Illinois?",
+    "optionA": "Springfield",
+    "optionB": "Chicago",
+    "optionC": "Aurora",
+    "optionD": "Rockford",
+    "answer": "Springfield",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of India?",
+    "optionA": "New Delhi",
+    "optionB": "Mumbai",
+    "optionC": "Kolkata",
+    "optionD": "Bangalore",
+    "answer": "New Delhi",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Indonesia?",
+    "optionA": "Jakarta",
+    "optionB": "Surabaya",
+    "optionC": "Bandung",
+    "optionD": "Medan",
+    "answer": "Jakarta",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Iowa?",
+    "optionA": "Des Moines",
+    "optionB": "Cedar Rapids",
+    "optionC": "Davenport",
+    "optionD": "Sioux City",
+    "answer": "Des Moines",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Iran?",
+    "optionA": "Tehran",
+    "optionB": "Isfahan",
+    "optionC": "Shiraz",
+    "optionD": "Mashhad",
+    "answer": "Tehran",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Iraq?",
+    "optionA": "Baghdad",
+    "optionB": "Basra",
+    "optionC": "Erbil",
+    "optionD": "Mosul",
+    "answer": "Baghdad",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Ireland?",
+    "optionA": "Dublin",
+    "optionB": "Belfast",
+    "optionC": "Cork",
+    "optionD": "Limerick",
+    "answer": "Dublin",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Israel?",
+    "optionA": "Jerusalem",
+    "optionB": "Tel Aviv",
+    "optionC": "Haifa",
+    "optionD": "Rishon LeZion",
+    "answer": "Jerusalem",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "optionA": "Rome",
+    "optionB": "Milan",
+    "optionC": "Naples",
+    "optionD": "Turin",
+    "answer": "Rome",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Jamaica?",
+    "optionA": "Kingston",
+    "optionB": "Montego Bay",
+    "optionC": "Spanish Town",
+    "optionD": "Portmore",
+    "answer": "Kingston",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "optionA": "Tokyo",
+    "optionB": "Kyoto",
+    "optionC": "Osaka",
+    "optionD": "Yokohama",
+    "answer": "Tokyo",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Jordan?",
+    "optionA": "Amman",
+    "optionB": "Irbid",
+    "optionC": "Zarqa",
+    "optionD": "Aqaba",
+    "answer": "Amman",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Kansas?",
+    "optionA": "Topeka",
+    "optionB": "Wichita",
+    "optionC": "Kansas City",
+    "optionD": "Overland Park",
+    "answer": "Topeka",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Kazakhstan?",
+    "optionA": "Nur-Sultan",
+    "optionB": "Almaty",
+    "optionC": "Karaganda",
+    "optionD": "Shymkent",
+    "answer": "Nur-Sultan",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Kenya?",
+    "optionA": "Nairobi",
+    "optionB": "Mombasa",
+    "optionC": "Kisumu",
+    "optionD": "Nakuru",
+    "answer": "Nairobi",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Kiribati?",
+    "optionA": "South Tarawa",
+    "optionB": "Betio",
+    "optionC": "Bairiki",
+    "optionD": "Bikenibeu",
+    "answer": "South Tarawa",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Kuwait?",
+    "optionA": "Kuwait City",
+    "optionB": "Hawalli",
+    "optionC": "Salmiya",
+    "optionD": "Al Jahra",
+    "answer": "Kuwait City",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Kyrgyzstan?",
+    "optionA": "Bishkek",
+    "optionB": "Osh",
+    "optionC": "Jalal-Abad",
+    "optionD": "Karakol",
+    "answer": "Bishkek",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Laos?",
+    "optionA": "Vientiane",
+    "optionB": "Luang Prabang",
+    "optionC": "Savannakhet",
+    "optionD": "Pakse",
+    "answer": "Vientiane",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Latvia?",
+    "optionA": "Riga",
+    "optionB": "Daugavpils",
+    "optionC": "Liepāja",
+    "optionD": "Jelgava",
+    "answer": "Riga",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Lebanon?",
+    "optionA": "Beirut",
+    "optionB": "Tripoli",
+    "optionC": "Sidon",
+    "optionD": "Tyre",
+    "answer": "Beirut",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Lesotho?",
+    "optionA": "Maseru",
+    "optionB": "Mafeteng",
+    "optionC": "Leribe",
+    "optionD": "Teyateyaneng",
+    "answer": "Maseru",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Liberia?",
+    "optionA": "Monrovia",
+    "optionB": "Gbarnga",
+    "optionC": "Buchanan",
+    "optionD": "Ganta",
+    "answer": "Monrovia",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Libya?",
+    "optionA": "Tripoli",
+    "optionB": "Benghazi",
+    "optionC": "Misrata",
+    "optionD": "Sirte",
+    "answer": "Tripoli",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Liechtenstein?",
+    "optionA": "Vaduz",
+    "optionB": "Schaan",
+    "optionC": "Triesen",
+    "optionD": "Balzers",
+    "answer": "Vaduz",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Lithuania?",
+    "optionA": "Vilnius",
+    "optionB": "Kaunas",
+    "optionC": "Klaipėda",
+    "optionD": "Šiauliai",
+    "answer": "Vilnius",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Luxembourg?",
+    "optionA": "Luxembourg",
+    "optionB": "Esch-sur-Alzette",
+    "optionC": "Differdange",
+    "optionD": "Dudelange",
+    "answer": "Luxembourg",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Macedonia?",
+    "optionA": "Skopje",
+    "optionB": "Bitola",
+    "optionC": "Kumanovo",
+    "optionD": "Prilep",
+    "answer": "Skopje",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Madagascar?",
+    "optionA": "Antananarivo",
+    "optionB": "Toamasina",
+    "optionC": "Antsirabe",
+    "optionD": "Fianarantsoa",
+    "answer": "Antananarivo",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Maine?",
+    "optionA": "Augusta",
+    "optionB": "Portland",
+    "optionC": "Lewiston",
+    "optionD": "Bangor",
+    "answer": "Augusta",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Malawi?",
+    "optionA": "Lilongwe",
+    "optionB": "Blantyre",
+    "optionC": "Mzuzu",
+    "optionD": "Zomba",
+    "answer": "Lilongwe",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Malaysia?",
+    "optionA": "Kuala Lumpur",
+    "optionB": "George Town",
+    "optionC": "Kuala Terengganu",
+    "optionD": "Kota Kinabalu",
+    "answer": "Kuala Lumpur",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Maldives?",
+    "optionA": "Male",
+    "optionB": "Hithadhoo",
+    "optionC": "Addu City",
+    "optionD": "Fuvahmulah",
+    "answer": "Male",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Mali?",
+    "optionA": "Bamako",
+    "optionB": "Sikasso",
+    "optionC": "Mopti",
+    "optionD": "Segou",
+    "answer": "Bamako",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Malta?",
+    "optionA": "Valletta",
+    "optionB": "Birkirkara",
+    "optionC": "Mosta",
+    "optionD": "Qormi",
+    "answer": "Valletta",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Marshall Islands?",
+    "optionA": "Majuro",
+    "optionB": "Kwajalein",
+    "optionC": "Arno",
+    "optionD": "Wotje",
+    "answer": "Majuro",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Mauritania?",
+    "optionA": "Nouakchott",
+    "optionB": "Nouadhibou",
+    "optionC": "Rosso",
+    "optionD": "Kiffa",
+    "answer": "Nouakchott",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Mauritius?",
+    "optionA": "Port Louis",
+    "optionB": "Beau Bassin-Rose Hill",
+    "optionC": "Vacoas-Phoenix",
+    "optionD": "Curepipe",
+    "answer": "Port Louis",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "optionA": "Mexico City",
+    "optionB": "Guadalajara",
+    "optionC": "Monterrey",
+    "optionD": "Puebla City",
+    "answer": "Mexico City",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Michigan?",
+    "optionA": "Lansing",
+    "optionB": "Detroit",
+    "optionC": "Grand Rapids",
+    "optionD": "Flint",
+    "answer": "Lansing",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Micronesia?",
+    "optionA": "Palikir",
+    "optionB": "Kolonia",
+    "optionC": "Weno",
+    "optionD": "Kapingamarangi",
+    "answer": "Palikir",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Missouri?",
+    "optionA": "Jefferson City",
+    "optionB": "Kansas City",
+    "optionC": "St. Louis",
+    "optionD": "Springfield",
+    "answer": "Jefferson City",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Moldova?",
+    "optionA": "Chisinau",
+    "optionB": "Tiraspol",
+    "optionC": "Balti",
+    "optionD": "Cahul",
+    "answer": "Chisinau",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Monaco?",
+    "optionA": "Monaco",
+    "optionB": "Monte Carlo",
+    "optionC": "La Condamine",
+    "optionD": "Fontvieille",
+    "answer": "Monaco",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Mongolia?",
+    "optionA": "Ulaanbaatar",
+    "optionB": "Erdenet",
+    "optionC": "Darkhan",
+    "optionD": "Choibalsan",
+    "answer": "Ulaanbaatar",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Montana?",
+    "optionA": "Helena",
+    "optionB": "Billings",
+    "optionC": "Missoula",
+    "optionD": "Great Falls",
+    "answer": "Helena",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Morocco?",
+    "optionA": "Rabat",
+    "optionB": "Casablanca",
+    "optionC": "Marrakech",
+    "optionD": "Fes",
+    "answer": "Rabat",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Mozambique?",
+    "optionA": "Maputo",
+    "optionB": "Beira",
+    "optionC": "Nampula",
+    "optionD": "Matola",
+    "answer": "Maputo",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Namibia?",
+    "optionA": "Windhoek",
+    "optionB": "Walvis Bay",
+    "optionC": "Swakopmund",
+    "optionD": "Rundu",
+    "answer": "Windhoek",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Nauru?",
+    "optionA": "Yaren",
+    "optionB": "Aiwo",
+    "optionC": "Boe",
+    "optionD": "Denigomodu",
+    "answer": "Yaren",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Nebraska?",
+    "optionA": "Lincoln",
+    "optionB": "Omaha",
+    "optionC": "Bellevue",
+    "optionD": "Grand Island",
+    "answer": "Lincoln",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Nepal?",
+    "optionA": "Kathmandu",
+    "optionB": "Pokhara",
+    "optionC": "Lalitpur",
+    "optionD": "Bhaktapur",
+    "answer": "Kathmandu",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of New York state?",
+    "optionA": "Albany",
+    "optionB": "New York City",
+    "optionC": "Buffalo",
+    "optionD": "Rochester",
+    "answer": "Albany",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of New Zealand?",
+    "optionA": "Wellington",
+    "optionB": "Auckland",
+    "optionC": "Christchurch",
+    "optionD": "Hamilton",
+    "answer": "Wellington",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Nicaragua?",
+    "optionA": "Managua",
+    "optionB": "León",
+    "optionC": "Masaya",
+    "optionD": "Matagalpa",
+    "answer": "Managua",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Niger?",
+    "optionA": "Niamey",
+    "optionB": "Zinder",
+    "optionC": "Maradi",
+    "optionD": "Tahoua",
+    "answer": "Niamey",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "optionA": "Abuja",
+    "optionB": "Lagos",
+    "optionC": "Kano",
+    "optionD": "Ibadan",
+    "answer": "Abuja",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of North Carolina?",
+    "optionA": "Raleigh",
+    "optionB": "Charlotte",
+    "optionC": "Greensboro",
+    "optionD": "Durham",
+    "answer": "Raleigh",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of North Dakota?",
+    "optionA": "Bismarck",
+    "optionB": "Fargo",
+    "optionC": "Grand Forks",
+    "optionD": "Minot",
+    "answer": "Bismarck",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of North Korea?",
+    "optionA": "Pyongyang",
+    "optionB": "Seoul",
+    "optionC": "Busan",
+    "optionD": "Incheon",
+    "answer": "Pyongyang",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Norway?",
+    "optionA": "Oslo",
+    "optionB": "Bergen",
+    "optionC": "Trondheim",
+    "optionD": "Stavanger",
+    "answer": "Oslo",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Ohio?",
+    "optionA": "Columbus",
+    "optionB": "Cleveland",
+    "optionC": "Cincinnati",
+    "optionD": "Toledo",
+    "answer": "Columbus",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Oman?",
+    "optionA": "Muscat",
+    "optionB": "Salalah",
+    "optionC": "Seeb",
+    "optionD": "Sohar",
+    "answer": "Muscat",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Pakistan?",
+    "optionA": "Islamabad",
+    "optionB": "Karachi",
+    "optionC": "Lahore",
+    "optionD": "Faisalabad",
+    "answer": "Islamabad",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Panama?",
+    "optionA": "Panama City",
+    "optionB": "Colon",
+    "optionC": "David",
+    "optionD": "Santiago",
+    "answer": "Panama City",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Papua New Guinea?",
+    "optionA": "Port Moresby",
+    "optionB": "Lae",
+    "optionC": "Mount Hagen",
+    "optionD": "Madang",
+    "answer": "Port Moresby",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Pennsylvania?",
+    "optionA": "Harrisburg",
+    "optionB": "Philadelphia",
+    "optionC": "Pittsburgh",
+    "optionD": "Allentown",
+    "answer": "Harrisburg",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Peru?",
+    "optionA": "Lima",
+    "optionB": "Arequipa",
+    "optionC": "Trujillo",
+    "optionD": "Chiclayo",
+    "answer": "Lima",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Philippines?",
+    "optionA": "Manila",
+    "optionB": "Quezon City",
+    "optionC": "Cebu City",
+    "optionD": "Davao City",
+    "answer": "Manila",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Poland?",
+    "optionA": "Warsaw",
+    "optionB": "Krakow",
+    "optionC": "Wroclaw",
+    "optionD": "Poznan",
+    "answer": "Warsaw",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Portugal?",
+    "optionA": "Lisbon",
+    "optionB": "Porto",
+    "optionC": "Vila Nova de Gaia",
+    "optionD": "Amadora",
+    "answer": "Lisbon",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Qatar?",
+    "optionA": "Doha",
+    "optionB": "Al Rayyan",
+    "optionC": "Umm Salal",
+    "optionD": "Al Wakrah",
+    "answer": "Doha",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Romania?",
+    "optionA": "Bucharest",
+    "optionB": "Cluj-Napoca",
+    "optionC": "Timisoara",
+    "optionD": "Iasi",
+    "answer": "Bucharest",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "optionA": "Moscow",
+    "optionB": "Saint Petersburg",
+    "optionC": "Novosibirsk",
+    "optionD": "Yekaterinburg",
+    "answer": "Moscow",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Rwanda?",
+    "optionA": "Kigali",
+    "optionB": "Butare",
+    "optionC": "Gitarama",
+    "optionD": "Ruhengeri",
+    "answer": "Kigali",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Saint Kitts and Nevis?",
+    "optionA": "Basseterre",
+    "optionB": "Charlestown",
+    "optionC": "Dieppe Bay Town",
+    "optionD": "Sandy Point Town",
+    "answer": "Basseterre",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Saint Lucia?",
+    "optionA": "Castries",
+    "optionB": "Vieux Fort",
+    "optionC": "Micoud",
+    "optionD": "Soufriere",
+    "answer": "Castries",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Saint Vincent?",
+    "optionA": "Kingstown",
+    "optionB": "Kingstown Park",
+    "optionC": "Barrouallie",
+    "optionD": "Port Elizabeth",
+    "answer": "Kingstown",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Samoa?",
+    "optionA": "Apia",
+    "optionB": "Vaitele",
+    "optionC": "Faleula",
+    "optionD": "Siusega",
+    "answer": "Apia",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of San Marino?",
+    "optionA": "San Marino",
+    "optionB": "Serravalle",
+    "optionC": "Borgo Maggiore",
+    "optionD": "Domagnano",
+    "answer": "San Marino",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "optionA": "Riyadh",
+    "optionB": "Jeddah",
+    "optionC": "Mecca",
+    "optionD": "Medina",
+    "answer": "Riyadh",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Senegal?",
+    "optionA": "Dakar",
+    "optionB": "Thies",
+    "optionC": "Pikine",
+    "optionD": "Guédiawaye",
+    "answer": "Dakar",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Seychelles?",
+    "optionA": "Victoria",
+    "optionB": "Anse Royale",
+    "optionC": "Beau Vallon",
+    "optionD": "Takamaka",
+    "answer": "Victoria",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Sierra Leone?",
+    "optionA": "Freetown",
+    "optionB": "Bo",
+    "optionC": "Kenema",
+    "optionD": "Koidu",
+    "answer": "Freetown",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Singapore?",
+    "optionA": "Singapore",
+    "optionB": "Jurong East",
+    "optionC": "Woodlands",
+    "optionD": "Tampines",
+    "answer": "Singapore",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Slovakia?",
+    "optionA": "Bratislava",
+    "optionB": "Kosice",
+    "optionC": "Presov",
+    "optionD": "Nitra",
+    "answer": "Bratislava",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Slovenia?",
+    "optionA": "Ljubljana",
+    "optionB": "Maribor",
+    "optionC": "Celje",
+    "optionD": "Kranj",
+    "answer": "Ljubljana",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Solomon Islands?",
+    "optionA": "Honiara",
+    "optionB": "Auki",
+    "optionC": "Gizo",
+    "optionD": "Kirakira",
+    "answer": "Honiara",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Somalia?",
+    "optionA": "Mogadishu",
+    "optionB": "Hargeisa",
+    "optionC": "Kismayo",
+    "optionD": "Baidoa",
+    "answer": "Mogadishu",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "optionA": "Seoul",
+    "optionB": "Busan",
+    "optionC": "Incheon",
+    "optionD": "Daegu",
+    "answer": "Seoul",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "optionA": "Madrid",
+    "optionB": "Barcelona",
+    "optionC": "Valencia",
+    "optionD": "Seville",
+    "answer": "Madrid",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Sudan?",
+    "optionA": "Khartoum",
+    "optionB": "Omdurman",
+    "optionC": "Port Sudan",
+    "optionD": "Kassala",
+    "answer": "Khartoum",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Suriname?",
+    "optionA": "Paramaribo",
+    "optionB": "Lelydorp",
+    "optionC": "Nieuw Nickerie",
+    "optionD": "Moengo",
+    "answer": "Paramaribo",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Swaziland?",
+    "optionA": "Mbabane",
+    "optionB": "Manzini",
+    "optionC": "Lobamba",
+    "optionD": "Siteki",
+    "answer": "Mbabane",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "optionA": "Stockholm",
+    "optionB": "Gothenburg",
+    "optionC": "Malmo",
+    "optionD": "Uppsala",
+    "answer": "Stockholm",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Switzerland?",
+    "optionA": "Bern",
+    "optionB": "Zurich",
+    "optionC": "Geneva",
+    "optionD": "Basel",
+    "answer": "Bern",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Syria?",
+    "optionA": "Damascus",
+    "optionB": "Aleppo",
+    "optionC": "Homs",
+    "optionD": "Latakia",
+    "answer": "Damascus",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Taiwan?",
+    "optionA": "Taipei",
+    "optionB": "Kaohsiung",
+    "optionC": "Taichung",
+    "optionD": "Tainan",
+    "answer": "Taipei",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Tajikistan?",
+    "optionA": "Dushanbe",
+    "optionB": "Khujand",
+    "optionC": "Kulob",
+    "optionD": "Qurghonteppa",
+    "answer": "Dushanbe",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Tanzania?",
+    "optionA": "Dar es Salaam",
+    "optionB": "Dodoma",
+    "optionC": "Mwanza",
+    "optionD": "Arusha",
+    "answer": "Dodoma",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Tennessee?",
+    "optionA": "Nashville",
+    "optionB": "Memphis",
+    "optionC": "Knoxville",
+    "optionD": "Chattanooga",
+    "answer": "Nashville",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Texas?",
+    "optionA": "Austin",
+    "optionB": "Houston",
+    "optionC": "Dallas",
+    "optionD": "San Antonio",
+    "answer": "Austin",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "optionA": "Bangkok",
+    "optionB": "Nonthaburi",
+    "optionC": "Nakhon Ratchasima",
+    "optionD": "Chiang Mai",
+    "answer": "Bangkok",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of The Bahamas?",
+    "optionA": "Nassau",
+    "optionB": "Freeport",
+    "optionC": "Lucaya",
+    "optionD": "Andros Town",
+    "answer": "Nassau",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of the country Georgia?",
+    "optionA": "Tbilisi",
+    "optionB": "Kutaisi",
+    "optionC": "Batumi",
+    "optionD": "Rustavi",
+    "answer": "Tbilisi",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of the Dominican Republic?",
+    "optionA": "Santo Domingo",
+    "optionB": "Santiago",
+    "optionC": "La Romana",
+    "optionD": "San Pedro de Macoris",
+    "answer": "Santo Domingo",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of the Italian province Lazio?",
+    "optionA": "Rome",
+    "optionB": "Milan",
+    "optionC": "Naples",
+    "optionD": "Turin",
+    "answer": "Rome",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of The Netherlands?",
+    "optionA": "Amsterdam",
+    "optionB": "Rotterdam",
+    "optionC": "The Hague",
+    "optionD": "Utrecht",
+    "answer": "Amsterdam",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of the overseas department and administrative region of France, Réunion?",
+    "optionA": "Saint-Denis",
+    "optionB": "Saint-Pierre",
+    "optionC": "Le Tampon",
+    "optionD": "Saint-Benoît",
+    "answer": "Saint-Denis",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What Is The Capital Of The Philippines?",
+    "optionA": "Manila",
+    "optionB": "Cebu",
+    "optionC": "Davao",
+    "optionD": "Quezon City",
+    "answer": "Manila",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of the United Arab Emirates?",
+    "optionA": "Abu Dhabi",
+    "optionB": "Dubai",
+    "optionC": "Sharjah",
+    "optionD": "Ras Al Khaimah",
+    "answer": "Abu Dhabi",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Togo?",
+    "optionA": "Lome",
+    "optionB": "Kara",
+    "optionC": "Sokode",
+    "optionD": "Kpalime",
+    "answer": "Lome",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Tonga?",
+    "optionA": "Nuku'alofa",
+    "optionB": "Neiafu",
+    "optionC": "Haveluloto",
+    "optionD": "Vaini",
+    "answer": "Nuku'alofa",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Trinidad and Tobago?",
+    "optionA": "Port-of-Spain",
+    "optionB": "San Fernando",
+    "optionC": "Chaguanas",
+    "optionD": "Arima",
+    "answer": "Port-of-Spain",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Tunisia?",
+    "optionA": "Tunis",
+    "optionB": "Sfax",
+    "optionC": "Sousse",
+    "optionD": "Kairouan",
+    "answer": "Tunis",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "optionA": "Ankara",
+    "optionB": "Istanbul",
+    "optionC": "Izmir",
+    "optionD": "Bursa",
+    "answer": "Ankara",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Turkmenistan?",
+    "optionA": "Ashgabat",
+    "optionB": "Mary",
+    "optionC": "Turkmenabat",
+    "optionD": "Dashoguz",
+    "answer": "Ashgabat",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Tuvalu?",
+    "optionA": "Fongafale",
+    "optionB": "Funafuti",
+    "optionC": "Vaiaku",
+    "optionD": "Teone",
+    "answer": "Fongafale",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Uganda?",
+    "optionA": "Kampala",
+    "optionB": "Entebbe",
+    "optionC": "Gulu",
+    "optionD": "Lira",
+    "answer": "Kampala",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Ukraine?",
+    "optionA": "Kiev",
+    "optionB": "Kharkiv",
+    "optionC": "Odessa",
+    "optionD": "Dnipro",
+    "answer": "Kiev",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of United Kingdom?",
+    "optionA": "London",
+    "optionB": "Birmingham",
+    "optionC": "Manchester",
+    "optionD": "Glasgow",
+    "answer": "London",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of United States?",
+    "optionA": "Washington",
+    "optionB": "New York City",
+    "optionC": "Los Angeles",
+    "optionD": "Chicago",
+    "answer": "Washington",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Uruguay?",
+    "optionA": "Montevideo",
+    "optionB": "Salto",
+    "optionC": "Paysandu",
+    "optionD": "Las Piedras",
+    "answer": "Montevideo",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Uzbekistan?",
+    "optionA": "Tashkent",
+    "optionB": "Samarkand",
+    "optionC": "Namangan",
+    "optionD": "Andijan",
+    "answer": "Tashkent",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Vanuatu?",
+    "optionA": "Port-Vila",
+    "optionB": "Luganville",
+    "optionC": "Norsup",
+    "optionD": "Isangel",
+    "answer": "Port-Vila",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Vatican City?",
+    "optionA": "Vatican City",
+    "optionB": "Rome",
+    "optionC": "Milan",
+    "optionD": "Naples",
+    "answer": "Vatican City",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Venezuela?",
+    "optionA": "Caracas",
+    "optionB": "Maracaibo",
+    "optionC": "Valencia",
+    "optionD": "Barquisimeto",
+    "answer": "Caracas",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Vietnam?",
+    "optionA": "Hanoi",
+    "optionB": "Ho Chi Minh City",
+    "optionC": "Hai Phong",
+    "optionD": "Da Nang",
+    "answer": "Hanoi",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Virginia?",
+    "optionA": "Richmond",
+    "optionB": "Virginia Beach",
+    "optionC": "Norfolk",
+    "optionD": "Arlington",
+    "answer": "Richmond",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Wales?",
+    "optionA": "Cardiff",
+    "optionB": "Swansea",
+    "optionC": "Newport",
+    "optionD": "Bangor",
+    "answer": "Cardiff",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Washington state?",
+    "optionA": "Olympia",
+    "optionB": "Seattle",
+    "optionC": "Spokane",
+    "optionD": "Tacoma",
+    "answer": "Olympia",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of West Virginia?",
+    "optionA": "Charleston",
+    "optionB": "Huntington",
+    "optionC": "Morgantown",
+    "optionD": "Parkersburg",
+    "answer": "Charleston",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Western Samoa?",
+    "optionA": "Apia",
+    "optionB": "Vaitele",
+    "optionC": "Faleolo",
+    "optionD": "Vailima",
+    "answer": "Apia",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Wisconsin?",
+    "optionA": "Madison",
+    "optionB": "Milwaukee",
+    "optionC": "Green Bay",
+    "optionD": "Kenosha",
+    "answer": "Madison",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Wyoming?",
+    "optionA": "Cheyenne",
+    "optionB": "Casper",
+    "optionC": "Laramie",
+    "optionD": "Gillette",
+    "answer": "Cheyenne",
     "category": "geography",
     "subcategory": "capital-cities"
   }
