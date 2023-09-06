@@ -30,21 +30,6 @@ export default function Question({
   // adding new array of wrong answers
   const [answersAndQ, setAnswersAndQ] = useState([]);
 
-  // showing correct / wrong answer with class change on button
-
-  /*   const [correct, setCorrect] = useState(null);
-
-  function answerCheck(event) {
-    event.preventDefault();
-    const answer = event.target.value;
-    if (answer === question.answer) {
-      setCorrect((prev) => true);
-    } else {
-      setCorrect((prev) => false);
-    }
-    console.log(correct);
-  } */
-
   //next question handler
   function nextHandler(event) {
     event.preventDefault();
