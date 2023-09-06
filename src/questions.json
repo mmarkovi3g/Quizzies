@@ -11367,16 +11367,6 @@
     "subcategory": "airlines"
   },
   {
-    "question": "What is the capital of Croatia?",
-    "optionA": "Rijeka",
-    "optionB": "Zadar",
-    "optionC": "Osijek",
-    "optionD": "Zagreb",
-    "answer": "Zagreb",
-    "category": "geography",
-    "subcategory": "capital-cities"
-  },
-  {
     "question": "What is the capital of Cuba?",
     "optionA": "Havana",
     "optionB": "Trinidad",
@@ -13085,5 +13075,2535 @@
     "answer": "Cheyenne",
     "category": "geography",
     "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Zaire?",
+    "optionA": "Kinshasa",
+    "optionB": "Lubumbashi",
+    "optionC": "Brazzaville",
+    "optionD": "Kigali",
+    "answer": "Kinshasa",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Zambia?",
+    "optionA": "Lusaka",
+    "optionB": "Harare",
+    "optionC": "Kigali",
+    "optionD": "Maputo",
+    "answer": "Lusaka",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Zimbabwe?",
+    "optionA": "Salisbury",
+    "optionB": "Harare",
+    "optionC": "Bulawayo",
+    "optionD": "Lusaka",
+    "answer": "Harare",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Croatia?",
+    "optionA": "Zagreb",
+    "optionB": "Split",
+    "optionC": "Rijeka",
+    "optionD": "Osijek",
+    "answer": "Zagreb",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the capital of Iceland?",
+    "optionA": "Reykjavik",
+    "optionB": "Akureyri",
+    "optionC": "Hofn",
+    "optionD": "Egilsstadir",
+    "answer": "Reykjavik",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "What is the circle of the earth at 0 degrees latitude called?",
+    "optionA": "Equator",
+    "optionB": "Prime Meridian",
+    "optionC": "Tropic of Cancer",
+    "optionD": "Tropic of Capricorn",
+    "answer": "Equator",
+    "category": "geography",
+    "subcategory": "geographical-terms"
+  },
+  {
+    "question": "What Is The Colour Of The Cross On The Finish Flag?",
+    "optionA": "Blue",
+    "optionB": "Red",
+    "optionC": "White",
+    "optionD": "Yellow",
+    "answer": "Blue",
+    "category": "geography",
+    "subcategory": "flags"
+  },
+  {
+    "question": "What is the correct name of Bangkok?",
+    "optionA": "Krung Thep",
+    "optionB": "Nakhon Ratchasima",
+    "optionC": "Chonburi",
+    "optionD": "Pattaya",
+    "answer": "Krung Thep",
+    "category": "geography",
+    "subcategory": "city-names"
+  },
+  {
+    "question": "What Is The Currency Of Israel?",
+    "optionA": "The Shekel",
+    "optionB": "The Dinar",
+    "optionC": "The Riyal",
+    "optionD": "The Pound",
+    "answer": "The Shekel",
+    "category": "geography",
+    "subcategory": "currencies"
+  },
+  {
+    "question": "What is the current name for South-West Africa?",
+    "optionA": "Namibia",
+    "optionB": "Botswana",
+    "optionC": "Zimbabwe",
+    "optionD": "Angola",
+    "answer": "Namibia",
+    "category": "geography",
+    "subcategory": "country-names"
+  },
+  {
+    "question": "What Is The Deepest Lake In England?",
+    "optionA": "Wastwater",
+    "optionB": "Windermere",
+    "optionC": "Ullswater",
+    "optionD": "Derwentwater",
+    "answer": "Wastwater",
+    "category": "geography",
+    "subcategory": "lakes"
+  },
+  {
+    "question": "What is the deepest land gorge in the world?",
+    "optionA": "Grand Canyon",
+    "optionB": "Colca Canyon",
+    "optionC": "Tiger Leaping Gorge",
+    "optionD": "Kali Gandaki Gorge",
+    "answer": "Grand Canyon",
+    "category": "geography",
+    "subcategory": "landforms"
+  },
+  {
+    "question": "What is the fifth largest country in the world?",
+    "optionA": "Brazil",
+    "optionB": "Australia",
+    "optionC": "India",
+    "optionD": "Argentina",
+    "answer": "Brazil",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "What is the highest mountain in Canada?",
+    "optionA": "Mt. Logan",
+    "optionB": "Mt. McKinley",
+    "optionC": "Mt. Robson",
+    "optionD": "Mt. St. Elias",
+    "answer": "Mt. Logan",
+    "category": "geography",
+    "subcategory": "mountains"
+  },
+  {
+    "question": "What is the highest mountain in Europe?",
+    "optionA": "Mont Blanc",
+    "optionB": "Matterhorn",
+    "optionC": "Mount Elbrus",
+    "optionD": "Dufourspitze",
+    "answer": "Mont Blanc",
+    "category": "geography",
+    "subcategory": "mountains"
+  },
+  {
+    "question": "What is the highest mountain in the Appalachian range?",
+    "optionA": "Mt. Mitchell",
+    "optionB": "Mt. Washington",
+    "optionC": "Mt. Katahdin",
+    "optionD": "Black Mountain",
+    "answer": "Mt. Mitchell",
+    "category": "geography",
+    "subcategory": "mountains"
+  },
+  {
+    "question": "What is the highest mountain in the world?",
+    "optionA": "Mount Everest",
+    "optionB": "K2",
+    "optionC": "Kangchenjunga",
+    "optionD": "Lhotse",
+    "answer": "Mount Everest",
+    "category": "geography",
+    "subcategory": "mountains"
+  },
+  {
+    "question": "What Is The Highest Peak In England And Wales?",
+    "optionA": "Mount Snowdon",
+    "optionB": "Scafell Pike",
+    "optionC": "Ben Nevis",
+    "optionD": "Slieve Donard",
+    "answer": "Mount Snowdon",
+    "category": "geography",
+    "subcategory": "mountains"
+  },
+  {
+    "question": "What is the highest peak in Fiji?",
+    "optionA": "Mount Victoria",
+    "optionB": "Mount Tomanivi",
+    "optionC": "Mount Nasorolevu",
+    "optionD": "Mount Batilamu",
+    "answer": "Mount Tomanivi",
+    "category": "geography",
+    "subcategory": "mountains"
+  },
+  {
+    "question": "What is the highest point in South America?",
+    "optionA": "Aconcagua",
+    "optionB": "Huascarán",
+    "optionC": "Illimani",
+    "optionD": "Cotopaxi",
+    "answer": "Aconcagua",
+    "category": "geography",
+    "subcategory": "mountains"
+  },
+  {
+    "question": "What is the highest waterfall in the USA?",
+    "optionA": "Yosemite Falls",
+    "optionB": "Niagara Falls",
+    "optionC": "Angel Falls",
+    "optionD": "Multnomah Falls",
+    "answer": "Yosemite Falls",
+    "category": "geography",
+    "subcategory": "waterfalls"
+  },
+  {
+    "question": "What is the largest city in Australia, in terms of population?",
+    "optionA": "Sydney",
+    "optionB": "Melbourne",
+    "optionC": "Brisbane",
+    "optionD": "Perth",
+    "answer": "Sydney",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What is the largest city in China?",
+    "optionA": "Shanghai",
+    "optionB": "Beijing",
+    "optionC": "Guangzhou",
+    "optionD": "Chongqing",
+    "answer": "Shanghai",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What is the largest city in Ecuador?",
+    "optionA": "Guayaquil",
+    "optionB": "Quito",
+    "optionC": "Cuenca",
+    "optionD": "Machala",
+    "answer": "Guayaquil",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What is the largest city in Switzerland?",
+    "optionA": "Zurich",
+    "optionB": "Geneva",
+    "optionC": "Bern",
+    "optionD": "Lausanne",
+    "answer": "Zurich",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What Is The Largest Island In The World?",
+    "optionA": "Greenland",
+    "optionB": "Australia",
+    "optionC": "Madagascar",
+    "optionD": "Borneo",
+    "answer": "Greenland",
+    "category": "geography",
+    "subcategory": "islands"
+  },
+  {
+    "question": "What is the largest lake in England?",
+    "optionA": "Windermere",
+    "optionB": "Lake District",
+    "optionC": "Loch Ness",
+    "optionD": "Coniston Water",
+    "answer": "Windermere",
+    "category": "geography",
+    "subcategory": "lakes"
+  },
+  {
+    "question": "What is the largest lake in Europe?",
+    "optionA": "Lake Ladoga",
+    "optionB": "Lake Geneva",
+    "optionC": "Lake Balaton",
+    "optionD": "Lake Constance",
+    "answer": "Lake Ladoga",
+    "category": "geography",
+    "subcategory": "lakes"
+  },
+  {
+    "question": "What is the largest natural lake found in Africa?",
+    "optionA": "Lake Victoria",
+    "optionB": "Lake Tanganyika",
+    "optionC": "Lake Malawi",
+    "optionD": "Lake Chad",
+    "answer": "Lake Victoria",
+    "category": "geography",
+    "subcategory": "lakes"
+  },
+  {
+    "question": "What Is The Largest Ocean On The Planet?",
+    "optionA": "Pacific",
+    "optionB": "Atlantic",
+    "optionC": "Indian",
+    "optionD": "Arctic",
+    "answer": "Pacific",
+    "category": "geography",
+    "subcategory": "oceans"
+  },
+  {
+    "question": "What is the largest of the Channel Islands?",
+    "optionA": "Jersey",
+    "optionB": "Guernsey",
+    "optionC": "Alderney",
+    "optionD": "Sark",
+    "answer": "Jersey",
+    "category": "geography",
+    "subcategory": "islands"
+  },
+  {
+    "question": "What is the largest of the countries in Central America?",
+    "optionA": "Nicaragua",
+    "optionB": "Honduras",
+    "optionC": "El Salvador",
+    "optionD": "Costa Rica",
+    "answer": "Nicaragua",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "What is the largest of the pyramids in Egypt?",
+    "optionA": "Cheops",
+    "optionB": "Khafre",
+    "optionC": "Menkaure",
+    "optionD": "Sneferu",
+    "answer": "Cheops",
+    "category": "geography",
+    "subcategory": "pyramids"
+  },
+  {
+    "question": "What Is The Largest US State By Area?",
+    "optionA": "Alaska",
+    "optionB": "Texas",
+    "optionC": "California",
+    "optionD": "Montana",
+    "answer": "Alaska",
+    "category": "geography",
+    "subcategory": "states"
+  },
+  {
+    "question": "What is the longest mountain range in the world?",
+    "optionA": "Andes",
+    "optionB": "Himalayas",
+    "optionC": "Rocky Mountains",
+    "optionD": "Alps",
+    "answer": "Andes",
+    "category": "geography",
+    "subcategory": "mountain-ranges"
+  },
+  {
+    "question": "What is the longest river in Australia?",
+    "optionA": "Darling",
+    "optionB": "Murray",
+    "optionC": "Lachlan",
+    "optionD": "Ord",
+    "answer": "Darling",
+    "category": "geography",
+    "subcategory": "rivers"
+  },
+  {
+    "question": "What Is The Longest River In The Western Hemisphere?",
+    "optionA": "The Amazon",
+    "optionB": "The Mississippi",
+    "optionC": "The Colorado",
+    "optionD": "The Orinoco",
+    "answer": "The Amazon",
+    "category": "geography",
+    "subcategory": "rivers"
+  },
+  {
+    "question": "What is the monetary unit of India?",
+    "optionA": "Rupee",
+    "optionB": "Rupiah",
+    "optionC": "Ringgit",
+    "optionD": "Taka",
+    "answer": "Rupee",
+    "category": "geography",
+    "subcategory": "currencies"
+  },
+  {
+    "question": "What Is The More Famous Name Of The Dancing (St Benezet Bridge)?",
+    "optionA": "Le Pont D'Avignon",
+    "optionB": "Pont Neuf",
+    "optionC": "Pont des Arts",
+    "optionD": "Millennium Bridge",
+    "answer": "Le Pont D'Avignon",
+    "category": "geography",
+    "subcategory": "landmarks"
+  },
+  {
+    "question": "What is the most air polluted city in the United States?",
+    "optionA": "Los Angeles",
+    "optionB": "New York City",
+    "optionC": "Houston",
+    "optionD": "Chicago",
+    "answer": "Los Angeles",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What is the most mountainous country in Europe?",
+    "optionA": "Switzerland",
+    "optionB": "Austria",
+    "optionC": "Norway",
+    "optionD": "France",
+    "answer": "Switzerland",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "What Is The Most Popular English City?",
+    "optionA": "London",
+    "optionB": "Manchester",
+    "optionC": "Birmingham",
+    "optionD": "Liverpool",
+    "answer": "London",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What is the most populous city in North America?",
+    "optionA": "Mexico City",
+    "optionB": "New York City",
+    "optionC": "Los Angeles",
+    "optionD": "Chicago",
+    "answer": "Mexico City",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What is the most sacred river in India?",
+    "optionA": "Ganges",
+    "optionB": "Yamuna",
+    "optionC": "Saraswati",
+    "optionD": "Narmada",
+    "answer": "Ganges",
+    "category": "geography",
+    "subcategory": "rivers"
+  },
+  {
+    "question": "What Is The Most Southernly Point Of Mainland Great Britain?",
+    "optionA": "Lizard Point",
+    "optionB": "Land's End",
+    "optionC": "Dungeness",
+    "optionD": "Portland Bill",
+    "answer": "Lizard Point",
+    "category": "geography",
+    "subcategory": "landmarks"
+  },
+  {
+    "question": "What Is The Most Westerly Capital City In Mainland Europe?",
+    "optionA": "Lisbon",
+    "optionB": "Madrid",
+    "optionC": "Rome",
+    "optionD": "Berlin",
+    "answer": "Lisbon",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What Is The Most Westerly European Capital City?",
+    "optionA": "Lisbon",
+    "optionB": "Dublin",
+    "optionC": "Reykjavik",
+    "optionD": "Amsterdam",
+    "answer": "Lisbon",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What is the name for the deepest part of the ocean?",
+    "optionA": "Abyss",
+    "optionB": "Trench",
+    "optionC": "Chasm",
+    "optionD": "Crevasse",
+    "answer": "Abyss",
+    "category": "geography",
+    "subcategory": "oceans"
+  },
+  {
+    "question": "What is the name of the extinct volcano that rises above Edinburgh?",
+    "optionA": "Arthur's Seat",
+    "optionB": "Ben Nevis",
+    "optionC": "Loch Ness",
+    "optionD": "Scafell Pike",
+    "answer": "Arthur's Seat",
+    "category": "geography",
+    "subcategory": "volcanoes"
+  },
+  {
+    "question": "What is the name of the famous large coral reef located off the coast of northeastern Australia?",
+    "optionA": "Great Barrier Reef",
+    "optionB": "Belize Barrier Reef",
+    "optionC": "Maldives Coral Reef",
+    "optionD": "Red Sea Coral Reef",
+    "answer": "Great Barrier Reef",
+    "category": "geography",
+    "subcategory": "reefs"
+  },
+  {
+    "question": "What Is The Name Of The Highest Mountain In Japan?",
+    "optionA": "Mount Fujiyama",
+    "optionB": "Mount Everest",
+    "optionC": "Mount Kilimanjaro",
+    "optionD": "Mount McKinley",
+    "answer": "Mount Fujiyama",
+    "category": "geography",
+    "subcategory": "mountains"
+  },
+  {
+    "question": "What is the name of the large natural landmark in northern Australia also known as Uluru?",
+    "optionA": "Ayers Rock",
+    "optionB": "Kata Tjuta",
+    "optionC": "Wilpena Pound",
+    "optionD": "Wave Rock",
+    "answer": "Ayers Rock",
+    "category": "geography",
+    "subcategory": "landmarks"
+  },
+  {
+    "question": "What is the name of the mountain chain separating most of Spain from France?",
+    "optionA": "Pyrenees",
+    "optionB": "Alps",
+    "optionC": "Andes",
+    "optionD": "Rocky Mountains",
+    "answer": "Pyrenees",
+    "category": "geography",
+    "subcategory": "mountain-ranges"
+  },
+  {
+    "question": "What Is The National Airline Of Greece?",
+    "optionA": "Olympic Airways",
+    "optionB": "Aegean Airlines",
+    "optionC": "Hellenic Imperial Airways",
+    "optionD": "Ellinair",
+    "answer": "Olympic Airways",
+    "category": "geography",
+    "subcategory": "airlines"
+  },
+  {
+    "question": "What Is The National Airline Of Russia?",
+    "optionA": "Aeroflot",
+    "optionB": "S7 Airlines",
+    "optionC": "UTair Aviation",
+    "optionD": "Pobeda",
+    "answer": "Aeroflot",
+    "category": "geography",
+    "subcategory": "airlines"
+  },
+  {
+    "question": "What is the nearest town to the Lightwater Valley Theme Park?",
+    "optionA": "Ripon",
+    "optionB": "Harrogate",
+    "optionC": "Thirsk",
+    "optionD": "Northallerton",
+    "answer": "Ripon",
+    "category": "geography",
+    "subcategory": "towns"
+  },
+  {
+    "question": "What is the official language of Egypt?",
+    "optionA": "Arabic",
+    "optionB": "Hebrew",
+    "optionC": "Syriac",
+    "optionD": "Coptic",
+    "answer": "Arabic",
+    "category": "geography",
+    "subcategory": "languages"
+  },
+  {
+    "question": "What Is The Oldest Inhabited City In The World?",
+    "optionA": "Damascus, Syria",
+    "optionB": "Jerusalem, Israel",
+    "optionC": "Athens, Greece",
+    "optionD": "Rome, Italy",
+    "answer": "Damascus, Syria",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What is the oldest town in Belgium?",
+    "optionA": "Tongeren",
+    "optionB": "Brussels",
+    "optionC": "Antwerp",
+    "optionD": "Ghent",
+    "answer": "Tongeren",
+    "category": "geography",
+    "subcategory": "towns"
+  },
+  {
+    "question": "What is the only borough of New York City that is not on an island?",
+    "optionA": "Bronx",
+    "optionB": "Brooklyn",
+    "optionC": "Queens",
+    "optionD": "Staten Island",
+    "answer": "Bronx",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What is the only country in the world whose name starts with 'O'?",
+    "optionA": "Oman",
+    "optionB": "Austria",
+    "optionC": "Australia",
+    "optionD": "Argentina",
+    "answer": "Oman",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "What is the principal river of Ireland?",
+    "optionA": "Shannon",
+    "optionB": "Liffey",
+    "optionC": "Boyne",
+    "optionD": "Lee",
+    "answer": "Shannon",
+    "category": "geography",
+    "subcategory": "rivers"
+  },
+  {
+    "question": "What Is The Principle Language Of Brazil?",
+    "optionA": "Portuguese",
+    "optionB": "Spanish",
+    "optionC": "Italian",
+    "optionD": "French",
+    "answer": "Portuguese",
+    "category": "geography",
+    "subcategory": "languages"
+  },
+  {
+    "question": "What is the river capital of the world?",
+    "optionA": "Akron",
+    "optionB": "Cairo",
+    "optionC": "Budapest",
+    "optionD": "Paris",
+    "answer": "Akron",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What is the saltiest sea in the world?",
+    "optionA": "The Dead Sea",
+    "optionB": "The Red Sea",
+    "optionC": "The Black Sea",
+    "optionD": "The Caspian Sea",
+    "answer": "The Dead Sea",
+    "category": "geography",
+    "subcategory": "seas"
+  },
+  {
+    "question": "What Is The Scirocco?",
+    "optionA": "A Wind",
+    "optionB": "A Desert",
+    "optionC": "A Mountain",
+    "optionD": "A River",
+    "answer": "A Wind",
+    "category": "geography",
+    "subcategory": "weather"
+  },
+  {
+    "question": "What is the second highest peak in Africa?",
+    "optionA": "Mt. Kilimanjaro",
+    "optionB": "Mt. Kenya",
+    "optionC": "Simien Mountains",
+    "optionD": "Atlas Mountains",
+    "answer": "Mt. Kenya",
+    "category": "geography",
+    "subcategory": "mountains"
+  },
+  {
+    "question": "What is the second highest peak in Mexico?",
+    "optionA": "Popocatepetl",
+    "optionB": "Iztaccihuatl",
+    "optionC": "Nevado de Colima",
+    "optionD": "Sierra Negra",
+    "answer": "Popocatepetl",
+    "category": "geography",
+    "subcategory": "mountains"
+  },
+  {
+    "question": "What is the second largest continent in the world?",
+    "optionA": "Africa",
+    "optionB": "Asia",
+    "optionC": "North America",
+    "optionD": "South America",
+    "answer": "Africa",
+    "category": "geography",
+    "subcategory": "continents"
+  },
+  {
+    "question": "What is the second largest country in the world?",
+    "optionA": "Canada",
+    "optionB": "Russia",
+    "optionC": "China",
+    "optionD": "United States",
+    "answer": "Canada",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "What is the second largest ocean?",
+    "optionA": "Atlantic Ocean",
+    "optionB": "Indian Ocean",
+    "optionC": "Pacific Ocean",
+    "optionD": "Southern Ocean",
+    "answer": "Atlantic Ocean",
+    "category": "geography",
+    "subcategory": "oceans"
+  },
+  {
+    "question": "What is the second largest of the United States?",
+    "optionA": "Texas",
+    "optionB": "California",
+    "optionC": "Montana",
+    "optionD": "New Mexico",
+    "answer": "Texas",
+    "category": "geography",
+    "subcategory": "states"
+  },
+  {
+    "question": "What is the smallest Canadian province?",
+    "optionA": "Prince Edward Island",
+    "optionB": "Nova Scotia",
+    "optionC": "New Brunswick",
+    "optionD": "Manitoba",
+    "answer": "Prince Edward Island",
+    "category": "geography",
+    "subcategory": "provinces"
+  },
+  {
+    "question": "What is the smallest independent state in the world?",
+    "optionA": "Vatican City",
+    "optionB": "Monaco",
+    "optionC": "San Marino",
+    "optionD": "Nauru",
+    "answer": "Vatican City",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "What is the smallest of the Central American countries?",
+    "optionA": "El Salvador",
+    "optionB": "Belize",
+    "optionC": "Honduras",
+    "optionD": "Nicaragua",
+    "answer": "El Salvador",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "What is the smallest state in the USA?",
+    "optionA": "Rhode Island",
+    "optionB": "Delaware",
+    "optionC": "Connecticut",
+    "optionD": "Vermont",
+    "answer": "Rhode Island",
+    "category": "geography",
+    "subcategory": "states"
+  },
+  {
+    "question": "What is the Southernmost country in continental Europe?",
+    "optionA": "Spain",
+    "optionB": "Italy",
+    "optionC": "Portugal",
+    "optionD": "Greece",
+    "answer": "Spain",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "What is the state capital of Louisiana?",
+    "optionA": "Baton Rouge",
+    "optionB": "New Orleans",
+    "optionC": "Lafayette",
+    "optionD": "Shreveport",
+    "answer": "Baton Rouge",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What Is The Unit Of Currency In India?",
+    "optionA": "The Rupee",
+    "optionB": "The Rupiah",
+    "optionC": "The Taka",
+    "optionD": "The Baht",
+    "answer": "The Rupee",
+    "category": "geography",
+    "subcategory": "currency"
+  },
+  {
+    "question": "What Is The Westernmost Point Of England?",
+    "optionA": "Land's End",
+    "optionB": "The Lizard",
+    "optionC": "Hartland Point",
+    "optionD": "St. David's Head",
+    "answer": "Land's End",
+    "category": "geography",
+    "subcategory": "landmarks"
+  },
+  {
+    "question": "What is the windiest place on earth?",
+    "optionA": "Mount Washington, New Hampshire",
+    "optionB": "Chicago, Illinois",
+    "optionC": "Cape Hatteras, North Carolina",
+    "optionD": "Wellington, New Zealand",
+    "answer": "Mount Washington, New Hampshire",
+    "category": "geography",
+    "subcategory": "weather"
+  },
+  {
+    "question": "What is the world's deepest lake?",
+    "optionA": "Lake Baikal",
+    "optionB": "Lake Superior",
+    "optionC": "Lake Tanganyika",
+    "optionD": "Great Slave Lake",
+    "answer": "Lake Baikal",
+    "category": "geography",
+    "subcategory": "lakes"
+  },
+  {
+    "question": "What is the world's highest city?",
+    "optionA": "Lhasa, Tibet",
+    "optionB": "La Paz, Bolivia",
+    "optionC": "Quito, Ecuador",
+    "optionD": "Kabul, Afghanistan",
+    "answer": "Lhasa, Tibet",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What is the world's highest mountain?",
+    "optionA": "Mount Everest",
+    "optionB": "K2",
+    "optionC": "Kangchenjunga",
+    "optionD": "Lhotse",
+    "answer": "Mount Everest",
+    "category": "geography",
+    "subcategory": "mountains"
+  },
+  {
+    "question": "What is the world's highest waterfall?",
+    "optionA": "Angel Falls",
+    "optionB": "Victoria Falls",
+    "optionC": "Niagara Falls",
+    "optionD": "Iguazu Falls",
+    "answer": "Angel Falls",
+    "category": "geography",
+    "subcategory": "waterfalls"
+  },
+  {
+    "question": "What is the world's largest desert?",
+    "optionA": "Sahara Desert",
+    "optionB": "Arabian Desert",
+    "optionC": "Gobi Desert",
+    "optionD": "Kalahari Desert",
+    "answer": "Sahara Desert",
+    "category": "geography",
+    "subcategory": "deserts"
+  },
+  {
+    "question": "What is the world's largest lake?",
+    "optionA": "Caspian Sea",
+    "optionB": "Lake Superior",
+    "optionC": "Lake Victoria",
+    "optionD": "Great Bear Lake",
+    "answer": "Caspian Sea",
+    "category": "geography",
+    "subcategory": "lakes"
+  },
+  {
+    "question": "What is the world's largest sea?",
+    "optionA": "Mediterranean",
+    "optionB": "Caribbean",
+    "optionC": "South China Sea",
+    "optionD": "Philippine Sea",
+    "answer": "Mediterranean",
+    "category": "geography",
+    "subcategory": "seas"
+  },
+  {
+    "question": "What Is The World's Most Northerly Capital City?",
+    "optionA": "Reykjavik (Iceland)",
+    "optionB": "Oslo (Norway)",
+    "optionC": "Helsinki (Finland)",
+    "optionD": "Stockholm (Sweden)",
+    "answer": "Reykjavik (Iceland)",
+    "category": "geography",
+    "subcategory": "capital cities"
+  },
+  {
+    "question": "What is the world's second highest mountain?",
+    "optionA": "K2",
+    "optionB": "Mount Everest",
+    "optionC": "Kangchenjunga",
+    "optionD": "Lhotse",
+    "answer": "K2",
+    "category": "geography",
+    "subcategory": "mountains"
+  },
+  {
+    "question": "What is the world's third largest sea?",
+    "optionA": "Mediterranean",
+    "optionB": "Caribbean Sea",
+    "optionC": "South China Sea",
+    "optionD": "Arabian Sea",
+    "answer": "Mediterranean",
+    "category": "geography",
+    "subcategory": "seas"
+  },
+  {
+    "question": "What is the world's widest river?",
+    "optionA": "Amazon",
+    "optionB": "Nile",
+    "optionC": "Yangtze",
+    "optionD": "Mississippi",
+    "answer": "Amazon",
+    "category": "geography",
+    "subcategory": "rivers"
+  },
+  {
+    "question": "What Is The Worlds Busiest Seaport Handling The Most Tonnage Of Cargo",
+    "optionA": "Rotterdam",
+    "optionB": "Shanghai",
+    "optionC": "Singapore",
+    "optionD": "Los Angeles",
+    "answer": "Rotterdam",
+    "category": "geography",
+    "subcategory": "seaports"
+  },
+  {
+    "question": "What Is The Worlds Largest Desert Called",
+    "optionA": "The Sahara",
+    "optionB": "The Gobi",
+    "optionC": "The Atacama",
+    "optionD": "The Kalahari",
+    "answer": "The Sahara",
+    "category": "geography",
+    "subcategory": "deserts"
+  },
+  {
+    "question": "What Is The Worlds Largest Ocean By Area",
+    "optionA": "Pacific",
+    "optionB": "Atlantic",
+    "optionC": "Indian",
+    "optionD": "Arctic",
+    "answer": "Pacific",
+    "category": "geography",
+    "subcategory": "oceans"
+  },
+  {
+    "question": "What is the worlds longest concrete dam?",
+    "optionA": "Grand Coulee Dam",
+    "optionB": "Hoover Dam",
+    "optionC": "Itaipu Dam",
+    "optionD": "Three Gorges Dam",
+    "answer": "Grand Coulee Dam",
+    "category": "geography",
+    "subcategory": "dams"
+  },
+  {
+    "question": "What is the worlds most southerly capital?",
+    "optionA": "Wellington, New Zealand",
+    "optionB": "Canberra, Australia",
+    "optionC": "Santiago, Chile",
+    "optionD": "Buenos Aires, Argentina",
+    "answer": "Wellington, New Zealand",
+    "category": "geography",
+    "subcategory": "capital cities"
+  },
+  {
+    "question": "What island group contains jersey, guernsey, sark and herm",
+    "optionA": "The Channel Islands",
+    "optionB": "The Azores",
+    "optionC": "The Balearic Islands",
+    "optionD": "The Canary Islands",
+    "answer": "The Channel Islands",
+    "category": "geography",
+    "subcategory": "islands"
+  },
+  {
+    "question": "What island has Hamilton as its capital",
+    "optionA": "Bermuda",
+    "optionB": "Hawaii",
+    "optionC": "Fiji",
+    "optionD": "Jamaica",
+    "answer": "Bermuda",
+    "category": "geography",
+    "subcategory": "islands"
+  },
+  {
+    "question": "What island is known as the Spice Island",
+    "optionA": "Zanzibar",
+    "optionB": "Sri Lanka",
+    "optionC": "Java",
+    "optionD": "Sumatra",
+    "answer": "Zanzibar",
+    "category": "geography",
+    "subcategory": "islands"
+  },
+  {
+    "question": "What island is pearl harbour on",
+    "optionA": "Oahu",
+    "optionB": "Honolulu",
+    "optionC": "Maui",
+    "optionD": "Kauai",
+    "answer": "Oahu",
+    "category": "geography",
+    "subcategory": "islands"
+  },
+  {
+    "question": "What lake is approximately 394,000 sq. km in area?",
+    "optionA": "Caspian Sea",
+    "optionB": "Lake Superior",
+    "optionC": "Lake Victoria",
+    "optionD": "Great Bear Lake",
+    "answer": "Caspian Sea",
+    "category": "geography",
+    "subcategory": "lakes"
+  },
+  {
+    "question": "What lake is the source of the white nile",
+    "optionA": "Lake Victoria",
+    "optionB": "Lake Tanganyika",
+    "optionC": "Lake Malawi",
+    "optionD": "Lake Chad",
+    "answer": "Lake Victoria",
+    "category": "geography",
+    "subcategory": "lakes"
+  },
+  {
+    "question": "What language do the locals speak in Bogota?",
+    "optionA": "Spanish",
+    "optionB": "Portuguese",
+    "optionC": "Italian",
+    "optionD": "French",
+    "answer": "Spanish",
+    "category": "geography",
+    "subcategory": "languages"
+  },
+  {
+    "question": "What London borough does the Prime Meridian pass through?",
+    "optionA": "Greenwich",
+    "optionB": "Westminster",
+    "optionC": "Kensington and Chelsea",
+    "optionD": "Tower Hamlets",
+    "answer": "Greenwich",
+    "category": "geography",
+    "subcategory": "London"
+  },
+  {
+    "question": "What london museum features a chamber of horrors",
+    "optionA": "Madame Tussaud's",
+    "optionB": "The British Museum",
+    "optionC": "The Victoria and Albert Museum",
+    "optionD": "The Natural History Museum",
+    "answer": "Madame Tussaud's",
+    "category": "geography",
+    "subcategory": "museums"
+  },
+  {
+    "question": "What major city is on an island in the st lawrence river",
+    "optionA": "Montreal",
+    "optionB": "Toronto",
+    "optionC": "Ottawa",
+    "optionD": "Quebec City",
+    "answer": "Montreal",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What mountain range separates Europe from Asia",
+    "optionA": "Urals",
+    "optionB": "Himalayas",
+    "optionC": "Andes",
+    "optionD": "Alps",
+    "answer": "Urals",
+    "category": "geography",
+    "subcategory": "mountain ranges"
+  },
+  {
+    "question": "What name is shared by mountain ranges in Scotland & Australia?",
+    "optionA": "Grampians",
+    "optionB": "Highlands",
+    "optionC": "Appalachians",
+    "optionD": "Rockies",
+    "answer": "Grampians",
+    "category": "geography",
+    "subcategory": "mountain ranges"
+  },
+  {
+    "question": "What Nationality Was Christian Schonbein, Who Discovered Ozone In 1840",
+    "optionA": "German",
+    "optionB": "French",
+    "optionC": "Swiss",
+    "optionD": "Austrian",
+    "answer": "German",
+    "category": "geography",
+    "subcategory": "nationalities"
+  },
+  {
+    "question": "What Nationality Was The Chemist Alfred Nobel",
+    "optionA": "Swedish",
+    "optionB": "German",
+    "optionC": "French",
+    "optionD": "Russian",
+    "answer": "Swedish",
+    "category": "geography",
+    "subcategory": "nationalities"
+  },
+  {
+    "question": "What Nationality Was The First Person To Sail Round Northern Canada Through The Bering Strait",
+    "optionA": "Norwegian",
+    "optionB": "British",
+    "optionC": "Spanish",
+    "optionD": "Italian",
+    "answer": "Norwegian",
+    "category": "geography",
+    "subcategory": "nationalities"
+  },
+  {
+    "question": "What Nationality Was Vasco Da Gama",
+    "optionA": "Portuguese",
+    "optionB": "Spanish",
+    "optionC": "Italian",
+    "optionD": "Dutch",
+    "answer": "Portuguese",
+    "category": "geography",
+    "subcategory": "nationalities"
+  },
+  {
+    "question": "What notable geographical feature is shared by Oxford, Reading, Windsor and London?",
+    "optionA": "The River Thames",
+    "optionB": "The English Channel",
+    "optionC": "The North Sea",
+    "optionD": "The Bristol Channel",
+    "answer": "The River Thames",
+    "category": "geography",
+    "subcategory": "geographical features"
+  },
+  {
+    "question": "What ocean is found along the East border of Asia?",
+    "optionA": "Pacific Ocean",
+    "optionB": "Indian Ocean",
+    "optionC": "Arctic Ocean",
+    "optionD": "Atlantic Ocean",
+    "answer": "Pacific Ocean",
+    "category": "geography",
+    "subcategory": "oceans"
+  },
+  {
+    "question": "What place is known as 'the land nowhere near'?",
+    "optionA": "Cape Three Points",
+    "optionB": "The Outback",
+    "optionC": "The Nullarbor Plain",
+    "optionD": "Antarctica",
+    "answer": "Cape Three Points",
+    "category": "geography",
+    "subcategory": "places"
+  },
+  {
+    "question": "What prison island was off the coast of French Guiana",
+    "optionA": "Devil's Island",
+    "optionB": "Alcatraz Island",
+    "optionC": "Robben Island",
+    "optionD": "Sing Sing Prison",
+    "answer": "Devil's Island",
+    "category": "geography",
+    "subcategory": "islands"
+  },
+  {
+    "question": "What queen were the virgin islands named for in 1627",
+    "optionA": "Elizabeth I",
+    "optionB": "Victoria",
+    "optionC": "Mary",
+    "optionD": "Anne",
+    "answer": "Elizabeth I",
+    "category": "geography",
+    "subcategory": "history"
+  },
+  {
+    "question": "What Record Does The 2nd Lake Pontchartrain Causeway Hold",
+    "optionA": "It Is The Longest Bridge In The World (23.9 M / 38.4 KM)",
+    "optionB": "It Is The Tallest Bridge In The World",
+    "optionC": "It Is The Narrowest Bridge In The World",
+    "optionD": "It Is The Oldest Bridge In The World",
+    "answer": "It Is The Longest Bridge In The World (23.9 M / 38.4 KM)",
+    "category": "geography",
+    "subcategory": "bridges"
+  },
+  {
+    "question": "What river has the largest drainage basin",
+    "optionA": "Amazon",
+    "optionB": "Nile",
+    "optionC": "Mississippi",
+    "optionD": "Yangtze",
+    "answer": "Amazon",
+    "category": "geography",
+    "subcategory": "rivers"
+  },
+  {
+    "question": "What river is called \"Old Man River\"?",
+    "optionA": "Mississippi",
+    "optionB": "Nile",
+    "optionC": "Amazon",
+    "optionD": "Yangtze",
+    "answer": "Mississippi",
+    "category": "geography",
+    "subcategory": "rivers"
+  },
+  {
+    "question": "What river is known as china's sorrow because of its flooding",
+    "optionA": "The Yellow River",
+    "optionB": "The Yangtze River",
+    "optionC": "The Mekong River",
+    "optionD": "The Indus River",
+    "answer": "The Yellow River",
+    "category": "geography",
+    "subcategory": "rivers"
+  },
+  {
+    "question": "What river is Liverpool on?",
+    "optionA": "Mersey",
+    "optionB": "Thames",
+    "optionC": "Severn",
+    "optionD": "Clyde",
+    "answer": "Mersey",
+    "category": "geography",
+    "subcategory": "rivers"
+  },
+  {
+    "question": "What river is the Temple of Karnak near?",
+    "optionA": "The Nile",
+    "optionB": "The Tigris",
+    "optionC": "The Euphrates",
+    "optionD": "The Jordan",
+    "answer": "The Nile",
+    "category": "geography",
+    "subcategory": "rivers"
+  },
+  {
+    "question": "What Scale Is Used To Meausre The Intensity Of An Earthquake",
+    "optionA": "The Richter Scale",
+    "optionB": "The Beaufort Scale",
+    "optionC": "The Fujita Scale",
+    "optionD": "The Saffir-Simpson Scale",
+    "answer": "The Richter Scale",
+    "category": "geography",
+    "subcategory": "earthquakes"
+  },
+  {
+    "question": "What Scandinavian capital begins and ends with the same letter?",
+    "optionA": "Oslo",
+    "optionB": "Stockholm",
+    "optionC": "Helsinki",
+    "optionD": "Copenhagen",
+    "answer": "Oslo",
+    "category": "geography",
+    "subcategory": "capital cities"
+  },
+  {
+    "question": "What sea is between Italy and Yugoslavia",
+    "optionA": "Adriatic",
+    "optionB": "Mediterranean",
+    "optionC": "Ionian",
+    "optionD": "Tyrrhenian",
+    "answer": "Adriatic",
+    "category": "geography",
+    "subcategory": "seas"
+  },
+  {
+    "question": "What seaport's name is Spanish for 'white house'?",
+    "optionA": "Casablanca",
+    "optionB": "Barcelona",
+    "optionC": "Valencia",
+    "optionD": "Seville",
+    "answer": "Casablanca",
+    "category": "geography",
+    "subcategory": "seaports"
+  },
+  {
+    "question": "What Separates Spain From Morocco",
+    "optionA": "The Straits Of Gibraltar",
+    "optionB": "The Suez Canal",
+    "optionC": "The Dardanelles",
+    "optionD": "The Bosphorus",
+    "answer": "The Straits Of Gibraltar",
+    "category": "geography",
+    "subcategory": "straits"
+  },
+  {
+    "question": "What small island is in the bay of Naples?",
+    "optionA": "Isle of Capri",
+    "optionB": "Ischia",
+    "optionC": "Procida",
+    "optionD": "Elba",
+    "answer": "Isle of Capri",
+    "category": "geography",
+    "subcategory": "islands"
+  },
+  {
+    "question": "What south American country has both a Pacific and Atlantic coastline",
+    "optionA": "Colombia",
+    "optionB": "Peru",
+    "optionC": "Chile",
+    "optionD": "Ecuador",
+    "answer": "Colombia",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "What southern U.S. city was named for King Charles II",
+    "optionA": "Charleston",
+    "optionB": "Savannah",
+    "optionC": "Augusta",
+    "optionD": "Columbia",
+    "answer": "Charleston",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What state borders Alabama to the north",
+    "optionA": "Tennessee",
+    "optionB": "Georgia",
+    "optionC": "Mississippi",
+    "optionD": "Florida",
+    "answer": "Tennessee",
+    "category": "geography",
+    "subcategory": "U.S. states"
+  },
+  {
+    "question": "What state is the Golden State",
+    "optionA": "California",
+    "optionB": "Nevada",
+    "optionC": "Arizona",
+    "optionD": "Colorado",
+    "answer": "California",
+    "category": "geography",
+    "subcategory": "U.S. states"
+  },
+  {
+    "question": "What state was the home to Mayberry",
+    "optionA": "North Carolina",
+    "optionB": "Virginia",
+    "optionC": "South Carolina",
+    "optionD": "Georgia",
+    "answer": "North Carolina",
+    "category": "geography",
+    "subcategory": "U.S. states"
+  },
+  {
+    "question": "What symbol is on the flag of Vietnam",
+    "optionA": "Star",
+    "optionB": "Hammer and Sickle",
+    "optionC": "Crescent Moon and Star",
+    "optionD": "Maple Leaf",
+    "answer": "Star",
+    "category": "geography",
+    "subcategory": "flags"
+  },
+  {
+    "question": "What Tourist Attraction Is Wearing Away At A Rate Of 5 Feet Per Year",
+    "optionA": "Niagara Falls",
+    "optionB": "The Great Barrier Reef",
+    "optionC": "The Grand Canyon",
+    "optionD": "Mount Rushmore",
+    "answer": "Niagara Falls",
+    "category": "geography",
+    "subcategory": "tourist attractions"
+  },
+  {
+    "question": "What tunnel connects France and Italy?",
+    "optionA": "Mont Blanc Tunnel",
+    "optionB": "Channel Tunnel",
+    "optionC": "Gotthard Base Tunnel",
+    "optionD": "Seikan Tunnel",
+    "answer": "Mont Blanc Tunnel",
+    "category": "geography",
+    "subcategory": "tunnels"
+  },
+  {
+    "question": "What two countries do Tyroleans come from",
+    "optionA": "Austria and Italy",
+    "optionB": "Germany and Switzerland",
+    "optionC": "France and Belgium",
+    "optionD": "Spain and Portugal",
+    "answer": "Austria and Italy",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "What Type Of Shop Predominates On The Ponte Vecchio In Florence",
+    "optionA": "Jewellers Have Had The Monopoly Since 1593",
+    "optionB": "Bookstores",
+    "optionC": "Cafes",
+    "optionD": "Clothing Stores",
+    "answer": "Jewellers Have Had The Monopoly Since 1593",
+    "category": "geography",
+    "subcategory": "shopping"
+  },
+  {
+    "question": "What U.S state boasts the Carlsbad Caverns National Park",
+    "optionA": "New Mexico",
+    "optionB": "Arizona",
+    "optionC": "Nevada",
+    "optionD": "Texas",
+    "answer": "New Mexico",
+    "category": "geography",
+    "subcategory": "U.S. states"
+  },
+  {
+    "question": "What U.S state is the home of the headwaters of the Mississippi River",
+    "optionA": "Minnesota",
+    "optionB": "Wisconsin",
+    "optionC": "Iowa",
+    "optionD": "Missouri",
+    "answer": "Minnesota",
+    "category": "geography",
+    "subcategory": "U.S. states"
+  },
+  {
+    "question": "What U.S city is known as Insurance City",
+    "optionA": "Hartford",
+    "optionB": "New York City",
+    "optionC": "Chicago",
+    "optionD": "Los Angeles",
+    "answer": "Hartford",
+    "category": "geography",
+    "subcategory": "cities"
+  },
+  {
+    "question": "What U.S city is known as Insurance City?",
+    "optionA": "Hartford",
+    "optionB": "Springfield",
+    "optionC": "Albany",
+    "optionD": "Harrisburg",
+    "answer": "Hartford",
+    "category": "geography",
+    "subcategory": "U.S Cities"
+  },
+  {
+    "question": "What U.S city is named after Saint Francis of Assisi?",
+    "optionA": "San Francisco",
+    "optionB": "Los Angeles",
+    "optionC": "San Diego",
+    "optionD": "San Jose",
+    "answer": "San Francisco",
+    "category": "geography",
+    "subcategory": "U.S Cities"
+  },
+  {
+    "question": "What U.S national park contains gumbo limbo trail?",
+    "optionA": "Everglades National Park",
+    "optionB": "Yellowstone National Park",
+    "optionC": "Grand Canyon National Park",
+    "optionD": "Yosemite National Park",
+    "answer": "Everglades National Park",
+    "category": "geography",
+    "subcategory": "National Parks"
+  },
+  {
+    "question": "What U.S state has the largest Indian population?",
+    "optionA": "Oklahoma",
+    "optionB": "Arizona",
+    "optionC": "New Mexico",
+    "optionD": "California",
+    "answer": "Oklahoma",
+    "category": "geography",
+    "subcategory": "U.S States"
+  },
+  {
+    "question": "What U.S state is known as The Land of 10,000 Lakes?",
+    "optionA": "Minnesota",
+    "optionB": "Wisconsin",
+    "optionC": "Michigan",
+    "optionD": "North Dakota",
+    "answer": "Minnesota",
+    "category": "geography",
+    "subcategory": "U.S States"
+  },
+  {
+    "question": "What unit of currency will buy you dinner in Iraq, Jordan, Tunisia, and Yugoslavia?",
+    "optionA": "Dinar",
+    "optionB": "Rial",
+    "optionC": "Lira",
+    "optionD": "Peso",
+    "answer": "Dinar",
+    "category": "geography",
+    "subcategory": "Currency"
+  },
+  {
+    "question": "What US City's name means 'straits' or 'channel'?",
+    "optionA": "Detroit",
+    "optionB": "Seattle",
+    "optionC": "Chicago",
+    "optionD": "Miami",
+    "answer": "Detroit",
+    "category": "geography",
+    "subcategory": "U.S Cities"
+  },
+  {
+    "question": "What US state has the most tornadoes on average?",
+    "optionA": "Texas",
+    "optionB": "Oklahoma",
+    "optionC": "Kansas",
+    "optionD": "Nebraska",
+    "answer": "Texas",
+    "category": "geography",
+    "subcategory": "U.S States"
+  },
+  {
+    "question": "What US state is completely surrounded by the Pacific Ocean?",
+    "optionA": "Hawaii",
+    "optionB": "Alaska",
+    "optionC": "California",
+    "optionD": "Oregon",
+    "answer": "Hawaii",
+    "category": "geography",
+    "subcategory": "U.S States"
+  },
+  {
+    "question": "What Value Is A Storm On The Beaufort Scale?",
+    "optionA": "Force 10",
+    "optionB": "Force 11",
+    "optionC": "Force 12",
+    "optionD": "Force 9",
+    "answer": "Force 11",
+    "category": "geography",
+    "subcategory": "Weather"
+  },
+  {
+    "question": "What volcano showers ash on Sicily?",
+    "optionA": "Mount Vesuvius",
+    "optionB": "Mount St. Helens",
+    "optionC": "Mount Etna",
+    "optionD": "Mount Fuji",
+    "answer": "Mount Etna",
+    "category": "geography",
+    "subcategory": "Volcanoes"
+  },
+  {
+    "question": "What Was (Ho Chi Minh) City Previously Known As?",
+    "optionA": "Saigon",
+    "optionB": "Hanoi",
+    "optionC": "Da Nang",
+    "optionD": "Hue",
+    "answer": "Saigon",
+    "category": "geography",
+    "subcategory": "Cities"
+  },
+  {
+    "question": "What Was Iran formerly Known As?",
+    "optionA": "Persia",
+    "optionB": "Arabia",
+    "optionC": "Mesopotamia",
+    "optionD": "Babylon",
+    "answer": "Persia",
+    "category": "geography",
+    "subcategory": "Countries"
+  },
+  {
+    "question": "What was Istanbul Formerly Known As",
+    "optionA": "Byzantium",
+    "optionB": "Constantinople",
+    "optionC": "Athens",
+    "optionD": "Rome",
+    "answer": "Constantinople",
+    "category": "geography",
+    "subcategory": "Cities"
+  },
+  {
+    "question": "What was So Important About The Oresund Bridge Between Malmo & Copenhagen Which Opened In July 2000",
+    "optionA": "It Was The Longest Bridge in the World",
+    "optionB": "It Was Designed by a Famous Architect",
+    "optionC": "It Was the First Permanent Link Between Europe & the Swedish Peninsula",
+    "optionD": "It Was Made of Gold",
+    "answer": "It Was the First Permanent Link Between Europe & the Swedish Peninsula",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "What was So Special About Brooklyn Bridge",
+    "optionA": "It Was the First Suspension Bridge in the World",
+    "optionB": "It Was Made of Marble",
+    "optionC": "It Was Designed by Leonardo da Vinci",
+    "optionD": "It Was the World's First Steel Suspension Bridge",
+    "answer": "It Was the World's First Steel Suspension Bridge",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "What was Sri Lanka Previously Known As",
+    "optionA": "Ceylon",
+    "optionB": "Bali",
+    "optionC": "Java",
+    "optionD": "Sumatra",
+    "answer": "Ceylon",
+    "category": "geography",
+    "subcategory": "Countries"
+  },
+  {
+    "question": "What was The First Town Founded By Europeans In Southern Africa",
+    "optionA": "Cape Town",
+    "optionB": "Johannesburg",
+    "optionC": "Durban",
+    "optionD": "Pretoria",
+    "answer": "Cape Town",
+    "category": "geography",
+    "subcategory": "Cities"
+  },
+  {
+    "question": "What was The Former Name Of Kampuchea",
+    "optionA": "Cambodia",
+    "optionB": "Thailand",
+    "optionC": "Laos",
+    "optionD": "Vietnam",
+    "answer": "Cambodia",
+    "category": "geography",
+    "subcategory": "Countries"
+  },
+  {
+    "question": "What was the former name of Manhattan's Park Avenue?",
+    "optionA": "Fifth Avenue",
+    "optionB": "Third Avenue",
+    "optionC": "Fourth Avenue",
+    "optionD": "Second Avenue",
+    "answer": "Fourth Avenue",
+    "category": "geography",
+    "subcategory": "Cities"
+  },
+  {
+    "question": "What was the former name of Thailand?",
+    "optionA": "Siam",
+    "optionB": "Vietnam",
+    "optionC": "Burma",
+    "optionD": "Malaysia",
+    "answer": "Siam",
+    "category": "geography",
+    "subcategory": "Countries"
+  },
+  {
+    "question": "What was the highest mountain in the world before the discovery of Everest?",
+    "optionA": "Mount Kilimanjaro",
+    "optionB": "Mount K2",
+    "optionC": "Mount McKinley",
+    "optionD": "Mount Everest",
+    "answer": "Mount K2",
+    "category": "geography",
+    "subcategory": "Mountains"
+  },
+  {
+    "question": "What was The Name Of Sir Francis Drake's Most Famous Ship",
+    "optionA": "The Mayflower",
+    "optionB": "The Golden Hind",
+    "optionC": "The Santa Maria",
+    "optionD": "The Nina",
+    "answer": "The Golden Hind",
+    "category": "geography",
+    "subcategory": "Explorers"
+  },
+  {
+    "question": "What was The River Zaire Formerly Known As",
+    "optionA": "The Nile",
+    "optionB": "The Amazon",
+    "optionC": "The Mississippi",
+    "optionD": "The Congo",
+    "answer": "The Congo",
+    "category": "geography",
+    "subcategory": "Rivers"
+  },
+  {
+    "question": "What word Represents Q In The Phonetic Alphabet?",
+    "optionA": "Queen",
+    "optionB": "Quasar",
+    "optionC": "Quilt",
+    "optionD": "Quebec",
+    "answer": "Quebec",
+    "category": "geography",
+    "subcategory": "Phonetic Alphabet"
+  },
+  {
+    "question": "What's the capital of East Germany",
+    "optionA": "Berlin",
+    "optionB": "Dresden",
+    "optionC": "Leipzig",
+    "optionD": "East Berlin",
+    "answer": "East Berlin",
+    "category": "geography",
+    "subcategory": "Capitals"
+  },
+  {
+    "question": "What's the capital of Poland?",
+    "optionA": "Krakow",
+    "optionB": "Warsaw",
+    "optionC": "Wroclaw",
+    "optionD": "Gdansk",
+    "answer": "Warsaw",
+    "category": "geography",
+    "subcategory": "Capitals"
+  },
+  {
+    "question": "What's The Capital Of Zimbabwe",
+    "optionA": "Lusaka",
+    "optionB": "Harare",
+    "optionC": "Bulawayo",
+    "optionD": "Victoria Falls",
+    "answer": "Harare",
+    "category": "geography",
+    "subcategory": "Capitals"
+  },
+  {
+    "question": "What's the former name of Istanbul",
+    "optionA": "Athens",
+    "optionB": "Constantinople",
+    "optionC": "Byzantium",
+    "optionD": "Rome",
+    "answer": "Constantinople",
+    "category": "geography",
+    "subcategory": "Cities"
+  },
+  {
+    "question": "What's the highest mountain in the 48 contiguous U.S. states",
+    "optionA": "Mount Rainier",
+    "optionB": "Mount Whitney",
+    "optionC": "Mount Shasta",
+    "optionD": "Mount St. Helens",
+    "answer": "Mount Whitney",
+    "category": "geography",
+    "subcategory": "Mountains"
+  },
+  {
+    "question": "What's the largest museum in the world",
+    "optionA": "The British Museum",
+    "optionB": "The Vatican Museums",
+    "optionC": "The Louvre",
+    "optionD": "The Metropolitan Museum of Art",
+    "answer": "The Louvre",
+    "category": "geography",
+    "subcategory": "Museums"
+  },
+  {
+    "question": "What's the longest river in the Americas",
+    "optionA": "The Mississippi River",
+    "optionB": "The Colorado River",
+    "optionC": "The Columbia River",
+    "optionD": "The Amazon River",
+    "answer": "The Amazon River",
+    "category": "geography",
+    "subcategory": "Rivers"
+  },
+  {
+    "question": "What's the most southerly city: Toronto, Seattle, Budapest, or Bordeaux?",
+    "optionA": "Toronto",
+    "optionB": "Seattle",
+    "optionC": "Budapest",
+    "optionD": "Bordeaux",
+    "answer": "Toronto",
+    "category": "geography",
+    "subcategory": "Cities"
+  },
+  {
+    "question": "What's the oldest capital city in the Americas",
+    "optionA": "Mexico City",
+    "optionB": "Bogota",
+    "optionC": "Lima",
+    "optionD": "Quito",
+    "answer": "Mexico City",
+    "category": "geography",
+    "subcategory": "Capitals"
+  },
+  {
+    "question": "What's the only Arab country without a desert",
+    "optionA": "Saudi Arabia",
+    "optionB": "Egypt",
+    "optionC": "Iraq",
+    "optionD": "Lebanon",
+    "answer": "Lebanon",
+    "category": "geography",
+    "subcategory": "Countries"
+  },
+  {
+    "question": "What's the opposite of the orient",
+    "optionA": "The West",
+    "optionB": "The Occident",
+    "optionC": "The Levant",
+    "optionD": "The Mediterranean",
+    "answer": "The Occident",
+    "category": "geography",
+    "subcategory": "Terms"
+  },
+  {
+    "question": "Where are the 'wallops'?",
+    "optionA": "Scotland",
+    "optionB": "Wales",
+    "optionC": "Ireland",
+    "optionD": "Hampshire",
+    "answer": "Hampshire",
+    "category": "geography",
+    "subcategory": "Locations"
+  },
+  {
+    "question": "Where Are The Atlas Mountains",
+    "optionA": "Morocco",
+    "optionB": "Algeria",
+    "optionC": "Tunisia",
+    "optionD": "Algeria, North Africa",
+    "answer": "Algeria, North Africa",
+    "category": "geography",
+    "subcategory": "Mountains"
+  },
+  {
+    "question": "Where are the Great Walls of Babylon located in the modern-day world?",
+    "optionA": "Iran",
+    "optionB": "Iraq",
+    "optionC": "Egypt",
+    "optionD": "Turkey",
+    "answer": "Iraq",
+    "category": "geography",
+    "subcategory": "Historical Sites"
+  },
+  {
+    "question": "Where are the headquarters of the CIA?",
+    "optionA": "New York City",
+    "optionB": "Washington, D.C.",
+    "optionC": "Langley, Virginia",
+    "optionD": "Arlington, Virginia",
+    "answer": "Langley, Virginia",
+    "category": "geography",
+    "subcategory": "Government Buildings"
+  },
+  {
+    "question": "Where are the Nazca Lines?",
+    "optionA": "Mexico",
+    "optionB": "Peru",
+    "optionC": "Chile",
+    "optionD": "Ecuador",
+    "answer": "Peru",
+    "category": "geography",
+    "subcategory": "Historical Sites"
+  },
+  {
+    "question": "Where are the North Yolla Bolly mountains?",
+    "optionA": "Canada",
+    "optionB": "USA, California",
+    "optionC": "Mexico",
+    "optionD": "USA, Oregon",
+    "answer": "USA, California",
+    "category": "geography",
+    "subcategory": "Mountains"
+  },
+  {
+    "question": "Where are the pyramids located?",
+    "optionA": "Greece",
+    "optionB": "Italy",
+    "optionC": "Turkey",
+    "optionD": "Egypt",
+    "answer": "Egypt",
+    "category": "geography",
+    "subcategory": "Historical Sites"
+  },
+  {
+    "question": "Where are the two steepest streets in the USA?",
+    "optionA": "San Francisco",
+    "optionB": "Los Angeles",
+    "optionC": "Seattle",
+    "optionD": "San Diego",
+    "answer": "San Francisco",
+    "category": "geography",
+    "subcategory": "U.S Cities"
+  },
+  {
+    "question": "Where can you find the first iron bridge ever built?",
+    "optionA": "Ironbridge, near Telford in Shropshire, England",
+    "optionB": "London Bridge, London",
+    "optionC": "Golden Gate Bridge, San Francisco",
+    "optionD": "Sydney Harbour Bridge, Sydney",
+    "answer": "Ironbridge, near Telford in Shropshire, England",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "Where did the most powerful explosion ever witnessed on Earth occur?",
+    "optionA": "Krakatoa",
+    "optionB": "Mount Vesuvius",
+    "optionC": "Mount St. Helens",
+    "optionD": "Yellowstone National Park",
+    "answer": "Krakatoa",
+    "category": "geography",
+    "subcategory": "Natural Disasters"
+  },
+  {
+    "question": "Where do tangerines live",
+    "optionA": "Tangier, Morocco",
+    "optionB": "Madrid, Spain",
+    "optionC": "Rome, Italy",
+    "optionD": "Athens, Greece",
+    "answer": "Tangier, Morocco",
+    "category": "geography",
+    "subcategory": "Cities"
+  },
+  {
+    "question": "Where in Britain is Ronaldsway Airport?",
+    "optionA": "The Isle Of Man",
+    "optionB": "London",
+    "optionC": "Edinburgh",
+    "optionD": "Glasgow",
+    "answer": "The Isle Of Man",
+    "category": "geography",
+    "subcategory": "Airports"
+  },
+  {
+    "question": "Where in the world is Rock English spoken?",
+    "optionA": "Gibraltar",
+    "optionB": "Malta",
+    "optionC": "Cyprus",
+    "optionD": "Maldives",
+    "answer": "Gibraltar",
+    "category": "geography",
+    "subcategory": "Languages"
+  },
+  {
+    "question": "Where is Angel Falls?",
+    "optionA": "Venezuela",
+    "optionB": "Brazil",
+    "optionC": "Colombia",
+    "optionD": "Peru",
+    "answer": "Venezuela",
+    "category": "geography",
+    "subcategory": "Natural Wonders"
+  },
+  {
+    "question": "Where is area 51 generally said to be?",
+    "optionA": "Groom Lake",
+    "optionB": "Death Valley",
+    "optionC": "Mojave Desert",
+    "optionD": "Las Vegas",
+    "answer": "Groom Lake",
+    "category": "geography",
+    "subcategory": "Secret Locations"
+  },
+  {
+    "question": "Where is Beacon Street",
+    "optionA": "Boston",
+    "optionB": "New York City",
+    "optionC": "Philadelphia",
+    "optionD": "Chicago",
+    "answer": "Boston",
+    "category": "geography",
+    "subcategory": "U.S Cities"
+  },
+  {
+    "question": "Where is Calcutta?",
+    "optionA": "India",
+    "optionB": "Bangladesh",
+    "optionC": "Pakistan",
+    "optionD": "Nepal",
+    "answer": "India",
+    "category": "geography",
+    "subcategory": "Cities"
+  },
+  {
+    "question": "Where is Cape Hatteras?",
+    "optionA": "North Carolina",
+    "optionB": "Florida",
+    "optionC": "Georgia",
+    "optionD": "South Carolina",
+    "answer": "North Carolina",
+    "category": "geography",
+    "subcategory": "U.S States"
+  },
+  {
+    "question": "Where Is Cape Horn",
+    "optionA": "Bottom Of South America",
+    "optionB": "Greenland",
+    "optionC": "Antarctica",
+    "optionD": "Iceland",
+    "answer": "Bottom Of South America",
+    "category": "geography",
+    "subcategory": "Landforms"
+  },
+  {
+    "question": "Where is Dogger Bank?",
+    "optionA": "The North Sea",
+    "optionB": "The Baltic Sea",
+    "optionC": "The Irish Sea",
+    "optionD": "The Mediterranean Sea",
+    "answer": "The North Sea",
+    "category": "geography",
+    "subcategory": "Bodies of Water"
+  },
+  {
+    "question": "Where is Eurodisney?",
+    "optionA": "Paris, France",
+    "optionB": "Berlin, Germany",
+    "optionC": "Rome, Italy",
+    "optionD": "Barcelona, Spain",
+    "answer": "Paris, France",
+    "category": "geography",
+    "subcategory": "Theme Parks"
+  },
+  {
+    "question": "Where is Euston Station",
+    "optionA": "London",
+    "optionB": "Paris",
+    "optionC": "Berlin",
+    "optionD": "Madrid",
+    "answer": "London",
+    "category": "geography",
+    "subcategory": "Transportation"
+  },
+  {
+    "question": "Where is George Washington buried",
+    "optionA": "Mt. Vernon, Virginia",
+    "optionB": "Washington, D.C.",
+    "optionC": "Philadelphia, Pennsylvania",
+    "optionD": "Boston, Massachusetts",
+    "answer": "Mt. Vernon, Virginia",
+    "category": "geography",
+    "subcategory": "Burial Sites"
+  },
+  {
+    "question": "Where is Gorky Park?",
+    "optionA": "Moscow",
+    "optionB": "St. Petersburg",
+    "optionC": "Kiev",
+    "optionD": "Minsk",
+    "answer": "Moscow",
+    "category": "geography",
+    "subcategory": "Parks"
+  },
+  {
+    "question": "Where is Lake Maracaibo?",
+    "optionA": "Venezuela",
+    "optionB": "Colombia",
+    "optionC": "Brazil",
+    "optionD": "Peru",
+    "answer": "Venezuela",
+    "category": "geography",
+    "subcategory": "Lakes"
+  },
+  {
+    "question": "Where is le figaro published",
+    "optionA": "Paris",
+    "optionB": "Rome",
+    "optionC": "Madrid",
+    "optionD": "London",
+    "answer": "Paris",
+    "category": "geography",
+    "subcategory": "Publications"
+  },
+  {
+    "question": "Where is most of America's gold located ?",
+    "optionA": "Fort Knox",
+    "optionB": "New York City",
+    "optionC": "San Francisco",
+    "optionD": "Denver",
+    "answer": "Fort Knox",
+    "category": "geography",
+    "subcategory": "Gold Deposits"
+  },
+  {
+    "question": "Where is Mount Kennedy",
+    "optionA": "Yukon",
+    "optionB": "Alaska",
+    "optionC": "British Columbia",
+    "optionD": "Montana",
+    "answer": "Yukon",
+    "category": "geography",
+    "subcategory": "Mountains"
+  },
+  {
+    "question": "Where is Mount Washington?",
+    "optionA": "New Hampshire",
+    "optionB": "Vermont",
+    "optionC": "Maine",
+    "optionD": "Massachusetts",
+    "answer": "New Hampshire",
+    "category": "geography",
+    "subcategory": "Mountains"
+  },
+  {
+    "question": "Where is Queen Maud Land located",
+    "optionA": "Antarctica",
+    "optionB": "Greenland",
+    "optionC": "Svalbard",
+    "optionD": "Iceland",
+    "answer": "Antarctica",
+    "category": "geography",
+    "subcategory": "Antarctica"
+  },
+  {
+    "question": "Where Is Sugar Loaf Mountain",
+    "optionA": "Rio De Janeiro",
+    "optionB": "Sao Paulo",
+    "optionC": "Brasilia",
+    "optionD": "Salvador",
+    "answer": "Rio De Janeiro",
+    "category": "geography",
+    "subcategory": "Mountains"
+  },
+  {
+    "question": "Where is Tabasco?",
+    "optionA": "Mexico",
+    "optionB": "Spain",
+    "optionC": "Argentina",
+    "optionD": "Chile",
+    "answer": "Mexico",
+    "category": "geography",
+    "subcategory": "States"
+  },
+  {
+    "question": "Where is the Admirality Arch",
+    "optionA": "London",
+    "optionB": "Paris",
+    "optionC": "Rome",
+    "optionD": "Berlin",
+    "answer": "London",
+    "category": "geography",
+    "subcategory": "Landmarks"
+  },
+  {
+    "question": "Where is the Blue Grotto - la Grotta Azzurra ?",
+    "optionA": "Capri, Italy",
+    "optionB": "Santorini, Greece",
+    "optionC": "Corsica, France",
+    "optionD": "Sardinia, Italy",
+    "answer": "Capri, Italy",
+    "category": "geography",
+    "subcategory": "Caves"
+  },
+  {
+    "question": "Where is the bridge of San Luis Rey?",
+    "optionA": "Peru",
+    "optionB": "Mexico",
+    "optionC": "Chile",
+    "optionD": "Argentina",
+    "answer": "Peru",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "Where Is The Bridge Of Sighs",
+    "optionA": "Venice",
+    "optionB": "Florence",
+    "optionC": "Rome",
+    "optionD": "Naples",
+    "answer": "Venice",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "Where is the city of Brotherly Love",
+    "optionA": "Philadelphia",
+    "optionB": "Boston",
+    "optionC": "New York City",
+    "optionD": "Chicago",
+    "answer": "Philadelphia",
+    "category": "geography",
+    "subcategory": "U.S Cities"
+  },
+  {
+    "question": "Where Is The Glenveagh National Park",
+    "optionA": "County Donegal, Ireland",
+    "optionB": "County Kerry, Ireland",
+    "optionC": "County Cork, Ireland",
+    "optionD": "County Clare, Ireland",
+    "answer": "County Donegal, Ireland",
+    "category": "geography",
+    "subcategory": "National Parks"
+  },
+  {
+    "question": "Where is the Holy Kaaba",
+    "optionA": "Mecca",
+    "optionB": "Medina",
+    "optionC": "Jeddah",
+    "optionD": "Riyadh",
+    "answer": "Mecca",
+    "category": "geography",
+    "subcategory": "Religious Sites"
+  },
+  {
+    "question": "Where is the land of 10,000 lakes?",
+    "optionA": "Minnesota",
+    "optionB": "Wisconsin",
+    "optionC": "Michigan",
+    "optionD": "North Dakota",
+    "answer": "Minnesota",
+    "category": "geography",
+    "subcategory": "U.S States"
+  },
+  {
+    "question": "Where is the Machu Picchu?",
+    "optionA": "Peru",
+    "optionB": "Bolivia",
+    "optionC": "Ecuador",
+    "optionD": "Chile",
+    "answer": "Peru",
+    "category": "geography",
+    "subcategory": "Landmarks"
+  },
+  {
+    "question": "Where Is The Mathematical Bridge",
+    "optionA": "Oxford",
+    "optionB": "Cambridge",
+    "optionC": "London",
+    "optionD": "Manchester",
+    "answer": "Oxford",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "Where is the original London Bridge located?",
+    "optionA": "Lake Havasu, Arizona",
+    "optionB": "London, England",
+    "optionC": "Sydney, Australia",
+    "optionD": "San Francisco, California",
+    "answer": "Lake Havasu, Arizona",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "Where is the Parthenon located",
+    "optionA": "Athens",
+    "optionB": "Rome",
+    "optionC": "Istanbul",
+    "optionD": "Cairo",
+    "answer": "Athens",
+    "category": "geography",
+    "subcategory": "Landmarks"
+  },
+  {
+    "question": "Where is the statue 'Le Petit Pissoir'?",
+    "optionA": "Brussels",
+    "optionB": "Paris",
+    "optionC": "Vienna",
+    "optionD": "Amsterdam",
+    "answer": "Brussels",
+    "category": "geography",
+    "subcategory": "Sculptures"
+  },
+  {
+    "question": "Where is the Taj Mahal?",
+    "optionA": "India",
+    "optionB": "Pakistan",
+    "optionC": "Bangladesh",
+    "optionD": "Nepal",
+    "answer": "India",
+    "category": "geography",
+    "subcategory": "Landmarks"
+  },
+  {
+    "question": "Where is the tallest building in the world?",
+    "optionA": "Kuala Lumpur, Malaysia",
+    "optionB": "Dubai, United Arab Emirates",
+    "optionC": "Shanghai, China",
+    "optionD": "New York City, USA",
+    "answer": "Kuala Lumpur, Malaysia",
+    "category": "geography",
+    "subcategory": "Skyscrapers"
+  },
+  {
+    "question": "Where Is The Veldt",
+    "optionA": "South Africa",
+    "optionB": "Kenya",
+    "optionC": "Australia",
+    "optionD": "Argentina",
+    "answer": "South Africa",
+    "category": "geography",
+    "subcategory": "Landforms"
+  },
+  {
+    "question": "Where is the wailing wall?",
+    "optionA": "Jerusalem",
+    "optionB": "Tel Aviv",
+    "optionC": "Haifa",
+    "optionD": "Eilat",
+    "answer": "Jerusalem",
+    "category": "geography",
+    "subcategory": "Religious Sites"
+  },
+  {
+    "question": "Where is the world's biggest prison camp?",
+    "optionA": "Siberia",
+    "optionB": "North Korea",
+    "optionC": "Guantanamo Bay",
+    "optionD": "Auschwitz",
+    "answer": "Siberia",
+    "category": "geography",
+    "subcategory": "Prisons"
+  },
+  {
+    "question": "Where is the world's largest desert?",
+    "optionA": "North Africa",
+    "optionB": "Middle East",
+    "optionC": "Australia",
+    "optionD": "South America",
+    "answer": "North Africa",
+    "category": "geography",
+    "subcategory": "Deserts"
+  },
+  {
+    "question": "Where Is The Worlds Busiest International Airport",
+    "optionA": "London Heathrow",
+    "optionB": "Dubai International",
+    "optionC": "Los Angeles International",
+    "optionD": "Hartsfield-Jackson Atlanta International",
+    "answer": "London Heathrow",
+    "category": "geography",
+    "subcategory": "Airports"
+  },
+  {
+    "question": "Where is Tongeren?",
+    "optionA": "Belgium",
+    "optionB": "Netherlands",
+    "optionC": "Luxembourg",
+    "optionD": "France",
+    "answer": "Belgium",
+    "category": "geography",
+    "subcategory": "Cities"
+  },
+  {
+    "question": "Where is Westminster Abbey located",
+    "optionA": "London",
+    "optionB": "Paris",
+    "optionC": "Rome",
+    "optionD": "Berlin",
+    "answer": "London",
+    "category": "geography",
+    "subcategory": "Landmarks"
+  },
+  {
+    "question": "Where Was Henry Stanley When He Uttered The Phrase (Dr Livingstone I Presume)",
+    "optionA": "Ujiji On The Shores Of Lake Tanganyika",
+    "optionB": "Victoria Falls",
+    "optionC": "Congo River",
+    "optionD": "Nile River",
+    "answer": "Ujiji On The Shores Of Lake Tanganyika",
+    "category": "geography",
+    "subcategory": "Explorers"
+  },
+  {
+    "question": "Where was the 1939 world's fair",
+    "optionA": "New York City",
+    "optionB": "Chicago",
+    "optionC": "Los Angeles",
+    "optionD": "San Francisco",
+    "answer": "New York City",
+    "category": "geography",
+    "subcategory": "World's Fairs"
+  },
+  {
+    "question": "Where were the Pillars of Hercules located",
+    "optionA": "Gibraltar",
+    "optionB": "Sicily",
+    "optionC": "Crete",
+    "optionD": "Sardinia",
+    "answer": "Gibraltar",
+    "category": "geography",
+    "subcategory": "Geographical Features"
+  },
+  {
+    "question": "Where would you be if you landed smack in the middle of Plock",
+    "optionA": "Poland",
+    "optionB": "Russia",
+    "optionC": "Ukraine",
+    "optionD": "Lithuania",
+    "answer": "Poland",
+    "category": "geography",
+    "subcategory": "Cities"
+  },
+  {
+    "question": "Where would you find the Queen Alexandra, Queen Elizabeth and Queen Maud mountain ranges?",
+    "optionA": "Antarctica",
+    "optionB": "North America",
+    "optionC": "Asia",
+    "optionD": "Africa",
+    "answer": "Antarctica",
+    "category": "geography",
+    "subcategory": "Mountains"
+  },
+  {
+    "question": "Which 2 Countries Have Coastlines On The Bay Of Biscay",
+    "optionA": "France & Spain",
+    "optionB": "Italy & Greece",
+    "optionC": "Portugal & Morocco",
+    "optionD": "Denmark & Sweden",
+    "answer": "France & Spain",
+    "category": "geography",
+    "subcategory": "Coastlines"
+  },
+  {
+    "question": "Which 2 Countries Occupy The Iberian Peninsular",
+    "optionA": "Spain & Portugal",
+    "optionB": "France & Italy",
+    "optionC": "Germany & Austria",
+    "optionD": "Poland & Ukraine",
+    "answer": "Spain & Portugal",
+    "category": "geography",
+    "subcategory": "Peninsulas"
+  },
+  {
+    "question": "Which American State Has The Highest Population",
+    "optionA": "California",
+    "optionB": "Texas",
+    "optionC": "New York",
+    "optionD": "Florida",
+    "answer": "California",
+    "category": "geography",
+    "subcategory": "U.S States"
+  },
+  {
+    "question": "Which American state's name is Spanish for \"colored\" or \"colored land\"?",
+    "optionA": "Colorado",
+    "optionB": "Arizona",
+    "optionC": "New Mexico",
+    "optionD": "Nevada",
+    "answer": "Colorado",
+    "category": "geography",
+    "subcategory": "U.S States"
+  },
+  {
+    "question": "Which American state's name is Spanish for \"flowered\" or \"flowery land\"?",
+    "optionA": "Florida",
+    "optionB": "Hawaii",
+    "optionC": "California",
+    "optionD": "Texas",
+    "answer": "Florida",
+    "category": "geography",
+    "subcategory": "U.S States"
+  },
+  {
+    "question": "Which American state's name is Spanish for \"warm\" or \"warm land\"",
+    "optionA": "California",
+    "optionB": "Arizona",
+    "optionC": "Texas",
+    "optionD": "New Mexico",
+    "answer": "California",
+    "category": "geography",
+    "subcategory": "U.S States"
+  },
+  {
+    "question": "Which borough is northeast of and adjacent to Manhattan?",
+    "optionA": "The Bronx",
+    "optionB": "Queens",
+    "optionC": "Brooklyn",
+    "optionD": "Staten Island",
+    "answer": "The Bronx",
+    "category": "geography",
+    "subcategory": "Boroughs"
+  },
+  {
+    "question": "Which Bridge Connects Europe With Asia",
+    "optionA": "The Galata Bridge Over The Bosphorus In Istanbul",
+    "optionB": "Brooklyn Bridge In New York",
+    "optionC": "Golden Gate Bridge In San Francisco",
+    "optionD": "Tower Bridge In London",
+    "answer": "The Galata Bridge Over The Bosphorus In Istanbul",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "Which Bridge Connects Nepal To Tibet",
+    "optionA": "The Friendship Bridge",
+    "optionB": "The Golden Gate Bridge",
+    "optionC": "The Sydney Harbour Bridge",
+    "optionD": "The Rialto Bridge",
+    "answer": "The Friendship Bridge",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "Which Bridge Features On The Poster To The Woody Allen Film Manhattan",
+    "optionA": "Queensboro Bridge",
+    "optionB": "Brooklyn Bridge",
+    "optionC": "Golden Gate Bridge",
+    "optionD": "Sydney Harbour Bridge",
+    "answer": "Queensboro Bridge",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "Which Bridge Had Van Gogh Just Finished Painting Before He Cut Of His Ear",
+    "optionA": "The Lanlois Bridge In Arles",
+    "optionB": "Brooklyn Bridge",
+    "optionC": "Golden Gate Bridge",
+    "optionD": "Sydney Harbour Bridge",
+    "answer": "The Lanlois Bridge In Arles",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "Which Bridge In London Was Officially Named William Pitt Bridge In 1769",
+    "optionA": "Blackfriars Bridge London",
+    "optionB": "Tower Bridge London",
+    "optionC": "London Bridge",
+    "optionD": "Westminster Bridge London",
+    "answer": "Blackfriars Bridge London",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "Which Bridge In Scotland Replaced The Much Loved(Ferry At The Kyle Of Lochalsh)",
+    "optionA": "The Skye Bridge",
+    "optionB": "The Forth Bridge",
+    "optionC": "The Tay Bridge",
+    "optionD": "The Erskine Bridge",
+    "answer": "The Skye Bridge",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "Which bridge spans the Hudson River?",
+    "optionA": "George Washington Bridge",
+    "optionB": "Brooklyn Bridge",
+    "optionC": "Williamsburg Bridge",
+    "optionD": "Manhattan Bridge",
+    "answer": "George Washington Bridge",
+    "category": "geography",
+    "subcategory": "Bridges"
+  },
+  {
+    "question": "Which Bridge That Opened In 1988 Connected Japan's 4 Main Islands By High Speed Rail For The First Time",
+    "optionA": "The Seto Ohashi Bridge",
+    "optionB": "The Akashi Kaikyō Bridge",
+    "optionC": "The Tsing Ma Bridge",
+    "optionD": "The Øresund Bridge",
+    "answer": "The Seto Ohashi Bridge",
+    "category": "geography",
+    "subcategory": "Bridges"
   }
 ]

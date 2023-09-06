@@ -95,7 +95,7 @@ form div {
 .new-game {
   box-shadow: 0px 1px 0px 0px #f0f7fa;
   background-color: #766df46a;
-  border: 0.5px solid #ffffff;
+  border: 0.1px solid #ffffff;
   cursor: pointer;
   color: #ffffff;
   font-size: 1rem;
@@ -104,5 +104,20 @@ form div {
   text-shadow: 0px -1px 0px #5b6178;
   width: auto;
   margin: 0 auto;
+  border-radius: 0.5rem;
+}
+
+.show-answers {
+  box-shadow: 0px 1px 0px 0px #f0f7fa;
+  background-color: #f48d6d6a;
+  border: 0.1px solid #ffffff;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 1rem;
+  padding: 0.6rem;
+  text-decoration: none;
+  text-shadow: 0px -1px 0px #5b6178;
+  width: auto;
+  margin: 2rem auto;
   border-radius: 0.5rem;
 }

@@ -27,6 +27,9 @@ export default function Question({
   //setting up score (this needs to be improved later on)
   const [score, setScore] = useState(0);
 
+  // adding new array of wrong answers
+  const [answersAndQ, setAnswersAndQ] = useState([]);
+
   // showing correct / wrong answer with class change on button
 
   /*   const [correct, setCorrect] = useState(null);
@@ -55,12 +58,27 @@ export default function Question({
     const answer = event.target.value;
     if (answer === question.answer) {
       setScore((prevScore) => prevScore + 1);
+    } else {
+      // adding logic to generate array of wrong answers
+      setAnswersAndQ((prev) => [
+        ...answersAndQ,
+        {
+          question: question.question,
+          youselected: event.target.value,
+          correctanswer: question.answer,
+        },
+      ]);
     }
   }
 
   // default state for game start - resets on button click
   function newGame() {
     setStarted(false);
+  }
+
+  // showing correct answers
+  function showAnswers() {
+    console.log(answersAndQ);
   }
 
   return (
@@ -73,6 +91,9 @@ export default function Question({
           </p>
           <button className="new-game" onClick={newGame}>
             Start new Quizzie
+          </button>
+          <button className="show-answers" onClick={showAnswers}>
+            Show answers
           </button>
         </div>
       ) : (
