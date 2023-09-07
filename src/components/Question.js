@@ -61,11 +61,6 @@ export default function Question({
     setStarted(false);
   }
 
-  // showing correct answers
-  function showAnswers() {
-    console.log(answersAndQ);
-  }
-
   return (
     <div>
       {finished ? (
@@ -76,9 +71,6 @@ export default function Question({
           </p>
           <button className="new-game" onClick={newGame}>
             Start new Quizzie
-          </button>
-          <button className="show-answers" onClick={showAnswers}>
-            Show answers
           </button>
         </div>
       ) : (

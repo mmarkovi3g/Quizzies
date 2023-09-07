@@ -14337,16 +14337,6 @@
     "subcategory": "capital cities"
   },
   {
-    "question": "What sea is between Italy and Yugoslavia",
-    "optionA": "Adriatic",
-    "optionB": "Mediterranean",
-    "optionC": "Ionian",
-    "optionD": "Tyrrhenian",
-    "answer": "Adriatic",
-    "category": "geography",
-    "subcategory": "seas"
-  },
-  {
     "question": "What seaport's name is Spanish for 'white house'?",
     "optionA": "Casablanca",
     "optionB": "Barcelona",
@@ -14555,16 +14545,6 @@
     "answer": "Minnesota",
     "category": "geography",
     "subcategory": "U.S States"
-  },
-  {
-    "question": "What unit of currency will buy you dinner in Iraq, Jordan, Tunisia, and Yugoslavia?",
-    "optionA": "Dinar",
-    "optionB": "Rial",
-    "optionC": "Lira",
-    "optionD": "Peso",
-    "answer": "Dinar",
-    "category": "geography",
-    "subcategory": "Currency"
   },
   {
     "question": "What US City's name means 'straits' or 'channel'?",
@@ -15605,5 +15585,385 @@
     "answer": "The Seto Ohashi Bridge",
     "category": "geography",
     "subcategory": "Bridges"
+  },
+  {
+    "question": "Which Bridge Was The First Major Suspension Bridge In The World?",
+    "optionA": "Golden Gate Bridge",
+    "optionB": "Brooklyn Bridge",
+    "optionC": "The Menai Strait Bridge In Wales",
+    "optionD": "Tower Bridge",
+    "answer": "The Menai Strait Bridge In Wales",
+    "category": "geography",
+    "subcategory": "bridges"
+  },
+  {
+    "question": "Which British County Has The Longest Coastline?",
+    "optionA": "Cornwall",
+    "optionB": "Devon",
+    "optionC": "Norfolk",
+    "optionD": "Dorset",
+    "answer": "Cornwall",
+    "category": "geography",
+    "subcategory": "counties"
+  },
+  {
+    "question": "Which British Island is served by Ronaldsway Airport?",
+    "optionA": "Isle of Wight",
+    "optionB": "Isle of Skye",
+    "optionC": "Isle of Man",
+    "optionD": "Isle of Mull",
+    "answer": "Isle of Man",
+    "category": "geography",
+    "subcategory": "islands"
+  },
+  {
+    "question": "Which British Land Owner Owns The Largest Acreage?",
+    "optionA": "The National Trust",
+    "optionB": "The Forestry Commission",
+    "optionC": "The Crown Estate",
+    "optionD": "The Duchy of Cornwall",
+    "answer": "The Forestry Commission",
+    "category": "geography",
+    "subcategory": "landownership"
+  },
+  {
+    "question": "Which Californian desert drops below sea level?",
+    "optionA": "Mojave Desert",
+    "optionB": "Sonoran Desert",
+    "optionC": "Great Basin Desert",
+    "optionD": "Death Valley",
+    "answer": "Death Valley",
+    "category": "geography",
+    "subcategory": "deserts"
+  },
+  {
+    "question": "Which Cambridge Bridge Took Its Name From An Architectural Masterpiece In Venice?",
+    "optionA": "Bridge of Sighs (St John's College)",
+    "optionB": "Magdalene Bridge",
+    "optionC": "Mathematical Bridge (Queens' College)",
+    "optionD": "Trinity Bridge",
+    "answer": "Bridge of Sighs (St John's College)",
+    "category": "geography",
+    "subcategory": "bridges"
+  },
+  {
+    "question": "Which Cambridge Bridge Was Put Together In The 18th Century Without The Use Of A Nail?",
+    "optionA": "Bridge of Sighs (St John's College)",
+    "optionB": "Magdalene Bridge",
+    "optionC": "Mathematical Bridge (Queens' College)",
+    "optionD": "Trinity Bridge",
+    "answer": "Mathematical Bridge (Queens' College)",
+    "category": "geography",
+    "subcategory": "bridges"
+  },
+  {
+    "question": "Which Canadian province extends farthest north?",
+    "optionA": "Ontario",
+    "optionB": "Manitoba",
+    "optionC": "Quebec",
+    "optionD": "Yukon",
+    "answer": "Quebec",
+    "category": "geography",
+    "subcategory": "provinces"
+  },
+  {
+    "question": "Which Capital City Might You Associate With A Statue Of A Mermaid?",
+    "optionA": "Copenhagen",
+    "optionB": "Stockholm",
+    "optionC": "Helsinki",
+    "optionD": "Oslo",
+    "answer": "Copenhagen",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "Which capital city stands on the Potomac River?",
+    "optionA": "Washington D.C.",
+    "optionB": "Annapolis",
+    "optionC": "Richmond",
+    "optionD": "Baltimore",
+    "answer": "Washington D.C.",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "Which capital is known as the Glass Capital of the World?",
+    "optionA": "Venice",
+    "optionB": "Murano",
+    "optionC": "Toledo",
+    "optionD": "Prague",
+    "answer": "Toledo",
+    "category": "geography",
+    "subcategory": "capital-cities"
+  },
+  {
+    "question": "Which Canadian province extends farthest north?",
+    "optionA": "Ontario",
+    "optionB": "Manitoba",
+    "optionC": "Quebec",
+    "optionD": "Yukon",
+    "answer": "Quebec",
+    "category": "geography",
+    "subcategory": "provinces"
+  },
+  {
+    "question": "Which country administers Christmas Island?",
+    "optionA": "Australia",
+    "optionB": "Indonesia",
+    "optionC": "Malaysia",
+    "optionD": "Papua New Guinea",
+    "answer": "Australia",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "Which country administers Martinique?",
+    "optionA": "Spain",
+    "optionB": "France",
+    "optionC": "United Kingdom",
+    "optionD": "Netherlands",
+    "answer": "France",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "Which country administers South Georgia, a last stop before Antarctica?",
+    "optionA": "Argentina",
+    "optionB": "Chile",
+    "optionC": "Great Britain",
+    "optionD": "Norway",
+    "answer": "Great Britain",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "Which country altered its timezone in order to be the first to see in the year 2000?",
+    "optionA": "Fiji",
+    "optionB": "Samoa",
+    "optionC": "Tonga",
+    "optionD": "Vanuatu",
+    "answer": "Tonga",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "Which country at the southern tip of the Arabian Peninsula was previously known as Aden?",
+    "optionA": "Saudi Arabia",
+    "optionB": "Yemen",
+    "optionC": "Oman",
+    "optionD": "United Arab Emirates",
+    "answer": "Yemen",
+    "category": "geography",
+    "subcategory": "countries"
+  },
+  {
+    "question": "Which Country Boasts The Most Goats In The World?",
+    "optionA": "India",
+    "optionB": "China",
+    "optionC": "Brazil",
+    "optionD": "Nigeria",
+    "answer": "India",
+    "category": "geography",
+    "subcategory": "animal-population"
+  },
+  {
+    "question": "Which country developed 'Tae-Kwan-Do'?",
+    "optionA": "South Korea",
+    "optionB": "North Korea",
+    "optionC": "Japan",
+    "optionD": "China",
+    "answer": "South Korea",
+    "category": "geography",
+    "subcategory": "martial-arts"
+  },
+  {
+    "question": "Which country has a flag of a red circle on a white background?",
+    "optionA": "Japan",
+    "optionB": "Canada",
+    "optionC": "Switzerland",
+    "optionD": "Poland",
+    "answer": "Japan",
+    "category": "geography",
+    "subcategory": "flags"
+  },
+  {
+    "question": "Which Country Has Borders With France, Germany, Austria, Liechtenstein & Italy?",
+    "optionA": "Switzerland",
+    "optionB": "Belgium",
+    "optionC": "Luxembourg",
+    "optionD": "Netherlands",
+    "answer": "Switzerland",
+    "category": "geography",
+    "subcategory": "bordering-countries"
+  },
+  {
+    "question": "Which country has taken its name from a line of latitude?",
+    "optionA": "Ecuador",
+    "optionB": "Venezuela",
+    "optionC": "Colombia",
+    "optionD": "Peru",
+    "answer": "Ecuador",
+    "category": "geography",
+    "subcategory": "country-names"
+  },
+  {
+    "question": "Which Country Has The Longest Coastline?",
+    "optionA": "Canada",
+    "optionB": "Australia",
+    "optionC": "Russia",
+    "optionD": "Chile",
+    "answer": "Canada",
+    "category": "geography",
+    "subcategory": "coastline"
+  },
+  {
+    "question": "Which Country Has The longest Individual Railway?",
+    "optionA": "Canada",
+    "optionB": "Russia",
+    "optionC": "China",
+    "optionD": "India",
+    "answer": "Canada",
+    "category": "geography",
+    "subcategory": "railway"
+  },
+  {
+    "question": "Which country has the longest land border?",
+    "optionA": "China",
+    "optionB": "Russia",
+    "optionC": "Canada",
+    "optionD": "Brazil",
+    "answer": "China",
+    "category": "geography",
+    "subcategory": "land-border"
+  },
+  {
+    "question": "Which Country Has The Most Countries Bordering It?",
+    "optionA": "China",
+    "optionB": "Russia",
+    "optionC": "Brazil",
+    "optionD": "India",
+    "answer": "China",
+    "category": "geography",
+    "subcategory": "bordering-countries"
+  },
+  {
+    "question": "Which country is also known as Suomi?",
+    "optionA": "Sweden",
+    "optionB": "Norway",
+    "optionC": "Iceland",
+    "optionD": "Finland",
+    "answer": "Finland",
+    "category": "geography",
+    "subcategory": "country-names"
+  },
+  {
+    "question": "Which country is known as the roof of the world?",
+    "optionA": "Nepal",
+    "optionB": "India",
+    "optionC": "Tibet",
+    "optionD": "Bhutan",
+    "answer": "Tibet",
+    "category": "geography",
+    "subcategory": "nicknames"
+  },
+  {
+    "question": "Which country is the smallest population?",
+    "optionA": "Liechtenstein",
+    "optionB": "Monaco",
+    "optionC": "San Marino",
+    "optionD": "Vatican City",
+    "answer": "Vatican City",
+    "category": "geography",
+    "subcategory": "population"
+  },
+  {
+    "question": "Which Country Is The Worlds Leading Exporter Of Salmon?",
+    "optionA": "Norway",
+    "optionB": "Canada",
+    "optionC": "Chile",
+    "optionD": "Japan",
+    "answer": "Norway",
+    "category": "geography",
+    "subcategory": "exports"
+  },
+  {
+    "question": "Which Country Left The Commonwealth In 1972?",
+    "optionA": "Pakistan",
+    "optionB": "Bangladesh",
+    "optionC": "Jamaica",
+    "optionD": "Sri Lanka",
+    "answer": "Pakistan",
+    "category": "geography",
+    "subcategory": "commonwealth"
+  },
+  {
+    "question": "Which country occupies the 'horn' of Africa?",
+    "optionA": "Kenya",
+    "optionB": "Sudan",
+    "optionC": "Ethiopia",
+    "optionD": "Somalia",
+    "answer": "Somalia",
+    "category": "geography",
+    "subcategory": "regions"
+  },
+  {
+    "question": "Which country owns Corfu?",
+    "optionA": "Italy",
+    "optionB": "Greece",
+    "optionC": "Turkey",
+    "optionD": "Spain",
+    "answer": "Greece",
+    "category": "geography",
+    "subcategory": "islands"
+  },
+  {
+    "question": "Which Country Sent The Most Explorers To Africa?",
+    "optionA": "Spain",
+    "optionB": "Portugal",
+    "optionC": "Netherlands",
+    "optionD": "Scotland",
+    "answer": "Scotland",
+    "category": "geography",
+    "subcategory": "explorers"
+  },
+  {
+    "question": "Which country uses a Lek as a unit of currency?",
+    "optionA": "Albania",
+    "optionB": "Kosovo",
+    "optionC": "Macedonia",
+    "optionD": "Montenegro",
+    "answer": "Albania",
+    "category": "geography",
+    "subcategory": "currency"
+  },
+  {
+    "question": "Which country uses the 'yen' for currency?",
+    "optionA": "South Korea",
+    "optionB": "Japan",
+    "optionC": "China",
+    "optionD": "Vietnam",
+    "answer": "Japan",
+    "category": "geography",
+    "subcategory": "currency"
+  },
+  {
+    "question": "Which country was previously called Abyssinia?",
+    "optionA": "Eritrea",
+    "optionB": "Djibouti",
+    "optionC": "Ethiopia",
+    "optionD": "Somalia",
+    "answer": "Ethiopia",
+    "category": "geography",
+    "subcategory": "country-names"
+  },
+  {
+    "question": "Which country would come first in an alphabetical list of countries?",
+    "optionA": "Afghanistan",
+    "optionB": "Albania",
+    "optionC": "Algeria",
+    "optionD": "Andorra",
+    "answer": "Afghanistan",
+    "category": "geography",
+    "subcategory": "alphabetical-order"
   }
 ]
