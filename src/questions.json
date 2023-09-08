@@ -9108,15 +9108,6 @@
     "category": "geography"
   },
   {
-    "question": "What are drumlins and eskers formed by?",
-    "optionA": "Rivers",
-    "optionB": "Wind",
-    "optionC": "Ice",
-    "optionD": "Glaciers",
-    "answer": "Glaciers",
-    "category": "geography"
-  },
-  {
     "question": "Which film holds the record for the most Academy Awards won by a single film?",
     "optionA": "Ben-Hur",
     "optionB": "Titanic",
@@ -9218,7 +9209,7 @@
   },
   {
     "question": "How many Academy Awards did Katharine Hepburn win for Best Actress?",
-    "optionA": "One",
+    "optionA": "Six",
     "optionB": "Two",
     "optionC": "Three",
     "optionD": "Four",
@@ -9228,7 +9219,7 @@
   },
   {
     "question": "How many Academy Awards did John Ford win for Directing?",
-    "optionA": "One",
+    "optionA": "Six",
     "optionB": "Two",
     "optionC": "Three",
     "optionD": "Four",
@@ -9239,9 +9230,9 @@
   {
     "question": "How many Academy Awards did Woody Allen win for Best Original Screenplay?",
     "optionA": "One",
-    "optionB": "Two",
+    "optionB": "Five",
     "optionC": "Three",
-    "optionD": "Four",
+    "optionD": "Eleven",
     "answer": "Three",
     "category": "movies",
     "subcategory": "oscars"
@@ -9258,7 +9249,7 @@
   },
   {
     "question": "How many Academy Awards did Paddy Chayefsky win for Best Adapted and Original Screenplay?",
-    "optionA": "One",
+    "optionA": "Zero",
     "optionB": "Two",
     "optionC": "Three",
     "optionD": "Four",
@@ -9349,19 +9340,19 @@
   {
     "question": "How many Academy Awards did Alfred Newman win for Film Music Composition and Songwriting?",
     "optionA": "One",
-    "optionB": "Two",
-    "optionC": "Three",
-    "optionD": "Four",
+    "optionB": "Three",
+    "optionC": "Six",
+    "optionD": "Nine",
     "answer": "Nine",
     "category": "movies",
     "subcategory": "oscars"
   },
   {
     "question": "How many Academy Awards did Alan Menken win for Film Music Composition and Songwriting?",
-    "optionA": "One",
+    "optionA": "Zero",
     "optionB": "Two",
-    "optionC": "Three",
-    "optionD": "Four",
+    "optionC": "Four",
+    "optionD": "Eight",
     "answer": "Eight",
     "category": "movies",
     "subcategory": "oscars"
@@ -9370,8 +9361,8 @@
     "question": "How many Academy Awards did John Williams win for Film Music Composition and Songwriting?",
     "optionA": "One",
     "optionB": "Two",
-    "optionC": "Three",
-    "optionD": "Four",
+    "optionC": "Five",
+    "optionD": "Nine",
     "answer": "Five",
     "category": "movies",
     "subcategory": "oscars"
@@ -9409,19 +9400,19 @@
   {
     "question": "How many Academy Awards did Cedric Gibbons win for Art Direction?",
     "optionA": "One",
-    "optionB": "Two",
-    "optionC": "Three",
-    "optionD": "Four",
+    "optionB": "Five",
+    "optionC": "Nine",
+    "optionD": "Eleven",
     "answer": "Eleven",
     "category": "movies",
     "subcategory": "oscars"
   },
   {
     "question": "How many Academy Awards did Edith Head win for Costume Design?",
-    "optionA": "One",
+    "optionA": "Zero",
     "optionB": "Two",
-    "optionC": "Three",
-    "optionD": "Four",
+    "optionC": "Six",
+    "optionD": "Eight",
     "answer": "Eight",
     "category": "movies",
     "subcategory": "oscars"
@@ -9430,8 +9421,8 @@
     "question": "How many Academy Awards did Rick Baker win for Makeup?",
     "optionA": "One",
     "optionB": "Two",
-    "optionC": "Three",
-    "optionD": "Four",
+    "optionC": "Five",
+    "optionD": "Seven",
     "answer": "Seven",
     "category": "movies",
     "subcategory": "oscars"
@@ -9440,7 +9431,7 @@
     "question": "How many Academy Awards did Dennis Muren win for Visual Effects?",
     "optionA": "One",
     "optionB": "Two",
-    "optionC": "Three",
+    "optionC": "Eight",
     "optionD": "Four",
     "answer": "Eight",
     "category": "movies",
