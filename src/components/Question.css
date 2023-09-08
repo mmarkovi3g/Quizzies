@@ -132,3 +132,43 @@
   position: relative;
   top: 1px;
 }
+
+/* SHOW ANSWERS CSS */
+
+.answers-container {
+  overflow: scroll;
+  background-color: #019ad2;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+}
+.answers-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  background-color: white;
+  padding: 0.5rem;
+  width: 90%;
+}
+.answers-question {
+  color: blue;
+  padding: 0px;
+  line-height: 1px;
+}
+.answers-youranswer {
+  color: red;
+  padding: 0px;
+  line-height: 1px;
+}
+.answers-correctanswer {
+  color: green;
+  padding: 0px;
+  line-height: 1px;
+}
+
+.your-and-correct-container {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}

@@ -30,6 +30,9 @@ export default function Question({
   // adding new array of wrong answers
   const [answersAndQ, setAnswersAndQ] = useState([]);
 
+  // adding switch for showing answers at the end
+  const [showAnswers, setShowAnswers] = useState(false);
+
   //next question handler
   function nextHandler(event) {
     event.preventDefault();
@@ -61,9 +64,14 @@ export default function Question({
     setStarted(false);
   }
 
+  // showing answes switch function
+  function showAnswersHandler() {
+    setShowAnswers(true);
+  }
+
   return (
     <div>
-      {finished ? (
+      {finished && !showAnswers && (
         <div className="question-completed">
           <h2>Quizzie completed</h2>
           <p>
@@ -71,6 +79,77 @@ export default function Question({
           </p>
           <button className="new-game" onClick={newGame}>
             Start new Quizzie
+          </button>
+          <button className="new-game" onClick={showAnswersHandler}>
+            Show answers
+          </button>
+        </div>
+      )}
+      {finished && showAnswers && (
+        <div className="question-completed">
+          <h2>Answers: </h2>
+
+          <div className="answers">
+            {answersAndQ.map((item) => (
+              <Answers
+                className="answers-container"
+                question={item.question}
+                youselected={item.youselected}
+                correctanswer={item.correctanswer}
+              />
+            ))}
+          </div>
+
+          <button className="new-game" onClick={newGame}>
+            Start new Quizzie
+          </button>
+        </div>
+      )}
+      {!finished && !showAnswers && (
+        <div className="question">
+          <div className="header">
+            <img
+              className="category-img"
+              src={`../media/img/${question.category}.png`}
+              alt="category"
+            />
+            <p className="question_number">
+              <span>{index + 1}</span>/{randomArray.length}
+            </p>
+          </div>
+
+          <div className="header">
+            <div className="text">{question.question}</div>
+          </div>
+          <div className="answers">
+            <ul>
+              <button onClick={nextHandler} value={question.optionA}>
+                {question.optionA}
+              </button>
+              <button onClick={nextHandler} value={question.optionB}>
+                {question.optionB}
+              </button>
+              <button onClick={nextHandler} value={question.optionC}>
+                {question.optionC}
+              </button>
+              <button onClick={nextHandler} value={question.optionD}>
+                {question.optionD}
+              </button>
+            </ul>
+          </div>
+        </div>
+      )}
+      {/* {finished ? (
+        <div className="question-completed">
+          <h2>Quizzie completed</h2>
+          <p>
+            You answered correctly {score} of {numOfQuestions} questions
+          </p>
+          <button className="new-game" onClick={newGame}>
+            Start new Quizzie
+          </button>
+          <button className="new-game" onClick={showAnswersHandler}>
+            Show answers
           </button>
         </div>
       ) : (
@@ -106,7 +185,19 @@ export default function Question({
             </ul>
           </div>
         </div>
-      )}
+      )} */}
+    </div>
+  );
+}
+
+function Answers({ question, youselected, correctanswer }) {
+  return (
+    <div className="answers-item">
+      <p className="answers-question">Question: {question}</p>
+      <div className="your-and-correct-container">
+        <p className="answers-youranswer">Your answer: {youselected}</p>
+        <p className="answers-correctanswer">Correct answer: {correctanswer}</p>
+      </div>
     </div>
   );
 }
