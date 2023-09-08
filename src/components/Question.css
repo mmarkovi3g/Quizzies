@@ -16,7 +16,7 @@
 }
 
 .question-completed h2 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 300;
 }
 
@@ -124,6 +124,7 @@
   text-decoration: none;
   text-shadow: 0px -1px 0px #5b6178;
   width: 6rem;
+  margin: 0.5rem auto;
 }
 .navigation button:hover {
   background-color: #019ad2;
@@ -159,6 +160,7 @@
   margin: 1px;
   text-align: left;
   width: 90%;
+  font-size: 0.9rem;
 }
 .answers-youranswer {
   color: red;

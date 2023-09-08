@@ -192,7 +192,7 @@ export default function Question({
 function Answers({ question, youselected, correctanswer }) {
   return (
     <div className="answers-item">
-      <p className="answers-question">Question: {question}</p>
+      <p className="answers-question">Q: {question}</p>
       <div className="your-and-correct-container">
         <p className="answers-youranswer"> ❌ Your answer: {youselected}</p>
         <p className="answers-correctanswer">
