@@ -89,10 +89,9 @@ export default function Question({
         <div className="question-completed">
           <h2>Answers: </h2>
 
-          <div className="answers">
+          <div className="answers-container">
             {answersAndQ.map((item) => (
               <Answers
-                className="answers-container"
                 question={item.question}
                 youselected={item.youselected}
                 correctanswer={item.correctanswer}
@@ -195,8 +194,10 @@ function Answers({ question, youselected, correctanswer }) {
     <div className="answers-item">
       <p className="answers-question">Question: {question}</p>
       <div className="your-and-correct-container">
-        <p className="answers-youranswer">Your answer: {youselected}</p>
-        <p className="answers-correctanswer">Correct answer: {correctanswer}</p>
+        <p className="answers-youranswer"> ❌ Your answer: {youselected}</p>
+        <p className="answers-correctanswer">
+          ✔️ Correct answer: {correctanswer}
+        </p>
       </div>
     </div>
   );
