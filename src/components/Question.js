@@ -95,6 +95,7 @@ export default function Question({
                 question={item.question}
                 youselected={item.youselected}
                 correctanswer={item.correctanswer}
+                key={item.question}
               />
             ))}
           </div>
