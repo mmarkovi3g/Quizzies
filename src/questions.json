@@ -19106,5 +19106,295 @@
     "answer": "Ben-Hur",
     "category": "movies",
     "subcategory": "oscars"
+  },
+  {
+    "question": "Which actor played the role of Maverick, a talented and cocky fighter pilot with a need for speed, in the movie 'Top Gun' (1986)?",
+    "optionA": "Tom Cruise",
+    "optionB": "Val Kilmer",
+    "optionC": "Anthony Edwards",
+    "optionD": "Michael Ironside",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Joel Goodsen, a high school student who turns his home into a brothel while his parents are away, in the movie 'Risky Business' (1983)?",
+    "optionA": "Tom Cruise",
+    "optionB": "Rebecca De Mornay",
+    "optionC": "Curtis Armstrong",
+    "optionD": "Bronson Pinchot",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Charlie Babbitt, a self-centered car dealer who discovers his autistic brother's existence and embarks on a cross-country journey with him, in the movie 'Rain Man' (1988)?",
+    "optionA": "Tom Cruise",
+    "optionB": "Dustin Hoffman",
+    "optionC": "Valeria Golino",
+    "optionD": "Gerald R. Molen",
+    "answer": "Dustin Hoffman",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Ron Kovic, a paralyzed Vietnam War veteran who becomes an anti-war activist, in the movie 'Born on the Fourth of July' (1989)?",
+    "optionA": "Tom Cruise",
+    "optionB": "Raymond J. Barry",
+    "optionC": "Caroline Kava",
+    "optionD": "Josh Evans",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Ethan Hunt, a skilled and resourceful secret agent who takes on high-stakes covert missions, in the 'Mission: Impossible' series?",
+    "optionA": "Tom Cruise",
+    "optionB": "Ving Rhames",
+    "optionC": "Jeremy Renner",
+    "optionD": "Simon Pegg",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Jerry Maguire, a sports agent who experiences a moral crisis and starts his own agency, in the movie 'Jerry Maguire' (1996)?",
+    "optionA": "Tom Cruise",
+    "optionB": "Cuba Gooding Jr.",
+    "optionC": "Renée Zellweger",
+    "optionD": "Kelly Preston",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Lt. Daniel Kaffee, a military lawyer defending two Marines accused of murder at Guantanamo Bay, in the movie 'A Few Good Men' (1992)?",
+    "optionA": "Tom Cruise",
+    "optionB": "Jack Nicholson",
+    "optionC": "Demi Moore",
+    "optionD": "Kevin Bacon",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Vincent, a hitman who forces a taxi driver into being his unwilling accomplice, in the movie 'Collateral' (2004)?",
+    "optionA": "Tom Cruise",
+    "optionB": "Jamie Foxx",
+    "optionC": "Jada Pinkett Smith",
+    "optionD": "Mark Ruffalo",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Frank T.J. Mackey, a charismatic motivational speaker who conducts controversial seminars, in the movie 'Magnolia' (1999)?",
+    "optionA": "Tom Cruise",
+    "optionB": "Philip Seymour Hoffman",
+    "optionC": "Julianne Moore",
+    "optionD": "William H. Macy",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Nathan Algren, a disillusioned Civil War veteran who becomes a mentor to Japanese samurai, in the movie 'The Last Samurai' (2003)?",
+    "optionA": "Tom Cruise",
+    "optionB": "Ken Watanabe",
+    "optionC": "Billy Connolly",
+    "optionD": "Tony Goldwyn",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Roy Miller, a charming secret agent on the run with a woman he's protecting, in the movie 'Knight and Day' (2010)?",
+    "optionA": "Tom Cruise",
+    "optionB": "Cameron Diaz",
+    "optionC": "Peter Sarsgaard",
+    "optionD": "Viola Davis",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Barry Seal, a pilot who becomes involved in drug trafficking and covert operations, in the movie 'American Made' (2017)?",
+    "optionA": "Tom Cruise",
+    "optionB": "Domhnall Gleeson",
+    "optionC": "Sarah Wright",
+    "optionD": "Jesse Plemons",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of John Anderton, a law enforcement officer in a futuristic society who is accused of a future crime, in the movie 'Minority Report' (2002)?",
+    "optionA": "Tom Cruise",
+    "optionB": "Colin Farrell",
+    "optionC": "Samantha Morton",
+    "optionD": "Max von Sydow",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Dr. Bill Harford, a wealthy doctor who becomes embroiled in a mysterious and surreal sexual odyssey, in the movie 'Eyes Wide Shut' (1999)?",
+    "optionA": "Tom Cruise",
+    "optionB": "Nicole Kidman",
+    "optionC": "Sydney Pollack",
+    "optionD": "Marie Richardson",
+    "answer": "Tom Cruise",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Neo, a computer hacker who becomes the legendary savior of humanity against sentient machines, in 'The Matrix' series?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Hugo Weaving",
+    "optionC": "Laurence Fishburne",
+    "optionD": "Carrie-Anne Moss",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of John Wick, a retired hitman seeking vengeance against those who wronged him, in the 'John Wick' series?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Ian McShane",
+    "optionC": "Willem Dafoe",
+    "optionD": "Lance Reddick",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Ted Theodore Logan, a laid-back high school student who travels through time with his friend, in 'Bill & Ted's Excellent Adventure' (1989)?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Alex Winter",
+    "optionC": "George Carlin",
+    "optionD": "William Sadler",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Jack Traven, a cop who must prevent a bomb from exploding on a city bus, in the movie 'Speed' (1994)?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Dennis Hopper",
+    "optionC": "Sandra Bullock",
+    "optionD": "Jeff Daniels",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Johnny Utah, an FBI agent who infiltrates a gang of adrenaline-seeking bank robbers, in the movie 'Point Break' (1991)?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Patrick Swayze",
+    "optionC": "Gary Busey",
+    "optionD": "Lori Petty",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of John Constantine, a cynical occult detective and exorcist battling supernatural forces, in the movie 'Constantine' (2005)?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Rachel Weisz",
+    "optionC": "Tilda Swinton",
+    "optionD": "Shia LaBeouf",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Kevin Lomax, a young and ambitious attorney who becomes entangled with a sinister law firm, in the movie 'The Devil's Advocate' (1997)?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Al Pacino",
+    "optionC": "Charlize Theron",
+    "optionD": "Jeffrey Jones",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Scott Favor, a young hustler traveling with his best friend in search of his estranged family, in the movie 'My Own Private Idaho' (1991)?",
+    "optionA": "Keanu Reeves",
+    "optionB": "River Phoenix",
+    "optionC": "James Russo",
+    "optionD": "William Richert",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Thomas Anderson (aka Neo), a seemingly ordinary computer programmer who discovers the truth about reality, in 'The Matrix' series?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Hugo Weaving",
+    "optionC": "Laurence Fishburne",
+    "optionD": "Carrie-Anne Moss",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Klaatu, an alien visitor who warns humanity about the consequences of their actions, in the movie 'The Day the Earth Stood Still' (2008)?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Jennifer Connelly",
+    "optionC": "Jaden Smith",
+    "optionD": "Kathy Bates",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Don John, a malicious and deceitful character in Shakespeare's comedy 'Much Ado About Nothing' (1993)?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Kenneth Branagh",
+    "optionC": "Emma Thompson",
+    "optionD": "Denzel Washington",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor reprised the role of John Constantine in 'Constantine: City of Demons' (2018), a continuation of the character's story in an animated series?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Matt Ryan",
+    "optionC": "Tilda Swinton",
+    "optionD": "Harold Perrineau",
+    "answer": "Matt Ryan",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Alex Wyler, a lonely architect who communicates with a woman living in the same house but in a different time, in the movie 'The Lake House' (2006)?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Sandra Bullock",
+    "optionC": "Christopher Plummer",
+    "optionD": "Shohreh Aghdashloo",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Shane Falco, a washed-up quarterback who leads a team of misfit replacement players during a football strike, in the movie 'The Replacements' (2000)?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Gene Hackman",
+    "optionC": "Orlando Jones",
+    "optionD": "Brooke Langton",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
+  },
+  {
+    "question": "Which actor played the role of Johnny Mnemonic, a data courier with an implant in his brain who transports sensitive information, in the movie 'Johnny Mnemonic' (1995)?",
+    "optionA": "Keanu Reeves",
+    "optionB": "Dolph Lundgren",
+    "optionC": "Ice-T",
+    "optionD": "Henry Rollins",
+    "answer": "Keanu Reeves",
+    "category": "movies",
+    "subcategory": "actors"
   }
 ]
