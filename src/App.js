@@ -23,7 +23,7 @@ function App() {
     movies: questions.filter((question) => question.category === "movies"),
   };
 
-  // just a piece of code to check number of questions
+  // check number of questions
   /*   console.log(questions.length); */
 
   // state for filtered questions passed to form component so i can handle changes directly - set to full JSON file on default
@@ -34,7 +34,6 @@ function App() {
   const [numOfQuestions, setNumOfQuestions] = useState(10);
 
   // initial list of random numbers - if there is not any choosen category
-  // this one could have repetitions - maybe i should change it
   const initialList = [];
   while (initialList.length < Number(numOfQuestions)) {
     const randomIndex = Math.floor(Math.random() * questions.length - 1);
