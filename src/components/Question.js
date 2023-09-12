@@ -90,14 +90,18 @@ export default function Question({
           <h2>Answers: </h2>
 
           <div className="answers-container">
-            {answersAndQ.map((item) => (
-              <Answers
-                question={item.question}
-                youselected={item.youselected}
-                correctanswer={item.correctanswer}
-                key={item.question}
-              />
-            ))}
+            {answersAndQ.length > 0 ? (
+              answersAndQ.map((item) => (
+                <Answers
+                  question={item.question}
+                  youselected={item.youselected}
+                  correctanswer={item.correctanswer}
+                  key={item.question}
+                />
+              ))
+            ) : (
+              <h2>You got it all!</h2>
+            )}
           </div>
 
           <button className="new-game" onClick={newGame}>
