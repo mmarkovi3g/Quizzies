@@ -72,18 +72,12 @@ export default function Question({
   return (
     <div>
       {finished && !showAnswers && (
-        <div className="question-completed">
-          <h2>Quizzie completed</h2>
-          <p>
-            You answered correctly {score} of {numOfQuestions} questions
-          </p>
-          <button className="new-game" onClick={newGame}>
-            Start new Quizzie
-          </button>
-          <button className="new-game" onClick={showAnswersHandler}>
-            Show answers
-          </button>
-        </div>
+        <Finished
+          score={score}
+          numOfQuestions={numOfQuestions}
+          newGame={newGame}
+          showAnswersHandler={showAnswersHandler}
+        />
       )}
       {finished && showAnswers && (
         <div className="question-completed">
@@ -204,6 +198,23 @@ function Answers({ question, youselected, correctanswer }) {
           ✔️ Correct answer: {correctanswer}
         </p>
       </div>
+    </div>
+  );
+}
+
+function Finished({ score, numOfQuestions, newGame, showAnswersHandler }) {
+  return (
+    <div className="question-completed">
+      <h2>Quizzie completed</h2>
+      <p>
+        You answered correctly {score} of {numOfQuestions} questions
+      </p>
+      <button className="new-game" onClick={newGame}>
+        Start new Quizzie
+      </button>
+      <button className="new-game" onClick={showAnswersHandler}>
+        Show answers
+      </button>
     </div>
   );
 }
