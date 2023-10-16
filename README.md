@@ -1,6 +1,9 @@
 #Quizzies app
 
-**_ STOPED WORKING ON THIS DUE TO PERSONAL OBLIGATIONS AND LOTS OF WORK LATELY - WILL CONTINUE SOON _**
+Important:
+I am working on this project independently - which means without using Google, Chat GPT, YouTube videos, and the like. While learning React.js through Jonas Schmedtmann's course, I have learned to use it on my own and implement it in the project. Most of the other projects I have on my GITHUB account are primarily from courses where I followed a "watch and write" approach. This is my independent project for which I do not seek help on the internet but strive to be creative and design different parts of the application by breaking down problems into smaller components and challenges.
+
+> STOPED WORKING ON THIS DUE TO PERSONAL OBLIGATIONS AND LOTS OF WORK LATELY - WILL CONTINUE SOON <
 
 During the process of learning front-end technology (React), I decided to create my own quiz application. The main idea was to develop a small application while learning React in order to practice the concepts I'm studying. However, the idea started to evolve, and with each new lesson, new ideas come along. As a result, this initially simple project gradually transforms into a more serious endeavor.
 
