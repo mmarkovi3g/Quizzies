@@ -1,7 +1,7 @@
 #Quizzies app
 
-Important:
-I am working on this project independently from internet - which means without using Google, Chat GPT, YouTube videos, and the like. While learning React.js through Jonas Schmedtmann's course, I have learned to use it on my own and implement it in the project. Most of the other projects I have on my GitHub account are primarily from courses where I followed a "watch and write" approach. This is my independent project for which I do not seek help on the internet but strive to be creative and design different parts of the application by breaking down problems into smaller components and challenges.
+<b> Important: <br>
+I am working on this project independently from internet - which means without using Google, Chat GPT, YouTube videos, and the like. While learning React.js through Jonas Schmedtmann's course, I have learned to use it on my own and implement it in the project. Most of the other projects I have on my GitHub account are primarily from courses where I followed a "watch and write" approach. This is my independent project for which I do not seek help on the internet but strive to be creative and design different parts of the application by breaking down problems into smaller components and challenges. </b>
 
 Steps in creation procces:
 
