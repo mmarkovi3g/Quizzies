@@ -5,22 +5,22 @@ I am working on this project independently from internet - which means without u
 
 Steps in creation procces:
 
-✔️ Import at least 30 quizzie questions a day (cca. 10 000 yearly)
-✔️ User inputs category and number of question - App generates random quizzie based on input values
-✔️ User plays the quizz and gets points
-Points are being added to general user score after each quizzie (need database for this)
-✔️ Add icon according to quizz category - done
-✔️ Store questions and correct answers into array / object and render them at the end of the quizzie
-✔️ Implement algorithm for filtering duplicate questions (i do this manually with some script)
-Optional - change collor scheme for diferent categories (sounds fun)
-Create visual identity for Quizzies website (logo, colors)
-✔️ Add more categories (added: Movies, ...)
-Add better algorithm for Quizzie creation (based on number of categories)
-✔️ Show wrong and correct answers at the end of the Quizzie
-⚠️ Refactor the code - it seems to me that it is too complicated right now
-⚠️ See if there is a way to lower number of props in each component
-✔️ Add button to start new Quizzie
-Add timer on Quizzie according to number of questions (at the end of timer end quizzie)
+✔️ Import at least 30 quizzie questions a day (cca. 10 000 yearly) <br>
+✔️ User inputs category and number of question - App generates random quizzie based on input values <br>
+✔️ User plays the quizz and gets points <br>
+Points are being added to general user score after each quizzie (need database for this) <br>
+✔️ Add icon according to quizz category - done <br>
+✔️ Store questions and correct answers into array / object and render them at the end of the quizzie <br>
+✔️ Implement algorithm for filtering duplicate questions (i do this manually with some script) <br>
+Optional - change collor scheme for diferent categories (sounds fun) <br>
+Create visual identity for Quizzies website (logo, colors) <br>
+✔️ Add more categories (added: Movies, ...) <br>
+Add better algorithm for Quizzie creation (based on number of categories) <br>
+✔️ Show wrong and correct answers at the end of the Quizzie <br>
+⚠️ Refactor the code - it seems to me that it is too complicated right now (break into smaller components, rewrite variables) <br>
+⚠️ See if there is a way to lower number of props in each component <br>
+✔️ Add button to start new Quizzie <br>
+Add timer on Quizzie according to number of questions (at the end of timer end quizzie) <br>
 
 Extra features:
 (need to learn backend, publish Quizzies and optionaly create native app)
