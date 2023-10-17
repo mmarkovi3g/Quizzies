@@ -104,86 +104,13 @@ export default function Question({
         </div>
       )}
       {!finished && !showAnswers && (
-        <div className="question">
-          <div className="header">
-            <img
-              className="category-img"
-              src={`../media/img/${question.category}.png`}
-              alt="category"
-            />
-            <p className="question_number">
-              <span>{index + 1}</span>/{randomArray.length}
-            </p>
-          </div>
-
-          <div className="header">
-            <div className="text">{question.question}</div>
-          </div>
-          <div className="answers">
-            <ul>
-              <button onClick={nextHandler} value={question.optionA}>
-                {question.optionA}
-              </button>
-              <button onClick={nextHandler} value={question.optionB}>
-                {question.optionB}
-              </button>
-              <button onClick={nextHandler} value={question.optionC}>
-                {question.optionC}
-              </button>
-              <button onClick={nextHandler} value={question.optionD}>
-                {question.optionD}
-              </button>
-            </ul>
-          </div>
-        </div>
+        <QuestionStarted
+          index={index}
+          randomArray={randomArray}
+          question={question}
+          nextHandler={nextHandler}
+        />
       )}
-      {/* {finished ? (
-        <div className="question-completed">
-          <h2>Quizzie completed</h2>
-          <p>
-            You answered correctly {score} of {numOfQuestions} questions
-          </p>
-          <button className="new-game" onClick={newGame}>
-            Start new Quizzie
-          </button>
-          <button className="new-game" onClick={showAnswersHandler}>
-            Show answers
-          </button>
-        </div>
-      ) : (
-        <div className="question">
-          <div className="header">
-            <img
-              className="category-img"
-              src={`../media/img/${question.category}.png`}
-              alt="category"
-            />
-            <p className="question_number">
-              <span>{index + 1}</span>/{randomArray.length}
-            </p>
-          </div>
-
-          <div className="header">
-            <div className="text">{question.question}</div>
-          </div>
-          <div className="answers">
-            <ul>
-              <button onClick={nextHandler} value={question.optionA}>
-                {question.optionA}
-              </button>
-              <button onClick={nextHandler} value={question.optionB}>
-                {question.optionB}
-              </button>
-              <button onClick={nextHandler} value={question.optionC}>
-                {question.optionC}
-              </button>
-              <button onClick={nextHandler} value={question.optionD}>
-                {question.optionD}
-              </button>
-            </ul>
-          </div>
-        </div>
-      )} */}
     </div>
   );
 }
@@ -215,6 +142,43 @@ function Finished({ score, numOfQuestions, newGame, showAnswersHandler }) {
       <button className="new-game" onClick={showAnswersHandler}>
         Show answers
       </button>
+    </div>
+  );
+}
+
+function QuestionStarted({ index, randomArray, question, nextHandler }) {
+  return (
+    <div className="question">
+      <div className="header">
+        <img
+          className="category-img"
+          src={`../media/img/${question.category}.png`}
+          alt="category"
+        />
+        <p className="question_number">
+          <span>{index + 1}</span>/{randomArray.length}
+        </p>
+      </div>
+
+      <div className="header">
+        <div className="text">{question.question}</div>
+      </div>
+      <div className="answers">
+        <ul>
+          <button onClick={nextHandler} value={question.optionA}>
+            {question.optionA}
+          </button>
+          <button onClick={nextHandler} value={question.optionB}>
+            {question.optionB}
+          </button>
+          <button onClick={nextHandler} value={question.optionC}>
+            {question.optionC}
+          </button>
+          <button onClick={nextHandler} value={question.optionD}>
+            {question.optionD}
+          </button>
+        </ul>
+      </div>
     </div>
   );
 }
