@@ -53,7 +53,7 @@ function App() {
 
   // handler function that takes object generated in form for quizz settings and questions generating
   function handleQuizzSettings(item) {
-    // here, order is important
+    // here, order of functions is important
     // create temporary number of questions acording to form input
     setNumOfQuestions(Number(item.chosenNumOfQuestions));
     /*  setCategory(item.chosenCategory); */
