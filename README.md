@@ -34,14 +34,15 @@ Legend: <br>
 Extra features: <br>
 (need to learn backend, publish Quizzies and optionaly create native app) <br>
 
-- Publish Quizzies after creating backend
-- User can create questions in app and send them to the server where it will be reviewed and added to the main list of question
-- ⚠️ Improve on algorythm for generating random questions - reduce repeated question on user expirience
-- Enhace user expirience by creating quizz scores according to categories:
-  - eg. separate score in every category to show progress an achievements
-  - profile page with badges, scores etc.
-- User can login and the score can be saved with login data (need server and backend knowledge for this)
-- Achievements - user gets achievements based on activity
-- Create multiple types of questions (eg. with images, right or wrong)
-- Add wikipedia reference on certain topics after the quizz have been completed (maybe based on incorect questions)
-- Mobile version with React native - Android
+❓ Publish Quizzies after creating backend
+❓ User can create questions in app and send them to the server where it will be reviewed and added to the main list of question
+⚠️ Improve on algorythm for generating random questions - reduce repeated question on user expirience
+❓Enhace user expirience by creating quizz scores according to categories:
+
+- eg. separate score in every category to show progress an achievements
+- profile page with badges, scores etc.
+  ❓User can login and the score can be saved with login data (need server and backend knowledge for this)
+  ❓Achievements - user gets achievements based on activity
+  ❓Create multiple types of questions (eg. with images, right or wrong)
+  ❓Add wikipedia reference on certain topics after the quizz have been completed (maybe based on incorect questions)
+  ❓Mobile version with React native - Android
