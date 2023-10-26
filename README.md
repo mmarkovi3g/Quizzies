@@ -59,6 +59,7 @@ I hope to have the application ready by March 2024. <br>
 ❓ User can review existing questions and rate easy / medium / hard questions <br>
 ⚠️ Improve on algorythm for generating random questions - reduce repeated question on user expirience <br>
 ❓Enhace user expirience by creating quizz scores / profile sites / badges according to categories <br>
+❓Do not repeat questions use answered correctly <br>
 ❓User can login and the score can be saved with login data (need server and backend knowledge for this) <br>
 ❓Achievements - user gets achievements based on activity <br>
 ❓Create multiple types of questions (eg. with images, right or wrong) <br>
