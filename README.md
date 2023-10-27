@@ -39,7 +39,7 @@ I hope to have the application ready by March 2024. <br>
 ✔️ User plays the quizz and gets points for correct answers <br>
 ✔️ Added icon according to quizz category <br>
 ✔️ Store questions and correct answers into array / object and render results at the end of Quizzie <br>
-✔️ Implement algorithm for filtering duplicate questions (i do this manually with some script) <br>
+✔️ Implement algorithm for filtering duplicate questions (separate file) <br>
 ⚠️ Optional - change color scheme for diferent categories (sounds fun) <br>
 ⚠️ Create visual identity for Quizzies website (logo, colors) <br>
 ⚠️ Recreate entire CSS by using better aproach (this should be done after completing all logic in app) <br>
